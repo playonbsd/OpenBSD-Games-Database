@@ -15,20 +15,20 @@ At this point, the primary database is a text file `openbsd-games.db`. See below
 * TABS are currently MANDATORY where listed below!!
 * Entries are ordered alphabetically (by `Game<TAB>Name`)
 * Currently **14** lines per entry, **in the following order**:
-** Game
-** Cover
-** Engine
-** Setup
-** Runtime
-** Store
-** Hints
-** Genre
-** Tags
-** Year
-** Dev
-** Pub
-** Version
-** Status
+1. Game
+2. Cover
+3. Engine
+4. Setup
+5. Runtime
+6. Store
+7. Hints
+8. Genre
+9. Tags
+10. Year
+11. Dev
+12. Pub
+13. Version
+14. Status
 
 ...
 
