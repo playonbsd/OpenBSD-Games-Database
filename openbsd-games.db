@@ -40,6 +40,20 @@ Dev
 Pub
 Version
 Status
+Game	Aeternum
+Cover
+Engine	XNA
+Setup
+Runtime	fnaify
+Store	https://store.steampowered.com/app/454750/Aeternum/ http://wastedbrilliance.com/games/aeternum/ https://brooksbishop.itch.io/aeternum
+Hints	needs libCSteamworks library
+Genre	shmup
+Tags	manga, bullethell, anime, indie
+Year	2017
+Dev	Creaky Lantern Games
+Pub	Creaky Lantern Games
+Version
+Status	runs (2021-11-27)
 Game	Airships: Conquer the Skies
 Cover	Airships_ConquerTheSkies_logo.jpg
 Engine	lwjgl
