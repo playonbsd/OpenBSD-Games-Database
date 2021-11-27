@@ -1,0 +1,3962 @@
+Game	AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
+Cover	AaaaaA_for_the_Awesome_Cover.jpg
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome
+Hints	Demo on HumbleBundle store page
+Genre
+Tags
+Year	2011
+Dev
+Pub
+Version
+Status
+Game	The Adventures of Shuggy
+Cover	Adventures_of_Shuggy_The_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/211440/Adventures_of_Shuggy/ https://www.gog.com/game/the_adventures_of_shuggy
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2012
+Dev	Smudged Cat Games
+Pub
+Version
+Status
+Game	Aedemphia
+Cover	aedemphia.png
+Engine	RPG Maker
+Setup
+Runtime	easyrpg
+Store	http://www.aedemphia-rpg.net/
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/g8o27l/aedemphia_works_in_openbsd_with_easyrpg_engine/ Reddit post
+Genre	RPG
+Tags	free
+Year
+Dev
+Pub
+Version
+Status
+Game	Airships: Conquer the Skies
+Cover	Airships_ConquerTheSkies_logo.jpg
+Engine	lwjgl
+Setup	lwjgl
+Runtime	lwjgl
+Store	https://www.gog.com/game/airships_conquer_the_skies https://zarkonnen.itch.io/airships
+Hints	copy liblwjgl64.so and libopenal.so* (as libopenal64.so) into java.library.path
+Genre	RTS
+Tags
+Year	2018
+Dev	David Stark
+Pub
+Version
+Status	works with some setup steps required
+Game	Akane the Kunoichi
+Cover	Akane_the_Kunoichi_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/291130/Akane_the_Kunoichi
+Hints
+Genre	Platformer
+Tags
+Year	2014
+Dev	Haruneko Entertainment
+Pub
+Version
+Status
+Game	Always Sometimes Monsters
+Cover	Always_Sometimes_Monsters.jpg
+Engine	NW.js
+Setup
+Runtime	HTML5
+Store	https://www.gog.com/game/always_sometimes_monsters https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/
+Hints	open index.html in www subdirectory (Linux version)
+Genre	RPG
+Tags
+Year	2014
+Dev
+Pub
+Version
+Status	manual setup needed
+Game	Amazing Princess Sarah
+Cover	Amazing_Princess_Sarah_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/315850/Amazing_Princess_Sarah/
+Hints
+Genre	Platformer
+Tags
+Year	2014
+Dev	Haruneko Entertainment
+Pub
+Version
+Status
+Game	Amnesia: The Dark Descent
+Cover
+Engine	amnesia-tdd
+Setup
+Runtime	amnesia-tdd
+Store	https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/ https://www.gog.com/game/amnesia_the_dark_descent
+Hints	see README for installation
+Genre	adventure, puzzle
+Tags	horror
+Year	2010
+Dev	Frictional Games
+Pub	Frictional Games
+Version
+Status	runs (2021-10-26)
+Game	Apotheon
+Cover	Apotheon_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/apotheon https://www.gog.com/game/apotheon
+Hints
+Genre	Platformer Brawler
+Tags
+Year	2015
+Dev	Alientrap Games
+Pub
+Version
+Status	works
+Game	Apple Jack 1&2
+Cover	Apple_Jack_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/351690/Apple_Jack_12/
+Hints
+Genre	Platformer
+Tags
+Year	2017
+Dev	My Owl Software
+Pub
+Version
+Status
+Game	Aquaria
+Cover	Aquaria_-_cover.jpg
+Engine
+Setup
+Runtime	AquariaOSE
+Store	https://www.gog.com/game/aquaria https://store.steampowered.com/app/24420/Aquaria/
+Hints
+Genre	Action
+Tags	indie
+Year	2007
+Dev	Bit Blot, LLC
+Pub
+Version
+Status	manual setup needed
+Game	Arx Fatalis
+Cover	Arx_Fatalis_Cover.jpg
+Engine
+Setup
+Runtime	arx-libertatis
+Store	https://www.gog.com/game/arx_fatalis https://store.steampowered.com/app/1700/Arx_Fatalis/
+Hints
+Genre	RPG
+Tags	first-person
+Year	2002
+Dev	Arkane Studios
+Pub	JoWood Productions
+Version
+Status
+Game	Atom Zombie Smasher
+Cover	AZS.jpg
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/55040/Atom_Zombie_Smasher/
+Hints	fnaify >= 3.0, fnaify-extralibs
+Genre	RTS
+Tags	zombies
+Year	2011
+Dev	Blendo Games
+Pub
+Version
+Status
+Game	The Average Everyday Adventures of Samantha Browne
+Cover	The_Average_Everyday_Adventures_of_Samantha_Browne_cover.jpg
+Engine	ren'py
+Setup	renpyify
+Runtime	ren'py
+Store	https://store.steampowered.com/app/445130/The_Average_Everyday_Adventures_of_Samantha_Browne/
+Hints	https://videos.pair2jeux.tube/videos/watch/f8a323da-29b0-4997-b2ea-af30d95cf058 Video https://www.reddit.com/r/openbsd_gaming/comments/hjctm2/the_average_everyday_adventures_of_samantha/ Reddit post
+Genre
+Tags
+Year	2016
+Dev
+Pub
+Version
+Status
+Game	Axiom Verge
+Cover	Axiom_Verge_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.epicgames.com/store/en-US/product/axiom-verge/home https://www.amazon.com/Axiom-Verge-Collectors-w-Steelbook-Pc/dp/B06ZYXYMFT https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=axiom+verge+collector&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=axiom+verge+gametrust
+Hints	saving not possible with Steam version
+Genre	Metroidvania
+Tags
+Year	2015
+Dev	Thomas Happ Games
+Pub
+Version
+Status	currently not working - mojoshader incompatibility
+Game	Baldur's Gate
+Cover	Baldurs_Gate_cover.jpg
+Engine	Infinity Engine
+Setup
+Runtime	gemrb
+Store	https://www.gog.com/game/baldurs_gate_enhanced_edition
+Hints	widescreen mod via weidu
+Genre	RPG
+Tags
+Year	1998
+Dev	BioWare
+Pub	Black Isle Studios
+Version
+Status	manual setup needed
+Game	Baldur's Gate 2
+Cover	Baldurs_Gate_II_Shadows_of_Amn_cover.jpg
+Engine	Infinity Engine
+Setup
+Runtime	gemrb
+Store	https://www.gog.com/game/baldurs_gate_2_enhanced_edition
+Hints	widescreen mod via weidu
+Genre	RPG
+Tags
+Year	2000
+Dev	BioWare
+Pub	Black Isle Studios
+Version
+Status	manual setup needed
+Game	Banana Hell
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1260130/Banana_Hell/
+Hints
+Genre	platformer
+Tags
+Year	2020
+Dev	Petriheart
+Pub	Petriheart
+Version
+Status	runs (2021-11-25)
+Game	Barony
+Cover	Barony_cover.jpg
+Engine
+Setup
+Runtime	barony
+Store	https://www.gog.com/game/barony_cursed_edition https://www.humblebundle.com/store/barony-cursed-edition
+Hints
+Genre	Dungeoncrawler
+Tags	indie first-person open-source
+Year	2015
+Dev	Turning Wheel LLC
+Pub
+Version
+Status
+Game	Beholder's Lair
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1347880/Beholders_Lair/
+Hints
+Genre	Platformer
+Tags	indie
+Year	2021
+Dev	Kaan Alpar
+Pub	Alpar Entertainment
+Version
+Status	runs (2021-08-21)
+Game	Beneath a Steel Sky
+Cover	Beneath_a_Steel_Sky_Box.png
+Engine	ScummVM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/beneath_a_steel_sky
+Hints	alternatively '# pkg_add bass'
+Genre	Adventure
+Tags
+Year	1994
+Dev	Revolution Software
+Pub	Virgin Interactive
+Version
+Status
+Game	Bird Assassin
+Cover	Bird_Assassin_cover.png
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/312010/Bird_Assassin/
+Hints
+Genre
+Tags
+Year	2011
+Dev	Social Loner Studios
+Pub
+Version
+Status	works (2021-01-12)
+Game	The Blackwell Epiphany
+Cover	The_Blackwell_Epiphany_cover.png
+Engine	AGS
+Setup
+Runtime	AGS
+Store	https://www.gog.com/game/the_blackwell_epiphany
+Hints
+Genre	Adventure
+Tags
+Year	2014
+Dev	Wadjet Eye Games
+Pub
+Version
+Status	needs manual setup
+Game	Bleed
+Cover	Bleed_boxart.JPG
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/bleed https://bootdiskrevolution.itch.io/bleed
+Hints
+Genre	Action Platformer
+Tags
+Year	2012
+Dev	Bootdisk Revolution
+Pub
+Version
+Status	works
+Game	Bleed 2
+Cover	Bleed_2_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/bleed-2 https://bootdiskrevolution.itch.io/bleed-2
+Hints
+Genre	Action Platformer
+Tags
+Year	2017
+Dev	Bootdisk Revolution
+Pub
+Version
+Status	works
+Game	Bottomless
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://picster.itch.io/bottomless
+Hints
+Genre	platformer
+Tags	indie
+Year	2020
+Dev	Raffaele Picca
+Pub
+Version
+Status	runs (2021-10-31)
+Game	Breath of Death VII
+Cover	Breath_of_death_vii.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/107300/Breath_of_Death_VII/
+Hints
+Genre	RPG
+Tags	indie
+Year	2011
+Dev	Zeboyd Games
+Pub
+Version
+Status
+Game	Broken Sword II: The Smoking Mirror
+Cover	Broken_Sword_II_The_Smoking_Mirror_Coverart.png
+Engine	Virtual Theatre
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/broken_sword_2__the_smoking_mirror
+Hints	GOG.com version includes the original
+Genre	Adventure
+Tags
+Year	1997
+Dev	Revolution Software
+Pub	Virgin Interactive
+Version
+Status
+Game	Broken Sword: The Shadow of the Templars
+Cover	Broken_Sword_Shadow_of_the_Templars_Coverart.png
+Engine	Virtual Theatre
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/broken_sword_directors_cut
+Hints	GOG.com version includes the original
+Genre	Adventure
+Tags
+Year	1996
+Dev	Revolution Software
+Pub	Virgin Interactive
+Version
+Status
+Game	Brushwood Buddies
+Cover	Brushwood_Buddies_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://stevencolling.itch.io/brushwood-buddies https://store.steampowered.com/app/434820/Brushwood_Buddies/
+Hints
+Genre	Puzzle
+Tags	indie
+Year	2016
+Dev	Steven Colling
+Pub
+Version
+Status
+Game	Burning Knight
+Cover	Burning_Knight_cover.jpg
+Engine	MonoGame
+Setup	fnaify
+Runtime	fnaify
+Store	https://egordorichev.itch.io/bk https://store.steampowered.com/app/851150/Burning_Knight/
+Hints	runtime is buggy, frequent crashes
+Genre
+Tags	indie open-source
+Year	2020
+Dev	Rexcellent Games
+Pub
+Version
+Status	runs with major bugs
+Game	Caesar 3
+Cover	Caesar_III_Cover.png
+Engine
+Setup
+Runtime	julius
+Store	https://www.gog.com/game/caesar_3
+Hints
+Genre
+Tags
+Year	1998
+Dev	Impressions Games
+Pub	Sierra Entertainment
+Version
+Status
+Game	Cannon Fodder
+Cover	Cannon_Fodder_Coverart.jpg
+Engine
+Setup
+Runtime	openfodder
+Store	https://www.gog.com/game/cannon_fodder
+Hints
+Genre
+Tags
+Year	1993
+Dev	Sensible Software
+Pub	Eidos Interactive
+Version
+Status
+Game	Cannon Fodder 2
+Cover	Cannon_Fodder_2_-_cover.png
+Engine
+Setup
+Runtime	openfodder
+Store	https://www.gog.com/game/cannon_fodder_2
+Hints
+Genre
+Tags
+Year	1994
+Dev	Sensible Software
+Pub	Codemasters
+Version
+Status
+Game	Capsized
+Cover	Capsized_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/capsized https://www.humblebundle.com/store/capsized
+Hints
+Genre	Action Platformer
+Tags	indie
+Year	2011
+Dev	Alientrap Games
+Pub
+Version
+Status
+Game	Capsule Force
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/364060/Capsule_Force/
+Hints
+Genre	Action Platformer
+Tags	indie
+Year	2015
+Dev	klobit LLC
+Pub	Iron Galaxy
+Version
+Status	runs (2021-08-19)
+Game	Capsule Wars
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://busyweasel.itch.io/capsule-wars
+Hints
+Genre	FPS
+Tags	indie
+Year
+Dev	Busy Weasel Games
+Pub
+Version
+Status	runs (2021-10-31)
+Game	The Cat Lady
+Cover	The_Cat_Lady_-_cover.jpg
+Engine	AGS
+Setup
+Runtime	AGS
+Store	https://www.humblebundle.com/g/heroines-quest
+Hints
+Genre	Adventure
+Tags
+Year	2012
+Dev	Harvester Games
+Pub	Screen 7
+Version
+Status
+Game	Cave - Legend of the Forge
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://bitbrain.itch.io/cave
+Hints	use pck-extract on the linux binary
+Genre	RPG
+Tags	indie
+Year
+Dev	bitbrain
+Pub	bitbrain
+Version
+Status	runs (2021-10-31)
+Game	Celeste
+Cover	345px-Celeste_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://mattmakesgames.itch.io/celeste https://www.humblebundle.com/store/celeste https://store.steampowered.com/app/504230/Celeste/
+Hints	fnaify >= 3.0, fnaify-extralibs, no sound
+Genre	Jumpnrun Platformer
+Tags	indie
+Year	2018
+Dev	Matt Makes Games
+Pub
+Version
+Status	major limitations - no audio
+Game	Chaos Heart
+Cover	Chaos_Heart_cover.png
+Engine
+Setup	fnaify
+Runtime
+Store	http://mattmakesgames.com/games/ChaosHeart.zip
+Hints
+Genre
+Tags	free
+Year
+Dev
+Pub
+Version
+Status
+Game	Charlie Murder
+Cover	Charlie_Murder_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/charlie-murder https://store.steampowered.com/app/405290/Charlie_Murder/
+Hints
+Genre	Brawler
+Tags
+Year	2017
+Dev	Ska Studios
+Pub
+Version
+Status
+Game	Chasm
+Cover	Chasm_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/chasm https://www.humblebundle.com/store/chasm https://store.steampowered.com/app/312200/Chasm/
+Hints
+Genre	Metroidvania
+Tags	indie
+Year	2018
+Dev	Bit Kid Studios
+Pub
+Version
+Status	works
+Game	CometStriker
+Cover	CometStriker_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/701040/CometStriker/
+Hints
+Genre	Action
+Tags	indie
+Year	2018
+Dev
+Pub
+Version
+Status	works
+Game	Command & Conquer
+Cover	Command__Conquer_cover.jpg
+Engine
+Setup
+Runtime	openra
+Store
+Hints	OpenRA can automatically download the freeware version
+Genre	RTS
+Tags	multiplayer
+Year	1995
+Dev	Westwood Studios
+Pub	Virgin Interactive
+Version
+Status
+Game	Command & Conquer: Red Alert
+Cover	Command__Conquer_Red_Alert_cover.jpg
+Engine
+Setup
+Runtime	openra
+Store
+Hints	OpenRA can automatically download the freeware version
+Genre	RTS
+Tags	multiplayer
+Year	1996
+Dev	Westwood Studios
+Pub	Virgin Interactive
+Version
+Status
+Game	Crawlers and Brawlers
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/462860/Crawlers_and_Brawlers/
+Hints
+Genre	Action RPG
+Tags	multiplayer roguelike
+Year	2016
+Dev	Ugly Beard Games, LLC
+Pub	Ugly Beard Games, LLC
+Version
+Status	runs offline mode only (2021-08-19)
+Game	CrossCode
+Cover	CrossCode_cover.jpg
+Engine	NW.js
+Setup
+Runtime	HTML5
+Store	https://www.gog.com/game/crosscode https://radicalfishgames.itch.io/crosscode https://www.humblebundle.com/store/crosscode https://store.steampowered.com/app/368340/CrossCode/
+Hints	uses local browser storage; concern that this could break the game (not observed so far)
+Genre	ARPG
+Tags	indie
+Year	2018
+Dev	Radical Fish Games
+Pub	Deck13
+Version
+Status	manual setup needed; some non-gamebreaking bugs
+Game	Cruelty Squad
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1388770/
+Hints	needs godot built with GodotSteam module
+Genre	FPS, Immersive Sim
+Tags	indie, surreal, gore
+Year	2021
+Dev	Consumer Softproducts
+Pub	Consumer Softproducts
+Version
+Status	runs (2021-09-06)
+Game	Cryptark
+Cover	CRYPTARK_Cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/cryptark https://www.humblebundle.com/store/cryptark https://store.steampowered.com/app/344740/CRYPTARK/
+Hints
+Genre	Roguelite Twinstick Action
+Tags	indie
+Year	2017
+Dev	Alientrap Games
+Pub
+Version
+Status	works (2021-01-12)
+Game	Cthulhu Saves the World
+Cover	CthulhuSavestheWorld.png
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/107310/Cthulhu_Saves_the_World/
+Hints
+Genre	RPG
+Tags	humor
+Year	2011
+Dev	Zeboyd Games
+Pub
+Version
+Status
+Game	Curse of the Crescent Isle DX
+Cover	Curse_of_the_Crescent_Isle_DX_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://1amowery.itch.io/curse-of-the-crescent-isle-dx https://www.humblebundle.com/store/curse-of-the-crescent-isle-dx https://store.steampowered.com/app/365120/Curse_of_the_Crescent_Isle_DX/
+Hints
+Genre	Platformer
+Tags
+Year	2015
+Dev	Adam Mowery
+Pub
+Version
+Status
+Game	Cursed Gem
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1194480/Cursed_Gem/
+Hints
+Genre	Platformer
+Tags	free, indie, puzzle platformer
+Year	2020
+Dev	AikonCWD
+Pub	Vega Games
+Version	1.0.5
+Status	runs (2021-10-31)
+Game	Cute Cats
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1667400/Cute_Cats/
+Hints
+Genre	Puzzle
+Tags	cats
+Year	2021
+Dev	KnKo
+Pub	KnKo
+Version
+Status	runs (2021-11-10)
+Game	Cyber-doge 2077: Meme runner
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1383720/Cyberdoge_2077_Meme_runner/
+Hints	performance not great on integrated Intel GPU
+Genre	runner
+Tags
+Year	2020
+Dev	Take Toad
+Pub	Take Toad
+Version
+Status	runs (2021-11-10)
+Game	Dad Quest
+Cover	Dad_Quest_cover.jpg
+Engine	MonoGame
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/dad-quest https://store.steampowered.com/app/524250/Dad_Quest
+Hints
+Genre	Platformer
+Tags
+Year	In Development
+Dev	Sundae Month
+Pub	Excalibur Publishing
+Version
+Status	minor limitations - no gamepad support
+Game	Dark Crypt
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1706170/Dark_Crypt/
+Hints
+Genre	Puzzle
+Tags	indie
+Year	2021
+Dev	Daisy Games
+Pub	Daisy Games
+Version
+Status	runs (2021-10-15)
+Game	Dead Cells
+Cover	Dead_Cells_cover.jpg
+Engine	hashlink
+Setup	remove *.so{,.*} and *.hdll
+Runtime	hl
+Store	https://www.gog.com/game/dead_cells https://plug-in-digital.itch.io/dead-cells https://www.humblebundle.com/store/dead-cells https://store.steampowered.com/app/588650/Dead_Cells/
+Hints
+Genre	Roguelite Platformer
+Tags	indie, award-winning
+Year	2018
+Dev	Motion Twin
+Pub
+Version
+Status	works (2021-01-12)
+Game	Dead Pixels
+Cover	Dead_Pixels_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/222980/Dead_Pixels
+Hints	As of 2020-01-03 recent Steam versions fail to run with API_RunCallback in backtrace
+Genre	Action
+Tags	indie
+Year	2012
+Dev	CSR-Studios
+Pub
+Version
+Status	currently not working
+Game	Dead Pixels II
+Cover	Dead_Pixels_II_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/259000/Dead_Pixels_II/
+Hints
+Genre
+Tags
+Year	In Development
+Dev	CSR-Studios
+Pub
+Version
+Status
+Game	Delta-V: Rings of Saturn
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/846030/V_Rings_of_Saturn/
+Hints	note a Unicode "delta" is used in the game's name
+Genre	Simulation
+Tags	scifi, space
+Year	Early Access
+Dev	Kodera Software
+Pub	Kodera Software, Kurki.games
+Version
+Status	runs (2021-08-21)
+Game	Democracy 3
+Cover	Democracy_3_-_cover.png
+Engine	Irrlicht Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/democracy-3
+Hints
+Genre	Simulation
+Tags
+Year	2013
+Dev	Positech Games
+Pub
+Version
+Status	browser needed to run
+Game	Descent
+Cover	Descent_cover.jpg
+Engine	Descent Engine
+Setup
+Runtime	dxx-rebirth
+Store	https://www.gog.com/game/descent https://store.steampowered.com/app/273570/Descent/
+Hints
+Genre	FPS
+Tags	6DOF, multiplayer
+Year	1995
+Dev	Parallax Software
+Pub	Interplay Entertainment
+Version
+Status
+Game	Descent II
+Cover	Descent_II_-_cover.jpg
+Engine	Descent Engine
+Setup
+Runtime	dxx-rebirth
+Store	https://www.gog.com/game/descent_2 https://store.steampowered.com/app/273580/Descent_2/
+Hints
+Genre	FPS
+Tags	6DOF, multiplayer
+Year	1996
+Dev	Parallax Software
+Pub	Interplay Entertainment
+Version
+Status
+Game	Diablo
+Cover	Diablo_cover.jpg
+Engine
+Setup
+Runtime	devilutionx
+Store	https://www.gog.com/game/diablo
+Hints
+Genre	ARPG
+Tags	classic, fantasy
+Year	1997
+Dev	Blizzard North
+Pub	Blizzard Entertainment
+Version
+Status	works
+Game	Diehard Dungeon
+Cover	Diehard_Dungeon_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/277870/Diehard_Dungeon/
+Hints	needs libCSteamworks stub
+Genre	Action, Roguelite
+Tags	indie
+Year	2012
+Dev	Tricktale
+Pub
+Version
+Status	works with modifications - libCSteamworks stub (2021-01-12)
+Game	The Dig
+Cover	The_Dig_Cover.jpg
+Engine	SCUMM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/the_dig
+Hints
+Genre	Adventure
+Tags	classic
+Year	1995
+Dev	LucasArts
+Pub
+Version
+Status	untested
+Game	Dino Eggs: Rebirth
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/449320/Dino_Eggs_Rebirth/
+Hints
+Genre	Platformer
+Tags
+Year	2016
+Dev	David H Schroeder, Eric Ferrot
+Pub	Davie H Schroeder
+Version
+Status	runs (2021-08-19)
+Game	The Dishwasher: Vampire Smile
+Cover	The_Dishwasher_Vampire_Smile_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.humblebundle.com/store/the-dishwasher-vampire-smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
+Hints
+Genre	Brawler
+Tags	indie, graphical violence
+Year	2017
+Dev	Ska Studios
+Pub
+Version
+Status
+Game	Doki Doki Literature Club!
+Cover	DDLC_cover.jpg
+Engine	Ren'Py 6
+Setup	renpyify
+Runtime	Ren'Py
+Store	https://teamsalvato.itch.io/ddlc https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
+Hints
+Genre	Visual Novel
+Tags
+Year	2017
+Dev	Team Salvato
+Pub
+Version
+Status
+Game	Doom
+Cover	Doom_Ultimate.jpg
+Engine	id Tech 1
+Setup
+Runtime	chocolate-doom, gzdoom, odamex, prboom-plus, crispy-doom
+Store	https://www.gog.com/game/the_ultimate_doom https://www.humblebundle.com/store/ultimate-doom https://store.steampowered.com/app/2280/Ultimate_Doom/
+Hints
+Genre	FPS
+Tags	classic, graphical violence
+Year	1994
+Dev	id Software
+Pub	GT Interactive
+Version
+Status
+Game	Doom & Destiny Advanced
+Cover
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/361040/Doom__Destiny_Advanced/
+Hints	currently crashes on Window resize
+Genre	RPG
+Tags	classic, humor, nerd culture
+Year	2016
+Dev	Heartbit Interactive
+Pub	Heartbit Interactive
+Version
+Status	runs with bugs, e.g. crash on window resizing (2021-08-23)
+Game	Doppelganger
+Cover
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	http://www.pumpkin-games.net/doppelganger.php
+Hints	Download the Linux version and delete the line with libOpenCL in OpenTK.dll.config
+Genre	Action
+Tags	free
+Year
+Dev
+Pub
+Version
+Status
+Game	Downfall
+Cover	Downfall_cover.jpg
+Engine	AGS
+Setup
+Runtime	AGS
+Store	https://www.gog.com/game/downfall_redux https://www.humblebundle.com/store/downfall https://store.steampowered.com/app/364390/Downfall/
+Hints
+Genre	Adventure
+Tags
+Year	2016
+Dev
+Pub
+Version
+Status	manual setup needed
+Game	Draw A Stickman: EPIC
+Cover	Draw_a_Stickman_EPIC_logo.png
+Engine	XNA/MonoGame
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.humblebundle.com/store/draw-a-stickman-epic https://store.steampowered.com/app/248650/Draw_a_Stickman_EPIC/
+Hints
+Genre	Puzzle
+Tags
+Year	2013
+Dev	Hitcents
+Pub
+Version
+Status
+Game	Dune 2000
+Cover	Dune_2000_cover.jpg
+Engine
+Setup
+Runtime	openra
+Store
+Hints	OpenRA can automatically download the freeware version
+Genre	RTS
+Tags	multiplayer
+Year	1998
+Dev	Westwood Studios
+Pub	Virgin Interactive
+Version
+Status
+Game	Dust: An Elysian Tail
+Cover	Dust_An_Elysian_Tail_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/dust_an_elysian_tail https://www.humblebundle.com/store/dust-an-elysian-tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
+Hints
+Genre	Metroidvania
+Tags	indie
+Year	2013
+Dev	Humble Hearts
+Pub	Microsoft Studios
+Version
+Status
+Game	Dustforce DX
+Cover	Dustforce_cover.jpg
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/dustforce-dx
+Hints
+Genre	Platformer
+Tags	indie
+Year	2012
+Dev	Hitbox Team
+Pub
+Version
+Status	needs browser
+Game	EXAPUNKS
+Cover	EXAPUNKS_cover.jpg
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/exapunks https://www.humblebundle.com/store/exapunks https://zachtronics.itch.io/exapunks https://store.steampowered.com/app/716490/EXAPUNKS/
+Hints	fnaify >= 3.0
+Genre	puzzle
+Tags	zach-like
+Year	2018
+Dev	Zachtronics
+Pub
+Version
+Status	works (2021-01-12)
+Game	Eagle Island
+Cover	Eagle_Island_cover.jpg
+Engine	MonoGame
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/eagle_island
+Hints
+Genre	Platformer
+Tags	pixelart
+Year	2019
+Dev	Pixelnicks
+Pub	Screenwave Media
+Version
+Status	works with minor bugs - no gamepad support (2021-01-12)
+Game	The Elder Scrolls III: Morrowind
+Cover	The_Elder_Scrolls_III_Morrowind_cover.jpg
+Engine	NetImmerse
+Setup
+Runtime	openmw
+Store	https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition
+Hints
+Genre	RPG
+Tags	classic
+Year	2002
+Dev	Bethesda Game Studios
+Pub	Bethesda Softworks
+Version
+Status	works
+Game	Eliza
+Cover	Eliza_-_cover.jpg
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/eliza https://www.humblebundle.com/store/eliza https://zachtronics.itch.io/eliza https://store.steampowered.com/app/716500/Eliza/
+Hints	fnaify >= 3.0
+Genre
+Tags
+Year	2019
+Dev	Zachtronics
+Pub
+Version
+Status	works (2021-01-12)
+Game	Elliot Quest
+Cover	Elliot_Quest_cover.jpg
+Engine	NW.js
+Setup
+Runtime	HTML5
+Store	https://www.humblebundle.com/store/elliot-quest https://ansimuz.itch.io/elliot-quest https://store.steampowered.com/app/293440/Elliot_Quest/
+Hints	uses NW.js; run by unzipping file 'app', then opening index.html in a browser; no sound though
+Genre	platformer
+Tags	indie
+Year	2014
+Dev	Ansimuz Games
+Pub
+Version
+Status	minor limitations - no gamepad support; needs browser
+Game	Escape Goat
+Cover	Escape_Goat_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/escape_goat https://www.humblebundle.com/store/escape-goat https://store.steampowered.com/app/251370/Escape_Goat/
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2012
+Dev	Magical Time Bean
+Pub
+Version
+Status
+Game	Escape Goat 2
+Cover	Escape_Goat_2_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/escape_goat_2 https://www.humblebundle.com/store/escape-goat-2 https://store.steampowered.com/app/255340/Escape_Goat_2/
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2014
+Dev	Magical Time Bean
+Pub	Double Fine Productions
+Version
+Status
+Game	Escape from Monkey Island
+Cover	Escape_from_Monkey_Island_artwork.jpg
+Engine	GrimE
+Setup
+Runtime	residualvm
+Store	https://www.gog.com/game/escape_from_monkey_island
+Hints
+Genre	Adventure
+Tags	tank controls, humor
+Year	2000
+Dev	LucasArts
+Pub
+Version
+Status
+Game	Evoland Legendary Edition
+Cover	Evoland-LE_cover.jpg
+Engine	hashlink
+Setup	remove *.so{,.*} and *.hdll
+Runtime	hl
+Store	https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
+Hints
+Genre	RPG
+Tags
+Year	2019
+Dev	Shiro Games
+Pub
+Version
+Status	not working - needs modifications to steam hashlink library
+Game	Explosionade
+Cover	Explosionade_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://mommysbestgames.itch.io/explosionade https://store.steampowered.com/app/373620/Explosionade/
+Hints
+Genre	Platformer
+Tags
+Year	2015
+Dev	Mommy's Best Games
+Pub
+Version
+Status	currently not working
+Game	The Expression Amrilato
+Cover	The_Expression_Amrilato_cover.jpg
+Engine	Ren'Py
+Setup	renpyify
+Runtime	Ren'Py
+Store	https://www.gog.com/game/the_expression_amrilato
+Hints	if voices get interrupted, try out Interrupt voices during playback toggle; untested
+Genre	Visual Novel
+Tags
+Year	2019
+Dev	SukeraSparo
+Pub	MangaGamer
+Version
+Status
+Game	Fenimore Fillmore: 3 Skulls of the Toltecs
+Cover
+Engine
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/fenimore_fillmore_3_skulls_of_the_toltecs
+Hints
+Genre	Adventure
+Tags
+Year
+Dev	Casual Brothers
+Pub
+Version
+Status
+Game	FEZ
+Cover	450px-Fez_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.humblebundle.com/store/fez https://polytron.itch.io/fez https://store.steampowered.com/app/224760/FEZ/
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2013
+Dev	Polytron Corporation
+Pub	Trapdoor
+Version
+Status	custom version needed - need to use beta version to run
+Game	Fracture Hell
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1713770/Fracture_Hell/
+Hints
+Genre	Top-down shooter
+Tags	indie
+Year	2021
+Dev	Solo Byte Games
+Pub	Solo Byte Games
+Version
+Status	runs (2021-10-15)
+Game	FTL
+Cover	FTL_-_Faster_Than_Light_-_cover.jpg
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/ftl-faster-than-light
+Hints	Demo available on humblebundle.com
+Genre	Roguelite, Strategy
+Tags	space, pixelart
+Year	2012
+Dev	Subset Games
+Pub
+Version
+Status	browser needed
+Game	Fatal Twelve
+Cover	Fatal_Twelve_cover.jpg
+Engine	Ren'Py
+Setup	renpyify
+Runtime	ren'py
+Store	https://store.steampowered.com/app/620210/Fatal_Twelve/
+Hints
+Genre
+Tags
+Year	2018
+Dev
+Pub
+Version
+Status
+Game	Fist Puncher
+Cover	Fist_Puncher_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/fist_puncher https://www.humblebundle.com/store/fist-puncher https://store.steampowered.com/app/238630/Fist_Puncher/
+Hints
+Genre	Brawler
+Tags	indie, humor
+Year	2013
+Dev	Team2Bit
+Pub
+Version
+Status
+Game	Flinthook
+Cover	Flinthook_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/401710/Flinthook/
+Hints
+Genre	Roguelite Platformer
+Tags
+Year	2017
+Dev	Tribute Games
+Pub
+Version
+Status	works (2021-01-12)
+Game	Flotilla
+Cover	Flotilla.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://blendogames.itch.io/flotilla https://store.steampowered.com/app/55000/Flotilla/
+Hints
+Genre	Strategy
+Tags	3d space
+Year	2010
+Dev	Blendo Games
+Pub
+Version
+Status
+Game	Forest's Secret: Mystery of the Frost
+Cover	forests_secret_cover.png
+Engine	libgdx
+Setup
+Runtime
+Store	https://bynine.itch.io/forestssecret
+Hints	https://brynet.biz.tm/pub/openbsd_forests_secret.sh.txt brynet's setup script
+Genre	Adventure
+Tags	free
+Year	2018
+Dev
+Pub
+Version
+Status
+Game	Freespace 2
+Cover	FreeSpace_2.jpg
+Engine
+Setup
+Runtime	fs2open
+Store	https://www.gog.com/game/freespace_2 https://store.steampowered.com/app/273620/Freespace_2/
+Hints	not available as package, build from ports tree
+Genre	Spacesim, FPS
+Tags	classic, space
+Year	1999
+Dev	Volition
+Pub	Interplay Entertainment
+Version
+Status	manual setup needed
+Game	Gabriel Knight: Sins of the Fathers
+Cover	Gabriel_Knight_Sins_of_the_Fathers_Cover.png
+Engine	SCI2
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/gabriel_knight_sins_of_the_fathers https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/
+Hints
+Genre	Adventure
+Tags
+Year	1993
+Dev	Sierra Entertainment
+Pub
+Version
+Status	untested
+Game	Game Type
+Cover	Game_Type_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/373630/Game_Type/
+Hints	currently defective
+Genre
+Tags
+Year	2015
+Dev	Mommy's Best Games
+Pub
+Version
+Status	currently not working
+Game	Gateways
+Cover	Gateways_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/216290/Gateways/ https://www.gog.com/game/gateways
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2012
+Dev	Smudged Cat Games
+Pub
+Version
+Status
+Game	Gemini Rue
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/gemini_rue
+Hints
+Genre	Adventure
+Tags	indie
+Year	2011
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version
+Status	runs (2021-10-13)
+Game	Glitchangels
+Cover	Glitchangels_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1170300/Glitchangels/
+Hints
+Genre	Action
+Tags
+Year	2020
+Dev	Pumpkin Games
+Pub	Puppygames
+Version	1.2.2
+Status	works with minor bugs - FAudio crash on exit (2021-01-12)
+Game	A Golden Wake
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/a_golden_wake
+Hints
+Genre	Adventure
+Tags
+Year	2014
+Dev	Grundislav Games
+Pub	Grundislav Games
+Version
+Status	runs (2021-10-13)
+Game	Goop Loop
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1454550/Goop_Loop/
+Hints
+Genre	Physics
+Tags	humor
+Year	2021
+Dev	Lone Wulf Studio LLC
+Pub	Lone Wulf Studio LLC
+Version
+Status	runs (2021-08-21)
+Game	Grand Class Melee 2
+Cover	Grand_Class_Melee_2_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/340440/Grand_Class_Melee_2/
+Hints
+Genre
+Tags
+Year	2018
+Dev	Ogopogoid Entertainment
+Pub
+Version
+Status
+Game	Gravity Ace
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1003860/Gravity_Ace/
+Hints
+Genre	twinstick shooter
+Tags	early access
+Year
+Dev	John Watson
+Pub	John Watson
+Version
+Status	runs (2021-09-19)
+Game	The Great Adventurer
+Cover
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://ironpowertga.itch.io/the-great-adventurer
+Hints
+Genre	Platformer
+Tags
+Year	2019
+Dev
+Pub
+Version
+Status
+Game	The Great Plague Exodus
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1510800/The_Great_Plague_Exodus/
+Hints
+Genre	Simulation
+Tags
+Year	2021
+Dev	Priory Games
+Pub	Priory Games
+Version
+Status	runs (2021-08-21)
+Game	Grimm's Hollow
+Cover	Grimms_Hollow_cover.jpg
+Engine
+Setup
+Runtime	easyrpg
+Store	https://ghosthum.itch.io/grimms-hollow
+Hints
+Genre
+Tags
+Year	2019
+Dev	ghosthunter
+Pub
+Version
+Status	works
+Game	Groov
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1503430/Groov/
+Hints
+Genre	Action
+Tags
+Year	2009
+Dev	Funkmasonry Industries
+Pub	Metronomaton
+Version
+Status
+Game	Growing Pains
+Cover	Growing_Pains_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/291610/
+Hints
+Genre	Platformer
+Tags
+Year	2014
+Dev	Smudged Cat Games
+Pub
+Version
+Status
+Game	Hack Grid
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1543290/Hack_Grid/
+Hints
+Genre	Puzzle
+Tags	retro
+Year	2021
+Dev	Daisy Games
+Pub	Daisy Games
+Version
+Status	runs (2021-08-21)
+Game	HackNet
+Cover	Hacknet_Logo.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/hacknet https://www.humblebundle.com/store/hacknet https://fellowtraveller.itch.io/hacknet https://store.steampowered.com/app/365450/Hacknet/
+Hints	multiple editions available (Complete, Ultimate)
+Genre	Hacking, Puzzle
+Tags	indie, hacking
+Year	2015
+Dev	Team Fractal Alligator
+Pub	Surprise Attack Games
+Version
+Status	minor limitations - integrated browser module not working
+Game	Haiki
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1395270/Haiki/
+Hints	needs godot built with GodotSteam module
+Genre	Platformer
+Tags	indie, 2D, early access
+Year
+Dev	Richard Hornig
+Pub	Application Systems Heidelberg
+Version
+Status	runs (2021-09-06)
+Game	Hallow's Eve
+Cover
+Engine	solarus
+Setup
+Runtime	solarus
+Store	https://maxatrillionator.itch.io/hallows-eve
+Hints	solarus-run *.solarus
+Genre	ARPG
+Tags	indie, 2D, comedy, halloween
+Year	2020
+Dev	Max Mraz
+Pub
+Version	1.2.0
+Status	runs (2021-11-26)
+Game	Hashi: Light
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1703650/Hashi_Light/
+Hints
+Genre	Puzzle
+Tags	indie
+Year	2021
+Dev	amiksemo
+Pub	amiksemo
+Version
+Status	runs (2021-10-15)
+Game	HeXen: Beyond Heretic
+Cover	Hexen_Beyond_Heretic_cover.jpg
+Engine	id Tech 1
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/
+Hints
+Genre	FPS
+Tags
+Year	1995
+Dev	Raven Software
+Pub	id Software
+Version
+Status
+Game	HeXen II
+Cover	Hexen_II_cover.jpg
+Engine	Quake engine
+Setup
+Runtime	uhexen2
+Store	https://store.steampowered.com/app/9060/HeXen_II/
+Hints
+Genre	FPS
+Tags
+Year	1997
+Dev	Raven Software
+Pub	id Software
+Version
+Status
+Game	Hedon
+Cover	Hedon_cover.png
+Engine
+Setup
+Runtime	gzdoom
+Store	https://www.gog.com/game/hedon https://store.steampowered.com/app/1072150/Hedon/
+Hints
+Genre
+Tags
+Year	2019
+Dev	Zan
+Pub
+Version
+Status
+Game	Heretic: Shadow of the Serpent Riders
+Cover	Heretic_cover.jpg
+Engine	id Tech 1
+Setup
+Runtime	gzdoom, crispy-doom
+Store	https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
+Hints
+Genre	FPS
+Tags
+Year	1994
+Dev	Raven Software
+Pub	id Software
+Version
+Status
+Game	Heroes of Might and Magic 2
+Cover	Heroes_of_Might_and_Magic_II_cover.jpg
+Engine
+Setup
+Runtime	fheroes2
+Store	https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition
+Hints
+Genre	TBS
+Tags	classic, fantasy
+Year	1996
+Dev	New World Computing
+Pub	3DO
+Version
+Status	manual setup needed
+Game	Heroine's Quest: The Herald of Ragnarok
+Cover	Heroines_Quest.png
+Engine	AGS
+Setup
+Runtime
+Store	https://www.humblebundle.com/g/heroines-quest https://radiant.itch.io/heroines-quest https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
+Hints
+Genre	RPG
+Tags
+Year	2013
+Dev
+Pub
+Version
+Status
+Game	Highway Blossoms
+Cover	Highway_Blossoms_Remastered.jpg
+Engine	Ren'Py 6
+Setup
+Runtime	Ren'Py
+Store	https://www.gog.com/game/highway_blossoms https://vnstudioelan.itch.io/highway-blossoms https://www.humblebundle.com/store/highway-blossoms https://store.steampowered.com/app/451760/Highway_Blossoms/
+Hints
+Genre	Visual Novel
+Tags
+Year	2016
+Dev	AlienWorks
+Pub	Sekai Project
+Version
+Status
+Game	Hive
+Cover	Hive_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/251210/Hive/
+Hints
+Genre	Puzzle
+Tags
+Year	2013
+Dev	BlueLine Games
+Pub
+Version
+Status
+Game	Hiveswap Friendsim
+Cover	Hiveswap_Friendsim_cover.jpg
+Engine	ren'py
+Setup	renpyify
+Runtime	ren'py
+Store	https://store.steampowered.com/app/833040/Hiveswap_Friendsim/
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/hhy4h0/hiveswap_friendsim_works_with_renpyrenpyify/ Reddit post
+Genre
+Tags
+Year	2018
+Dev	What Pumpkin Games
+Pub	Fellow Traveller
+Version
+Status
+Game	Human Diaspora
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1395420/Human_Diaspora/
+Hints
+Genre	FPS
+Tags	sci-fi
+Year
+Dev	Leocesar3D Productions
+Pub	Leocesar3D Productions
+Version	Early Access
+Status	runs (2021-10-28)
+Game	Hyphen
+Cover	Hyphen_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/346510/Hyphen/
+Hints
+Genre	Puzzle
+Tags
+Year	2015
+Dev	FarSpace Studios
+Pub
+Version
+Status
+Game	I Have No Mouth And I Must Scream
+Cover	I_Have_No_Mouth_and_I_Must_Scream_Cover.jpg
+Engine	SAGA
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/i_have_no_mouth_and_i_must_scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
+Hints
+Genre	Adventure
+Tags	classic
+Year	1995
+Dev	The Dreamers Guild
+Pub	Cyberdreams
+Version
+Status
+Game	I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1
+Cover
+Engine	FNA
+Setup
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1800730/I_MAED_A_GAM3_W1TH_Z0MB1ES_1N_IT1/
+Hints
+Genre	twin-stick shooter
+Tags	zombies, free
+Year	2021
+Dev	Ska Studios, OMNIVIOLET
+Pub	Ska Studios
+Version
+Status	runs (2021-11-12)
+Game	Ib
+Cover	IbBanner.png
+Engine
+Setup
+Runtime	easyrpg
+Store	https://vgperson.com/games/ib.htm
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/hkq3bs/ib_rpg_maker_2000_playonbsd/ Reddit post https://videos.pair2jeux.tube/videos/watch/bdf3fb76-5c46-4d17-9046-5e9e9fabcdb2 Video
+Genre
+Tags	free
+Year	2012
+Dev
+Pub
+Version
+Status	works
+Game	Icewind Dale
+Cover	Icewind_Dale_Box.jpg
+Engine	Infinity Engine
+Setup
+Runtime	gemrb
+Store	https://www.gog.com/game/icewind_dale_enhanced_edition
+Hints
+Genre	RPG
+Tags	fantasy
+Year	2000
+Dev	Black Isle Studios
+Pub	Interplay Entertainment
+Version
+Status	untested; manual setup needed
+Game	Indiana Jones and the Fate of Atlantis
+Cover	Indiana_Jones_and_the_Fate_of_Atlantis_cover.jpg
+Engine	SCUMM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/indiana_jones_and_the_fate_of_atlantis https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/
+Hints
+Genre	Adventure
+Tags	classic
+Year	1994
+Dev	LucasArts
+Pub	LucasArts
+Version
+Status
+Game	In the House of Silence
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1378870/In_the_House_of_Silence/
+Hints
+Genre	dungeon crawler
+Tags
+Year	2021
+Dev	Kai Ruma Games
+Pub	Kai Ruma Games
+Version
+Status	runs (2021-11-10)
+Game	Ion Fury
+Cover	Ion_Fury_logo.jpg
+Engine	Build Engine
+Setup
+Runtime	eduke32
+Store	https://3drealms.com/catalog/ion-maiden_56/ https://3drealms.com/catalog/ion-fury-big-box-2_146/ https://www.gog.com/game/ion_fury https://store.steampowered.com/app/562860/Ion_Fury/
+Hints	use eduke32 with https://marc.info/?l=openbsd-misc&m=156907261602397&w=2 Ion Fury patch
+Genre	FPS
+Tags	female protagonist, retro
+Year	2019
+Dev	Void Point
+Pub	3D Realms
+Version
+Status	needs manual setup - compile eduke32 port (2021-01-12)
+Game	Jagged Alliance 2
+Cover	Jagged_Alliance_2_-_cover.jpg
+Engine
+Setup
+Runtime	ja2-stracciatella
+Store	https://www.gog.com/game/jagged_alliance_2 https://store.steampowered.com/app/545210/Jagged_Alliance_2_Classic/
+Hints
+Genre	TBS RPG
+Tags	classic
+Year	1999
+Dev	Sir-tech Software, Inc.
+Pub	TalonSoft
+Version
+Status
+Game	Jam and the Mystery of the Mysteriously Spooky Mansion
+Cover	jam.png
+Engine	Ren'Py
+Setup
+Runtime	Ren'Py
+Store	https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion
+Hints
+Genre	Adventure
+Tags
+Year	2019
+Dev
+Pub
+Version
+Status
+Game	Jazz Jackrabbit
+Cover	Jazz_Jackrabbit_cover.jpg
+Engine
+Setup
+Runtime	openjazz
+Store	https://www.gog.com/game/jazz_jackrabbit_collection
+Hints
+Genre	Action Platformer
+Tags
+Year	1994
+Dev	Epic MegaGames
+Pub
+Version
+Status	untested
+Game	Jon Shafer's At the Gates
+Cover	At_the_Gates_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.atthegatesgame.com/purchase https://www.humblebundle.com/store/jon-shafers-at-the-gates https://store.steampowered.com/app/241000/Jon_Shafers_At_the_Gates/
+Hints	buggy (upstream, not port)
+Genre	TBS
+Tags	4X
+Year	2019
+Dev	Conifer Games
+Pub
+Version
+Status
+Game	Joyspring
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1532360/Joyspring/
+Hints
+Genre	Platformer
+Tags	free
+Year	2021
+Dev	Studio Heart Engine
+Pub	Studio Heart Engine
+Version
+Status	runs (2021-08-21)
+Game	Kathy Rain
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/kathy_rain
+Hints
+Genre	Adventure
+Tags
+Year	2016
+Dev	Clifftop Games
+Pub	Raw Fury
+Version
+Status	runs (2021-10-13)
+Game	Kitty Tactics
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1473820/Kitty_Tactics/
+Hints
+Genre	TBS
+Tags
+Year	2021
+Dev	Ibe Denaux
+Pub	Ibe Denaux
+Version
+Status	runs (2021-08-21)
+Game	Lamplight City
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/lamplight_city https://store.steampowered.com/app/761460/Lamplight_City/
+Hints
+Genre	Adventure
+Tags	indie
+Year	2018
+Dev	Grundislav Games
+Pub	Application Systems Heidelberg
+Version
+Status	runs (2021-10-28)
+Game	Lands of Lore - The Throne of Chaos
+Cover	Lands_of_Lore_The_Throne_of_Chaos_Coverart.PNG
+Engine	Kyra
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/lands_of_lore_1_2
+Hints
+Genre	RPG
+Tags	fantasy
+Year	1993
+Dev	Westwood Studios
+Pub	Virgin Interactive
+Version
+Status	needs manual setup - 7zip extract GAME.DAT
+Game	LaserCat
+Cover	LaserCat_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://monsterjail.itch.io/lasercat https://store.steampowered.com/app/496120/LaserCat/
+Hints
+Genre	Platformer
+Tags
+Year	2012
+Dev	Daniel McFarline
+Pub
+Version
+Status
+Game	Learn Japanese To Survive! Hiragana Battle
+Cover	Learn_Japanese_Cover.jpg
+Engine
+Setup
+Runtime
+Store	https://sleepy-duck.itch.io/learn-japanese-to-survive-hiragana-battle https://store.steampowered.com/app/438270/Learn_Japanese_To_Survive_Hiragana_Battle/
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/hhdxp7/learn_japanese_to_survive_hiragana_battle/ Reddit post https://videos.pair2jeux.tube/videos/watch/77efc60a-adb5-45ed-b6c0-d121229739d0 Video
+Genre	RPG
+Tags	educational
+Year	2016
+Dev
+Pub
+Version
+Status	works
+Game	Little Racers STREET
+Cover	Little_Racers_Street_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/262690/Little_Racers_STREET/
+Hints	needs a stub for libCommunityExpressSW.so to run
+Genre	Racing
+Tags
+Year	2012
+Dev	Milkstone Studios
+Pub
+Version
+Status
+Game	Long Live the Queen
+Cover	Long_Live_the_Queen.jpg
+Engine	Ren'Py 6
+Setup	renpyify
+Runtime	Ren'Py
+Store	https://www.gog.com/game/long_live_the_queen
+Hints	https://raw.githubusercontent.com/reivyr/renpy-games/master/LongLiveTheQueen/script.sh tweaks to apply before running the game
+Genre
+Tags
+Year	2012
+Dev	Hanako Games
+Pub	Zone of Games
+Version
+Status
+Game	The Longest Journey
+Cover	The_Longest_Journey_Box.jpg
+Engine	Stark
+Setup
+Runtime	residualvm
+Store	https://www.gog.com/game/the_longest_journey
+Hints
+Genre	Adventure
+Tags
+Year	1999
+Dev	Funcom
+Pub
+Version
+Status	untested
+Game	Loom
+Cover	Loom_Cover.jpg
+Engine	SCUMM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/loom
+Hints
+Genre	Adventure
+Tags
+Year	1990
+Dev	LucasArts
+Pub	LucasArts
+Version
+Status
+Game	Lost Cities
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/520680/Lost_Cities/
+Hints
+Genre	Cardgame
+Tags	multiplayer
+Year	2018
+Dev	BlueLine Games
+Pub	BlueLine Games
+Version
+Status	runs (2021-08-19)
+Game	Luck be a Landlord
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/
+Hints	extract from Linux version with https://github.com/rfht/pck-extract
+Genre	deckbuilder
+Tags	indie, early access
+Year	2021
+Dev	TrampolineTales
+Pub	TrampolineTales
+Version
+Status	runs (2021-10-15)
+Game	Malice & Greed
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1566090/Malice__Greed/
+Hints
+Genre	RPG
+Tags	indie, early access, rogue-lite, turn-based
+Year
+Dev	Xendra
+Pub	Xendra
+Version
+Status	runs (2021-10-31)
+Game	Master of Orion
+Cover	Master_of_Orion_-_cover.jpg
+Engine
+Setup
+Runtime	1oom
+Store	https://www.gog.com/game/master_of_orion_1_2
+Hints
+Genre	TBS
+Tags	space, 4X
+Year	1993
+Dev	Simtex
+Pub	MicroProse
+Version
+Status
+Game	Mega Man Legacy Collection
+Cover	Mega_Man_Legacy_Collection.jpg
+Engine
+Setup	https://gitlab.com/rfht/romextract romextract
+Runtime	mednafen
+Store	https://www.humblebundle.com/store/mega-man-legacy-collection https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/
+Hints
+Genre	Platformer
+Tags	classic, collection
+Year	2015
+Dev	Capcom
+Pub	Capcom
+Version
+Status
+Game	Mercenary Kings
+Cover	Mercenary_kings_boxart.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.humblebundle.com/store/mercenary-kings-reloaded-edition https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
+Hints
+Genre	Action
+Tags
+Year	2014
+Dev	Tribute Games
+Pub
+Version
+Status
+Game	Mewnbase
+Cover
+Engine	libgdx
+Setup	jar xvf the game's .jar, replace com/badlogic with libgdx 1.9.11 dir built with lwjgl3 backend, replace org/lwjgl with pertinent files from the lwjgl3 port (may need to extract from its .jar files), replace all .so files with files from ports, libgdx, and lwjgl3.
+Runtime	jdk 11, see main class in config.json
+Store	https://cairn4.itch.io/mewnbase https://store.steampowered.com/app/743130/MewnBase/
+Hints
+Genre	Survival
+Tags	early access
+Year
+Dev	Cairn4
+Pub	Cairn4
+Version
+Status	major manual setup needed
+Game	Miasma: Citizens of Free Thought
+Cover
+Engine	FNA
+Setup
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1771340/Miasma_Citizens_of_Free_Thought/
+Hints
+Genre	turn-based tactics
+Tags	indie
+Year	2021
+Dev	ESP Games
+Pub	David Addis
+Version
+Status	runs (2021-11-03)
+Game	Micro Mages
+Cover	Micro_Mages_cover.jpg
+Engine
+Setup
+Runtime	NES emulator
+Store	https://morphcatgames.itch.io/micromages
+Hints
+Genre
+Tags
+Year	2019
+Dev
+Pub
+Version
+Status
+Game	MidBoss
+Cover	MidBoss_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://eniko.itch.io/midboss https://www.humblebundle.com/store/midboss https://store.steampowered.com/app/561740/MidBoss/
+Hints	fnaify >= 3.0, fnaify-extralibs
+Genre	Roguelite Dungeoncrawler
+Tags	indie
+Year	2017
+Dev	Kitsune Games
+Pub
+Version
+Status
+Game	Minecraft
+Cover	Minecraft_cover.jpg
+Engine
+Setup	minecraft
+Runtime
+Store	https://minecraft.net/en-us/store/
+Hints	https://github.com/octeep/lwjgl3/blob/openbsd-working/README.md Instructions for Minecraft >= 1.13
+Genre	Sandbox
+Tags
+Year	2011
+Dev
+Pub
+Version
+Status
+Game	Mobius Front 83
+Cover
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/mobius_front_83 https://zachtronics.itch.io/mobius-front-83 https://store.steampowered.com/app/971160/Mbius_Front_83/
+Hints	game version >= 03/01/2021
+Genre	TBS
+Tags	military
+Year	2020
+Dev	Zachtronics
+Pub	Zachtronics
+Version	03/01/2021
+Status	works
+Game	Molek-Syntez
+Cover	MOLEK-SYNTEZ_cover.jpg
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/moleksyntez https://www.humblebundle.com/store/molek-syntez https://zachtronics.itch.io/molek-syntez https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/
+Hints	fnaify >= 3.0
+Genre	puzzle
+Tags
+Year	2019
+Dev	Zachtronics
+Pub
+Version
+Status	works (2021-01-12)
+Game	Moonshot - The Great Espionage
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1492610/Moonshot__The_Great_Espionage/
+Hints
+Genre	stealth platformer
+Tags	indie stealth
+Year	2021
+Dev	NimbleBeasts
+Pub	NimbleBeasts
+Version
+Status	works (2021-08-06)
+Game	Mount Your Friends
+Cover	Mount_Your_Friends.jpg
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/296470/Mount_Your_Friends/
+Hints
+Genre	Puzzle
+Tags	NSFW
+Year	2014
+Dev	Stegersaurus Software Inc.
+Pub
+Version
+Status
+Game	Mud River
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1642600/Mud_River/
+Hints
+Genre	Shoot'em Up
+Tags	indie
+Year	2021
+Dev	Felipe Mattar
+Pub	RocpainGames
+Version
+Status	runs (2021-10-15)
+Game	Murder Miners
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/274900/Murder_Miners/
+Hints	multiplayer-only game, and only runs via LAN with goldberg emulator; requires goldberg emulator
+Genre	FPS
+Tags	pixel, multiplayer
+Year	2014
+Dev	JForce Games
+Pub	JForce Games
+Version
+Status	runs (2021-08-23)
+Game	Myst
+Cover	MystCover.png
+Engine	Mohawk Engine
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/myst_masterpiece_edition
+Hints
+Genre	Adventure
+Tags	puzzle
+Year	1993
+Dev	Cyan Worlds
+Pub	Broderbund
+Version
+Status	untested
+Game	Myst III: Exile
+Cover	MYSTIIICOVER.jpg
+Engine	Sprint Engine
+Setup
+Runtime	residualvm
+Store	https://www.gog.com/game/myst_3_exile
+Hints
+Genre	Adventure
+Tags	puzzle
+Year	2001
+Dev	Presto Studios
+Pub	Ubisoft
+Version
+Status	untested
+Game	Neofeud
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://silverspook.itch.io/neofeud https://store.steampowered.com/app/673850/Neofeud/
+Hints
+Genre	Adventure
+Tags	cyberpunk
+Year	2017
+Dev	Silver Spook Games
+Pub	Silver Spook Games
+Version
+Status	runs (2021-10-27)
+Game	NeuroVoider
+Cover	NeuroVoider_cover.jpg
+Engine	MonoGame
+Setup	fnaify
+Runtime	fnaify
+Store	https://flyingoakgames.itch.io/neurovoider https://www.gog.com/game/neurovoider https://www.humblebundle.com/store/neurovoider https://store.steampowered.com/app/400450/NeuroVoider/
+Hints	fnaify >= 3.0
+Genre	Roguelite Twinstick Action
+Tags
+Year	2016
+Dev	Flying Oak Games
+Pub	Plug In Digital
+Version
+Status	minor limitations - no gamepad support
+Game	Nightfall Hacker
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1204080/Nightfall_Hacker/
+Hints	needs godot built with GodotSteam module
+Genre	Puzzle, Hacking
+Tags	indie, hacking, 2d
+Year	2021
+Dev	Teradile
+Pub	Teradile
+Version
+Status	runs (2021-09-06)
+Game	Northgard
+Cover	Northgard_cover.jpg
+Engine	hashlink
+Setup	hashlink
+Runtime	hashlink
+Store	https://www.gog.com/game/northgard https://www.humblebundle.com/store/northgard https://store.steampowered.com/app/466560/Northgard/
+Hints	https://github.com/rfht/hlsteam-stub hlsteam-stub to run
+Genre	RTS
+Tags
+Year	2018
+Dev	Shiro Games
+Pub
+Version
+Status
+Game	Nuclear Blaze
+Cover
+Engine	hashlink
+Setup	hashlink
+Runtime	hashlink
+Store	https://store.steampowered.com/app/1662480/Nuclear_Blaze/
+Hints	needs hlsteam to run; in dir `sdl64` rm *.{,h}dll and run `hl`
+Genre	Platformer
+Tags	indie, environment
+Year	2021
+Dev	Deepnight Games
+Pub	Deepnight Games
+Version
+Status	runs (2021-11-24)
+Game	One Finger Death Punch
+Cover	OneFingerDeathPunchcover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/264200/One_Finger_Death_Punch/
+Hints
+Genre	Action
+Tags	indie
+Year	2014
+Dev	Silver Dollar Games
+Pub
+Version
+Status
+Game	Open Sorcery
+Cover	Open_Sorcery_cover.jpg
+Engine
+Setup
+Runtime
+Store	https://opensorcerygames.itch.io/open-sorcery https://store.steampowered.com/app/585180/Open_Sorcery/
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/hk34q0/open_sorcery_textbased_adventure_works_with_a_web/ Reddit post
+Genre
+Tags
+Year	2017
+Dev	Abigail Corfman
+Pub	Open Sorcery Games
+Version
+Status	works
+Game	Opus Magnum
+Cover	Opus_Magnum_cover.jpg
+Engine
+Setup	fnaify
+Runtime	fnaify
+Store	https://www.gog.com/game/opus_magnum https://www.humblebundle.com/store/opus-magnum https://zachtronics.itch.io/opus-magnum https://store.steampowered.com/app/558990/Opus_Magnum/
+Hints	fnaify >= 3.0
+Genre	puzzle
+Tags	zach-like
+Year	2017
+Dev	Zachtronics
+Pub
+Version
+Status	works (2021-01-12)
+Game	Osmos
+Cover	Osmos_Coverart.png
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/osmos
+Hints
+Genre
+Tags
+Year	2009
+Dev	Hemisphere Games
+Pub
+Version
+Status	browser needed
+Game	Overdriven Reloaded
+Cover	Overdriven_Reloaded_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/495680/Overdriven_Reloaded/
+Hints
+Genre	Shmup
+Tags
+Year	2016
+Dev	TOMAGameStudio
+Pub
+Version
+Status
+Game	Owlboy
+Cover	Owlboy_-_Cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/owlboy https://www.humblebundle.com/store/owlboy https://store.steampowered.com/app/115800/Owlboy/
+Hints
+Genre	Metroidvania
+Tags	pixelart
+Year	2016
+Dev	D-Pad Studio
+Pub
+Version
+Status	works (2021-01-12)
+Game	Paladin
+Cover	Paladin_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/paladin https://store.steampowered.com/app/548220/Paladin/
+Hints
+Genre	Action
+Tags
+Year	2017
+Dev	Pumpkin Games
+Pub
+Version
+Status
+Game	Paralyzed
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1412500/Paralyzed/
+Hints
+Genre	platformer
+Tags
+Year	2020
+Dev	Alexander Lahti
+Pub	Alexander Lahti
+Version
+Status	runs (2021-11-10)
+Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
+Cover	Precipice_of_darkness_3.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/213030/Penny_Arcades_On_the_RainSlick_Precipice_of_Darkness_3/
+Hints
+Genre	RPG
+Tags	humor indie
+Year	2012
+Dev	Zeboyd Games
+Pub
+Version
+Status
+Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 4
+Cover	On_the_Rain-Slick_Precipice_of_Darkness_4_-_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/237570/Penny_Arcades_On_the_RainSlick_Precipice_of_Darkness_4/
+Hints
+Genre	RPG
+Tags
+Year	2013
+Dev	Zeboyd Games
+Pub	Penny Arcade, Inc.
+Version
+Status
+Game	Phoenix Force
+Cover	Phoenix_Force_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/332480/Phoenix_Force/
+Hints
+Genre	Action
+Tags
+Year	2014
+Dev	Awoker Games
+Pub
+Version
+Status
+Game	Planescape: Torment
+Cover	Planescape_Torment_Box.jpg
+Engine	Infinity Engine
+Setup
+Runtime	gemrb
+Store	https://www.gog.com/game/planescape_torment_enhanced_edition
+Hints	widescreen mod via weidu
+Genre	RPG
+Tags	classic
+Year	1999
+Dev	Black Isle Studios
+Pub	Interplay Entertainment
+Version
+Status
+Game	PlanetFriend
+Cover	PlanetFriend_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://lauramichet.itch.io/planetfriend
+Hints
+Genre	Simulation
+Tags
+Year	2020
+Dev
+Pub
+Version
+Status
+Game	Postal
+Cover	Postal_Cover.jpg
+Engine	RSPiX
+Setup
+Runtime	postal
+Store	https://www.gog.com/game/postal_classic_and_uncut https://www.humblebundle.com/store/postal https://store.steampowered.com/app/232770/POSTAL/
+Hints
+Genre	Action
+Tags	graphic_violence
+Year	1997
+Dev	Running With Scissors
+Pub	Ripcord Games
+Version
+Status	untested
+Game	Press X to Not Die
+Cover	Press_X_to_Not_Die_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/press-x-to-not-die https://store.steampowered.com/app/402330/Press_X_to_Not_Die/
+Hints
+Genre	FMV
+Tags	indie quicktime
+Year	2017
+Dev	All Seeing Eye Games
+Pub
+Version
+Status
+Game	Primal Light
+Cover	Primal_Light_cover.jpg
+Engine	Godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/771420/Primal_Light/
+Hints	run with 'godot --main-pack primal-light.pck'
+Genre	Platformer
+Tags	indie pixelart
+Year	2020
+Dev	Fat Gem
+Pub	Fat Gem
+Version
+Status	works on brief testing (2021-01-26)
+Game	Primordia
+Cover	Primordia_cover.jpg
+Engine	AGS
+Setup
+Runtime	AGS
+Store	https://www.gog.com/game/primordia https://store.steampowered.com/app/227000/Primordia/
+Hints
+Genre	Adventure
+Tags
+Year	2012
+Dev	Wormwood Studios
+Pub	Wadjet Eye Games
+Version
+Status
+Game	Project Heartbeat
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1216230/Project_Heartbeat/
+Hints	Godot 3.4
+Genre	rhythm game
+Tags
+Year	2020
+Dev	EIRTeam
+Pub	EIRTeam
+Version
+Status	runs (2021-11-10)
+Game	Quake
+Cover	Quake_Cover.jpg
+Engine	Quake Engine
+Setup
+Runtime	quakespasm | ezquake | vkquake
+Store	https://www.gog.com/game/quake_the_offering https://www.humblebundle.com/store/quake-offering-pack https://store.steampowered.com/app/2310/QUAKE/
+Hints
+Genre	FPS
+Tags
+Year	1996
+Dev	id Software
+Pub	GT Interactive
+Version
+Status
+Game	Quake II
+Cover	Quake_II_cover.jpg
+Engine	id Tech 2
+Setup
+Runtime	yquake2
+Store	https://www.gog.com/game/quake_ii_quad_damage https://www.humblebundle.com/store/quake-ii https://store.steampowered.com/app/2320/QUAKE_II/
+Hints
+Genre	FPS
+Tags	multiplayer
+Year	1997
+Dev	id Software
+Pub	Activision
+Version
+Status
+Game	Quake III Arena
+Cover	Quake_III_Arena_cover.jpg
+Engine	id Tech 3
+Setup
+Runtime	ioquake3
+Store	https://www.gog.com/game/quake_iii_gold https://www.humblebundle.com/store/quake-iii-arena-team-arena https://store.steampowered.com/app/2200/Quake_III_Arena/
+Hints
+Genre	FPS
+Tags	multiplayer
+Year	1999
+Dev	id Software
+Pub	Activision
+Version
+Status
+Game	Quest for Infamy
+Cover	473px-Quest_for_Infamy_-_Cover.jpg
+Engine
+Setup	AGS
+Runtime
+Store	https://www.gog.com/game/quest_for_infamy https://www.humblebundle.com/store/quest-for-infamy https://infamousquests.itch.io/quest-for-infamy https://store.steampowered.com/app/264560/Quest_for_Infamy/
+Hints
+Genre	Adventure
+Tags	humor
+Year	2014
+Dev
+Pub
+Version
+Status
+Game	Retro City Rampage DX
+Cover	Retro_City_Rampage_cover.jpg
+Engine
+Setup
+Runtime	dosbox
+Store	https://www.gog.com/game/retro_city_rampage_dx https://www.humblebundle.com/store/retro-city-rampage-dx https://store.steampowered.com/app/204630/Retro_City_Rampage_DX/
+Hints
+Genre	Action
+Tags	retro
+Year	2012
+Dev	Vblank Entertainment
+Pub
+Version
+Status	needs manual setup
+Game	Return to Castle Wolfenstein
+Cover	Return_to_Castle_Wolfenstein_Cover.png
+Engine
+Setup
+Runtime	iorctw
+Store	https://www.gog.com/game/return_to_castle_wolfenstein
+Hints	https://marc.info/?l=openbsd-ports&m=154076966325692&w=2 iortcw
+Genre	FPS
+Tags
+Year	2001
+Dev
+Pub
+Version
+Status	manual setup needed
+Game	Rex
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://securas.itch.io/rex
+Hints
+Genre	Platformer
+Tags	indie, free
+Year	2021
+Dev	securas
+Pub	securas
+Version
+Status	runs (2021-10-29)
+Game	Rex Rocket
+Cover	Rex_Rocket_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/288020/Rex_Rocket/
+Hints
+Genre	Action Platformer
+Tags	indie
+Year	2014
+Dev	Castle Pixel
+Pub
+Version
+Status
+Game	Riven
+Cover	Riven_Coverart.png
+Engine	Mohawk Engine
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/riven_the_sequel_to_myst
+Hints	untested
+Genre	Adventure
+Tags	puzzle
+Year	1997
+Dev	Cyan Worlds
+Pub	Red Orb Entertainment
+Version
+Status	untested
+Game	Rodent and Plank: Secret Origin
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1300650/Rodent_and_Plank_Secret_Origin/
+Hints
+Genre	Platformer
+Tags	indie
+Year	2021
+Dev	Lodder Digital Media
+Pub	Lodder Digital Media
+Version
+Status	runs (2021-08-20)
+Game	Rogue Legacy
+Cover	Rogue_Legacy_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/rogue_legacy https://www.humblebundle.com/store/rogue-legacy https://store.steampowered.com/app/241600/Rogue_Legacy/
+Hints
+Genre	Roguelite Metroidvania
+Tags	indie classic
+Year	2013
+Dev	Cellar Door Games
+Pub
+Version
+Status	works
+Game	Rogue State Revolution
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1145340/Rogue_State_Revolution/
+Hints
+Genre	TBS
+Tags
+Year	2021
+Dev	LRDGames, Inc.
+Pub	Modern Wolf
+Version
+Status	runs (2021-08-21)
+Game	RollerCoaster Tycoon
+Cover	RollerCoaster_Tycoon_cover.jpg
+Engine
+Setup
+Runtime	openrct2
+Store	https://www.gog.com/game/rollercoaster_tycoon_deluxe https://www.humblebundle.com/store/rollercoaster-tycoon-deluxe https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/
+Hints
+Genre	Simulation
+Tags
+Year	1999
+Dev	Chris Sawyer
+Pub	Hasbro Interactive
+Version
+Status	untested
+Game	RollerCoaster Tycoon 2
+Cover	RollerCoaster_Tycoon_2_cover.jpg
+Engine
+Setup
+Runtime	openrct2
+Store	https://www.gog.com/game/rollercoaster_tycoon_2 https://www.humblebundle.com/store/rollercoaster-tycoon-2-triple-thrill-pack https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/
+Hints
+Genre	Simulation
+Tags
+Year	2002
+Dev	Chris Sawyer
+Pub	Infogrames
+Version
+Status	untested
+Game	Ruggnar
+Cover	Ruggnar_cover.png
+Engine	MonoGame
+Setup	fnaify
+Runtime	fnaify
+Store	https://sirill.itch.io/ruggnar
+Hints
+Genre
+Tags
+Year	In Development
+Dev
+Pub
+Version
+Status	works with minor bugs - no gamepad support (2021-01-12)
+Game	RuneScape
+Cover
+Engine	Java
+Setup	https://old.reddit.com/r/openbsd_gaming/comments/lh2jts/runescape_on_openbsd/
+Runtime	jdk 11
+Store	https://www.runescape.com/splash https://store.steampowered.com/app/1343400/
+Hints
+Genre	MMORPG
+Tags	multiplayer
+Year
+Dev	Jagex
+Pub	Jagex
+Version
+Status	major limitations - poor performance, no audio
+Game	Rushberry Mercs
+Cover
+Engine	hashlink
+Setup
+Runtime	hashlink
+Store	https://store.steampowered.com/app/1258990/Rushberry_Mercs/
+Hints
+Genre	Action
+Tags	multiplayer, early access
+Year
+Dev	Benjamin Soule
+Pub	Benjamin Soule
+Version
+Status	runs (2021-08-20)
+Game	SEGA Mega Drive and Genesis Classics
+Cover	sega.jpg
+Engine
+Setup
+Runtime	mednafen
+Store	https://store.steampowered.com/sub/102625 https://www.humblebundle.com/store/sega-mega-drive-and-genesis-classics
+Hints
+Genre
+Tags	ROM
+Year	2010
+Dev
+Pub
+Version
+Status	manual setup needed
+Game	SJ-19 Learns To Love!
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1441670/SJ19_Learns_To_Love/
+Hints	needs godot built with GodotSteam module
+Genre	platformer
+Tags	indie, 2d
+Year	2021
+Dev	Zertuk
+Pub	Zertuk
+Version
+Status	runs (2021-09-06)
+Game	SUMICO - The Numbers Game
+Cover	sumico_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://libredia.itch.io/sumico-the-numbers-game https://store.steampowered.com/app/383190/SUMICO__The_Numbers_Game/
+Hints	mojoshader >= 1214
+Genre	Puzzle
+Tags
+Year	2015
+Dev	Ludomotion
+Pub
+Version
+Status
+Game	Salt and Sanctuary
+Cover	SaltAndSanctuary_header.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/salt-and-sanctuary https://store.steampowered.com/app/283640/Salt_and_Sanctuary/
+Hints
+Genre	Action Platformer
+Tags	souls-like
+Year	2016
+Dev	Ska Studios
+Pub
+Version
+Status	currently broken - mojoshader mismatch
+Game	Sam & Max Hit the Road
+Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
+Engine	SCUMM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/sam_max_hit_the_road
+Hints
+Genre	Adventure
+Tags	humor
+Year	1993
+Dev	LucasArts
+Pub
+Version
+Status
+Game	satryn deluxe
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1677360/satryn_deluxe/
+Hints	extract linux binary with pck-extract
+Genre	twinstick shooter
+Tags	indie
+Year	2021
+Dev	maybell
+Pub	maybell
+Version	0.9.1
+Status	runs (2021-10-31)
+Game	Session Seven
+Cover	Session_Seven_cover.jpg
+Engine
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/915720/Session_Seven/
+Hints	bug on saving reported
+Genre
+Tags
+Year	2019
+Dev
+Pub
+Version
+Status
+Game	The Settlers II
+Cover	Settlers_2_cover.jpg
+Engine
+Setup
+Runtime	returntotheroots
+Store	https://www.gog.com/game/the_settlers_2_gold_edition
+Hints
+Genre	RTS
+Tags
+Year	1996
+Dev	Blue Byte
+Pub
+Version
+Status	untested
+Game	The Settlers
+Cover	The_Settlers_-_cover.jpg
+Engine
+Setup
+Runtime	freeserf
+Store
+Hints	hard to find the game
+Genre	RTS
+Tags
+Year	1994
+Dev	Blue Byte
+Pub
+Version
+Status	untested
+Game	Seven Kingdoms: Ancient Adversaries
+Cover	7kaacover.jpg
+Engine
+Setup
+Runtime	7kaa
+Store	https://www.gog.com/game/seven_kingdoms_ancient_adversaries https://www.humblebundle.com/store/seven-kingdoms-ancient-adversaries https://store.steampowered.com/app/450140/Seven_Kingdoms_Ancient_Adversaries/
+Hints
+Genre	RTS
+Tags
+Year	1998
+Dev	Enlight Software
+Pub	Interactive Magic
+Version
+Status	needs manual setup
+Game	Shadow Warrior Classic Redux
+Cover
+Engine	eduke32
+Setup
+Runtime
+Store	https://www.gog.com/game/shadow_warrior_classic_redux https://store.steampowered.com/app/358400/Shadow_Warrior_Classic/
+Hints	needs eduke32 built with voidsw (see eduke32 port update 2021-08-20)
+Genre	FPS
+Tags
+Year	1997
+Dev	3D Realms (Apogee Software)
+Pub	3D Realms (Apogee Software)
+Version
+Status	untested
+Game	Shipwreck
+Cover	Shipwreck_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://brushfiregames.itch.io/shipwreck https://store.steampowered.com/app/342490/Shipwreck/
+Hints
+Genre	ARPG
+Tags	indie
+Year	2014
+Dev	Brushfire Games
+Pub
+Version
+Status
+Game	The Shivah
+Cover	Shivah-cover.jpg
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/the_shivah
+Hints
+Genre	Adventure
+Tags
+Year	1993
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version
+Status	runs (2021-10-13)
+Game	Signs of Life
+Cover	Signs_of_Life_-_cover.png
+Engine	XNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/263200/Signs_of_Life/
+Hints
+Genre
+Tags
+Year	In Development
+Dev	Sweet Dog Studios
+Pub
+Version
+Status	works
+Game	Skulls of the Shogun
+Cover	Skulls_of_the_Shogun_-_cover.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/skulls_of_the_shogun https://store.steampowered.com/app/228960/Skulls_of_the_Shogun/
+Hints
+Genre	TBS
+Tags	humor
+Year	2013
+Dev	17-BIT
+Pub
+Version
+Status	works
+Game	Slay the Spire
+Cover	Slay_the_Spire_cover.jpg
+Engine	libgdx
+Setup	libgdx
+Runtime	libgdx
+Store	https://www.gog.com/game/slay_the_spire https://www.humblebundle.com/store/slay-the-spire https://store.steampowered.com/app/646570/Slay_the_Spire/
+Hints	https://thfr.info/cgi-bin/cvsweb/projects/libgdx-openbsd/README-OpenBSD.md libgdx-openbsd, detailed instructions in README-OpenBSD.md https://perso.pw/gaming/openbsd_slay_the_spire.sh openbsd_slay_the_spire.sh setup script
+Genre	Roguelite Deckbuilder
+Tags
+Year	2019
+Dev	Mega Crit Games
+Pub
+Version
+Status	manual setup required
+Game	Solaroids: Prologue
+Cover	solaroids.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/602080/Solaroids_Prologue/
+Hints	only demo/trial version because game uses DRM not addressed by Steamworks.NET.dll stub
+Genre	Action
+Tags
+Year	In Development
+Dev	DynF/X Digital
+Pub
+Version
+Status	works with major limitations - game duration capped by DRM kicking in
+Game	Soulcaster I & II
+Cover	Soulcaster_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/soulcaster-book-i-ii https://store.steampowered.com/app/460970/Soulcaster_Part_I__II/
+Hints
+Genre
+Tags	indie
+Year	2012
+Dev	Magical Time Bean
+Pub
+Version
+Status
+Game	SpaceChem
+Cover	SpaceChem_-_cover.jpg
+Engine	FontEngine
+Setup	fnaify
+Runtime	fnaify
+Store	https://zachtronics.itch.io/spacechem
+Hints
+Genre	puzzle
+Tags	indie zach-like
+Year	2011
+Dev	Zachtronics
+Pub
+Version
+Status	works
+Game	SpeedRunners
+Cover	Speedrunners_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/speedrunners https://store.steampowered.com/app/207140/SpeedRunners/
+Hints
+Genre	Platformer
+Tags
+Year	2016
+Dev	DoubleDutch Games
+Pub	tinyBuildGames
+Version
+Status	works with minor bugs - no gamepad support, no online multiplayer
+Game	Star Wars: Jedi Knight - Jedi Academy
+Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
+Engine	id Tech 3
+Setup
+Runtime	openjk
+Store	https://www.gog.com/game/star_wars_jedi_knight_jedi_academy https://www.humblebundle.com/store/star-wars-jedi-knight-jedi-academy https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/
+Hints
+Genre	Action
+Tags	thirdperson
+Year	2003
+Dev	Raven Software
+Pub	LucasArts
+Version
+Status
+Game	Stardew Valley
+Cover	Stardew_Valley_cover.png
+Engine	MonoGame
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/stardew_valley https://www.humblebundle.com/store/stardew-valley https://store.steampowered.com/app/413150/Stardew_Valley/
+Hints
+Genre	Farming Simulation
+Tags	indie classic
+Year	2016
+Dev	ConcernedApe
+Pub
+Version
+Status	works
+Game	StarPrey
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1467390/StarPrey/
+Hints
+Genre	Action
+Tags	arcade
+Year	2020
+Dev	Narayana Walters
+Pub	Narayana Walters
+Version
+Status	runs (2021-08-21)
+Game	Star-Twine
+Cover
+Engine	FNA
+Setup
+Runtime	fnaify
+Store	https://sparsegamedev.itch.io/star-twine https://store.steampowered.com/app/548110/StarTwine/
+Hints
+Genre	Strategy
+Tags	space, indie
+Year	2011
+Dev	SPARSE//GameDev
+Pub	SPARSE//GameDev
+Version
+Status	runs (2021-10-27)
+Game	Steel Assault
+Cover
+Engine	FNA
+Setup
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1280300/Steel_Assault/
+Hints	libtheorafile-20210403 needed
+Genre	action platformer
+Tags	retro, indie
+Year	2021
+Dev	Zenovia Interactive
+Pub	Tribute Games Inc.
+Version
+Status	runs (2021-11-10)
+Game	Strangeland
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/strangeland https://store.steampowered.com/app/1369520/Strangeland/
+Hints
+Genre	Adventure
+Tags	indie
+Year	2021
+Dev	Wormwood Studios
+Pub	Wadjet Eye Games
+Version
+Status	runs (2021-10-28)
+Game	Strife: Veteran Edition
+Cover	Strife_Veteran_Edition_cover.jpg
+Engine	id Tech 1
+Setup
+Runtime	gzdoom | strife-ve
+Store	https://www.gog.com/game/strife_veteran_edition
+Hints
+Genre	FPS
+Tags
+Year	1996
+Dev	Rogue Entertainment
+Pub	Velocity Inc.
+Version
+Status	manual setup needed
+Game	Suits: A Business RPG
+Cover	Suits_A_Business_RPG_cover.jpg
+Engine
+Setup
+Runtime	easyrpg
+Store	https://technomancystudios.itch.io/suits https://store.steampowered.com/app/410670/Suits_A_Business_RPG/
+Hints	https://videos.pair2jeux.tube/videos/watch/3f7ea7f3-c031-480a-9c82-13c2da552928 Video https://www.reddit.com/r/openbsd_gaming/comments/himu89/suits_a_business_rpg_playonbsd/ Reddit post https://gist.github.com/reivyr/3c4ff37ace8135c84c6f7897f5751652 Setup instructions
+Genre
+Tags
+Year	2016
+Dev	Technomancy Studios
+Pub
+Version
+Status
+Game	Sunrider: Mask of Arcadius
+Cover	Sunrider_Mask_of_Arcadius_cover.jpg
+Engine	Ren'Py 6
+Setup	renpyify
+Runtime	Ren'Py
+Store	https://www.gog.com/game/sunrider_mask_of_arcadius
+Hints
+Genre	Visual Novel
+Tags
+Year	2014
+Dev	Love in Space
+Pub	Sekai Project
+Version
+Status
+Game	Super Amazing Wagon Adventure
+Cover	Super_Amazing_Wagon_Adventure_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/250500/Super_Amazing_Wagon_Adventure/
+Hints
+Genre
+Tags	indie retro
+Year	2013
+Dev	sparsevector
+Pub
+Version
+Status
+Game	Super Bernie World
+Cover	Super_Bernie_World_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://eniko.itch.io/superbernieworld https://store.steampowered.com/app/1258040/Super_Bernie_World/
+Hints
+Genre	Platformer
+Tags	propaganda
+Year	2020
+Dev	Gamedevs for Bernie
+Pub	Kitsune Games
+Version
+Status
+Game	Super Blood Hockey
+Cover	Super_Blood_Hockey_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/super-blood-hockey https://store.steampowered.com/app/532190/Super_Blood_Hockey/
+Hints
+Genre	Sports
+Tags
+Year	2017
+Dev	Loren Lemcke
+Pub
+Version
+Status	works with minor bugs - gamepad not working (2021-01-12)
+Game	Super Hexagon
+Cover	Super_Hexagon_cover.jpg
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/super-hexagon
+Hints
+Genre	Puzzle
+Tags
+Year	2012
+Dev	Terry Cavanagh
+Pub
+Version
+Status	browser needed
+Game	Super Ninja Warrior Extreme
+Cover	Super_Ninja_Warrior_Extreme.png
+Engine
+Setup	fnaify
+Runtime
+Store	http://www.bootdiskrevolution.com/gamefiles/old/windows-ninja-1.0.zip
+Hints
+Genre	Platformer
+Tags
+Year
+Dev
+Pub
+Version
+Status
+Game	Super Rad Raygun
+Cover	Super_Rad_Raygun_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://trufun.itch.io/super-rad-raygun https://store.steampowered.com/app/297660/Super_Rad_Raygun/
+Hints
+Genre	Action Platformer
+Tags	retro indie
+Year	2016
+Dev	TRU FUN Entertainment
+Pub	Rooster Teeth Games
+Version
+Status
+Game	Sword of the Stars: The Pit
+Cover	Sword_of_the_Stars_-_The_Pit_-_cover.png
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/sword_of_the_stars_the_pit_osmium_edition https://www.humblebundle.com/store/sword-of-the-stars-the-pit-osmium-edition https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
+Hints
+Genre	Roguelite
+Tags
+Year	2013
+Dev	Kerberos Productions
+Pub
+Version
+Status
+Game	System Shock
+Cover	System_Shock_cover.jpg
+Engine	System Shock engine
+Setup	shockolate
+Runtime	shockolate
+Store	https://www.gog.com/game/system_shock_enhanced_edition
+Hints	only works with the Classic Edition; Enhanced Edition is not supported
+Genre	Immersive Sim
+Tags
+Year	1994
+Dev	Looking Glass Technologies
+Pub	Origin Systems
+Version
+Status	works with minor bugs (2021-01-12)
+Game	Tales of Maj'Eyal
+Cover	tome.jpg
+Engine	T-Engine 4
+Setup
+Runtime	tome4
+Store	https://www.gog.com/game/tales_of_majeyal https://darkgod.itch.io/tales-of-majeyal https://www.humblebundle.com/store/tales-of-majeyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
+Hints
+Genre	RPG
+Tags	roguelike open-source
+Year	2012
+Dev	DarkGod
+Pub	Netcore
+Version
+Status
+Game	Tanglewood
+Cover	TANGLEWOOD_cover.jpg
+Engine	megaEx
+Setup
+Runtime	mednafen
+Store	https://www.gog.com/game/tanglewoodr https://bigevilcorporation.itch.io/tanglewood https://store.steampowered.com/app/837190/TANGLEWOOD/
+Hints
+Genre	Platformer
+Tags	ROM
+Year	2018
+Dev	Big Evil Corporation
+Pub
+Version
+Status
+Game	Technobabylon
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/technobabylon
+Hints
+Genre	Adventure
+Tags	cyberpunk
+Year	2015
+Dev	Technocrat
+Pub	Wadjet Eye Games
+Version
+Status	runs (2021-10-13)
+Game	Terraria
+Cover	Terraria_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/terraria https://www.humblebundle.com/store/terraria https://store.steampowered.com/app/105600/Terraria/
+Hints
+Genre	Sandbox
+Tags	award-winning
+Year	2011
+Dev	Re-Logic
+Pub
+Version
+Status
+Game	Theia: The Crimson Eclipse
+Cover	cropped-Title-LOGO_rid.png
+Engine	RPG Maker
+Setup
+Runtime	easyrpg
+Store	https://gamejolt.com/games/theia/426665
+Hints	https://www.reddit.com/r/openbsd_gaming/comments/g8ng68/free_40_hour_scifi_jrpg_works_on_openbsd_with/
+Genre	RPG
+Tags	free
+Year	2019
+Dev
+Pub
+Version
+Status
+Game	Theme Hospital
+Cover	ThemeHospital.jpg
+Engine
+Setup
+Runtime	corsixth
+Store	https://www.gog.com/game/theme_hospital
+Hints
+Genre	Simulation
+Tags	humor
+Year	1997
+Dev	Bullfrog Productions
+Pub	Electronic Arts
+Version
+Status
+Game	Thukothea Defender
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1658490/Thukothea_Defender/
+Hints	https://github.com/rfht/pck-extract
+Genre	Tower Defense
+Tags	indie
+Year	2021
+Dev	DjokaGames
+Pub	DjokaGames
+Version
+Status	runs (2021-10-15)
+Game	Timespinner
+Cover	Timespinner_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/timespinner https://www.humblebundle.com/store/timespinner https://store.steampowered.com/app/368620/Timespinner/
+Hints
+Genre	Metroidvania
+Tags	indie pixelart
+Year	2018
+Dev	Lunar Ray Games
+Pub	Chucklefish Games
+Version
+Status
+Game	Time's Up in Tiny Town
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1714430/Times_Up_in_Tiny_Town/
+Hints
+Genre	City Builder
+Tags	indie
+Year	2021
+Dev	6 Toad Games
+Pub	6 Toad Games
+Version
+Status	runs (2021-10-15)
+Game	Titan Attacks!
+Cover	Titan_Attacks_-_cover.jpg
+Engine	lwjgl
+Setup	lwjgl
+Runtime
+Store	https://store.steampowered.com/app/203210/Titan_Attacks/
+Hints	fix launch script to use system java (and ksh); have libopenal in LD_LIBRARY_PATH
+Genre	Action
+Tags
+Year	2006
+Dev	Puppy Games
+Pub
+Version
+Status	manual setup needed
+Game	Toonstruck
+Cover	Toonstruck_-_Cover.jpg
+Engine	Toon
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/toonstruck
+Hints	untested
+Genre	Adventure
+Tags	humor
+Year	1996
+Dev	Burst Studios
+Pub	Virgin Interactive
+Version
+Status	untested
+Game	TowerFall: Ascension
+Cover	TowerFall_Ascension_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/towerfall_ascension https://mattmakesgames.itch.io/towerfall https://www.humblebundle.com/store/towerfall-ascension https://store.steampowered.com/app/251470/TowerFall_Ascension/
+Hints
+Genre	Action Platformer
+Tags	multiplayer
+Year	2014
+Dev	Extremely OK Games
+Pub
+Version
+Status
+Game	Tyrian 2000
+Cover	Tyrian_2000.jpg
+Engine
+Setup
+Runtime	opentyrian
+Store	https://www.gog.com/game/tyrian_2000
+Hints
+Genre	Shmup
+Tags	classic, free
+Year	1995
+Dev	Eclipse Productions
+Pub	Epic MegaGames
+Version
+Status
+Game	Ultra Hat Dimension
+Cover	Ultra_Hat_Dimension_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://eniko.itch.io/uhd
+Hints
+Genre
+Tags
+Year	2015
+Dev	Eniko
+Pub
+Version
+Status	works
+Game	Ultratron
+Cover	Ultratron_-_cover.jpg
+Engine	lwjgl
+Setup	lwjgl
+Runtime	lwjgl
+Store	https://store.steampowered.com/app/219190/
+Hints	copy /usr/local/share/lwjgl/liblwjgl64.so into game directory, fix the launch script to use system java
+Genre	Action
+Tags
+Year	2005
+Dev	Puppy Games
+Pub
+Version
+Status	manual setup needed
+Game	Unavowed
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/unavowed
+Hints
+Genre	Adventure
+Tags
+Year	2018
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version
+Status	runs (2021-10-13)
+Game	Underlings
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1370040/Underlings/
+Hints
+Genre	Survival
+Tags	retro
+Year	2021
+Dev	One Man Games
+Pub	One Man Games
+Version
+Status	runs (2021-08-21)
+Game	Unexplored
+Cover	Unexplored_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/506870/Unexplored/
+Hints	mojoshader >= 1214
+Genre	Action
+Tags	roguelite
+Year	2017
+Dev	Ludomotion
+Pub
+Version
+Status
+Game	Unholy Heights
+Cover	Unholy_Heights.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://www.gog.com/game/unholy_heights https://playism.com/product/unholy-heights https://www.humblebundle.com/store/unholy-heights https://store.steampowered.com/app/249330/Unholy_Heights/
+Hints	audio supported since FNA 21.04 (XMA2)
+Genre
+Tags
+Year	2013
+Dev	Petit Depotto
+Pub	AGM PLAYISM
+Version
+Status	works (2021-09-17)
+Game	The Useful Dead
+Cover	Useful_Dead.png
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	http://www.bootdiskrevolution.com/the-useful-dead/
+Hints
+Genre	Puzzle
+Tags
+Year	2013
+Dev
+Pub
+Version
+Status
+Game	Virtual Cottage
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1369320/Virtual_Cottage/
+Hints
+Genre	Idler
+Tags	productivity, free
+Year	2020
+Dev	DU&I
+Pub	DU&I
+Version
+Status	runs (2021-08-21)
+Game	A Virus Named Tom
+Cover	A_Virus_Named_TOM_-_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/a-virus-named-tom https://www.humblebundle.com/store/a-virus-named-tom-with-soundtrack
+Hints
+Genre	Puzzle
+Tags
+Year	2012
+Dev
+Pub
+Version
+Status	major limitations - saving not working
+Game	Voidrun
+Cover
+Engine	hashlink
+Setup
+Runtime	hashlink
+Store	https://benjamin-soul.itch.io/voidrun https://store.steampowered.com/app/1048560/Voidrun/
+Hints
+Genre	Action
+Tags
+Year	2019
+Dev	Benjamin Soule, Pentadrangle
+Pub	Benjamin Soule
+Version
+Status	runs
+Game	Vomitoreum
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1549750/Vomitoreum/ https://scumhead.itch.io/vomitoreumgame
+Hints	cd Vomitoreum && gzdoom gzdoom.ipk3 # Vomitoreum subdirectory in the game's files
+Genre	FPS
+Tags	horror, lovecraftian
+Year	2021
+Dev	Scumhead
+Pub	Scumhead
+Version
+Status	runs (2021-10-27)
+Game	Vylan
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1549750/Vomitoreum/ https://scumhead.itch.io/vomitoreumgame
+Hints
+Genre	puzzle platformer
+Tags	indie
+Year	2021
+Dev	MostlyMadProductions
+Pub	MostlyMadProductions
+Version
+Status	runs (2021-10-30)
+Game	Weapon of Choice
+Cover	Weapon_of_Choice_cover.jpg
+Engine	XNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/373600/Weapon_of_Choice/
+Hints
+Genre	Platformer
+Tags
+Year	2015
+Dev	Mommy's Best Games
+Pub
+Version
+Status	currently not working
+Game	Wish Project
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/367140/Wish_Project
+Hints
+Genre	Shmup
+Tags
+Year	2016
+Dev	Andrew Willman
+Pub	Andrew Willman
+Version
+Status	runs (2021-08-19)
+Game	WizOrb
+Cover	Wizorb_game_cover.jpg
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/wizorb https://store.steampowered.com/app/207420/Wizorb/
+Hints
+Genre	RPG
+Tags	indie
+Year	2011
+Dev	Tribute Games
+Pub
+Version
+Status	currently not working - needs mono path fixes
+Game	Word Game: Episode 0
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1507970/Word_Game_Episode_0/
+Hints	Chinese languages only (traditional zh and modern cn available)
+Genre
+Tags	free
+Year	2021
+Dev	Team9
+Pub	Team9
+Version
+Status	runs (2021-08-21)
+Game	Wrath: Aeon of Ruin
+Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
+Engine	Darkplaces
+Setup
+Runtime	=> https://github.com/reivyr/openbsd-wrath wrath-darkplaces
+Store	https://www.gog.com/game/wrath_aeon_of_ruin https://www.humblebundle.com/store/wrath-aeon-of-ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
+Hints
+Genre	FPS
+Tags
+Year	In Development
+Dev	KillPixel
+Pub	3D Realms and 1C Company
+Version
+Status
+Game	Wyv and Keep
+Cover	wyv_and_keep.png
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://www.humblebundle.com/store/wyv-and-keep-the-temple-of-the-lost-idol https://store.steampowered.com/app/263960/Wyv_and_Keep_The_Temple_of_the_Lost_Idol/
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year	2013
+Dev	A Jolly Corpse
+Pub
+Version
+Status
+Game	X-Com: UFO Defense (aka UFO: Enemy Unknown)
+Cover	X-Com_UFO_Defense_Box.jpg
+Engine
+Setup
+Runtime	openxcom
+Store	https://www.gog.com/game/xcom_ufo_defense https://www.humblebundle.com/store/xcom-ufo-defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
+Hints
+Genre	TBS
+Tags	aliens
+Year	1994
+Dev	Mythos Games
+Pub	MicroProse
+Version
+Status
+Game	Yarntown
+Cover
+Engine	solarus
+Setup
+Runtime	solarus
+Store	https://maxatrillionator.itch.io/yarntown https://www.solarus-games.org/en/games/yarntown
+Hints	solarus-run *.solarus
+Genre	ARPG
+Tags	bloodborne-like, free
+Year	2020
+Dev	Max Mraz
+Pub
+Version	1.0.6
+Status	runs (2021-11-26)
+Game	Yume Nikki
+Cover	Nikki.jpg
+Engine
+Setup
+Runtime	easyrpg
+Store	https://playism.com/product/yumenikki https://store.steampowered.com/app/650700/Yume_Nikki/
+Hints	https://videos.pair2jeux.tube/videos/watch/b1e46c5d-aba7-46a4-b81e-1bf6ddee18ac
+Genre
+Tags
+Year	2004
+Dev
+Pub
+Version
+Status
+Game	Zak McKracken and the Alien Mindbenders
+Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
+Engine	SCUMM
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/game/zak_mckracken_and_the_alien_mindbenders
+Hints
+Genre	Adventure
+Tags
+Year	1988
+Dev	LucasArts
+Pub
+Version
+Status	untested
+Game	Zen Bound 2
+Cover	Zen_Bound_2_cover.jpg
+Engine
+Setup
+Runtime	HumblePlay
+Store	https://www.humblebundle.com/store/zen-bound-2
+Hints
+Genre	Puzzle
+Tags
+Year	2010
+Dev	Secret Exit
+Pub
+Version
+Status	needs browser
