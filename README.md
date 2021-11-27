@@ -17,20 +17,20 @@ At this point, the primary database is a text file `openbsd-games.db`. See below
 
 Currently **14** lines per entry, **in the following order**:
 
-1. Game
-2. Cover
-3. Engine
-4. Setup
-5. Runtime
-6. Store
-7. Hints
-8. Genre
-9. Tags
-10. Year
-11. Dev
-12. Pub
-13. Version
-14. Status
+1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering
+2. *Cover*: path to cover art image file (`.png`, `.jpg`)
+3. *Engine*: string of valid engine entry
+4. *Setup*: string (package, command, text)
+5. *Runtime*: string; should correspond to an executable in packages
+6. *Store*: strings of URLs, whitespace-separated
+7. *Hints*: string
+8. *Genre*: strings, comma-separated
+9. *Tags*: strings, comma-separated
+10. *Year*: integer (release year)
+11. *Dev*: string (developer)
+12. *Pub*: string (publisher)
+13. *Version*: version number/string
+14. *Status*: string of valid status with date when tested on -current in parentheses
 
 ...
 
