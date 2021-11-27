@@ -10,7 +10,25 @@ At this point, the primary database is a text file `openbsd-games.db`. See below
 
 ## Format of openbsd-games.db
 
-Note: TABS are currently MANDATORY where listed below!!
+**Important Notes**:
+
+* TABS are currently MANDATORY where listed below!!
+* Entries are ordered alphabetically (by `Game<TAB>Name`)
+* Currently **14** lines per entry, **in the following order**:
+** Game
+** Cover
+** Engine
+** Setup
+** Runtime
+** Store
+** Hints
+** Genre
+** Tags
+** Year
+** Dev
+** Pub
+** Version
+** Status
 
 ...
 
@@ -27,3 +45,4 @@ Planned:
 - [ ] web interface to rearrange the table data interactively (e.g. Shiny Web App)
 - [ ] publish updated releases for easy integration and consumption
 - [ ] license decision
+- [ ] script/form to assist in adding/editing entries
