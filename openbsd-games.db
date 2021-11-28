@@ -42,7 +42,7 @@ Version
 Status
 Game	Aeternum
 Cover
-Engine	XNA
+Engine	FNA
 Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/454750/Aeternum/ http://wastedbrilliance.com/games/aeternum/ https://brooksbishop.itch.io/aeternum
@@ -3777,7 +3777,7 @@ Year	2012
 Dev
 Pub
 Version
-Status	major limitations - saving not working
+Status	major limitations - saving not working; unplayable (2021-11-28)
 Game	Voidrun
 Cover
 Engine	hashlink
