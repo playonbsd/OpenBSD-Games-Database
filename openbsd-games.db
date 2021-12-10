@@ -220,8 +220,8 @@ Tags
 Year	2015
 Dev	Thomas Happ Games
 Pub
-Version
-Status	currently not working - mojoshader incompatibility
+Version	1.53
+Status	runs (2021-11-28)
 Game	Baldur's Gate
 Cover	Baldurs_Gate_cover.jpg
 Engine	Infinity Engine
@@ -361,7 +361,7 @@ Year	2017
 Dev	Bootdisk Revolution
 Pub
 Version
-Status	buggy - audio backend gets overloaded and dies (2021-11-28)
+Status	runs (2021-11-28)
 Game	Bottomless
 Cover
 Engine	godot
@@ -530,6 +530,20 @@ Dev	Busy Weasel Games
 Pub
 Version
 Status	runs (2021-10-31)
+Game	Cat Box Paradox
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1771200/Cat_Box_Paradox/
+Hints
+Genre	platformer
+Tags	indie
+Year	2021
+Dev	BiscuitLocker
+Pub	BiscuitLocker
+Version
+Status	runs (2021-12-10)
 Game	The Cat Lady
 Cover	The_Cat_Lady_-_cover.jpg
 Engine	AGS
@@ -810,6 +824,20 @@ Dev	Daisy Games
 Pub	Daisy Games
 Version
 Status	runs (2021-10-15)
+Game	Dark Sheep
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1576490/Dark_Sheep/
+Hints
+Genre	Puzzle
+Tags	indie
+Year	2021
+Dev	Daisy Games
+Pub	Daisy Games
+Version
+Status	runs (2021-12-10)
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
 Engine	hashlink
@@ -3259,7 +3287,7 @@ Year	2016
 Dev	ConcernedApe
 Pub
 Version
-Status	works
+Status	works - only up to version 1.5.4
 Game	StarPrey
 Cover
 Engine	godot
