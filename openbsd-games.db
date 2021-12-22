@@ -950,6 +950,20 @@ Dev	Blizzard North
 Pub	Blizzard Entertainment
 Version
 Status	works
+Game	Diefrosty
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1814950/Diefrosty/
+Hints
+Genre	puzzle platformer
+Tags	indie
+Year	2021
+Dev	Ulon
+Pub	Gagonfe
+Version
+Status	runs (2021-12-22)
 Game	Diehard Dungeon
 Cover	Diehard_Dungeon_cover.jpg
 Engine	XNA
@@ -2042,6 +2056,20 @@ Dev	Ibe Denaux
 Pub	Ibe Denaux
 Version
 Status	runs (2021-08-21)
+Game	Kotel Ne Gori: A Friend of Lena Boots
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1325870/Kotel_Ne_Gori_A_Friend_of_Lena_Boots/
+Hints
+Genre	FPS
+Tags	weird, psychedelic
+Year	2020
+Dev	derevotyan
+Pub	derevotyan
+Version
+Status	runs (2021-12-22)
 Game	Lamplight City
 Cover
 Engine	AGS
@@ -3232,6 +3260,20 @@ Dev	Mega Crit Games
 Pub
 Version
 Status	manual setup required
+Game	Solar Rogue
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1301410/Solar_Rogue/
+Hints
+Genre	roguelike
+Tags	space
+Year	2021
+Dev	Guillaume Bouvier
+Pub	Ombarus Dev
+Version	1.0.1
+Status	runs (2021-12-22)
 Game	Solaroids: Prologue
 Cover	solaroids.png
 Engine	FNA
@@ -3918,6 +3960,20 @@ Dev	Tribute Games
 Pub
 Version
 Status	currently not working - needs mono path fixes
+Game	Woodland Empire
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1419150/Woodland_Empire/
+Hints
+Genre	god game
+Tags	nature, early access
+Year
+Dev	Nicholas Orlowski
+Pub	Obvlong Games
+Version
+Status	runs (2021-12-22)
 Game	Word Game: Episode 0
 Cover
 Engine	godot
