@@ -1930,6 +1930,20 @@ Dev	LucasArts
 Pub	LucasArts
 Version
 Status
+Game	Indirection
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1744450/Indirection/
+Hints
+Genre	puzzle platformer
+Tags
+Year	2022
+Dev	jakes1403
+Pub	jakes1403
+Version
+Status	runs (2022-01-09)
 Game	In the House of Silence
 Cover
 Engine	godot
