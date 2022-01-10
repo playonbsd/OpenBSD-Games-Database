@@ -3610,6 +3610,20 @@ Dev	Big Evil Corporation
 Pub
 Version
 Status
+Game	TD Worlds
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1659180/TD_Worlds/
+Hints
+Genre	RTS, tower defense
+Tags	indie
+Year	2022
+Dev	MAKSIM VOLKAU
+Pub	MAKSIM VOLKAU
+Version
+Status	runs (2022-01-10)
 Game	Technobabylon
 Cover
 Engine	AGS
