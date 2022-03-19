@@ -1034,6 +1034,20 @@ Dev	Team Salvato
 Pub
 Version
 Status
+Game	Dome Romantik
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1637320/Dome_Romantik/ https://bippinbits.itch.io/dome-romantik
+Hints	Run with `godot --main-pack domeromantik.x86_64`. As of 2022-03-19, itch.io demo is outdated compared to Steam.
+Genre	mining, action
+Tags	Lovecraftian
+Year
+Dev	Bippinbits
+Pub	Bippinbits
+Version	Demo 23.7
+Status	runs (2022-03-19)
 Game	Doom
 Cover	Doom_Ultimate.jpg
 Engine	id Tech 1
