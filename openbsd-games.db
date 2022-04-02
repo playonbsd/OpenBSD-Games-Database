@@ -2657,7 +2657,7 @@ Year	2016
 Dev	D-Pad Studio
 Pub
 Version
-Status	works (2021-01-12)
+Status	broken (2022-04-01)
 Game	Paladin
 Cover	Paladin_cover.jpg
 Engine	FNA
@@ -3092,6 +3092,20 @@ Dev	Zertuk
 Pub	Zertuk
 Version
 Status	runs (2021-09-06)
+Game	Sokobos
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1655890/Sokobos/
+Hints	run with `godot --main-pack Sokobos.pck`
+Genre	Puzzle
+Tags
+Year	2021
+Dev	Daisy Games
+Pub	Daisy Games
+Version
+Status	runs (2022-04-01)
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
