@@ -334,6 +334,20 @@ Dev	Wadjet Eye Games
 Pub
 Version
 Status	needs manual setup
+Game	Blastronaut
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1392650/BLASTRONAUT/
+Hints	run with `godot --main-pack blastronaut.pck`
+Genre	Action Platformer
+Tags	crafting
+Year
+Dev	Perfoon
+Pub	Perfoon
+Version	demo (downloaded 2022-04-02)
+Status	runs (2022-04-02)
 Game	Bleed
 Cover	Bleed_boxart.JPG
 Engine	FNA
