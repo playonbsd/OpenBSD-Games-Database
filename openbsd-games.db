@@ -1370,6 +1370,20 @@ Dev	Solo Byte Games
 Pub	Solo Byte Games
 Version
 Status	runs (2021-10-15)
+Game	FRANZ FURY
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1513960/FRANZ_FURY/
+Hints
+Genre	action
+Tags	top-down, vehicle
+Year
+Dev	Raffaele Picca
+Pub	Raffaele Picca
+Version	Demo
+Status	runs (2022-04-13)
 Game	FTL
 Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
@@ -2896,6 +2910,20 @@ Dev
 Pub
 Version
 Status
+Game	Quest of Graal
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1765700/Quest_Of_Graal/
+Hints
+Genre	racing, platformer
+Tags	multiplayer
+Year	2022
+Dev	Pixel-Archipel, Theo Mn
+Pub	Pixel-Archipel
+Version
+Status	runs (2022-04-13)
 Game	Retro City Rampage DX
 Cover	Retro_City_Rampage_cover.jpg
 Engine
