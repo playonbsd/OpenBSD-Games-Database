@@ -558,6 +558,20 @@ Dev	BiscuitLocker
 Pub	BiscuitLocker
 Version
 Status	runs (2021-12-10)
+Game	Cat Cafe Manager
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/
+Hints
+Genre	management, simulation
+Tags	feline
+Year	2022
+Dev	Roost Games
+Pub	Freedom Games
+Version	1.0.388
+Status	runs (2022-04-15)
 Game	The Cat Lady
 Cover	The_Cat_Lady_-_cover.jpg
 Engine	AGS
