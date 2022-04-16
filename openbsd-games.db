@@ -754,6 +754,20 @@ Dev	Alientrap Games
 Pub
 Version
 Status	works (2021-01-12)
+Game	Crystal Project
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/1637730/Crystal_Project/
+Hints
+Genre	RPG, JRPG
+Tags	voxel
+Year	2022
+Dev	Andrew Willman
+Pub	Andrew Willman
+Version	1.0.11
+Status	runs (2022-04-16)
 Game	Cthulhu Saves the World
 Cover	CthulhuSavestheWorld.png
 Engine	XNA
