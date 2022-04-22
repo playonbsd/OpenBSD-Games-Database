@@ -2210,6 +2210,20 @@ Dev
 Pub
 Version
 Status	works
+Game	Lila's Sky Aark
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1573390/Lilas_Sky_Ark/
+Hints
+Genre	metroidvania
+Tags	indie, pixelart
+Year	2022
+Dev	Monolith of Minds
+Pub	Graffiti Games
+Version
+Status	runs (2022-04-21)
 Game	Lingo
 Cover
 Engine	godot
