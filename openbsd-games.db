@@ -3372,6 +3372,20 @@ Dev	Sweet Dog Studios
 Pub
 Version
 Status	works
+Game	Simona's Requiem
+Cover
+Engine	godot
+Setup
+Runtime	godo
+Store	https://store.steampowered.com/app/1482430/Simonas_Requiem/
+Hints
+Genre	platformer, action
+Tags	Castlevania-like
+Year	2021
+Dev	Team Simona
+Pub	Team Simona
+Version
+Status	runs (2022-04-29)
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
 Engine	FNA
