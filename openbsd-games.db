@@ -3784,14 +3784,14 @@ Engine	FNA
 Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/terraria https://www.humblebundle.com/store/terraria https://store.steampowered.com/app/105600/Terraria/
-Hints
+Hints	fnaify 3.0p0 and steamworks-nosteam 0.4.1p0 install Steamworks.NET.dll stub which interferes
 Genre	Sandbox
 Tags	award-winning
 Year	2011
 Dev	Re-Logic
 Pub
-Version
-Status
+Version	1.4.3.6v2
+Status	runs (2022-04-30)
 Game	Theia: The Crimson Eclipse
 Cover	cropped-Title-LOGO_rid.png
 Engine	RPG Maker
