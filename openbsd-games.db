@@ -12,6 +12,20 @@ Dev
 Pub
 Version
 Status
+Game	The Adventures of Mr. Hat
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1869200/The_Adventures_of_Mr_Hat/
+Hints
+Genre	Puzzle Platformer
+Tags	indie
+Year
+Dev	AX-GAME
+Pub	Fun Quarter
+Version	Early Access
+Status	runs (2022-05-13)
 Game	The Adventures of Shuggy
 Cover	Adventures_of_Shuggy_The_-_cover.png
 Engine	FNA
@@ -3106,6 +3120,20 @@ Dev	Chris Sawyer
 Pub	Infogrames
 Version
 Status	untested
+Game	Roma Invicta
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1878070/Roma_Invicta/
+Hints
+Genre	strategy, RTS
+Tags	indie
+Year	2022
+Dev	Puntigames
+Pub	Puntigames
+Version
+Status	runs (2022-05-13)
 Game	Ruggnar
 Cover	Ruggnar_cover.png
 Engine	MonoGame
