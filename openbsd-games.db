@@ -3246,6 +3246,20 @@ Dev	Daisy Games
 Pub	Daisy Games
 Version
 Status	runs (2022-04-01)
+Game	SokoChess
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1960400/SokoChess/
+Hints	run with `godot --main-pack Sokobos.pck`
+Genre	Puzzle
+Tags
+Year
+Dev	Daisy Games
+Pub	Daisy Games
+Version	demo (2022-06-07)
+Status	runs (2022-06-07)
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
