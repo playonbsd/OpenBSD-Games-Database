@@ -446,6 +446,20 @@ Dev	Revolution Software
 Pub	Virgin Interactive
 Version
 Status
+Game	Brotato
+Cover
+Engine	godot
+Setup
+Runtime
+Store	https://store.steampowered.com/app/1942280/Brotato/
+Hints
+Genre
+Tags	indie
+Year
+Dev	Blobfish
+Pub	Blobfish
+Version	demo (2022-06-07)
+Status	runs (2022-06-07)
 Game	Brushwood Buddies
 Cover	Brushwood_Buddies_cover.jpg
 Engine	FNA
