@@ -96,6 +96,20 @@ Dev	Haruneko Entertainment
 Pub
 Version
 Status
+Game	Alien Shepherd
+Cover
+Engine	HashLink
+Setup
+Runtime	HashLink
+Store	https://store.steampowered.com/app/1808820/Alien_Shepherd/
+Hints	needs steam.hdll (see steamworks-nosteam package)
+Genre	platformer
+Tags
+Year	2022
+Dev	Florent Espanet, Lea Espanet
+Pub	Florent Espanet
+Version	1.0.1
+Status	runs with bugs - graphics artefacts (2022-06-11)
 Game	Always Sometimes Monsters
 Cover	Always_Sometimes_Monsters.jpg
 Engine	NW.js
