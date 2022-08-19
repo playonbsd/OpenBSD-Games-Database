@@ -3283,11 +3283,11 @@ Store	https://store.steampowered.com/app/1960400/SokoChess/
 Hints	run with `godot --main-pack Sokobos.pck`
 Genre	Puzzle
 Tags
-Year
+Year	2022
 Dev	Daisy Games
 Pub	Daisy Games
-Version	demo (2022-06-07)
-Status	runs (2022-06-07)
+Version	1.0.2
+Status	runs (2022-08-18)
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
