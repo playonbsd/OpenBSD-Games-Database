@@ -404,6 +404,20 @@ Dev	Bootdisk Revolution
 Pub
 Version
 Status	runs (2021-11-28)
+Game	Blossom Tales II: The Minotaur Prince
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime
+Store	https://store.steampowered.com/app/1747830/Blossom_Tales_II_The_Minotaur_Prince/
+Hints
+Genre	Action Adventure
+Tags	Zelda-like
+Year	2022
+Dev	Castle Pixel
+Pub	Playtonic Friends
+Version
+Status	runs (2022-08-18)
 Game	Bottomless
 Cover
 Engine	godot
