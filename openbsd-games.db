@@ -1796,14 +1796,14 @@ Engine	godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1395270/Haiki/
-Hints	needs godot built with GodotSteam module
+Hints
 Genre	Platformer
 Tags	indie, 2D, early access
 Year
 Dev	Richard Hornig
 Pub	Application Systems Heidelberg
 Version
-Status	runs (2021-09-06)
+Status	shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 (2022-08-20)
 Game	Hallow's Eve
 Cover
 Engine	solarus
