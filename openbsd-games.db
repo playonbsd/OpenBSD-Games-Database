@@ -1258,6 +1258,20 @@ Dev	Hitbox Team
 Pub
 Version
 Status	needs browser
+Game	DwarfCorp
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/252390/DwarfCorp/
+Hints	note itch.io version is outdated and doesn't run well
+Genre	Strategy
+Tags	indie, voxel
+Year	2019
+Dev	Completely Fair Games LLC
+Pub	Completely Fair Games LLC
+Version
+Status	runs (2022-08-27)
 Game	EXAPUNKS
 Cover	EXAPUNKS_cover.jpg
 Engine
