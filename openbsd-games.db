@@ -4324,6 +4324,20 @@ Dev
 Pub
 Version
 Status
+Game	The Zachtronics Solitaire Collection
+Cover
+Engine	Mono
+Setup	fnaify
+Runtime	fnaify
+Store	https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
+Hints
+Genre	Puzzle
+Tags	zach-like
+Year	2022
+Dev	Zachtronics
+Pub	Zachtronics
+Version
+Status	runs (2022-09-06)
 Game	Zak McKracken and the Alien Mindbenders
 Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
 Engine	SCUMM
