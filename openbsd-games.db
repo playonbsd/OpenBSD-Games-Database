@@ -2196,6 +2196,20 @@ Dev	Clifftop Games
 Pub	Raw Fury
 Version
 Status	runs (2021-10-13)
+Game	Kitsune Zero
+Cover
+Engine	FNA
+Setup	IndieRunner
+Runtime	IndieRunner
+Store	https://eniko.itch.io/kitsunezero https://store.steampowered.com/app/1947550/Kitsune_Zero__Super_Bernie_World/
+Hints	force using FNA 19.3; easiest with IndieRunner rather than fnaify. Steam version sold as DLC for (free) Super Bernie World.
+Genre	Platformer
+Tags	political
+Year	2022
+Dev	Gamedevs for Bernie
+Pub	Kitsune Games
+Version	1.2.0
+Status	runs (2022-09-13)
 Game	Kitty Tactics
 Cover
 Engine	godot
@@ -3725,17 +3739,17 @@ Status
 Game	Super Bernie World
 Cover	Super_Bernie_World_cover.jpg
 Engine	FNA
-Setup	fnaify
-Runtime
+Setup	IndieRunner
+Runtime	IndieRunner
 Store	https://eniko.itch.io/superbernieworld https://store.steampowered.com/app/1258040/Super_Bernie_World/
-Hints
+Hints	force using FNA 19.3; easiest with IndieRunner rather than fnaify
 Genre	Platformer
-Tags	propaganda
+Tags	political
 Year	2020
 Dev	Gamedevs for Bernie
 Pub	Kitsune Games
-Version
-Status
+Version	1.1.0
+Status	runs (2022-09-13)
 Game	Super Blood Hockey
 Cover	Super_Blood_Hockey_cover.jpg
 Engine	XNA
