@@ -1398,6 +1398,20 @@ Dev	Shiro Games
 Pub
 Version
 Status	not working - needs modifications to steam hashlink library
+Game	The Excavation of Hob's Barrow
+Cover
+Engine	AGS
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/en/game/the_excavation_of_hobs_barrow https://store.steampowered.com/app/1182310/The_Excavation_of_Hobs_Barrow/
+Hints	text hard to read with AGS fallback in scummvm as of 2022-09-28
+Genre	Adventure
+Tags	pixelart
+Year	2022
+Dev	Cloak and Dagger Games
+Pub	Wadjet Eye Games
+Version	1.0
+Status	runs with issues displaying text (2022-09-28)
 Game	Explosionade
 Cover	Explosionade_cover.jpg
 Engine	XNA
