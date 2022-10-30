@@ -2350,6 +2350,20 @@ Dev	Milkstone Studios
 Pub
 Version
 Status
+Game	Lode Runner Online: The Mad Monks' Revenge
+Cover
+Engine	FNA
+Setup	fnaify
+Runtime	fnaify
+Store	https://mmr.quarkrobot.com/
+Hints
+Genre	Platformer
+Tags	free
+Year
+Dev	Quark Robot
+Pub
+Version	22.09
+Status	runs (2022-10-30)
 Game	Long Live the Queen
 Cover	Long_Live_the_Queen.jpg
 Engine	Ren'Py 6
