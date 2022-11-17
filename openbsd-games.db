@@ -27,7 +27,7 @@ Dev	AX-GAME
 Pub	Fun Quarter
 Version	Early Access
 Status	runs (2022-05-13)
-Added	1970/01/01
+Added	2022/05/13
 Game	The Adventures of Shuggy
 Cover	Adventures_of_Shuggy_The_-_cover.png
 Engine	FNA
@@ -72,7 +72,7 @@ Dev	Creaky Lantern Games
 Pub	Creaky Lantern Games
 Version
 Status	runs (2021-11-27)
-Added	1970/01/01
+Added	2021/11/27
 Game	Airships: Conquer the Skies
 Cover	Airships_ConquerTheSkies_logo.jpg
 Engine	lwjgl
@@ -117,7 +117,7 @@ Dev	Florent Espanet, Lea Espanet
 Pub	Florent Espanet
 Version	1.0.1
 Status	runs with bugs - graphics artefacts (2022-06-11)
-Added	1970/01/01
+Added	2022/06/11
 Game	Always Sometimes Monsters
 Cover	Always_Sometimes_Monsters.jpg
 Engine	NW.js
@@ -402,7 +402,7 @@ Dev	Perfoon
 Pub	Perfoon
 Version	demo (downloaded 2022-04-02)
 Status	runs (2022-04-02)
-Added	1970/01/01
+Added	2022/04/03
 Game	Bleed
 Cover	Bleed_boxart.JPG
 Engine	FNA
@@ -447,7 +447,7 @@ Dev	Castle Pixel
 Pub	Playtonic Friends
 Version
 Status	runs (2022-08-18)
-Added	1970/01/01
+Added	2022/08/19
 Game	Bottomless
 Cover
 Engine	godot
@@ -522,7 +522,7 @@ Dev	Blobfish
 Pub	Blobfish
 Version	demo (2022-06-07)
 Status	runs (2022-06-07)
-Added	1970/01/01
+Added	2022/06/07
 Game	Brushwood Buddies
 Cover	Brushwood_Buddies_cover.jpg
 Engine	FNA
@@ -657,7 +657,7 @@ Dev	Color Gray Games
 Pub	Playstack
 Version	1.3.2
 Status	runs (2022-11-16)
-Added	1970/01/01
+Added	2022/11/17
 Game	Cat Box Paradox
 Cover
 Engine	godot
@@ -672,7 +672,7 @@ Dev	BiscuitLocker
 Pub	BiscuitLocker
 Version
 Status	runs (2021-12-10)
-Added	1970/01/01
+Added	2021/12/10
 Game	Cat Cafe Manager
 Cover
 Engine	godot
@@ -687,7 +687,7 @@ Dev	Roost Games
 Pub	Freedom Games
 Version	1.0.388
 Status	runs (2022-04-15)
-Added	1970/01/01
+Added	2022/04/15
 Game	The Cat Lady
 Cover	The_Cat_Lady_-_cover.jpg
 Engine	AGS
@@ -792,7 +792,7 @@ Dev	Aarimous
 Pub	Aarimous
 Version	Early Access 0.6.2.1
 Status	runs (2022-11-13)
-Added	1970/01/01
+Added	2022/11/17
 Game	CometStriker
 Cover	CometStriker_cover.jpg
 Engine	FNA
@@ -912,7 +912,7 @@ Dev	Andrew Willman
 Pub	Andrew Willman
 Version	1.0.11
 Status	runs (2022-04-16)
-Added	1970/01/01
+Added	2022/04/16
 Game	Cthulhu Saves the World
 Cover	CthulhuSavestheWorld.png
 Engine	XNA
@@ -1032,7 +1032,7 @@ Dev	Daisy Games
 Pub	Daisy Games
 Version
 Status	runs (2021-12-10)
-Added	1970/01/01
+Added	2021/12/10
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
 Engine	hashlink
@@ -1167,7 +1167,7 @@ Dev	Ulon
 Pub	Gagonfe
 Version
 Status	runs (2021-12-22)
-Added	1970/01/01
+Added	2021/12/22
 Game	Diehard Dungeon
 Cover	Diehard_Dungeon_cover.jpg
 Engine	XNA
@@ -1257,7 +1257,7 @@ Dev	Bippinbits
 Pub	Bippinbits
 Version	Demo (2022-06-07)
 Status	runs (2022-06-07)
-Added	1970/01/01
+Added	2022/03/19
 Game	Doom
 Cover	Doom_Ultimate.jpg
 Engine	id Tech 1
@@ -1392,7 +1392,7 @@ Dev	Completely Fair Games LLC
 Pub	Completely Fair Games LLC
 Version
 Status	runs (2022-08-27)
-Added	1970/01/01
+Added	2022/08/28
 Game	EXAPUNKS
 Cover	EXAPUNKS_cover.jpg
 Engine
@@ -1542,7 +1542,7 @@ Dev	Cloak and Dagger Games
 Pub	Wadjet Eye Games
 Version	1.0
 Status	runs with issues displaying text (2022-09-28)
-Added	1970/01/01
+Added	2022/09/28
 Game	Explosionade
 Cover	Explosionade_cover.jpg
 Engine	XNA
@@ -1632,7 +1632,7 @@ Dev	Raffaele Picca
 Pub	Raffaele Picca
 Version	Demo
 Status	runs (2022-04-13)
-Added	1970/01/01
+Added	2022/04/14
 Game	FTL
 Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
@@ -2277,7 +2277,7 @@ Dev	jakes1403
 Pub	jakes1403
 Version
 Status	runs (2022-01-09)
-Added	1970/01/01
+Added	2022/01/09
 Game	In the House of Silence
 Cover
 Engine	godot
@@ -2412,7 +2412,7 @@ Dev	Gamedevs for Bernie
 Pub	Kitsune Games
 Version	1.2.0
 Status	runs (2022-09-13)
-Added	1970/01/01
+Added	2022/09/13
 Game	Kitty Tactics
 Cover
 Engine	godot
@@ -2442,7 +2442,7 @@ Dev	derevotyan
 Pub	derevotyan
 Version
 Status	runs (2021-12-22)
-Added	1970/01/01
+Added	2021/12/22
 Game	Lamplight City
 Cover
 Engine	AGS
@@ -2517,7 +2517,7 @@ Dev	Monolith of Minds
 Pub	Graffiti Games
 Version
 Status	runs (2022-04-21)
-Added	1970/01/01
+Added	2022/04/22
 Game	Lingo
 Cover
 Engine	godot
@@ -2532,7 +2532,7 @@ Dev	Brenton Wildes
 Pub	Brenton Wildes
 Version
 Status	runs (2021-12-21)
-Added	1970/01/01
+Added	2021/12/13
 Game	Little Racers STREET
 Cover	Little_Racers_Street_-_cover.jpg
 Engine	FNA
@@ -2562,7 +2562,7 @@ Dev	Quark Robot
 Pub
 Version	22.09
 Status	runs (2022-10-30)
-Added	1970/01/01
+Added	2022/10/30
 Game	Long Live the Queen
 Cover	Long_Live_the_Queen.jpg
 Engine	Ren'Py 6
@@ -2742,7 +2742,7 @@ Dev	ESP Games
 Pub	David Addis
 Version
 Status	buggy: missing graphics elements (2021-12-11)
-Added	1970/01/01
+Added	2021/12/13
 Game	Micro Mages
 Cover	Micro_Mages_cover.jpg
 Engine
@@ -3327,7 +3327,7 @@ Dev	Pixel-Archipel, Theo Mn
 Pub	Pixel-Archipel
 Version
 Status	runs (2022-04-13)
-Added	1970/01/01
+Added	2022/04/14
 Game	Retro City Rampage DX
 Cover	Retro_City_Rampage_cover.jpg
 Engine
@@ -3492,7 +3492,7 @@ Dev	Puntigames
 Pub	Puntigames
 Version
 Status	runs (2022-05-13)
-Added	1970/01/01
+Added	2022/05/13
 Game	Ruggnar
 Cover	Ruggnar_cover.png
 Engine	MonoGame
@@ -3522,7 +3522,7 @@ Dev	Team Run
 Pub	Team Run, PID Games
 Version
 Status	runs (2022-04-14)
-Added	1970/01/01
+Added	2022/04/14
 Game	RuneScape
 Cover
 Engine	Java
@@ -3597,7 +3597,7 @@ Dev	Daisy Games
 Pub	Daisy Games
 Version
 Status	runs (2022-04-01)
-Added	1970/01/01
+Added	2022/04/02
 Game	SokoChess
 Cover
 Engine	godot
@@ -3612,7 +3612,7 @@ Dev	Daisy Games
 Pub	Daisy Games
 Version	1.0.2
 Status	runs (2022-08-18)
-Added	1970/01/01
+Added	2022/06/07
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
@@ -3807,7 +3807,7 @@ Dev	Team Simona
 Pub	Team Simona
 Version
 Status	runs (2022-04-29)
-Added	1970/01/01
+Added	2022/04/29
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
 Engine	FNA
@@ -3852,7 +3852,7 @@ Dev	Guillaume Bouvier
 Pub	Ombarus Dev
 Version	1.0.1
 Status	runs (2021-12-22)
-Added	1970/01/01
+Added	2021/12/22
 Game	Solaroids: Prologue
 Cover	solaroids.png
 Engine	FNA
@@ -4212,7 +4212,7 @@ Dev	MAKSIM VOLKAU
 Pub	MAKSIM VOLKAU
 Version
 Status	runs (2022-01-10)
-Added	1970/01/01
+Added	2022/01/10
 Game	Technobabylon
 Cover
 Engine	AGS
@@ -4617,7 +4617,7 @@ Dev	Nicholas Orlowski
 Pub	Obvlong Games
 Version
 Status	runs (2021-12-22)
-Added	1970/01/01
+Added	2021/12/22
 Game	Word Game: Episode 0
 Cover
 Engine	godot
@@ -4722,7 +4722,7 @@ Dev	Zachtronics
 Pub	Zachtronics
 Version
 Status	runs (2022-09-06)
-Added	1970/01/01
+Added	2022/09/07
 Game	Zak McKracken and the Alien Mindbenders
 Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
 Engine	SCUMM
