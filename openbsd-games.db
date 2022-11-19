@@ -1230,6 +1230,22 @@ Version
 Status	works
 Added	1970-01-01
 Updated
+Game	Dice Tribes: Ambitions
+Cover
+Engine	HashLink
+Setup
+Runtime	HashLink
+Store	https://store.steampowered.com/app/1965800/Dice_Tribes_Ambitions/
+Hints
+Genre	boardgame
+Tags	indie, dice
+Year	2022
+Dev	Sprouting Potato
+Pub	Sprouting Potato
+Version	1.3.4
+Status	runs (2022-11-19)
+Added	2022-11-19
+Updated	2022-11-19
 Game	Diefrosty
 Cover
 Engine	godot
