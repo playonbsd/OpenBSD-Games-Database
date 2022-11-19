@@ -77,7 +77,7 @@ Pub	Creaky Lantern Games
 Version
 Status	runs (2021-11-27)
 Added	2021-11-27
-Updated
+Updated	2021-11-28
 Game	Airships: Conquer the Skies
 Cover	Airships_ConquerTheSkies_logo.jpg
 Engine	lwjgl
@@ -285,7 +285,7 @@ Pub
 Version	1.53
 Status	runs (2021-11-28)
 Added	1970-01-01
-Updated
+Updated	2021-12-10
 Game	Baldur's Gate
 Cover	Baldurs_Gate_cover.jpg
 Engine	Infinity Engine
@@ -461,7 +461,7 @@ Pub
 Version
 Status	runs (2021-11-28)
 Added	1970-01-01
-Updated
+Updated	2021-12-10
 Game	Blossom Tales II: The Minotaur Prince
 Cover
 Engine	FNA
@@ -1341,7 +1341,7 @@ Pub	Bippinbits
 Version	Demo (2022-06-07)
 Status	runs (2022-06-07)
 Added	2022-03-19
-Updated
+Updated	2022-06-07
 Game	Doom
 Cover	Doom_Ultimate.jpg
 Engine	id Tech 1
@@ -1357,7 +1357,7 @@ Pub	GT Interactive
 Version
 Status
 Added	1970-01-01
-Updated
+Updated	2022-11-04
 Game	Doom & Destiny Advanced
 Cover
 Engine	XNA
@@ -2125,7 +2125,7 @@ Pub	Application Systems Heidelberg
 Version
 Status	shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 (2022-08-20)
 Added	1970-01-01
-Updated
+Updated	2022-08-21
 Game	Hallow's Eve
 Cover
 Engine	solarus
@@ -2701,7 +2701,7 @@ Pub	Brenton Wildes
 Version
 Status	runs (2021-12-21)
 Added	2021-12-13
-Updated
+Updated	2022-03-19
 Game	Little Racers STREET
 Cover	Little_Racers_Street_-_cover.jpg
 Engine	FNA
@@ -3277,7 +3277,7 @@ Pub
 Version
 Status	broken (2022-04-01)
 Added	1970-01-01
-Updated
+Updated	2022-04-02
 Game	Paladin
 Cover	Paladin_cover.jpg
 Engine	FNA
@@ -3853,7 +3853,7 @@ Pub	Daisy Games
 Version	1.0.2
 Status	runs (2022-08-18)
 Added	2022-06-07
-Updated
+Updated	2022-08-19
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
@@ -4205,7 +4205,7 @@ Pub
 Version
 Status	works - only up to version 1.5.4
 Added	1970-01-01
-Updated
+Updated	2021-12-10
 Game	StarPrey
 Cover
 Engine	godot
@@ -4349,7 +4349,7 @@ Pub	Kitsune Games
 Version	1.1.0
 Status	runs (2022-09-13)
 Added	1970-01-01
-Updated
+Updated	2022-09-13
 Game	Super Blood Hockey
 Cover	Super_Blood_Hockey_cover.jpg
 Engine	XNA
@@ -4525,7 +4525,7 @@ Pub
 Version	1.4.3.6v2
 Status	runs (2022-04-30)
 Added	1970-01-01
-Updated
+Updated	2022-05-01
 Game	Theia: The Crimson Eclipse
 Cover	cropped-Title-LOGO_rid.png
 Engine	RPG Maker
@@ -4813,7 +4813,7 @@ Pub
 Version
 Status	major limitations - saving not working; unplayable (2021-11-28)
 Added	1970-01-01
-Updated
+Updated	2021-11-28
 Game	Voidrun
 Cover
 Engine	hashlink
