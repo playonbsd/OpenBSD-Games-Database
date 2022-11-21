@@ -3310,6 +3310,21 @@ Version
 Status
 Added	1970-01-01
 Updated
+Game  Panzer General
+Cover
+Engine LGeneral
+Setup
+Runtime lgeneral
+Hints Conversion of the original game files must be done with lgc-pg (packaged with lgeneral), which doesn't currently work on OpenBSD. The files must be converted on a different system and copied over to /usr/local/share/games/lgeneral.
+Genre Strategy
+Tags WW2, wargame, tanks
+Year 1994
+Dev Strategic Simulations
+Pub
+Version
+Status
+Added 2022-11-20
+Updated
 Game	Paralyzed
 Cover
 Engine	godot
