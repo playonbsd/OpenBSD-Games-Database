@@ -4782,6 +4782,22 @@ Version
 Status	works (2021-09-17)
 Added	1970-01-01
 Updated
+Game	Urtuk: The Desolation
+Cover
+Engine	libgdx
+Setup
+Runtime	IndieRunner
+Store	https://www.gog.com/game/urtuk_the_desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
+Hints	needs steamworks4j port, at least for the Steam version
+Genre	turn-based strategy
+Tags	indie, fantasy, dark, gore
+Year	2021
+Dev	David Kaleta
+Pub	David Kaleta
+Version	1.0.0+91b
+Status	runs (2022-11-25)
+Added	2022-11-25
+Updated	2022-11-25
 Game	The Useful Dead
 Cover	Useful_Dead.png
 Engine	XNA
