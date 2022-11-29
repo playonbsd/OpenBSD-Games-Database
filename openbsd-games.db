@@ -2158,6 +2158,22 @@ Version	1.2.0
 Status	runs (2021-11-26)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Hands of Necromancy
+Cover
+Engine	idTech
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1898610/Hands_of_Necromancy/
+Hints
+Genre	FPS
+Tags	retro, fantasy
+Year	2022
+Dev	HON Team
+Pub	Frechou Games
+Version	2.0
+Status	runs (2022-11-29)
+Added	2022-11-29
+Updated	2022-11-29
 Game	Hashi: Light
 Cover
 Engine	godot
@@ -2990,6 +3006,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Mirrorama
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1845050/Mirrorama/
+Hints
+Genre	first-person puzzle game
+Tags	indie, physics, mind-bending
+Year	2022
+Dev	Berry Berry Niceu
+Pub	Berry Berry Niceu
+Version	1.0.1
+Status	runs (2022-11-29)
+Added	2022-11-29
+Updated	2022-11-29
 Game	Mobius Front 83
 Cover
 Engine
@@ -3773,6 +3805,22 @@ Version
 Status	works with minor bugs - no gamepad support (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+Game	ROTA
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1993830/ROTA/
+Hints
+Genre	puzzle platformer
+Tags	indie, colorful
+Year	2022
+Dev	Harmony Honey
+Pub	Harmony Honey
+Version
+Status	runs (2022-11-29)
+Added	2022-11-29
+Updated	2022-11-29
 Game	RUN: The world in-between
 Cover
 Engine	godot
