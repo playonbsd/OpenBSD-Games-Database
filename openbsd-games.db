@@ -3054,6 +3054,22 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Monster Outbreak
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1525190/Monster_Outbreak/
+Hints	Only tested in solo player. Multiplayer likely won't work or only via LAN support of goldberg_emulator
+Genre	Survival hack'n'slash
+Tags	indie, pixelart
+Year	2022
+Dev	GameMunchers
+Pub	Freedom Games
+Version	1.0.12
+Status	runs (2022-11-29)
+Added	2022-11-29
+Updated	2022-11-29
 Game	Moonshot - The Great Espionage
 Cover
 Engine	godot
