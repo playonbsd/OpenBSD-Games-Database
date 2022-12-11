@@ -398,6 +398,22 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Blacken Slash
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1746560/Blacken_Slash/
+Hints
+Genre	turn-based tactics
+Tags	retro, hacking
+Year	2022
+Dev	ehmprah
+Pub	ehmprah
+Version	1.6
+Status	runs (2022-12-10)
+Added	2022-12-10
+Updated	2022-12-10
 Game	The Blackwell Epiphany
 Cover	The_Blackwell_Epiphany_cover.png
 Engine	AGS
@@ -4269,6 +4285,22 @@ Version
 Status	works with minor bugs - no gamepad support, no online multiplayer
 Added	1970-01-01
 Updated	1970-01-01
+Game	Spellbook Demonslayers
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/2007530/Spellbook_Demonslayers/
+Hints
+Genre	action roguelike
+Tags	indie, casual
+Year
+Dev	Xendra
+Pub	Xendra, Erabit
+Version	early access (2022-12-10)
+Status	runs (2022-12-10)
+Added	2022-12-10
+Updated	2022-12-10
 Game	Star Wars: Jedi Knight - Jedi Academy
 Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
 Engine	id Tech 3
