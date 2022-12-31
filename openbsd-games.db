@@ -2286,6 +2286,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Heroes of Loot
+Cover
+Engine	libgdx
+Setup
+Runtime	java
+Store	https://orangepixel.itch.io/heroes-of-loot https://store.steampowered.com/app/359280/Heroes_of_Loot/
+Hints	no straightforward way to quit the game
+Genre	dungeoncrawler
+Tags	indie
+Year	2015
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Heroes of Might and Magic 2
 Cover	Heroes_of_Might_and_Magic_II_cover.jpg
 Engine
