@@ -2126,6 +2126,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Groundskeeper 2
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/groundskeeper2
+Hints
+Genre	Action
+Tags	indie, pixelart
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Growing Pains
 Cover	Growing_Pains_cover.jpg
 Engine	FNA
@@ -2152,6 +2168,22 @@ Hints
 Genre	Platformer
 Tags	retro, pixel
 Year	2015
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
+Game	Gunslugs 3: Rogue Tactics
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/gunslugs3 https://store.steampowered.com/app/1012360/Gunslugs_3Rogue_Tactics/
+Hints
+Genre	Platformer roguelite stealth
+Tags	retro, pixel
+Year	2019
 Dev	Orangepixel
 Pub	Orangepixel
 Version
@@ -3006,6 +3038,22 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+Game	Meganoid: Grandpa's Chronicles
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/meganoid2
+Hints
+Genre	Platformer
+Tags	pixel, retro, roguelite
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Mercenary Kings
 Cover	Mercenary_kings_boxart.jpg
 Engine	FNA
@@ -3294,6 +3342,22 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Neoteria
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/neoteria
+Hints
+Genre	side-scrolling shooter
+Tags	indie
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	NeuroVoider
 Cover	NeuroVoider_cover.jpg
 Engine	MonoGame
@@ -4317,6 +4381,22 @@ Version
 Status	manual setup required
 Added	1970-01-01
 Updated	1970-01-01
+Game	Snake Core
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/snakecore https://store.steampowered.com/app/1262770/Snake_Core/
+Hints
+Genre	Action
+Tags	retro, pixelart, indie
+Year	2020
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Solar Rogue
 Cover
 Engine	godot
@@ -4391,6 +4471,22 @@ Hints
 Genre	Turn-based Tactics
 Tags	indie, pixel
 Year	2016
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
+Game	Space Grunts 2
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/spacegrunts2 https://store.steampowered.com/app/1125370/Space_Grunts_2/
+Hints
+Genre	Turn-based Tactics
+Tags	indie, pixel
+Year	2020
 Dev	Orangepixel
 Pub	Orangepixel
 Version
