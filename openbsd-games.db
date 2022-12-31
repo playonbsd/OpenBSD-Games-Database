@@ -238,6 +238,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Ashworld
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/ashworld https://store.steampowered.com/app/580320/Ashworld/
+Hints
+Genre	survival
+Tags	pixel, indie, post-apocalypse
+Year	2017
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Atom Zombie Smasher
 Cover	AZS.jpg
 Engine
@@ -2494,6 +2510,22 @@ Version
 Status	untested; manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+Game	INC: The Beginning
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/inc
+Hints
+Genre	platformer
+Tags	indie, dystopian
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Indiana Jones and the Fate of Atlantis
 Cover	Indiana_Jones_and_the_Fate_of_Atlantis_cover.jpg
 Engine	SCUMM
@@ -2958,6 +2990,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Meganoid
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/meganoid https://store.steampowered.com/app/606030/Meganoid/
+Hints
+Genre	Platformer
+Tags	pixel, retro, roguelite
+Year	2017
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Mercenary Kings
 Cover	Mercenary_kings_boxart.jpg
 Engine	FNA
@@ -4209,7 +4257,7 @@ Game	Simona's Requiem
 Cover
 Engine	godot
 Setup
-Runtime	godo
+Runtime	godot
 Store	https://store.steampowered.com/app/1482430/Simonas_Requiem/
 Hints
 Genre	platformer, action
@@ -4221,6 +4269,22 @@ Version
 Status	runs (2022-04-29)
 Added	2022-04-29
 Updated	2022-04-29
+Game	Sir Questionnaire
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/questionnaire https://store.steampowered.com/app/2124790/Sir_Questionnaire/
+Hints
+Genre	roguelike
+Tags	pixel, relaxing, indie
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
 Engine	FNA
@@ -4317,6 +4381,22 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+Game	Space Grunts
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/spacegrunts https://store.steampowered.com/app/371430/Space_Grunts/
+Hints
+Genre	Turn-based Tactics
+Tags	indie, pixel
+Year	2016
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
 Engine	XNA
@@ -4365,6 +4445,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Stardash
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/stardash
+Hints	sorely missing gamecontroller support as of 2022-12-31
+Genre	platformer
+Tags	monochrome
+Year	2018
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
 Engine	MonoGame
