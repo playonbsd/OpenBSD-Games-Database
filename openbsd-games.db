@@ -1182,6 +1182,22 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Delver
+Cover
+Engine	libgdx
+Setup
+Runtime	IndieRunner
+Store	https://priorityinterrupt.itch.io/delver https://store.steampowered.com/app/249630/Delver/
+Hints
+Genre	dungeoncrawler
+Tags	pixels, indie, first-person, fantasy
+Year	2018
+Dev	Chad Cuddigan, Joshua Skelton
+Pub	Priority Interrupt
+Version	1.08
+Status	runs (2022-12-30)
+Added	2022-12-30
+Updated	2022-12-30
 Game	Democracy 3
 Cover	Democracy_3_-_cover.png
 Engine	Irrlicht Engine
