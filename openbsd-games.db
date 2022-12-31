@@ -4493,6 +4493,22 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+Game	Space Haven
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/spacegrunts2 https://store.steampowered.com/app/1125370/Space_Grunts_2/
+Hints	needs lwjgl3 jars in class path and JDK 17 (2022-12-31)
+Genre	colony sim, base-building
+Tags	indie, space, early access
+Year
+Dev	Bugbyte Ltd.
+Pub	Bugbyte Ltd.
+Version	0.16.0.17
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
 Engine	XNA
