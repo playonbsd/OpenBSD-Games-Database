@@ -2126,6 +2126,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Gunslugs
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://orangepixel.itch.io/gunslugs https://store.steampowered.com/app/371890/Gunslugs/
+Hints
+Genre	Platformer
+Tags	retro, pixel
+Year	2015
+Dev	Orangepixel
+Pub	Orangepixel
+Version
+Status	runs (2022-12-31)
+Added	2022-12-31
+Updated	2022-12-31
 Game	Hack Grid
 Cover
 Engine	godot
