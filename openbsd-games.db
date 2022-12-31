@@ -4498,7 +4498,7 @@ Cover
 Engine	libgdx
 Setup	IndieRunner
 Runtime	java
-Store	https://orangepixel.itch.io/spacegrunts2 https://store.steampowered.com/app/1125370/Space_Grunts_2/
+Store	https://www.gog.com/game/space_haven https://store.steampowered.com/app/979110/Space_Haven/
 Hints	needs lwjgl3 jars in class path and JDK 17 (2022-12-31)
 Genre	colony sim, base-building
 Tags	indie, space, early access
