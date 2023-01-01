@@ -510,6 +510,22 @@ Version
 Status	runs (2022-08-18)
 Added	2022-08-19
 Updated	2022-08-19
+Game	BLUE REVOLVER
+Cover
+Engine	love
+Setup
+Runtime	love
+Store	https://store.steampowered.com/app/439490/BLUE_REVOLVER/
+Hints
+Genre	shoot'em'up
+Tags
+Year	2016
+Dev	Stellar Circle
+Pub	Stellar Circle
+Version
+Status	runs (2023-01-01)
+Added	2023-01-01
+Updated	2023-01-01
 Game	Bottomless
 Cover
 Engine	godot
