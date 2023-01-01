@@ -3885,6 +3885,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Rise to Ruins
+Cover
+Engine	LWJGL2
+Setup	IndieRunner
+Runtime	java
+Store	https://www.gog.com/en/game/rise_to_ruins https://rayvolution.itch.io/risetoruins https://store.steampowered.com/app/328080/Rise_to_Ruins/
+Hints
+Genre	city builder
+Tags	indie
+Year	2019
+Dev	Raymond Doerr
+Pub	SixtyGig Games
+Version	Update 1b
+Status	runs (2023-01-01)
+Added	2023-01-01
+Updated	2023-01-01
 Game	Riven
 Cover	Riven_Coverart.png
 Engine	Mohawk Engine
