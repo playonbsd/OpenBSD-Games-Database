@@ -516,7 +516,7 @@ Engine	love
 Setup
 Runtime	love
 Store	https://store.steampowered.com/app/439490/BLUE_REVOLVER/
-Hints
+Hints get 0.10.2 games/love compiled with luajit (https://www.namtsui.com/cgi-bin/cvsweb/ports/games/love/). unzip bluerevolver.love, edit conf.lua with `STEAM_BUILD = false' and zip it back up.
 Genre	shoot'em'up
 Tags
 Year	2016
