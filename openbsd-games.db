@@ -116,16 +116,16 @@ Engine	HashLink
 Setup
 Runtime	HashLink
 Store	https://store.steampowered.com/app/1808820/Alien_Shepherd/
-Hints	needs steam.hdll (see steamworks-nosteam package)
+Hints
 Genre	platformer
 Tags
 Year	2022
 Dev	Florent Espanet, Lea Espanet
 Pub	Florent Espanet
 Version	1.0.1
-Status	runs with bugs - graphics artefacts (2022-06-11)
+Status	runs with bugs - graphics artefacts (2023-01-04)
 Added	2022-06-11
-Updated	2022-06-11
+Updated	2023-01-04
 Game	Always Sometimes Monsters
 Cover	Always_Sometimes_Monsters.jpg
 Engine	NW.js
