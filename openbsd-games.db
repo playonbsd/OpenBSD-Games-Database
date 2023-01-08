@@ -4557,6 +4557,22 @@ Version	0.16.0.17
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+Game	Spaceport Hope
+Cover
+Engine	libgdx
+Setup	IndieRunner
+Runtime	java
+Store	https://store.steampowered.com/app/394540/Spaceport_Hope/
+Hints
+Genre	platformer
+Tags	indie, space
+Year	2016
+Dev	team BitClub
+Pub	team BitClub, Sunken Treasure Games
+Version
+Status	runs (2023-01-07)
+Added	2023-01-07
+Updated	2023-01-07
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
 Engine	XNA
