@@ -1502,6 +1502,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Droid Assault
+Cover
+Engine	LWJGL2
+Setup	IndieRunner
+Runtime	java
+Store	https://www.puppygames.net/droid-assault/
+Hints	get DRM-free version from developer page. Steam version can't run because of libsteampuppy.so
+Genre	Action
+Tags	indie, arcade, retro, scifi
+Year	2013
+Dev	Puppygames
+Pub	Puppygames
+Version	20151219
+Status	runs (2023-01-07)
+Added	2023-01-07
+Updated	2023-01-07
 Game	Dune 2000
 Cover	Dune_2000_cover.jpg
 Engine
