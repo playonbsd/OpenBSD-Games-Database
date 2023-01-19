@@ -1838,6 +1838,22 @@ Version	Demo
 Status	runs (2022-04-13)
 Added	2022-04-14
 Updated	2022-04-14
+Game	Fraymakers
+Cover
+Engine	hashlink
+Setup	IndieRunner
+Runtime	hashlink
+Store	https://store.steampowered.com/app/1420350/Fraymakers/
+Hints
+Genre	fighting
+Tags	indie, cartoon, early access
+Year
+Dev	Team Fray, McLeodGaming
+Pub	Team Fray, McLeodGaming
+Version	0.4.20 (Early Access)
+Status	runs (2023-01-19)
+Added	2023-01-19
+Updated	2023-01-19
 Game	FTL
 Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
