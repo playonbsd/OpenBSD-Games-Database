@@ -4640,19 +4640,19 @@ Updated	2022-12-31
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
 Engine	MonoGame
-Setup	fnaify
-Runtime
+Setup	fnaify/IndieRunner
+Runtime	mono
 Store	https://www.gog.com/game/stardew_valley https://www.humblebundle.com/store/stardew-valley https://store.steampowered.com/app/413150/Stardew_Valley/
-Hints
+Hints	starting with version 1.5.5, use MAC 32bit build which uses mono
 Genre	Farming Simulation
 Tags	indie classic
 Year	2016
 Dev	ConcernedApe
-Pub
-Version
-Status	works - only up to version 1.5.4
+Pub	ConcernedApe
+Version	1.5.6
+Status	runs (2023-01-19)
 Added	1970-01-01
-Updated	2021-12-10
+Updated	2023-01-19
 Game	StarPrey
 Cover
 Engine	godot
