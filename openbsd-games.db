@@ -5357,6 +5357,22 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
+Game	Whispers of a Machine
+Cover
+Engine	Adventure Game Studio
+Setup
+Runtime	scummvm
+Store	https://www.gog.com/en/game/whispers_of_a_machine https://store.steampowered.com/app/631570/Whispers_of_a_Machine/
+Hints
+Genre	Adventure
+Tags	indie, sci-fi, detective
+Year	2019
+Dev	Clifftop Games, Faravid Interactive
+Pub	Raw Fury
+Version	1.0.6
+Status	runs (2023-01-21)
+Added	2023-01-21
+Updated	2023-01-21
 Game	Wish Project
 Cover
 Engine	FNA
