@@ -398,6 +398,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Beyond Sunset
+Cover
+Engine	gzdoom
+Setup	remove file 'gzdoom.pk3'
+Runtime	gzdoom
+Store	https://metacorp.itch.io/beyond-sunset https://store.steampowered.com/app/1665260/Beyond_Sunset/
+Hints
+Genre	FPS
+Tags	retro, cyberpunk
+Year
+Dev	Metacorp
+Pub	Movie Games S.A.
+Version	Demo
+Status	runs (2023-01-23)
+Added	2023-01-23
+Updated	2023-01-23
 Game	Bird Assassin
 Cover	Bird_Assassin_cover.png
 Engine	XNA
