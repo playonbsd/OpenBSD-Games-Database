@@ -1982,6 +1982,22 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+Game	Fury's Sky
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1118550/Furys_Sky/
+Hints
+Genre	action, simulation, flightsim
+Tags	retro, early access
+Year
+Dev	Proud Cipher Media Group
+Pub	Proud Cipher Media Group
+Version
+Status	runs (2023-01-24)
+Added	2023-01-24
+Updated	2023-01-24
 Game	Gabriel Knight: Sins of the Fathers
 Cover	Gabriel_Knight_Sins_of_the_Fathers_Cover.png
 Engine	SCI2
@@ -2542,6 +2558,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	I am Sakuya: Touhou FPS Game
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1960590/I_Am_Sakuya_Touhou_FPS_Game/
+Hints
+Genre	action, FPS
+Tags
+Year	2022
+Dev	Sigyaad Team
+Pub	Sigyaad Team
+Version
+Status	runs (2023-01-24)
+Added	2023-01-24
+Updated	2023-01-24
 Game	I Have No Mouth And I Must Scream
 Cover	I_Have_No_Mouth_and_I_Must_Scream_Cover.jpg
 Engine	SAGA
@@ -4374,13 +4406,45 @@ Store	https://www.gog.com/game/the_shivah
 Hints
 Genre	Adventure
 Tags
-Year	1993
+Year	2013
 Dev	Wadjet Eye Games
 Pub	Wadjet Eye Games
 Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Shrine
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1271050/Shrine/
+Hints	FREE!
+Genre	FPS
+Tags	retro, horror, Lovecraftian
+Year	2019
+Dev	Scumhead
+Pub	Scumhead
+Version
+Status	runs (2023-01-24)
+Added	2023-01-24
+Updated	2023-01-24
+Game	Shrine II
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1417010/Shrine_II/
+Hints	FREE!
+Genre	FPS
+Tags	retro, horror, Lovecraftian
+Year	2020
+Dev	Scumhead, Mengo
+Pub	Scumhead
+Version
+Status	runs (2023-01-24)
+Added	2023-01-24
+Updated	2023-01-24
 Game	Signs of Life
 Cover	Signs_of_Life_-_cover.png
 Engine	XNA
