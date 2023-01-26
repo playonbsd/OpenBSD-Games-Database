@@ -1966,6 +1966,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	The Forestale
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/817220/The_Forestale/
+Hints
+Genre	Platformer
+Tags	indie, retro
+Year	2019
+Dev	Yorzh Aleksey
+Pub	Yorzh Aleksey
+Version
+Status	runs (2023-01-25)
+Added	2023-01-25
+Updated	2023-01-25
 Game	Freespace 2
 Cover	FreeSpace_2.jpg
 Engine
@@ -3070,6 +3086,22 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Lycanthorn II
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1546440/
+Hints	free
+Genre	FPS
+Tags	indie, free, openworld, retro
+Year	2020
+Dev	Scumhead
+Pub	Scumhead
+Version
+Status	runs (2023-01-25)
+Added	2023-01-25
+Updated	2023-01-25
 Game	Malice & Greed
 Cover
 Engine	godot
@@ -3805,6 +3837,22 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+Game	Project Crypt
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1988750/Project_Crypt/
+Hints	free!
+Genre	FPS, Horror, Adventure
+Tags	horror, indie
+Year	2022
+Dev	Skullazon Interactive
+Pub	Skullazon Interactive
+Version
+Status	runs (2023-01-25)
+Added	2023-01-25
+Updated	2023-01-25
 Game	Project Heartbeat
 Cover
 Engine	godot
