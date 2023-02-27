@@ -3667,6 +3667,7 @@ Cover
 Engine	LGeneral
 Setup
 Runtime	lgeneral
+Store
 Hints	Conversion of the original game files must be done with lgc-pg (packaged with lgeneral), which doesn't currently work on OpenBSD. The files must be converted on a different system and copied over to /usr/local/share/games/lgeneral.
 Genre	Strategy
 Tags	WW2, wargame
