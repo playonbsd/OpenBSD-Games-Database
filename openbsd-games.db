@@ -1748,16 +1748,16 @@ Engine	AGS
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/en/game/the_excavation_of_hobs_barrow https://store.steampowered.com/app/1182310/The_Excavation_of_Hobs_Barrow/
-Hints	text hard to read with AGS fallback in scummvm as of 2022-09-28
+Hints	scummvm >= 2.7.0 display text correctly
 Genre	Adventure
 Tags	pixelart
 Year	2022
 Dev	Cloak and Dagger Games
 Pub	Wadjet Eye Games
 Version	1.0
-Status	runs with issues displaying text (2022-09-28)
+Status	runs (2023-03-03)
 Added	2022-09-28
-Updated	2022-09-28
+Updated	2023-03-03
 Game	Explosionade
 Cover	Explosionade_cover.jpg
 Engine	XNA
