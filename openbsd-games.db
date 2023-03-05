@@ -4286,6 +4286,22 @@ Version	1.0.2
 Status	runs (2022-08-18)
 Added	2022-06-07
 Updated	2022-08-19
+Game	SokoChess White
+Cover
+Engine	godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/2185860/SokoChess_White/
+Hints	run with IndieRunner or `godot --main-pack *.pck`
+Genre	Puzzle
+Tags
+Year	2023
+Dev	Daisy Games
+Pub	Daisy Games
+Version	1.0.0
+Status	runs (2023-03-04)
+Added	2023-03-04
+Updated	2023-03-04
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
