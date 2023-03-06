@@ -174,6 +174,22 @@ Version
 Status	runs (2021-10-26)
 Added	1970-01-01
 Updated	1970-01-01
+Game	Apocalyptic Vibes
+Cover
+Engine	gzdoom
+Setup
+Runtime	gzdoom
+Store	https://store.steampowered.com/app/1840610/Apocalyptic_Vibes/
+Hints
+Genre	FPS
+Tags	post-apocalyptic
+Year	2023
+Dev	Amanito Computing
+Pub	Frictional Games
+Version
+Status	runs (2023-03-05)
+Added	2023-03-05
+Updated	2023-03-05
 Game	Apotheon
 Cover	Apotheon_-_cover.jpg
 Engine	FNA
