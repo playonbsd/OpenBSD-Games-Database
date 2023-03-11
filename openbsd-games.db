@@ -3550,7 +3550,6 @@ Version	1.0.1
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
-# Game slug: https://www.igdb.com/games/mirrorama
 IgdbId	186824
 Game	Mobius Front 83
 Cover
@@ -3568,8 +3567,7 @@ Version	03/01/2021
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	140436
 Game	Molek-Syntez
 Cover	MOLEK-SYNTEZ_cover.jpg
 Engine
@@ -3586,7 +3584,6 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/molek-syntez
 IgdbId	125208
 Game	Monster Outbreak
 Cover
@@ -3604,7 +3601,6 @@ Version	1.0.12
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
-# Game slug: https://www.igdb.com/games/monster-outbreak
 IgdbId	154046
 Game	Moonshot - The Great Espionage
 Cover
@@ -3622,8 +3618,7 @@ Version
 Status	works (2021-08-06)
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	159516
 Game	Mount Your Friends
 Cover	Mount_Your_Friends.jpg
 Engine	XNA
@@ -3640,8 +3635,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/mount-your-friends-3d-a-hard-man-is-good-to-climb
-IgdbId	78155
+IgdbId	15916
 Game	Mud River
 Cover
 Engine	godot
@@ -3658,7 +3652,6 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/mud-river
 IgdbId	171869
 Game	Murder Miners
 Cover
@@ -3676,7 +3669,6 @@ Version
 Status	runs (2021-08-23)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/murder-miners
 IgdbId	17035
 Game	Myst
 Cover	MystCover.png
@@ -3694,8 +3686,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/city-mysteries
-IgdbId	85031
+IgdbId	16203
 Game	Myst III: Exile
 Cover	MYSTIIICOVER.jpg
 Engine	Sprint Engine
@@ -3712,7 +3703,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/myst-iii-exile
 IgdbId	797
 Game	Neofeud
 Cover
@@ -3730,7 +3720,6 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/neofeud
 IgdbId	55688
 Game	Neoteria
 Cover
@@ -3748,7 +3737,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/neoteria
 IgdbId	61111
 Game	NeuroVoider
 Cover	NeuroVoider_cover.jpg
@@ -3766,8 +3754,7 @@ Version
 Status	minor limitations - no gamepad support
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/neurovoider-deluxe-edition
-IgdbId	53413
+IgdbId	23581
 Game	Nightfall Hacker
 Cover
 Engine	godot
@@ -3784,7 +3771,6 @@ Version
 Status	runs (2021-09-06)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/nightfall-hacker
 IgdbId	127578
 Game	Northgard
 Cover	Northgard_cover.jpg
@@ -3802,8 +3788,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/northgard-cross-of-vidar-expansion-pack
-IgdbId	230821
+IgdbId	18918
 Game	Nuclear Blaze
 Cover
 Engine	hashlink
@@ -3820,7 +3805,6 @@ Version
 Status	runs (2021-11-24)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/nuclear-blaze
 IgdbId	153876
 Game	One Finger Death Punch
 Cover	OneFingerDeathPunchcover.jpg
@@ -3838,7 +3822,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/one-finger-death-punch
 IgdbId	8360
 Game	Open Sorcery
 Cover	Open_Sorcery_cover.jpg
@@ -3856,8 +3839,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/open-sorcery-sea-plus-plus
-IgdbId	75619
+IgdbId	27444
 Game	Opus Magnum
 Cover	Opus_Magnum_cover.jpg
 Engine
@@ -3874,7 +3856,6 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/opus-magnum
 IgdbId	74545
 Game	Osmos
 Cover	Osmos_Coverart.png
@@ -3892,8 +3873,7 @@ Version
 Status	browser needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/cosmos-defenders
-IgdbId	85553
+IgdbId	14951
 Game	Overdriven Reloaded
 Cover	Overdriven_Reloaded_cover.jpg
 Engine	FNA
@@ -3910,7 +3890,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/overdriven-reloaded
 IgdbId	32259
 Game	Owlboy
 Cover	Owlboy_-_Cover.png
@@ -3928,7 +3907,6 @@ Version
 Status	broken (2022-04-01)
 Added	1970-01-01
 Updated	2022-04-02
-# Game slug: https://www.igdb.com/games/owlboy
 IgdbId	12597
 Game	Paladin
 Cover	Paladin_cover.jpg
@@ -3946,8 +3924,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/paladin--1
-IgdbId	71600
+IgdbId	15333
 Game	Panzer General
 Cover
 Engine	LGeneral
@@ -3964,8 +3941,7 @@ Version
 Status
 Added	2022-11-21
 Updated	2022-11-21
-# Game slug: https://www.igdb.com/games/panzer-general-iii-scorched-earth
-IgdbId	24154
+IgdbId	4268
 Game	Paralyzed
 Cover
 Engine	godot
@@ -3982,7 +3958,6 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/paralyzed
 IgdbId	141787
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
 Cover	Precipice_of_darkness_3.jpg
@@ -4000,8 +3975,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	14980
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 4
 Cover	On_the_Rain-Slick_Precipice_of_Darkness_4_-_cover.jpg
 Engine	XNA
@@ -4018,8 +3992,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	14981
 Game	Phoenix Force
 Cover	Phoenix_Force_cover.jpg
 Engine	XNA
@@ -4036,7 +4009,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/phoenix-force
 IgdbId	36181
 Game	Planescape: Torment
 Cover	Planescape_Torment_Box.jpg
@@ -4054,8 +4026,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/planescape-torment-and-icewind-dale-enhanced-editions
-IgdbId	125019
+IgdbId	832
 Game	PlanetFriend
 Cover	PlanetFriend_cover.png
 Engine	FNA
@@ -4072,7 +4043,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/planetfriend
 IgdbId	133879
 Game	Postal
 Cover	Postal_Cover.jpg
@@ -4090,8 +4060,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/postal--1
-IgdbId	125023
+IgdbId	2000
 Game	Press X to Not Die
 Cover	Press_X_to_Not_Die_cover.jpg
 Engine	FNA
@@ -4108,8 +4077,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/press-x-to-not-die-special-edition
-IgdbId	53472
+IgdbId	13619
 Game	Primal Light
 Cover	Primal_Light_cover.jpg
 Engine	Godot
@@ -4126,7 +4094,6 @@ Version
 Status	works on brief testing (2021-01-26)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/primal-light
 IgdbId	122794
 Game	Primordia
 Cover	Primordia_cover.jpg
@@ -4144,7 +4111,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/primordia
 IgdbId	7635
 Game	Project Crypt
 Cover
@@ -4162,7 +4128,6 @@ Version
 Status	runs (2023-01-25)
 Added	2023-01-25
 Updated	2023-01-25
-# Game slug: https://www.igdb.com/games/project-crypt
 IgdbId	201131
 Game	Project Heartbeat
 Cover
@@ -4180,7 +4145,6 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/project-heartbeat
 IgdbId	130920
 Game	Quake
 Cover	Quake_Cover.jpg
@@ -4198,8 +4162,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/quake-3-hunters-moon
-IgdbId	144939
+IgdbId	333
 Game	Quake II
 Cover	Quake_II_cover.jpg
 Engine	id Tech 2
@@ -4216,8 +4179,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/quake-iii-gold
-IgdbId	46626
+IgdbId	286
 Game	Quake III Arena
 Cover	Quake_III_Arena_cover.jpg
 Engine	id Tech 3
@@ -4234,7 +4196,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/quake-iii-arena
 IgdbId	355
 Game	Quest for Infamy
 Cover	473px-Quest_for_Infamy_-_Cover.jpg
@@ -4252,7 +4213,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/quest-for-infamy
 IgdbId	8250
 Game	Quest of Graal
 Cover
@@ -4270,7 +4230,6 @@ Version
 Status	runs (2022-04-13)
 Added	2022-04-14
 Updated	2022-04-14
-# Game slug: https://www.igdb.com/games/quest-of-graal
 IgdbId	182930
 Game	Retro City Rampage DX
 Cover	Retro_City_Rampage_cover.jpg
@@ -4288,8 +4247,7 @@ Version
 Status	needs manual setup
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/retro-city-rampage-dx
-IgdbId	15276
+IgdbId	8063
 Game	Return to Castle Wolfenstein
 Cover	Return_to_Castle_Wolfenstein_Cover.png
 Engine
@@ -4306,8 +4264,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/return-to-castle-wolfenstein-time-gate
-IgdbId	234947
+IgdbId	281
 Game	Rex
 Cover
 Engine	godot
@@ -4324,8 +4281,7 @@ Version
 Status	runs (2021-10-29)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/trex-warrior-22nd-century-gladiator
-IgdbId	71909
+IgdbId	45348
 Game	Rex Rocket
 Cover	Rex_Rocket_-_cover.jpg
 Engine	FNA
@@ -4342,7 +4298,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rex-rocket
 IgdbId	17191
 Game	Rise to Ruins
 Cover
@@ -4360,7 +4315,6 @@ Version	Update 1b
 Status	runs (2023-01-01)
 Added	2023-01-01
 Updated	2023-01-01
-# Game slug: https://www.igdb.com/games/rise-to-ruins
 IgdbId	36220
 Game	Riven
 Cover	Riven_Coverart.png
@@ -4378,8 +4332,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/overdriven
-IgdbId	94063
+IgdbId	238
 Game	Rodent and Plank: Secret Origin
 Cover
 Engine	FNA
@@ -4396,7 +4349,6 @@ Version
 Status	runs (2021-08-20)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rodent-and-plank-secret-origin
 IgdbId	139588
 Game	Rogue Legacy
 Cover	Rogue_Legacy_-_cover.png
@@ -4414,8 +4366,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rogue-legacy-2
-IgdbId	132058
+IgdbId	3221
 Game	Rogue State Revolution
 Cover
 Engine	godot
@@ -4432,7 +4383,6 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rogue-state-revolution
 IgdbId	122070
 Game	RollerCoaster Tycoon
 Cover	RollerCoaster_Tycoon_cover.jpg
@@ -4450,7 +4400,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rollercoaster-tycoon-deluxe
 IgdbId	36444
 Game	RollerCoaster Tycoon 2
 Cover	RollerCoaster_Tycoon_2_cover.jpg
@@ -4468,7 +4417,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rollercoaster-tycoon-2
 IgdbId	331
 Game	Roma Invicta
 Cover
@@ -4486,7 +4434,6 @@ Version
 Status	runs (2022-05-13)
 Added	2022-05-13
 Updated	2022-05-13
-# Game slug: https://www.igdb.com/games/roma-invicta
 IgdbId	190269
 Game	Ruggnar
 Cover	Ruggnar_cover.png
@@ -4504,7 +4451,6 @@ Version
 Status	works with minor bugs - no gamepad support (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/ruggnar
 IgdbId	164177
 Game	ROTA
 Cover
@@ -4522,8 +4468,7 @@ Version
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
-# Game slug: https://www.igdb.com/games/rotapicture
-IgdbId	93323
+IgdbId	201487
 Game	RUN: The world in-between
 Cover
 Engine	godot
@@ -4540,7 +4485,6 @@ Version
 Status	runs (2022-04-14)
 Added	2022-04-14
 Updated	2022-04-14
-# Game slug: https://www.igdb.com/games/run-the-world-in-between
 IgdbId	145400
 Game	RuneScape
 Cover
@@ -4558,8 +4502,7 @@ Version
 Status	major limitations - poor performance, no audio
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/runescape-idle-adventures
-IgdbId	78673
+IgdbId	5611
 Game	Rushberry Mercs
 Cover
 Engine	hashlink
@@ -4576,7 +4519,6 @@ Version
 Status	runs (2021-08-20)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/rushberry-mercs
 IgdbId	132552
 Game	SEGA Mega Drive and Genesis Classics
 Cover	sega.jpg
@@ -4594,8 +4536,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	80185
 Game	SJ-19 Learns To Love!
 Cover
 Engine	godot
@@ -4612,7 +4553,6 @@ Version
 Status	runs (2021-09-06)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/sj-19-learns-to-love
 IgdbId	144112
 Game	Sokobos
 Cover
@@ -4630,8 +4570,7 @@ Version
 Status	runs (2022-04-01)
 Added	2022-04-02
 Updated	2022-04-02
-# Game slug: https://www.igdb.com/games/sokobos-aphrodites-trial
-IgdbId	226621
+IgdbId	189863
 Game	SokoChess
 Cover
 Engine	godot
@@ -4648,8 +4587,7 @@ Version	1.0.2
 Status	runs (2022-08-18)
 Added	2022-06-07
 Updated	2022-08-19
-# Game slug: https://www.igdb.com/games/sokochess-white
-IgdbId	232960
+IgdbId	201496
 Game	SokoChess White
 Cover
 Engine	godot
@@ -4666,7 +4604,6 @@ Version	1.0.0
 Status	runs (2023-03-04)
 Added	2023-03-04
 Updated	2023-03-04
-# Game slug: https://www.igdb.com/games/sokochess-white
 IgdbId	232960
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
@@ -4684,7 +4621,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/sumico-the-numbers-game
 IgdbId	34952
 Game	Salt and Sanctuary
 Cover	SaltAndSanctuary_header.jpg
@@ -4702,8 +4638,7 @@ Version
 Status	currently broken - mojoshader mismatch
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/salt-and-sanctuary-drowned-tome-edition
-IgdbId	136349
+IgdbId	7709
 Game	Sam & Max Hit the Road
 Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
 Engine	SCUMM
@@ -4720,7 +4655,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/sam-max-hit-the-road
 IgdbId	202
 Game	satryn deluxe
 Cover
@@ -4738,7 +4672,6 @@ Version	0.9.1
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/satryn-deluxe
 IgdbId	186106
 Game	Session Seven
 Cover	Session_Seven_cover.jpg
@@ -4756,7 +4689,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/session-seven
 IgdbId	115395
 Game	The Settlers II
 Cover	Settlers_2_cover.jpg
@@ -4774,8 +4706,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/the-settlers-ii-history-edition
-IgdbId	121948
+IgdbId	2617
 Game	The Settlers
 Cover	The_Settlers_-_cover.jpg
 Engine
@@ -4792,7 +4723,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/the-settlers-heritage-of-kings-expansion-disc
 IgdbId	124562
 Game	Seven Kingdoms: Ancient Adversaries
 Cover	7kaacover.jpg
@@ -4810,7 +4740,6 @@ Version
 Status	needs manual setup
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/seven-kingdoms-ancient-adversaries
 IgdbId	33303
 Game	Shadow Warrior Classic Redux
 Cover
@@ -4828,7 +4757,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/shadow-warrior-classic-redux
 IgdbId	30156
 Game	Shigatari
 Cover
@@ -4846,7 +4774,6 @@ Version
 Status	runs (2023-03-01)
 Added	2023-03-01
 Updated	2023-03-01
-# Game slug: https://www.igdb.com/games/shigatari
 IgdbId	55307
 Game	Shipwreck
 Cover	Shipwreck_-_cover.png
@@ -4864,8 +4791,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/shipwrecked-lost-island
-IgdbId	38878
+IgdbId	176573
 Game	The Shivah
 Cover	Shivah-cover.jpg
 Engine	AGS
@@ -4882,8 +4808,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	7418
 Game	Shrine
 Cover
 Engine	gzdoom
@@ -4900,8 +4825,7 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
-# Game slug: https://www.igdb.com/games/shrine-of-tails
-IgdbId	192763
+IgdbId	132241
 Game	Shrine II
 Cover
 Engine	gzdoom
@@ -4918,7 +4842,6 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
-# Game slug: https://www.igdb.com/games/shrine-ii
 IgdbId	135474
 Game	Signs of Life
 Cover	Signs_of_Life_-_cover.png
@@ -4936,7 +4859,6 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/signs-of-life
 IgdbId	16839
 Game	Simona's Requiem
 Cover
@@ -4954,7 +4876,6 @@ Version
 Status	runs (2022-04-29)
 Added	2022-04-29
 Updated	2022-04-29
-# Game slug: https://www.igdb.com/games/simonas-requiem
 IgdbId	146360
 Game	Sir Questionnaire
 Cover
@@ -4972,7 +4893,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/sir-questionnaire
 IgdbId	96201
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
@@ -4990,7 +4910,6 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/skulls-of-the-shogun
 IgdbId	9023
 Game	Slay the Spire
 Cover	Slay_the_Spire_cover.jpg
@@ -5008,8 +4927,7 @@ Version
 Status	manual setup required
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/downfall-a-slay-the-spire-fan-expansion
-IgdbId	198469
+IgdbId	40477
 Game	Snake Core
 Cover
 Engine	libgdx
@@ -5026,7 +4944,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/snake-core
 IgdbId	132783
 Game	Solar Rogue
 Cover
@@ -5044,7 +4961,6 @@ Version	1.0.1
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
-# Game slug: https://www.igdb.com/games/solar-rogue
 IgdbId	133421
 Game	Solaroids: Prologue
 Cover	solaroids.png
@@ -5062,7 +4978,6 @@ Version
 Status	works with major limitations - game duration capped by DRM kicking in
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/solaroids-prologue
 IgdbId	29314
 Game	Soulcaster I & II
 Cover	Soulcaster_cover.jpg
@@ -5080,8 +4995,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	33074
 Game	SpaceChem
 Cover	SpaceChem_-_cover.jpg
 Engine	FontEngine
@@ -5098,7 +5012,6 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/spacechem
 IgdbId	8390
 Game	Space Grunts
 Cover
@@ -5116,7 +5029,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/space-grunts
 IgdbId	35224
 Game	Space Grunts 2
 Cover
@@ -5134,7 +5046,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/space-grunts-2
 IgdbId	121004
 Game	Space Haven
 Cover
@@ -5152,7 +5063,6 @@ Version	0.16.0.17
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/space-haven
 IgdbId	103246
 Game	Spaceport Hope
 Cover
@@ -5170,7 +5080,6 @@ Version
 Status	runs (2023-01-07)
 Added	2023-01-07
 Updated	2023-01-07
-# Game slug: https://www.igdb.com/games/spaceport-hope
 IgdbId	34639
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
@@ -5188,8 +5097,7 @@ Version
 Status	works with minor bugs - no gamepad support, no online multiplayer
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/speedrunners-deluxe-edition
-IgdbId	165849
+IgdbId	9527
 Game	Spellbook Demonslayers
 Cover
 Engine	godot
@@ -5206,7 +5114,6 @@ Version	early access (2022-12-10)
 Status	runs (2022-12-10)
 Added	2022-12-10
 Updated	2022-12-10
-# Game slug: https://www.igdb.com/games/spellbook-demonslayers
 IgdbId	209740
 Game	Star Wars: Jedi Knight - Jedi Academy
 Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
@@ -5224,7 +5131,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/star-wars-jedi-knight-jedi-academy
 IgdbId	153
 Game	Stardash
 Cover
@@ -5242,7 +5148,6 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
-# Game slug: https://www.igdb.com/games/stardash
 IgdbId	147628
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
@@ -5260,8 +5165,7 @@ Version	1.5.6
 Status	runs (2023-01-19)
 Added	1970-01-01
 Updated	2023-01-19
-# Game slug: https://www.igdb.com/games/stardew-valley-expanded
-IgdbId	210537
+IgdbId	17000
 Game	StarPrey
 Cover
 Engine	godot
@@ -5278,7 +5182,6 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/starprey
 IgdbId	143027
 Game	Star-Twine
 Cover
@@ -5296,7 +5199,6 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/star-twine
 IgdbId	30800
 Game	Steel Assault
 Cover
@@ -5314,7 +5216,6 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/steel-assault
 IgdbId	56668
 Game	Strangeland
 Cover
@@ -5332,7 +5233,6 @@ Version
 Status	runs (2021-10-28)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/strangeland
 IgdbId	103219
 Game	Strife: Veteran Edition
 Cover	Strife_Veteran_Edition_cover.jpg
@@ -5350,7 +5250,6 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/the-original-strife-veteran-edition
 IgdbId	24603
 Game	Suits: A Business RPG
 Cover	Suits_A_Business_RPG_cover.jpg
@@ -5368,7 +5267,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/suits-a-business-rpg
 IgdbId	16135
 Game	Sunrider: Mask of Arcadius
 Cover	Sunrider_Mask_of_Arcadius_cover.jpg
@@ -5386,7 +5284,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/sunrider-mask-of-arcadius
 IgdbId	17639
 Game	Super Amazing Wagon Adventure
 Cover	Super_Amazing_Wagon_Adventure_cover.jpg
@@ -5404,7 +5301,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/super-amazing-wagon-adventure
 IgdbId	13100
 Game	Super Bernie World
 Cover	Super_Bernie_World_cover.jpg
@@ -5422,7 +5318,6 @@ Version	1.1.0
 Status	runs (2022-09-13)
 Added	1970-01-01
 Updated	2022-09-13
-# Game slug: https://www.igdb.com/games/super-bernie-world
 IgdbId	132574
 Game	Super Blood Hockey
 Cover	Super_Blood_Hockey_cover.jpg
@@ -5440,7 +5335,6 @@ Version
 Status	works with minor bugs - gamepad not working (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/super-blood-hockey
 IgdbId	31160
 Game	Super Hexagon
 Cover	Super_Hexagon_cover.jpg
@@ -5458,7 +5352,6 @@ Version
 Status	browser needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/super-hexagon
 IgdbId	3251
 Game	Super Ninja Warrior Extreme
 Cover	Super_Ninja_Warrior_Extreme.png
@@ -5476,7 +5369,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
 IgdbId
 Game	Super Rad Raygun
 Cover	Super_Rad_Raygun_cover.jpg
@@ -5494,7 +5386,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/super-rad-raygun
 IgdbId	25695
 Game	Sword of the Stars: The Pit
 Cover	Sword_of_the_Stars_-_The_Pit_-_cover.png
@@ -5512,8 +5403,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/sword-of-the-stars-the-pit-mind-games
-IgdbId	10950
+IgdbId	19868
 Game	System Shock
 Cover	System_Shock_cover.jpg
 Engine	System Shock engine
@@ -5530,8 +5420,7 @@ Version
 Status	works with minor bugs (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/telstar-double-value-games-system-shock-and-space-hulk
-IgdbId	138308
+IgdbId	23
 Game	Tales of Maj'Eyal
 Cover	tome.jpg
 Engine	T-Engine 4
@@ -5548,7 +5437,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/tales-of-majeyal
 IgdbId	8796
 Game	Tanglewood
 Cover	TANGLEWOOD_cover.jpg
@@ -5566,7 +5454,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/tanglewood--1
 IgdbId	104602
 Game	TD Worlds
 Cover
@@ -5584,7 +5471,6 @@ Version
 Status	runs (2022-01-10)
 Added	2022-01-10
 Updated	2022-01-10
-# Game slug: https://www.igdb.com/games/td-worlds
 IgdbId	168619
 Game	Technobabylon
 Cover
@@ -5602,8 +5488,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/technobabylon-deluxe-edition
-IgdbId	51929
+IgdbId	13232
 Game	Terraria
 Cover	Terraria_cover.jpg
 Engine	FNA
@@ -5620,8 +5505,7 @@ Version	1.4.3.6v2
 Status	runs (2022-04-30)
 Added	1970-01-01
 Updated	2022-05-01
-# Game slug: https://www.igdb.com/games/terraria-thorium-mod
-IgdbId	222685
+IgdbId	1879
 Game	Theia: The Crimson Eclipse
 Cover	cropped-Title-LOGO_rid.png
 Engine	RPG Maker
@@ -5638,7 +5522,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/theia-the-crimson-eclipse
 IgdbId	135949
 Game	Theme Hospital
 Cover	ThemeHospital.jpg
@@ -5656,7 +5539,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/theme-hospital
 IgdbId	1624
 Game	Thukothea Defender
 Cover
@@ -5674,7 +5556,6 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/thukothea-defender
 IgdbId	159855
 Game	Timespinner
 Cover	Timespinner_cover.jpg
@@ -5692,7 +5573,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/timespinner
 IgdbId	28952
 Game	Time's Up in Tiny Town
 Cover
@@ -5710,7 +5590,6 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/times-up-in-tiny-town
 IgdbId	190471
 Game	Titan Attacks!
 Cover	Titan_Attacks_-_cover.jpg
@@ -5728,7 +5607,6 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/titan-attacks--1
 IgdbId	11460
 Game	Toonstruck
 Cover	Toonstruck_-_Cover.jpg
@@ -5746,7 +5624,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/toonstruck
 IgdbId	916
 Game	TowerFall: Ascension
 Cover	TowerFall_Ascension_-_cover.jpg
@@ -5764,8 +5641,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	9567
 Game	Tyrian 2000
 Cover	Tyrian_2000.jpg
 Engine
@@ -5782,7 +5658,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/tyrian-2000
 IgdbId	14432
 Game	Ultra Hat Dimension
 Cover	Ultra_Hat_Dimension_cover.jpg
@@ -5800,7 +5675,6 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/ultra-hat-dimension
 IgdbId	59472
 Game	Ultratron
 Cover	Ultratron_-_cover.jpg
@@ -5818,7 +5692,6 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/ultratron
 IgdbId	14327
 Game	Unavowed
 Cover
@@ -5836,7 +5709,6 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/unavowed
 IgdbId	27867
 Game	Underlings
 Cover
@@ -5854,7 +5726,6 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/underlings
 IgdbId	138892
 Game	Unexplored
 Cover	Unexplored_cover.jpg
@@ -5872,8 +5743,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/unexplored-unlocked-edition
-IgdbId	98837
+IgdbId	27373
 Game	Unholy Heights
 Cover	Unholy_Heights.jpg
 Engine	XNA
@@ -5890,7 +5760,6 @@ Version
 Status	works (2021-09-17)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/unholy-heights
 IgdbId	16648
 Game	Urtuk: The Desolation
 Cover
@@ -5908,7 +5777,6 @@ Version	1.0.0+91b
 Status	runs (2022-11-25)
 Added	2022-11-25
 Updated	2022-11-25
-# Game slug: https://www.igdb.com/games/urtuk-the-desolation
 IgdbId	98073
 Game	The Useful Dead
 Cover	Useful_Dead.png
@@ -5926,7 +5794,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/the-useful-dead
 IgdbId	62830
 Game	Virtual Cottage
 Cover
@@ -5944,7 +5811,6 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/virtual-cottage
 IgdbId	144577
 Game	A Virus Named Tom
 Cover	A_Virus_Named_TOM_-_cover.jpg
@@ -5962,7 +5828,6 @@ Version
 Status	major limitations - saving not working; unplayable (2021-11-28)
 Added	1970-01-01
 Updated	2021-11-28
-# Game slug: https://www.igdb.com/games/a-virus-named-tom
 IgdbId	3040
 Game	Voidrun
 Cover
@@ -5980,8 +5845,7 @@ Version
 Status	runs
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/voidrunner-plus-hellgate
-IgdbId	98167
+IgdbId	116267
 Game	Vomitoreum
 Cover
 Engine	gzdoom
@@ -5998,7 +5862,6 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/vomitoreum
 IgdbId	142271
 Game	Vylan
 Cover
@@ -6016,7 +5879,6 @@ Version
 Status	runs (2021-10-30)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/vylan
 IgdbId	157088
 Game	Weapon of Choice
 Cover	Weapon_of_Choice_cover.jpg
@@ -6034,7 +5896,6 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/weapon-of-choice
 IgdbId	23028
 Game	Whispers of a Machine
 Cover
@@ -6052,8 +5913,7 @@ Version	1.0.6
 Status	runs (2023-01-21)
 Added	2023-01-21
 Updated	2023-01-21
-# Game slug: https://www.igdb.com/games/clifftop-games-bundle-kathy-rain-directors-cut-plus-whispers-of-a-machine
-IgdbId	226788
+IgdbId	27278
 Game	Wish Project
 Cover
 Engine	FNA
@@ -6070,7 +5930,6 @@ Version
 Status	runs (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/wish-project
 IgdbId	35307
 Game	WizOrb
 Cover	Wizorb_game_cover.jpg
@@ -6088,7 +5947,6 @@ Version
 Status	currently not working - needs mono path fixes
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/wizorb
 IgdbId	1364
 Game	Woodland Empire
 Cover
@@ -6106,7 +5964,6 @@ Version
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
-# Game slug: https://www.igdb.com/games/woodland-empire
 IgdbId	158242
 Game	Word Game: Episode 0
 Cover
@@ -6124,7 +5981,6 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/word-game-episode-0
 IgdbId	174067
 Game	Wrath: Aeon of Ruin
 Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
@@ -6142,7 +5998,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/wrath-aeon-of-ruin
 IgdbId	115873
 Game	Wyv and Keep
 Cover	wyv_and_keep.png
@@ -6160,7 +6015,6 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/wyv-and-keep-the-temple-of-the-lost-idol
 IgdbId	16847
 Game	X-Com: UFO Defense (aka UFO: Enemy Unknown)
 Cover	X-Com_UFO_Defense_Box.jpg
@@ -6178,8 +6032,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game not found
-IgdbId
+IgdbId	24
 Game	Yarntown
 Cover
 Engine	solarus
@@ -6196,7 +6049,6 @@ Version	1.0.6
 Status	runs (2021-11-26)
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/yarntown
 IgdbId	135927
 Game	Yume Nikki
 Cover	Nikki.jpg
@@ -6214,8 +6066,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/yume-nikki-3d
-IgdbId	177808
+IgdbId	18689
 Game	The Zachtronics Solitaire Collection
 Cover
 Engine	Mono
@@ -6232,7 +6083,6 @@ Version
 Status	runs (2022-09-06)
 Added	2022-09-07
 Updated	2022-09-07
-# Game slug: https://www.igdb.com/games/the-zachtronics-solitaire-collection
 IgdbId	214973
 Game	Zak McKracken and the Alien Mindbenders
 Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
@@ -6250,7 +6100,6 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/zak-mckracken-and-the-alien-mindbenders-enhanced
 IgdbId	2280
 Game	Zen Bound 2
 Cover	Zen_Bound_2_cover.jpg
@@ -6268,5 +6117,4 @@ Version
 Status	needs browser
 Added	1970-01-01
 Updated	1970-01-01
-# Game slug: https://www.igdb.com/games/zen-bound-2
 IgdbId	15063
