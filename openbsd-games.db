@@ -14,6 +14,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3240
 Game	The Adventures of Mr. Hat
 Cover
 Engine	godot
@@ -30,6 +31,7 @@ Version	Early Access
 Status	runs (2022-05-13)
 Added	2022-05-13
 Updated	2022-05-13
+IgdbId	191822
 Game	The Adventures of Shuggy
 Cover	Adventures_of_Shuggy_The_-_cover.png
 Engine	FNA
@@ -46,6 +48,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11084
 Game	Aedemphia
 Cover	aedemphia.png
 Engine	RPG Maker
@@ -62,6 +65,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	125943
 Game	Aeternum
 Cover
 Engine	FNA
@@ -78,6 +82,7 @@ Version
 Status	runs (2021-11-27)
 Added	2021-11-27
 Updated	2021-11-28
+IgdbId	50223
 Game	Airships: Conquer the Skies
 Cover	Airships_ConquerTheSkies_logo.jpg
 Engine	lwjgl
@@ -94,6 +99,7 @@ Version
 Status	works with some setup steps required
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35934
 Game	Akane the Kunoichi
 Cover	Akane_the_Kunoichi_cover.jpg
 Engine	XNA
@@ -110,6 +116,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8376
 Game	Alien Shepherd
 Cover
 Engine	HashLink
@@ -126,6 +133,7 @@ Version	1.0.1
 Status	runs with bugs - graphics artefacts (2023-01-04)
 Added	2022-06-11
 Updated	2023-01-04
+IgdbId	190200
 Game	Always Sometimes Monsters
 Cover	Always_Sometimes_Monsters.jpg
 Engine	NW.js
@@ -142,6 +150,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7289
 Game	Amazing Princess Sarah
 Cover	Amazing_Princess_Sarah_cover.jpg
 Engine	XNA
@@ -158,6 +167,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	20968
 Game	Amnesia: The Dark Descent
 Cover
 Engine	amnesia-tdd
@@ -174,6 +184,7 @@ Version
 Status	runs (2021-10-26)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	111
 Game	Apocalyptic Vibes
 Cover
 Engine	gzdoom
@@ -190,6 +201,7 @@ Version
 Status	runs (2023-03-05)
 Added	2023-03-05
 Updated	2023-03-05
+IgdbId	189189
 Game	Apotheon
 Cover	Apotheon_-_cover.jpg
 Engine	FNA
@@ -206,6 +218,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9016
 Game	Apple Jack 1&2
 Cover	Apple_Jack_cover.jpg
 Engine	XNA
@@ -222,6 +235,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35716
 Game	Aquaria
 Cover	Aquaria_-_cover.jpg
 Engine
@@ -238,6 +252,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7406
 Game	Arx Fatalis
 Cover	Arx_Fatalis_Cover.jpg
 Engine
@@ -254,6 +269,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	602
 Game	Ashworld
 Cover
 Engine	libgdx
@@ -270,6 +286,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	43120
 Game	Atom Zombie Smasher
 Cover	AZS.jpg
 Engine
@@ -286,6 +303,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8388
 Game	The Average Everyday Adventures of Samantha Browne
 Cover	The_Average_Everyday_Adventures_of_Samantha_Browne_cover.jpg
 Engine	ren'py
@@ -302,6 +320,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16984
 Game	Axiom Verge
 Cover	Axiom_Verge_-_cover.jpg
 Engine	FNA
@@ -318,6 +337,7 @@ Version	1.53
 Status	runs (2021-11-28)
 Added	1970-01-01
 Updated	2021-12-10
+IgdbId	8652
 Game	Baldur's Gate
 Cover	Baldurs_Gate_cover.jpg
 Engine	Infinity Engine
@@ -334,6 +354,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5
 Game	Baldur's Gate 2
 Cover	Baldurs_Gate_II_Shadows_of_Amn_cover.jpg
 Engine	Infinity Engine
@@ -350,6 +371,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	82
 Game	Banana Hell
 Cover
 Engine	godot
@@ -366,6 +388,7 @@ Version
 Status	runs (2021-11-25)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	140861
 Game	Barony
 Cover	Barony_cover.jpg
 Engine
@@ -382,6 +405,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35189
 Game	Beholder's Lair
 Cover
 Engine	godot
@@ -398,6 +422,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	143525
 Game	Beneath a Steel Sky
 Cover	Beneath_a_Steel_Sky_Box.png
 Engine	ScummVM
@@ -414,6 +439,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	612
 Game	Beyond Sunset
 Cover
 Engine	gzdoom
@@ -430,6 +456,7 @@ Version	Demo
 Status	runs (2023-01-23)
 Added	2023-01-23
 Updated	2023-01-23
+IgdbId	164206
 Game	Bird Assassin
 Cover	Bird_Assassin_cover.png
 Engine	XNA
@@ -446,6 +473,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17596
 Game	Blacken Slash
 Cover
 Engine	godot
@@ -462,6 +490,7 @@ Version	1.6
 Status	runs (2022-12-10)
 Added	2022-12-10
 Updated	2022-12-10
+IgdbId	188723
 Game	The Blackwell Epiphany
 Cover	The_Blackwell_Epiphany_cover.png
 Engine	AGS
@@ -478,6 +507,7 @@ Version
 Status	needs manual setup
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8511
 Game	Blastronaut
 Cover
 Engine	godot
@@ -494,6 +524,7 @@ Version	demo (downloaded 2022-04-02)
 Status	runs (2022-04-02)
 Added	2022-04-03
 Updated	2022-04-03
+IgdbId	145877
 Game	Bleed
 Cover	Bleed_boxart.JPG
 Engine	FNA
@@ -510,6 +541,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9706
 Game	Bleed 2
 Cover	Bleed_2_cover.jpg
 Engine	FNA
@@ -526,6 +558,7 @@ Version
 Status	runs (2021-11-28)
 Added	1970-01-01
 Updated	2021-12-10
+IgdbId	26725
 Game	Blossom Tales II: The Minotaur Prince
 Cover
 Engine	FNA
@@ -542,6 +575,7 @@ Version
 Status	runs (2022-08-18)
 Added	2022-08-19
 Updated	2022-08-19
+IgdbId	172489
 Game	BLUE REVOLVER
 Cover
 Engine	love
@@ -558,6 +592,7 @@ Version
 Status	runs (2023-01-01)
 Added	2023-01-01
 Updated	2023-01-01
+IgdbId	24928
 Game	Bottomless
 Cover
 Engine	godot
@@ -574,6 +609,7 @@ Version
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	183596
 Game	Breath of Death VII
 Cover	Breath_of_death_vii.jpg
 Engine	XNA
@@ -590,6 +626,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16259
 Game	Broken Sword II: The Smoking Mirror
 Cover	Broken_Sword_II_The_Smoking_Mirror_Coverart.png
 Engine	Virtual Theatre
@@ -606,6 +643,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1150
 Game	Broken Sword: The Shadow of the Templars
 Cover	Broken_Sword_Shadow_of_the_Templars_Coverart.png
 Engine	Virtual Theatre
@@ -622,6 +660,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	206502
 Game	Brotato
 Cover
 Engine	godot
@@ -638,6 +677,7 @@ Version	demo (2022-06-07)
 Status	runs (2022-06-07)
 Added	2022-06-07
 Updated	2022-06-07
+IgdbId	199116
 Game	Brushwood Buddies
 Cover	Brushwood_Buddies_cover.jpg
 Engine	FNA
@@ -654,6 +694,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	33692
 Game	Burning Knight
 Cover	Burning_Knight_cover.jpg
 Engine	MonoGame
@@ -670,6 +711,7 @@ Version
 Status	runs with major bugs
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	117702
 Game	Caesar 3
 Cover	Caesar_III_Cover.png
 Engine
@@ -686,6 +728,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	6332
 Game	Cannon Fodder
 Cover	Cannon_Fodder_Coverart.jpg
 Engine
@@ -702,6 +745,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5519
 Game	Cannon Fodder 2
 Cover	Cannon_Fodder_2_-_cover.png
 Engine
@@ -718,6 +762,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11986
 Game	Capsized
 Cover	Capsized_-_cover.png
 Engine	FNA
@@ -734,6 +779,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3050
 Game	Capsule Force
 Cover
 Engine	FNA
@@ -750,6 +796,7 @@ Version
 Status	runs (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11184
 Game	Capsule Wars
 Cover
 Engine	godot
@@ -766,6 +813,7 @@ Version
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId
 Game	The Case of the Golden Idol
 Cover
 Engine	godot
@@ -782,6 +830,7 @@ Version	1.3.2
 Status	runs (2022-11-16)
 Added	2022-11-17
 Updated	2022-11-17
+IgdbId	166722
 Game	Cat Box Paradox
 Cover
 Engine	godot
@@ -798,6 +847,7 @@ Version
 Status	runs (2021-12-10)
 Added	2021-12-10
 Updated	2021-12-10
+IgdbId	185679
 Game	Cat Cafe Manager
 Cover
 Engine	godot
@@ -814,6 +864,7 @@ Version	1.0.388
 Status	runs (2022-04-15)
 Added	2022-04-15
 Updated	2022-04-15
+IgdbId	140827
 Game	The Cat Lady
 Cover	The_Cat_Lady_-_cover.jpg
 Engine	AGS
@@ -830,6 +881,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11270
 Game	Cave - Legend of the Forge
 Cover
 Engine	godot
@@ -846,6 +898,7 @@ Version
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	141816
 Game	Celeste
 Cover	345px-Celeste_cover.png
 Engine	FNA
@@ -862,6 +915,7 @@ Version
 Status	major limitations - no audio
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	26226
 Game	Chaos Heart
 Cover	Chaos_Heart_cover.png
 Engine
@@ -878,6 +932,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId
 Game	Charlie Murder
 Cover	Charlie_Murder_cover.jpg
 Engine	FNA
@@ -894,6 +949,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	19914
 Game	Chasm
 Cover	Chasm_cover.jpg
 Engine	FNA
@@ -910,6 +966,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3222
 Game	Chess Survivors
 Cover
 Engine	Godot
@@ -926,6 +983,7 @@ Version	Early Access 0.6.2.1
 Status	runs (2022-11-13)
 Added	2022-11-17
 Updated	2022-11-17
+IgdbId	211384
 Game	CometStriker
 Cover	CometStriker_cover.jpg
 Engine	FNA
@@ -942,6 +1000,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	55766
 Game	Command & Conquer
 Cover	Command__Conquer_cover.jpg
 Engine
@@ -958,6 +1017,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	647
 Game	Command & Conquer: Red Alert
 Cover	Command__Conquer_Red_Alert_cover.jpg
 Engine
@@ -974,6 +1034,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	295
 Game	Crawlers and Brawlers
 Cover
 Engine	FNA
@@ -990,6 +1051,7 @@ Version
 Status	runs offline mode only (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	32996
 Game	CrossCode
 Cover	CrossCode_cover.jpg
 Engine	NW.js
@@ -1006,6 +1068,7 @@ Version
 Status	manual setup needed; some non-gamebreaking bugs
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35282
 Game	Cruelty Squad
 Cover
 Engine	godot
@@ -1022,6 +1085,7 @@ Version
 Status	runs (2021-09-06)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	142076
 Game	Cryptark
 Cover	CRYPTARK_Cover.jpg
 Engine	FNA
@@ -1038,6 +1102,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13365
 Game	Crystal Project
 Cover
 Engine	FNA
@@ -1054,6 +1119,7 @@ Version	1.0.11
 Status	runs (2022-04-16)
 Added	2022-04-16
 Updated	2022-04-16
+IgdbId	181444
 Game	Cthulhu Saves the World
 Cover	CthulhuSavestheWorld.png
 Engine	XNA
@@ -1070,6 +1136,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8427
 Game	Curse of the Crescent Isle DX
 Cover	Curse_of_the_Crescent_Isle_DX_cover.jpg
 Engine	FNA
@@ -1086,6 +1153,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35398
 Game	Cursed Gem
 Cover
 Engine	godot
@@ -1102,6 +1170,7 @@ Version	1.0.5
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	129411
 Game	Cute Cats
 Cover
 Engine	godot
@@ -1118,6 +1187,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	163399
 Game	Cyber-doge 2077: Meme runner
 Cover
 Engine	godot
@@ -1134,6 +1204,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	167422
 Game	Dad Quest
 Cover	Dad_Quest_cover.jpg
 Engine	MonoGame
@@ -1150,6 +1221,7 @@ Version
 Status	minor limitations - no gamepad support
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	27145
 Game	Dark Crypt
 Cover
 Engine	godot
@@ -1166,6 +1238,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	164215
 Game	Dark Sheep
 Cover
 Engine	godot
@@ -1182,6 +1255,7 @@ Version
 Status	runs (2021-12-10)
 Added	2021-12-10
 Updated	2021-12-10
+IgdbId	150884
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
 Engine	hashlink
@@ -1198,6 +1272,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	26855
 Game	Dead Pixels
 Cover	Dead_Pixels_cover.jpg
 Engine	XNA
@@ -1214,6 +1289,7 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5448
 Game	Dead Pixels II
 Cover	Dead_Pixels_II_cover.jpg
 Engine	FNA
@@ -1230,6 +1306,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	18362
 Game	Delta-V: Rings of Saturn
 Cover
 Engine	godot
@@ -1246,6 +1323,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	108324
 Game	Delver
 Cover
 Engine	libgdx
@@ -1262,6 +1340,7 @@ Version	1.08
 Status	runs (2022-12-30)
 Added	2022-12-30
 Updated	2022-12-30
+IgdbId	3236
 Game	Democracy 3
 Cover	Democracy_3_-_cover.png
 Engine	Irrlicht Engine
@@ -1278,6 +1357,7 @@ Version
 Status	browser needed to run
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5506
 Game	Descent
 Cover	Descent_cover.jpg
 Engine	Descent Engine
@@ -1294,6 +1374,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1872
 Game	Descent II
 Cover	Descent_II_-_cover.jpg
 Engine	Descent Engine
@@ -1310,6 +1391,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	668
 Game	Diablo
 Cover	Diablo_cover.jpg
 Engine
@@ -1326,6 +1408,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	125
 Game	Dice Tribes: Ambitions
 Cover
 Engine	HashLink
@@ -1342,6 +1425,7 @@ Version	1.3.4
 Status	runs (2022-11-19)
 Added	2022-11-19
 Updated	2022-11-19
+IgdbId	200871
 Game	Diefrosty
 Cover
 Engine	godot
@@ -1358,6 +1442,7 @@ Version
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
+IgdbId	189364
 Game	Diehard Dungeon
 Cover	Diehard_Dungeon_cover.jpg
 Engine	XNA
@@ -1374,6 +1459,7 @@ Version
 Status	works with modifications - libCSteamworks stub (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17064
 Game	The Dig
 Cover	The_Dig_Cover.jpg
 Engine	SCUMM
@@ -1390,6 +1476,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	207
 Game	Dino Eggs: Rebirth
 Cover
 Engine	FNA
@@ -1406,6 +1493,7 @@ Version
 Status	runs (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	33336
 Game	The Dishwasher: Vampire Smile
 Cover	The_Dishwasher_Vampire_Smile_cover.jpg
 Engine	FNA
@@ -1422,6 +1510,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	20582
 Game	Doki Doki Literature Club!
 Cover	DDLC_cover.jpg
 Engine	Ren'Py 6
@@ -1438,6 +1527,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	55935
 Game	Dome Keeper (formerly Dome Romantik)
 Cover
 Engine	godot
@@ -1454,6 +1544,7 @@ Version	Demo (2022-06-07)
 Status	runs (2022-06-07)
 Added	2022-03-19
 Updated	2022-06-07
+IgdbId	200611
 Game	Doom
 Cover	Doom_Ultimate.jpg
 Engine	id Tech 1
@@ -1470,6 +1561,7 @@ Version
 Status
 Added	1970-01-01
 Updated	2022-11-04
+IgdbId	673
 Game	Doom & Destiny Advanced
 Cover
 Engine	XNA
@@ -1486,6 +1578,7 @@ Version
 Status	runs with bugs, e.g. crash on window resizing (2021-08-23)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	25944
 Game	Doppelganger
 Cover
 Engine
@@ -1502,6 +1595,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13606
 Game	Downfall
 Cover	Downfall_cover.jpg
 Engine	AGS
@@ -1518,6 +1612,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	213124
 Game	Draw A Stickman: EPIC
 Cover	Draw_a_Stickman_EPIC_logo.png
 Engine	XNA/MonoGame
@@ -1534,6 +1629,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5032
 Game	Dreams in the Witch House
 Cover
 Engine	AGS
@@ -1550,6 +1646,7 @@ Version	1.04
 Status	runs with rare bugs, unclear if game breaking (2023-03-05)
 Added	2023-03-05
 Updated	2023-03-05
+IgdbId	197158
 Game	Droid Assault
 Cover
 Engine	LWJGL2
@@ -1566,6 +1663,7 @@ Version	20151219
 Status	runs (2023-01-07)
 Added	2023-01-07
 Updated	2023-01-07
+IgdbId	9704
 Game	Dune 2000
 Cover	Dune_2000_cover.jpg
 Engine
@@ -1582,6 +1680,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	87
 Game	Dust: An Elysian Tail
 Cover	Dust_An_Elysian_Tail_-_cover.png
 Engine	FNA
@@ -1598,6 +1697,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	2130
 Game	Dustforce DX
 Cover	Dustforce_cover.jpg
 Engine
@@ -1614,6 +1714,7 @@ Version
 Status	needs browser
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1340
 Game	DwarfCorp
 Cover
 Engine	FNA
@@ -1630,6 +1731,7 @@ Version
 Status	runs (2022-08-27)
 Added	2022-08-28
 Updated	2022-08-28
+IgdbId	59133
 Game	EXAPUNKS
 Cover	EXAPUNKS_cover.jpg
 Engine
@@ -1646,6 +1748,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	106122
 Game	Eagle Island
 Cover	Eagle_Island_cover.jpg
 Engine	MonoGame
@@ -1662,6 +1765,7 @@ Version
 Status	works with minor bugs - no gamepad support (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	150781
 Game	The Elder Scrolls III: Morrowind
 Cover	The_Elder_Scrolls_III_Morrowind_cover.jpg
 Engine	NetImmerse
@@ -1678,6 +1782,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	56
 Game	Eliza
 Cover	Eliza_-_cover.jpg
 Engine
@@ -1694,6 +1799,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	92919
 Game	Elliot Quest
 Cover	Elliot_Quest_cover.jpg
 Engine	NW.js
@@ -1710,6 +1816,7 @@ Version
 Status	minor limitations - no gamepad support; needs browser
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8596
 Game	Escape Goat
 Cover	Escape_Goat_-_cover.jpg
 Engine	FNA
@@ -1726,6 +1833,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7590
 Game	Escape Goat 2
 Cover	Escape_Goat_2_-_cover.png
 Engine	FNA
@@ -1742,6 +1850,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8252
 Game	Escape from Monkey Island
 Cover	Escape_from_Monkey_Island_artwork.jpg
 Engine	GrimE
@@ -1758,6 +1867,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	63
 Game	Evoland Legendary Edition
 Cover	Evoland-LE_cover.jpg
 Engine	hashlink
@@ -1774,6 +1884,7 @@ Version
 Status	not working - needs modifications to steam hashlink library
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	114910
 Game	The Excavation of Hob's Barrow
 Cover
 Engine	AGS
@@ -1790,6 +1901,7 @@ Version	1.0
 Status	runs (2023-03-03)
 Added	2022-09-28
 Updated	2023-03-03
+IgdbId	210665
 Game	Explosionade
 Cover	Explosionade_cover.jpg
 Engine	XNA
@@ -1806,6 +1918,7 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35176
 Game	The Expression Amrilato
 Cover	The_Expression_Amrilato_cover.jpg
 Engine	Ren'Py
@@ -1822,6 +1935,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	119580
 Game	Fenimore Fillmore: 3 Skulls of the Toltecs
 Cover
 Engine
@@ -1838,6 +1952,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	111882
 Game	FEZ
 Cover	450px-Fez_-_cover.png
 Engine	FNA
@@ -1854,6 +1969,7 @@ Version
 Status	custom version needed - need to use beta version to run
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1991
 Game	Fracture Hell
 Cover
 Engine	godot
@@ -1870,6 +1986,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	165088
 Game	FRANZ FURY
 Cover
 Engine	godot
@@ -1886,6 +2003,7 @@ Version	Demo
 Status	runs (2022-04-13)
 Added	2022-04-14
 Updated	2022-04-14
+IgdbId	157923
 Game	Fraymakers
 Cover
 Engine	hashlink
@@ -1902,6 +2020,7 @@ Version	0.4.20 (Early Access)
 Status	runs (2023-01-19)
 Added	2023-01-19
 Updated	2023-01-19
+IgdbId	141090
 Game	FTL
 Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
@@ -1918,6 +2037,7 @@ Version
 Status	browser needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3075
 Game	Fatal Twelve
 Cover	Fatal_Twelve_cover.jpg
 Engine	Ren'Py
@@ -1934,6 +2054,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	28801
 Game	Fist Puncher
 Cover	Fist_Puncher_-_cover.png
 Engine	FNA
@@ -1950,6 +2071,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9088
 Game	Flinthook
 Cover	Flinthook_cover.jpg
 Engine	FNA
@@ -1966,6 +2088,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	20330
 Game	Flotilla
 Cover	Flotilla.jpg
 Engine	FNA
@@ -1982,6 +2105,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8396
 Game	Forest's Secret: Mystery of the Frost
 Cover	forests_secret_cover.png
 Engine	libgdx
@@ -1998,6 +2122,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	138716
 Game	The Forestale
 Cover
 Engine	gzdoom
@@ -2014,6 +2139,7 @@ Version
 Status	runs (2023-01-25)
 Added	2023-01-25
 Updated	2023-01-25
+IgdbId	102875
 Game	Freespace 2
 Cover	FreeSpace_2.jpg
 Engine
@@ -2030,6 +2156,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	722
 Game	Fury's Sky
 Cover
 Engine	gzdoom
@@ -2046,6 +2173,7 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
+IgdbId	121334
 Game	Gabriel Knight: Sins of the Fathers
 Cover	Gabriel_Knight_Sins_of_the_Fathers_Cover.png
 Engine	SCI2
@@ -2062,6 +2190,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1250
 Game	Game Type
 Cover	Game_Type_cover.jpg
 Engine	XNA
@@ -2078,6 +2207,7 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35177
 Game	Gateways
 Cover	Gateways_-_cover.png
 Engine	FNA
@@ -2094,6 +2224,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13662
 Game	Gemini Rue
 Cover
 Engine	AGS
@@ -2110,6 +2241,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	6325
 Game	Glitchangels
 Cover	Glitchangels_cover.jpg
 Engine	FNA
@@ -2126,6 +2258,7 @@ Version	1.2.2
 Status	works with minor bugs - FAudio crash on exit (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	127543
 Game	A Golden Wake
 Cover
 Engine	AGS
@@ -2142,6 +2275,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8819
 Game	Goop Loop
 Cover
 Engine	godot
@@ -2158,6 +2292,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	141073
 Game	Grand Class Melee 2
 Cover	Grand_Class_Melee_2_cover.jpg
 Engine	XNA
@@ -2174,6 +2309,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	36014
 Game	Gravity Ace
 Cover
 Engine	godot
@@ -2190,6 +2326,7 @@ Version
 Status	runs (2021-09-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	114912
 Game	The Great Adventurer
 Cover
 Engine
@@ -2206,6 +2343,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId
 Game	The Great Plague Exodus
 Cover
 Engine	godot
@@ -2222,6 +2360,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	149158
 Game	Grimm's Hollow
 Cover	Grimms_Hollow_cover.jpg
 Engine
@@ -2238,6 +2377,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	125110
 Game	Groov
 Cover
 Engine	FNA
@@ -2254,6 +2394,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	69161
 Game	Groundskeeper 2
 Cover
 Engine	libgdx
@@ -2270,6 +2411,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	22101
 Game	Growing Pains
 Cover	Growing_Pains_cover.jpg
 Engine	FNA
@@ -2286,6 +2428,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17203
 Game	Gunslugs
 Cover
 Engine	libgdx
@@ -2302,6 +2445,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	35187
 Game	Gunslugs 3: Rogue Tactics
 Cover
 Engine	libgdx
@@ -2318,6 +2462,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	114017
 Game	Hack Grid
 Cover
 Engine	godot
@@ -2334,6 +2479,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	169852
 Game	HackNet
 Cover	Hacknet_Logo.jpg
 Engine	FNA
@@ -2350,6 +2496,7 @@ Version
 Status	minor limitations - integrated browser module not working
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11707
 Game	Haiki
 Cover
 Engine	godot
@@ -2366,6 +2513,7 @@ Version
 Status	shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 (2022-08-20)
 Added	1970-01-01
 Updated	2022-08-21
+IgdbId	141134
 Game	Hallow's Eve
 Cover
 Engine	solarus
@@ -2382,6 +2530,7 @@ Version	1.2.0
 Status	runs (2021-11-26)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId
 Game	Hands of Necromancy
 Cover
 Engine	idTech
@@ -2398,6 +2547,7 @@ Version	2.0
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
+IgdbId	203249
 Game	Hashi: Light
 Cover
 Engine	godot
@@ -2414,6 +2564,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	168485
 Game	HeXen: Beyond Heretic
 Cover	Hexen_Beyond_Heretic_cover.jpg
 Engine	id Tech 1
@@ -2430,6 +2581,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3512
 Game	HeXen II
 Cover	Hexen_II_cover.jpg
 Engine	Quake engine
@@ -2446,6 +2598,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	6637
 Game	Hedon
 Cover	Hedon_cover.png
 Engine
@@ -2462,6 +2615,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	183074
 Game	Heretic: Shadow of the Serpent Riders
 Cover	Heretic_cover.jpg
 Engine	id Tech 1
@@ -2478,6 +2632,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8419
 Game	Heroes of Loot
 Cover
 Engine	libgdx
@@ -2494,6 +2649,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	13624
 Game	Heroes of Might and Magic 2
 Cover	Heroes_of_Might_and_Magic_II_cover.jpg
 Engine
@@ -2510,6 +2666,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	51821
 Game	Heroine's Quest: The Herald of Ragnarok
 Cover	Heroines_Quest.png
 Engine	AGS
@@ -2526,6 +2683,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	36441
 Game	Highway Blossoms
 Cover	Highway_Blossoms_Remastered.jpg
 Engine	Ren'Py 6
@@ -2542,6 +2700,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	20688
 Game	Hive
 Cover	Hive_cover.jpg
 Engine	FNA
@@ -2558,6 +2717,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5604
 Game	Hiveswap Friendsim
 Cover	Hiveswap_Friendsim_cover.jpg
 Engine	ren'py
@@ -2574,6 +2734,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	97012
 Game	Human Diaspora
 Cover
 Engine	godot
@@ -2590,6 +2751,7 @@ Version	Early Access
 Status	runs (2021-10-28)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	142253
 Game	Hyphen
 Cover	Hyphen_cover.jpg
 Engine	FNA
@@ -2606,6 +2768,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	24566
 Game	I am Sakuya: Touhou FPS Game
 Cover
 Engine	gzdoom
@@ -2622,6 +2785,7 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
+IgdbId	199475
 Game	I Have No Mouth And I Must Scream
 Cover	I_Have_No_Mouth_and_I_Must_Scream_Cover.jpg
 Engine	SAGA
@@ -2638,6 +2802,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7578
 Game	I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1
 Cover
 Engine	FNA
@@ -2654,6 +2819,7 @@ Version
 Status	runs (2021-11-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	181112
 Game	Ib
 Cover	IbBanner.png
 Engine
@@ -2670,6 +2836,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	195732
 Game	Icewind Dale
 Cover	Icewind_Dale_Box.jpg
 Engine	Infinity Engine
@@ -2686,6 +2853,7 @@ Version
 Status	untested; manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	753
 Game	INC: The Beginning
 Cover
 Engine	libgdx
@@ -2702,6 +2870,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId
 Game	Indiana Jones and the Fate of Atlantis
 Cover	Indiana_Jones_and_the_Fate_of_Atlantis_cover.jpg
 Engine	SCUMM
@@ -2718,6 +2887,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	184
 Game	Indirection
 Cover
 Engine	godot
@@ -2734,6 +2904,7 @@ Version
 Status	runs (2022-01-09)
 Added	2022-01-09
 Updated	2022-01-09
+IgdbId	186000
 Game	In the House of Silence
 Cover
 Engine	godot
@@ -2750,6 +2921,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	139515
 Game	Ion Fury
 Cover	Ion_Fury_logo.jpg
 Engine	Build Engine
@@ -2766,6 +2938,7 @@ Version
 Status	needs manual setup - compile eduke32 port (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	54844
 Game	Jagged Alliance 2
 Cover	Jagged_Alliance_2_-_cover.jpg
 Engine
@@ -2782,6 +2955,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7
 Game	Jam and the Mystery of the Mysteriously Spooky Mansion
 Cover	jam.png
 Engine	Ren'Py
@@ -2798,6 +2972,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	134098
 Game	Jazz Jackrabbit
 Cover	Jazz_Jackrabbit_cover.jpg
 Engine
@@ -2814,6 +2989,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3167
 Game	Jon Shafer's At the Gates
 Cover	At_the_Gates_cover.jpg
 Engine	FNA
@@ -2830,6 +3006,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8423
 Game	Joyspring
 Cover
 Engine	godot
@@ -2846,6 +3023,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	156046
 Game	Kathy Rain
 Cover
 Engine	AGS
@@ -2862,6 +3040,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	18997
 Game	Kitsune Zero
 Cover
 Engine	FNA
@@ -2878,6 +3057,7 @@ Version	1.2.0
 Status	runs (2022-09-13)
 Added	2022-09-13
 Updated	2022-09-13
+IgdbId	213714
 Game	Kitty Tactics
 Cover
 Engine	godot
@@ -2894,6 +3074,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	149510
 Game	Kotel Ne Gori: A Friend of Lena Boots
 Cover
 Engine	godot
@@ -2910,6 +3091,7 @@ Version
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
+IgdbId	158324
 Game	Lamplight City
 Cover
 Engine	AGS
@@ -2926,6 +3108,7 @@ Version
 Status	runs (2021-10-28)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	79999
 Game	Lands of Lore - The Throne of Chaos
 Cover	Lands_of_Lore_The_Throne_of_Chaos_Coverart.PNG
 Engine	Kyra
@@ -2942,6 +3125,7 @@ Version
 Status	needs manual setup - 7zip extract GAME.DAT
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	2528
 Game	LaserCat
 Cover	LaserCat_cover.jpg
 Engine	XNA
@@ -2958,6 +3142,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	32271
 Game	Learn Japanese To Survive! Hiragana Battle
 Cover	Learn_Japanese_Cover.jpg
 Engine
@@ -2974,7 +3159,8 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
-Game	Lila's Sky Aark
+IgdbId	33622
+Game	Lila's Sky Ark
 Cover
 Engine	godot
 Setup
@@ -2990,6 +3176,7 @@ Version
 Status	runs (2022-04-21)
 Added	2022-04-22
 Updated	2022-04-22
+IgdbId	144552
 Game	Lingo
 Cover
 Engine	godot
@@ -3006,6 +3193,7 @@ Version
 Status	runs (2021-12-21)
 Added	2021-12-13
 Updated	2022-03-19
+IgdbId	117955
 Game	Little Racers STREET
 Cover	Little_Racers_Street_-_cover.jpg
 Engine	FNA
@@ -3022,6 +3210,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	10518
 Game	Lode Runner Online: The Mad Monks' Revenge
 Cover
 Engine	FNA
@@ -3038,6 +3227,7 @@ Version	22.09
 Status	runs (2022-10-30)
 Added	2022-10-30
 Updated	2022-10-30
+IgdbId
 Game	Long Live the Queen
 Cover	Long_Live_the_Queen.jpg
 Engine	Ren'Py 6
@@ -3054,6 +3244,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9722
 Game	The Longest Journey
 Cover	The_Longest_Journey_Box.jpg
 Engine	Stark
@@ -3070,6 +3261,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	895
 Game	Loom
 Cover	Loom_Cover.jpg
 Engine	SCUMM
@@ -3086,6 +3278,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	191
 Game	Lost Cities
 Cover
 Engine	FNA
@@ -3102,6 +3295,7 @@ Version
 Status	runs (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	37376
 Game	Luck be a Landlord
 Cover
 Engine	godot
@@ -3118,6 +3312,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	142035
 Game	Lycanthorn II
 Cover
 Engine	gzdoom
@@ -3134,6 +3329,7 @@ Version
 Status	runs (2023-01-25)
 Added	2023-01-25
 Updated	2023-01-25
+IgdbId	239592
 Game	Malice & Greed
 Cover
 Engine	godot
@@ -3150,6 +3346,7 @@ Version
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	143568
 Game	Master of Orion
 Cover	Master_of_Orion_-_cover.jpg
 Engine
@@ -3166,6 +3363,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	155305
 Game	Mega Man Legacy Collection
 Cover	Mega_Man_Legacy_Collection.jpg
 Engine
@@ -3182,6 +3380,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	19874
 Game	Meganoid
 Cover
 Engine	libgdx
@@ -3198,6 +3397,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	29184
 Game	Meganoid: Grandpa's Chronicles
 Cover
 Engine	libgdx
@@ -3214,6 +3414,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId
 Game	Mercenary Kings
 Cover	Mercenary_kings_boxart.jpg
 Engine	FNA
@@ -3230,6 +3431,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	6147
 Game	Mewnbase
 Cover
 Engine	libgdx
@@ -3246,6 +3448,7 @@ Version
 Status	major manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	54984
 Game	Miasma: Citizens of Free Thought
 Cover
 Engine	FNA
@@ -3262,6 +3465,7 @@ Version
 Status	runs (2021-11-03)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	54204
 Game	Miasma 2: Freedom Uprising
 Cover
 Engine	FNA
@@ -3278,6 +3482,7 @@ Version
 Status	buggy: missing graphics elements (2021-12-11)
 Added	2021-12-13
 Updated	2021-12-13
+IgdbId	54205
 Game	Micro Mages
 Cover	Micro_Mages_cover.jpg
 Engine
@@ -3294,6 +3499,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	110882
 Game	MidBoss
 Cover	MidBoss_cover.jpg
 Engine	FNA
@@ -3310,6 +3516,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	30360
 Game	Minecraft
 Cover	Minecraft_cover.jpg
 Engine
@@ -3326,6 +3533,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	121
 Game	Mirrorama
 Cover
 Engine	godot
@@ -3342,6 +3550,7 @@ Version	1.0.1
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
+IgdbId	186824
 Game	Mobius Front 83
 Cover
 Engine
@@ -3358,6 +3567,7 @@ Version	03/01/2021
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	140436
 Game	Molek-Syntez
 Cover	MOLEK-SYNTEZ_cover.jpg
 Engine
@@ -3374,6 +3584,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	125208
 Game	Monster Outbreak
 Cover
 Engine	godot
@@ -3390,6 +3601,7 @@ Version	1.0.12
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
+IgdbId	154046
 Game	Moonshot - The Great Espionage
 Cover
 Engine	godot
@@ -3406,6 +3618,7 @@ Version
 Status	works (2021-08-06)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	159516
 Game	Mount Your Friends
 Cover	Mount_Your_Friends.jpg
 Engine	XNA
@@ -3422,6 +3635,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	15916
 Game	Mud River
 Cover
 Engine	godot
@@ -3438,6 +3652,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	171869
 Game	Murder Miners
 Cover
 Engine	FNA
@@ -3454,6 +3669,7 @@ Version
 Status	runs (2021-08-23)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17035
 Game	Myst
 Cover	MystCover.png
 Engine	Mohawk Engine
@@ -3470,6 +3686,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16203
 Game	Myst III: Exile
 Cover	MYSTIIICOVER.jpg
 Engine	Sprint Engine
@@ -3486,6 +3703,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	797
 Game	Neofeud
 Cover
 Engine	AGS
@@ -3502,6 +3720,7 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	55688
 Game	Neoteria
 Cover
 Engine	libgdx
@@ -3518,6 +3737,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	61111
 Game	NeuroVoider
 Cover	NeuroVoider_cover.jpg
 Engine	MonoGame
@@ -3534,6 +3754,7 @@ Version
 Status	minor limitations - no gamepad support
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	23581
 Game	Nightfall Hacker
 Cover
 Engine	godot
@@ -3550,6 +3771,7 @@ Version
 Status	runs (2021-09-06)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	127578
 Game	Northgard
 Cover	Northgard_cover.jpg
 Engine	hashlink
@@ -3566,6 +3788,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	18918
 Game	Nuclear Blaze
 Cover
 Engine	hashlink
@@ -3582,6 +3805,7 @@ Version
 Status	runs (2021-11-24)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	153876
 Game	One Finger Death Punch
 Cover	OneFingerDeathPunchcover.jpg
 Engine	XNA
@@ -3598,6 +3822,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8360
 Game	Open Sorcery
 Cover	Open_Sorcery_cover.jpg
 Engine
@@ -3614,6 +3839,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	27444
 Game	Opus Magnum
 Cover	Opus_Magnum_cover.jpg
 Engine
@@ -3630,6 +3856,7 @@ Version
 Status	works (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	74545
 Game	Osmos
 Cover	Osmos_Coverart.png
 Engine
@@ -3646,6 +3873,7 @@ Version
 Status	browser needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	14951
 Game	Overdriven Reloaded
 Cover	Overdriven_Reloaded_cover.jpg
 Engine	FNA
@@ -3662,6 +3890,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	32259
 Game	Owlboy
 Cover	Owlboy_-_Cover.png
 Engine	FNA
@@ -3678,6 +3907,7 @@ Version
 Status	broken (2022-04-01)
 Added	1970-01-01
 Updated	2022-04-02
+IgdbId	12597
 Game	Paladin
 Cover	Paladin_cover.jpg
 Engine	FNA
@@ -3694,6 +3924,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	15333
 Game	Panzer General
 Cover
 Engine	LGeneral
@@ -3710,6 +3941,7 @@ Version
 Status
 Added	2022-11-21
 Updated	2022-11-21
+IgdbId	4268
 Game	Paralyzed
 Cover
 Engine	godot
@@ -3726,6 +3958,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	141787
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
 Cover	Precipice_of_darkness_3.jpg
 Engine	FNA
@@ -3742,6 +3975,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	14980
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 4
 Cover	On_the_Rain-Slick_Precipice_of_Darkness_4_-_cover.jpg
 Engine	XNA
@@ -3758,6 +3992,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	14981
 Game	Phoenix Force
 Cover	Phoenix_Force_cover.jpg
 Engine	XNA
@@ -3774,6 +4009,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	36181
 Game	Planescape: Torment
 Cover	Planescape_Torment_Box.jpg
 Engine	Infinity Engine
@@ -3790,6 +4026,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	832
 Game	PlanetFriend
 Cover	PlanetFriend_cover.png
 Engine	FNA
@@ -3806,6 +4043,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	133879
 Game	Postal
 Cover	Postal_Cover.jpg
 Engine	RSPiX
@@ -3822,6 +4060,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	2000
 Game	Press X to Not Die
 Cover	Press_X_to_Not_Die_cover.jpg
 Engine	FNA
@@ -3838,6 +4077,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13619
 Game	Primal Light
 Cover	Primal_Light_cover.jpg
 Engine	Godot
@@ -3854,6 +4094,7 @@ Version
 Status	works on brief testing (2021-01-26)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	122794
 Game	Primordia
 Cover	Primordia_cover.jpg
 Engine	AGS
@@ -3870,6 +4111,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7635
 Game	Project Crypt
 Cover
 Engine	gzdoom
@@ -3886,6 +4128,7 @@ Version
 Status	runs (2023-01-25)
 Added	2023-01-25
 Updated	2023-01-25
+IgdbId	201131
 Game	Project Heartbeat
 Cover
 Engine	godot
@@ -3902,6 +4145,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	130920
 Game	Quake
 Cover	Quake_Cover.jpg
 Engine	Quake Engine
@@ -3918,6 +4162,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	333
 Game	Quake II
 Cover	Quake_II_cover.jpg
 Engine	id Tech 2
@@ -3934,6 +4179,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	286
 Game	Quake III Arena
 Cover	Quake_III_Arena_cover.jpg
 Engine	id Tech 3
@@ -3950,6 +4196,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	355
 Game	Quest for Infamy
 Cover	473px-Quest_for_Infamy_-_Cover.jpg
 Engine
@@ -3966,6 +4213,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8250
 Game	Quest of Graal
 Cover
 Engine	godot
@@ -3982,6 +4230,7 @@ Version
 Status	runs (2022-04-13)
 Added	2022-04-14
 Updated	2022-04-14
+IgdbId	182930
 Game	Retro City Rampage DX
 Cover	Retro_City_Rampage_cover.jpg
 Engine
@@ -3998,6 +4247,7 @@ Version
 Status	needs manual setup
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8063
 Game	Return to Castle Wolfenstein
 Cover	Return_to_Castle_Wolfenstein_Cover.png
 Engine
@@ -4014,6 +4264,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	281
 Game	Rex
 Cover
 Engine	godot
@@ -4030,6 +4281,7 @@ Version
 Status	runs (2021-10-29)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	45348
 Game	Rex Rocket
 Cover	Rex_Rocket_-_cover.jpg
 Engine	FNA
@@ -4046,6 +4298,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17191
 Game	Rise to Ruins
 Cover
 Engine	LWJGL2
@@ -4062,6 +4315,7 @@ Version	Update 1b
 Status	runs (2023-01-01)
 Added	2023-01-01
 Updated	2023-01-01
+IgdbId	36220
 Game	Riven
 Cover	Riven_Coverart.png
 Engine	Mohawk Engine
@@ -4078,6 +4332,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	238
 Game	Rodent and Plank: Secret Origin
 Cover
 Engine	FNA
@@ -4094,6 +4349,7 @@ Version
 Status	runs (2021-08-20)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	139588
 Game	Rogue Legacy
 Cover	Rogue_Legacy_-_cover.png
 Engine	FNA
@@ -4110,6 +4366,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3221
 Game	Rogue State Revolution
 Cover
 Engine	godot
@@ -4126,6 +4383,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	122070
 Game	RollerCoaster Tycoon
 Cover	RollerCoaster_Tycoon_cover.jpg
 Engine
@@ -4142,6 +4400,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	36444
 Game	RollerCoaster Tycoon 2
 Cover	RollerCoaster_Tycoon_2_cover.jpg
 Engine
@@ -4158,6 +4417,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	331
 Game	Roma Invicta
 Cover
 Engine	godot
@@ -4174,6 +4434,7 @@ Version
 Status	runs (2022-05-13)
 Added	2022-05-13
 Updated	2022-05-13
+IgdbId	190269
 Game	Ruggnar
 Cover	Ruggnar_cover.png
 Engine	MonoGame
@@ -4190,6 +4451,7 @@ Version
 Status	works with minor bugs - no gamepad support (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	164177
 Game	ROTA
 Cover
 Engine	godot
@@ -4206,6 +4468,7 @@ Version
 Status	runs (2022-11-29)
 Added	2022-11-29
 Updated	2022-11-29
+IgdbId	201487
 Game	RUN: The world in-between
 Cover
 Engine	godot
@@ -4222,6 +4485,7 @@ Version
 Status	runs (2022-04-14)
 Added	2022-04-14
 Updated	2022-04-14
+IgdbId	145400
 Game	RuneScape
 Cover
 Engine	Java
@@ -4238,6 +4502,7 @@ Version
 Status	major limitations - poor performance, no audio
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	5611
 Game	Rushberry Mercs
 Cover
 Engine	hashlink
@@ -4254,6 +4519,7 @@ Version
 Status	runs (2021-08-20)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	132552
 Game	SEGA Mega Drive and Genesis Classics
 Cover	sega.jpg
 Engine
@@ -4270,6 +4536,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	80185
 Game	SJ-19 Learns To Love!
 Cover
 Engine	godot
@@ -4286,6 +4553,7 @@ Version
 Status	runs (2021-09-06)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	144112
 Game	Sokobos
 Cover
 Engine	godot
@@ -4302,6 +4570,7 @@ Version
 Status	runs (2022-04-01)
 Added	2022-04-02
 Updated	2022-04-02
+IgdbId	189863
 Game	SokoChess
 Cover
 Engine	godot
@@ -4318,6 +4587,7 @@ Version	1.0.2
 Status	runs (2022-08-18)
 Added	2022-06-07
 Updated	2022-08-19
+IgdbId	201496
 Game	SokoChess White
 Cover
 Engine	godot
@@ -4334,6 +4604,7 @@ Version	1.0.0
 Status	runs (2023-03-04)
 Added	2023-03-04
 Updated	2023-03-04
+IgdbId	232960
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
 Engine	FNA
@@ -4350,6 +4621,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	34952
 Game	Salt and Sanctuary
 Cover	SaltAndSanctuary_header.jpg
 Engine	FNA
@@ -4366,6 +4638,7 @@ Version
 Status	currently broken - mojoshader mismatch
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7709
 Game	Sam & Max Hit the Road
 Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
 Engine	SCUMM
@@ -4382,6 +4655,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	202
 Game	satryn deluxe
 Cover
 Engine	godot
@@ -4398,6 +4672,7 @@ Version	0.9.1
 Status	runs (2021-10-31)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	186106
 Game	Session Seven
 Cover	Session_Seven_cover.jpg
 Engine
@@ -4414,6 +4689,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	115395
 Game	The Settlers II
 Cover	Settlers_2_cover.jpg
 Engine
@@ -4430,6 +4706,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	2617
 Game	The Settlers
 Cover	The_Settlers_-_cover.jpg
 Engine
@@ -4446,6 +4723,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	124562
 Game	Seven Kingdoms: Ancient Adversaries
 Cover	7kaacover.jpg
 Engine
@@ -4462,6 +4740,7 @@ Version
 Status	needs manual setup
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	33303
 Game	Shadow Warrior Classic Redux
 Cover
 Engine	eduke32
@@ -4478,6 +4757,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	30156
 Game	Shigatari
 Cover
 Engine	renpy
@@ -4494,6 +4774,7 @@ Version
 Status	runs (2023-03-01)
 Added	2023-03-01
 Updated	2023-03-01
+IgdbId	55307
 Game	Shipwreck
 Cover	Shipwreck_-_cover.png
 Engine	FNA
@@ -4510,6 +4791,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	176573
 Game	The Shivah
 Cover	Shivah-cover.jpg
 Engine	AGS
@@ -4526,6 +4808,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	7418
 Game	Shrine
 Cover
 Engine	gzdoom
@@ -4542,6 +4825,7 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
+IgdbId	132241
 Game	Shrine II
 Cover
 Engine	gzdoom
@@ -4558,6 +4842,7 @@ Version
 Status	runs (2023-01-24)
 Added	2023-01-24
 Updated	2023-01-24
+IgdbId	135474
 Game	Signs of Life
 Cover	Signs_of_Life_-_cover.png
 Engine	XNA
@@ -4574,6 +4859,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16839
 Game	Simona's Requiem
 Cover
 Engine	godot
@@ -4590,6 +4876,7 @@ Version
 Status	runs (2022-04-29)
 Added	2022-04-29
 Updated	2022-04-29
+IgdbId	146360
 Game	Sir Questionnaire
 Cover
 Engine	libgdx
@@ -4606,6 +4893,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	96201
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
 Engine	FNA
@@ -4622,6 +4910,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9023
 Game	Slay the Spire
 Cover	Slay_the_Spire_cover.jpg
 Engine	libgdx
@@ -4638,6 +4927,7 @@ Version
 Status	manual setup required
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	40477
 Game	Snake Core
 Cover
 Engine	libgdx
@@ -4654,6 +4944,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	132783
 Game	Solar Rogue
 Cover
 Engine	godot
@@ -4670,6 +4961,7 @@ Version	1.0.1
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
+IgdbId	133421
 Game	Solaroids: Prologue
 Cover	solaroids.png
 Engine	FNA
@@ -4686,6 +4978,7 @@ Version
 Status	works with major limitations - game duration capped by DRM kicking in
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	29314
 Game	Soulcaster I & II
 Cover	Soulcaster_cover.jpg
 Engine	FNA
@@ -4702,6 +4995,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	33074
 Game	SpaceChem
 Cover	SpaceChem_-_cover.jpg
 Engine	FontEngine
@@ -4718,6 +5012,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8390
 Game	Space Grunts
 Cover
 Engine	libgdx
@@ -4734,6 +5029,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	35224
 Game	Space Grunts 2
 Cover
 Engine	libgdx
@@ -4750,6 +5046,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	121004
 Game	Space Haven
 Cover
 Engine	libgdx
@@ -4766,6 +5063,7 @@ Version	0.16.0.17
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	103246
 Game	Spaceport Hope
 Cover
 Engine	libgdx
@@ -4782,6 +5080,7 @@ Version
 Status	runs (2023-01-07)
 Added	2023-01-07
 Updated	2023-01-07
+IgdbId	34639
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
 Engine	XNA
@@ -4798,6 +5097,7 @@ Version
 Status	works with minor bugs - no gamepad support, no online multiplayer
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9527
 Game	Spellbook Demonslayers
 Cover
 Engine	godot
@@ -4814,6 +5114,7 @@ Version	early access (2022-12-10)
 Status	runs (2022-12-10)
 Added	2022-12-10
 Updated	2022-12-10
+IgdbId	209740
 Game	Star Wars: Jedi Knight - Jedi Academy
 Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
 Engine	id Tech 3
@@ -4830,6 +5131,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	153
 Game	Stardash
 Cover
 Engine	libgdx
@@ -4846,6 +5148,7 @@ Version
 Status	runs (2022-12-31)
 Added	2022-12-31
 Updated	2022-12-31
+IgdbId	147628
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
 Engine	MonoGame
@@ -4862,6 +5165,7 @@ Version	1.5.6
 Status	runs (2023-01-19)
 Added	1970-01-01
 Updated	2023-01-19
+IgdbId	17000
 Game	StarPrey
 Cover
 Engine	godot
@@ -4878,6 +5182,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	143027
 Game	Star-Twine
 Cover
 Engine	FNA
@@ -4894,6 +5199,7 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	30800
 Game	Steel Assault
 Cover
 Engine	FNA
@@ -4910,6 +5216,7 @@ Version
 Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	56668
 Game	Strangeland
 Cover
 Engine	AGS
@@ -4926,6 +5233,7 @@ Version
 Status	runs (2021-10-28)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	103219
 Game	Strife: Veteran Edition
 Cover	Strife_Veteran_Edition_cover.jpg
 Engine	id Tech 1
@@ -4942,6 +5250,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	24603
 Game	Suits: A Business RPG
 Cover	Suits_A_Business_RPG_cover.jpg
 Engine
@@ -4958,6 +5267,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16135
 Game	Sunrider: Mask of Arcadius
 Cover	Sunrider_Mask_of_Arcadius_cover.jpg
 Engine	Ren'Py 6
@@ -4974,6 +5284,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	17639
 Game	Super Amazing Wagon Adventure
 Cover	Super_Amazing_Wagon_Adventure_cover.jpg
 Engine	XNA
@@ -4990,6 +5301,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13100
 Game	Super Bernie World
 Cover	Super_Bernie_World_cover.jpg
 Engine	FNA
@@ -5006,6 +5318,7 @@ Version	1.1.0
 Status	runs (2022-09-13)
 Added	1970-01-01
 Updated	2022-09-13
+IgdbId	132574
 Game	Super Blood Hockey
 Cover	Super_Blood_Hockey_cover.jpg
 Engine	XNA
@@ -5022,6 +5335,7 @@ Version
 Status	works with minor bugs - gamepad not working (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	31160
 Game	Super Hexagon
 Cover	Super_Hexagon_cover.jpg
 Engine
@@ -5038,6 +5352,7 @@ Version
 Status	browser needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	3251
 Game	Super Ninja Warrior Extreme
 Cover	Super_Ninja_Warrior_Extreme.png
 Engine
@@ -5054,6 +5369,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId
 Game	Super Rad Raygun
 Cover	Super_Rad_Raygun_cover.jpg
 Engine	FNA
@@ -5070,6 +5386,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	25695
 Game	Sword of the Stars: The Pit
 Cover	Sword_of_the_Stars_-_The_Pit_-_cover.png
 Engine	XNA
@@ -5086,6 +5403,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	19868
 Game	System Shock
 Cover	System_Shock_cover.jpg
 Engine	System Shock engine
@@ -5102,6 +5420,7 @@ Version
 Status	works with minor bugs (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	23
 Game	Tales of Maj'Eyal
 Cover	tome.jpg
 Engine	T-Engine 4
@@ -5118,6 +5437,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	8796
 Game	Tanglewood
 Cover	TANGLEWOOD_cover.jpg
 Engine	megaEx
@@ -5134,6 +5454,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	104602
 Game	TD Worlds
 Cover
 Engine	godot
@@ -5150,6 +5471,7 @@ Version
 Status	runs (2022-01-10)
 Added	2022-01-10
 Updated	2022-01-10
+IgdbId	168619
 Game	Technobabylon
 Cover
 Engine	AGS
@@ -5166,6 +5488,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	13232
 Game	Terraria
 Cover	Terraria_cover.jpg
 Engine	FNA
@@ -5182,6 +5505,7 @@ Version	1.4.3.6v2
 Status	runs (2022-04-30)
 Added	1970-01-01
 Updated	2022-05-01
+IgdbId	1879
 Game	Theia: The Crimson Eclipse
 Cover	cropped-Title-LOGO_rid.png
 Engine	RPG Maker
@@ -5198,6 +5522,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	135949
 Game	Theme Hospital
 Cover	ThemeHospital.jpg
 Engine
@@ -5214,6 +5539,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1624
 Game	Thukothea Defender
 Cover
 Engine	godot
@@ -5230,6 +5556,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	159855
 Game	Timespinner
 Cover	Timespinner_cover.jpg
 Engine	FNA
@@ -5246,6 +5573,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	28952
 Game	Time's Up in Tiny Town
 Cover
 Engine	godot
@@ -5262,6 +5590,7 @@ Version
 Status	runs (2021-10-15)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	190471
 Game	Titan Attacks!
 Cover	Titan_Attacks_-_cover.jpg
 Engine	lwjgl
@@ -5278,6 +5607,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	11460
 Game	Toonstruck
 Cover	Toonstruck_-_Cover.jpg
 Engine	Toon
@@ -5294,6 +5624,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	916
 Game	TowerFall: Ascension
 Cover	TowerFall_Ascension_-_cover.jpg
 Engine	FNA
@@ -5310,6 +5641,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	9567
 Game	Tyrian 2000
 Cover	Tyrian_2000.jpg
 Engine
@@ -5326,6 +5658,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	14432
 Game	Ultra Hat Dimension
 Cover	Ultra_Hat_Dimension_cover.jpg
 Engine	FNA
@@ -5342,6 +5675,7 @@ Version
 Status	works
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	59472
 Game	Ultratron
 Cover	Ultratron_-_cover.jpg
 Engine	lwjgl
@@ -5358,6 +5692,7 @@ Version
 Status	manual setup needed
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	14327
 Game	Unavowed
 Cover
 Engine	AGS
@@ -5374,6 +5709,7 @@ Version
 Status	runs (2021-10-13)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	27867
 Game	Underlings
 Cover
 Engine	godot
@@ -5390,6 +5726,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	138892
 Game	Unexplored
 Cover	Unexplored_cover.jpg
 Engine	FNA
@@ -5406,6 +5743,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	27373
 Game	Unholy Heights
 Cover	Unholy_Heights.jpg
 Engine	XNA
@@ -5422,6 +5760,7 @@ Version
 Status	works (2021-09-17)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16648
 Game	Urtuk: The Desolation
 Cover
 Engine	libgdx
@@ -5438,6 +5777,7 @@ Version	1.0.0+91b
 Status	runs (2022-11-25)
 Added	2022-11-25
 Updated	2022-11-25
+IgdbId	98073
 Game	The Useful Dead
 Cover	Useful_Dead.png
 Engine	XNA
@@ -5454,6 +5794,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	62830
 Game	Virtual Cottage
 Cover
 Engine	godot
@@ -5470,6 +5811,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	144577
 Game	A Virus Named Tom
 Cover	A_Virus_Named_TOM_-_cover.jpg
 Engine	FNA
@@ -5486,6 +5828,7 @@ Version
 Status	major limitations - saving not working; unplayable (2021-11-28)
 Added	1970-01-01
 Updated	2021-11-28
+IgdbId	3040
 Game	Voidrun
 Cover
 Engine	hashlink
@@ -5502,6 +5845,7 @@ Version
 Status	runs
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	116267
 Game	Vomitoreum
 Cover
 Engine	gzdoom
@@ -5518,6 +5862,7 @@ Version
 Status	runs (2021-10-27)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	142271
 Game	Vylan
 Cover
 Engine	godot
@@ -5534,6 +5879,7 @@ Version
 Status	runs (2021-10-30)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	157088
 Game	Weapon of Choice
 Cover	Weapon_of_Choice_cover.jpg
 Engine	XNA
@@ -5550,6 +5896,7 @@ Version
 Status	currently not working
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	23028
 Game	Whispers of a Machine
 Cover
 Engine	Adventure Game Studio
@@ -5566,6 +5913,7 @@ Version	1.0.6
 Status	runs (2023-01-21)
 Added	2023-01-21
 Updated	2023-01-21
+IgdbId	27278
 Game	Wish Project
 Cover
 Engine	FNA
@@ -5582,6 +5930,7 @@ Version
 Status	runs (2021-08-19)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	35307
 Game	WizOrb
 Cover	Wizorb_game_cover.jpg
 Engine	FNA
@@ -5598,6 +5947,7 @@ Version
 Status	currently not working - needs mono path fixes
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	1364
 Game	Woodland Empire
 Cover
 Engine	godot
@@ -5614,6 +5964,7 @@ Version
 Status	runs (2021-12-22)
 Added	2021-12-22
 Updated	2021-12-22
+IgdbId	158242
 Game	Word Game: Episode 0
 Cover
 Engine	godot
@@ -5630,6 +5981,7 @@ Version
 Status	runs (2021-08-21)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	174067
 Game	Wrath: Aeon of Ruin
 Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
 Engine	Darkplaces
@@ -5646,6 +5998,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	115873
 Game	Wyv and Keep
 Cover	wyv_and_keep.png
 Engine	FNA
@@ -5662,6 +6015,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	16847
 Game	X-Com: UFO Defense (aka UFO: Enemy Unknown)
 Cover	X-Com_UFO_Defense_Box.jpg
 Engine
@@ -5678,6 +6032,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	24
 Game	Yarntown
 Cover
 Engine	solarus
@@ -5694,6 +6049,7 @@ Version	1.0.6
 Status	runs (2021-11-26)
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	135927
 Game	Yume Nikki
 Cover	Nikki.jpg
 Engine
@@ -5710,6 +6066,7 @@ Version
 Status
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	18689
 Game	The Zachtronics Solitaire Collection
 Cover
 Engine	Mono
@@ -5726,6 +6083,7 @@ Version
 Status	runs (2022-09-06)
 Added	2022-09-07
 Updated	2022-09-07
+IgdbId	214973
 Game	Zak McKracken and the Alien Mindbenders
 Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
 Engine	SCUMM
@@ -5742,6 +6100,7 @@ Version
 Status	untested
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	2280
 Game	Zen Bound 2
 Cover	Zen_Bound_2_cover.jpg
 Engine
@@ -5758,3 +6117,4 @@ Version
 Status	needs browser
 Added	1970-01-01
 Updated	1970-01-01
+IgdbId	15063

@@ -15,7 +15,7 @@ At this point, the primary database is a text file `openbsd-games.db`. See below
 * TABS are currently MANDATORY where listed below!!
 * Entries are ordered alphabetically (by `Game<TAB>Name`)
 
-Currently **16** lines per entry, **in the following order**:
+Currently **17** lines per entry, **in the following order**:
 
 1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering
 2. *Cover*: path to cover art image file (`.png`, `.jpg`)
@@ -33,6 +33,7 @@ Currently **16** lines per entry, **in the following order**:
 14. *Status*: string of valid status with date when tested on -current in parentheses
 15. *Added*: date (ISO 8601 format) when the entry was added (EPOCH when the information is not available)
 16. *Updated*: date (ISO 8601 format) when the entry was last updated
+17. *IgdbId*: id of the game in the [IGDB](https://www.igdb.com) database 
 
 ...
 
