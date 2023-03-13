@@ -3778,7 +3778,7 @@ Engine	hashlink
 Setup	hashlink
 Runtime	hashlink
 Store	https://www.gog.com/game/northgard https://www.humblebundle.com/store/northgard https://store.steampowered.com/app/466560/Northgard/
-Hints	https://github.com/rfht/hlsteam-stub hlsteam-stub to run
+Hints	DLC needs hlvideo
 Genre	RTS
 Tags
 Year	2018
@@ -3787,7 +3787,7 @@ Pub
 Version
 Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-03-13
 IgdbId	18918
 Game	Nuclear Blaze
 Cover
