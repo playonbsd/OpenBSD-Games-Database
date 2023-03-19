@@ -4914,19 +4914,19 @@ IgdbId	9023
 Game	Slay the Spire
 Cover	Slay_the_Spire_cover.jpg
 Engine	libgdx
-Setup	libgdx
-Runtime	libgdx
+Setup	IndieRunner
+Runtime	java
 Store	https://www.gog.com/game/slay_the_spire https://www.humblebundle.com/store/slay-the-spire https://store.steampowered.com/app/646570/Slay_the_Spire/
-Hints	https://thfr.info/cgi-bin/cvsweb/projects/libgdx-openbsd/README-OpenBSD.md libgdx-openbsd, detailed instructions in README-OpenBSD.md https://perso.pw/gaming/openbsd_slay_the_spire.sh openbsd_slay_the_spire.sh setup script
+Hints	If running fails with OpenGLException Invalid enum (1280), can workaround by setting MESA_NO_ERROR=1
 Genre	Roguelite Deckbuilder
 Tags
 Year	2019
 Dev	Mega Crit Games
-Pub
-Version
-Status	manual setup required
+Pub	Mega Crit Games
+Version	2.3.4
+Status	runs (2023-03-19)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-03-19
 IgdbId	40477
 Game	Snake Core
 Cover
