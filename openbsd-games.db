@@ -5217,6 +5217,23 @@ Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	56668
+Game	Stone Kingdoms
+Cover
+Engine	love
+Setup
+Runtime	love-11
+Store	https://stonekingdoms.itch.io/stone-kingdoms-rts
+Hints	free and open-source
+Genre	real-time strategy
+Tags	free
+Year	2020
+Dev
+Pub
+Version
+Status	runs (2023-03-21)
+Added	2023-03-21
+Updated	2023-03-21
+IgdbId
 Game	Strangeland
 Cover
 Engine	AGS
