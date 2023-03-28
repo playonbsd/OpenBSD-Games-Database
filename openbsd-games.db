@@ -3,7 +3,7 @@ Cover	AaaaaA_for_the_Awesome_Cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome
+Store	https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome https://store.steampowered.com/app/15560
 Hints	Demo on HumbleBundle store page
 Genre
 Tags
@@ -88,7 +88,7 @@ Cover	Airships_ConquerTheSkies_logo.jpg
 Engine	lwjgl
 Setup	lwjgl
 Runtime	lwjgl
-Store	https://www.gog.com/game/airships_conquer_the_skies https://zarkonnen.itch.io/airships
+Store	https://www.gog.com/game/airships_conquer_the_skies https://zarkonnen.itch.io/airships https://store.steampowered.com/app/342560
 Hints	copy liblwjgl64.so and libopenal.so* (as libopenal64.so) into java.library.path
 Genre	RTS
 Tags
@@ -207,7 +207,7 @@ Cover	Apotheon_-_cover.jpg
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.humblebundle.com/store/apotheon https://www.gog.com/game/apotheon
+Store	https://www.humblebundle.com/store/apotheon https://www.gog.com/game/apotheon https://store.steampowered.com/app/208750
 Hints
 Genre	Platformer Brawler
 Tags
@@ -326,7 +326,7 @@ Cover	Axiom_Verge_-_cover.jpg
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.epicgames.com/store/en-US/product/axiom-verge/home https://www.amazon.com/Axiom-Verge-Collectors-w-Steelbook-Pc/dp/B06ZYXYMFT https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=axiom+verge+collector&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=axiom+verge+gametrust
+Store	https://www.epicgames.com/store/en-US/product/axiom-verge/home https://www.amazon.com/Axiom-Verge-Collectors-w-Steelbook-Pc/dp/B06ZYXYMFT https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=axiom+verge+collector&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=axiom+verge+gametrust https://store.steampowered.com/app/332200
 Hints	saving not possible with Steam version
 Genre	Metroidvania
 Tags
@@ -394,7 +394,7 @@ Cover	Barony_cover.jpg
 Engine
 Setup
 Runtime	barony
-Store	https://www.gog.com/game/barony_cursed_edition https://www.humblebundle.com/store/barony-cursed-edition
+Store	https://www.gog.com/game/barony_cursed_edition https://www.humblebundle.com/store/barony-cursed-edition https://store.steampowered.com/app/371970
 Hints
 Genre	Dungeoncrawler
 Tags	indie first-person open-source
@@ -428,7 +428,7 @@ Cover	Beneath_a_Steel_Sky_Box.png
 Engine	ScummVM
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/beneath_a_steel_sky
+Store	https://www.gog.com/game/beneath_a_steel_sky https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky
 Hints	alternatively '# pkg_add bass'
 Genre	Adventure
 Tags
@@ -496,7 +496,7 @@ Cover	The_Blackwell_Epiphany_cover.png
 Engine	AGS
 Setup
 Runtime	AGS
-Store	https://www.gog.com/game/the_blackwell_epiphany
+Store	https://www.gog.com/game/the_blackwell_epiphany https://store.steampowered.com/app/236930
 Hints
 Genre	Adventure
 Tags
@@ -530,7 +530,7 @@ Cover	Bleed_boxart.JPG
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.humblebundle.com/store/bleed https://bootdiskrevolution.itch.io/bleed
+Store	https://www.humblebundle.com/store/bleed https://bootdiskrevolution.itch.io/bleed https://store.steampowered.com/app/239800
 Hints
 Genre	Action Platformer
 Tags
@@ -547,7 +547,7 @@ Cover	Bleed_2_cover.jpg
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.humblebundle.com/store/bleed-2 https://bootdiskrevolution.itch.io/bleed-2
+Store	https://www.humblebundle.com/store/bleed-2 https://bootdiskrevolution.itch.io/bleed-2 https://store.steampowered.com/app/396350
 Hints
 Genre	Action Platformer
 Tags
@@ -632,7 +632,7 @@ Cover	Broken_Sword_II_The_Smoking_Mirror_Coverart.png
 Engine	Virtual Theatre
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/broken_sword_2__the_smoking_mirror
+Store	https://www.gog.com/game/broken_sword_2__the_smoking_mirror https://store.steampowered.com/app/580440/Broken_Sword_2_Original_Version
 Hints	GOG.com version includes the original
 Genre	Adventure
 Tags
@@ -717,7 +717,7 @@ Cover	Caesar_III_Cover.png
 Engine
 Setup
 Runtime	julius
-Store	https://www.gog.com/game/caesar_3
+Store	https://www.gog.com/game/caesar_3 https://store.steampowered.com/app/517790
 Hints
 Genre
 Tags
@@ -768,7 +768,7 @@ Cover	Capsized_-_cover.png
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.gog.com/game/capsized https://www.humblebundle.com/store/capsized
+Store	https://www.gog.com/game/capsized https://www.humblebundle.com/store/capsized https://store.steampowered.com/app/95300
 Hints
 Genre	Action Platformer
 Tags	indie
@@ -819,7 +819,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
+Store	https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/ https://www.gog.com/en/game/the_case_of_the_golden_idol
 Hints
 Genre	Adventure
 Tags	indie, detective, conspiracy
@@ -853,7 +853,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/
+Store	https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/ https://www.gog.com/en/game/cat_cafe_manager
 Hints
 Genre	management, simulation
 Tags	feline
@@ -870,7 +870,7 @@ Cover	The_Cat_Lady_-_cover.jpg
 Engine	AGS
 Setup
 Runtime	AGS
-Store	https://www.humblebundle.com/g/heroines-quest
+Store	https://store.steampowered.com/app/253110 https://www.gog.com/game/the_cat_lady
 Hints
 Genre	Adventure
 Tags
@@ -1312,7 +1312,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/846030/V_Rings_of_Saturn/
+Store	https://store.steampowered.com/app/846030/V_Rings_of_Saturn/ https://www.gog.com/game/dv_rings_of_saturn
 Hints	note a Unicode "delta" is used in the game's name
 Genre	Simulation
 Tags	scifi, space
@@ -1346,7 +1346,7 @@ Cover	Democracy_3_-_cover.png
 Engine	Irrlicht Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/democracy-3
+Store	https://www.humblebundle.com/store/democracy-3 https://store.steampowered.com/app/245470 https://www.gog.com/game/democracy_3
 Hints
 Genre	Simulation
 Tags
@@ -1465,7 +1465,7 @@ Cover	The_Dig_Cover.jpg
 Engine	SCUMM
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/the_dig
+Store	https://www.gog.com/game/the_dig https://store.steampowered.com/app/6040
 Hints
 Genre	Adventure
 Tags	classic
@@ -1533,7 +1533,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/1637320/Dome_Romantik/ https://bippinbits.itch.io/dome-romantik
+Store	https://store.steampowered.com/app/1637320/Dome_Romantik/ https://bippinbits.itch.io/dome-romantik https://www.gog.com/en/game/dome_keeper
 Hints	Run with `godot --main-pack domeromantik.x86_64`. As of 2022-03-19, itch.io demo is outdated compared to Steam.
 Genre	mining, action
 Tags	Lovecraftian
@@ -1652,7 +1652,7 @@ Cover
 Engine	LWJGL2
 Setup	IndieRunner
 Runtime	java
-Store	https://www.puppygames.net/droid-assault/
+Store	https://www.puppygames.net/droid-assault/ https://store.steampowered.com/app/219200
 Hints	get DRM-free version from developer page. Steam version can't run because of libsteampuppy.so
 Genre	Action
 Tags	indie, arcade, retro, scifi
@@ -1703,7 +1703,7 @@ Cover	Dustforce_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/dustforce-dx
+Store	https://www.humblebundle.com/store/dustforce-dx https://store.steampowered.com/app/65300 https://www.gog.com/game/dustforce_dx
 Hints
 Genre	Platformer
 Tags	indie
@@ -1754,7 +1754,7 @@ Cover	Eagle_Island_cover.jpg
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
-Store	https://www.gog.com/game/eagle_island
+Store	https://www.gog.com/game/eagle_island https://store.steampowered.com/app/681110/Eagle_Island_Twist
 Hints
 Genre	Platformer
 Tags	pixelart
@@ -1771,7 +1771,7 @@ Cover	The_Elder_Scrolls_III_Morrowind_cover.jpg
 Engine	NetImmerse
 Setup
 Runtime	openmw
-Store	https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition
+Store	https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition https://store.steampowered.com/app/22320
 Hints
 Genre	RPG
 Tags	classic
@@ -1856,7 +1856,7 @@ Cover	Escape_from_Monkey_Island_artwork.jpg
 Engine	GrimE
 Setup
 Runtime	residualvm
-Store	https://www.gog.com/game/escape_from_monkey_island
+Store	https://www.gog.com/game/escape_from_monkey_island https://store.steampowered.com/app/730830
 Hints
 Genre	Adventure
 Tags	tank controls, humor
@@ -1873,7 +1873,7 @@ Cover	Evoland-LE_cover.jpg
 Engine	hashlink
 Setup	remove *.so{,.*} and *.hdll
 Runtime	hl
-Store	https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
+Store	https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/ https://www.gog.com/game/evoland_legendary_edition
 Hints
 Genre	RPG
 Tags
@@ -1924,7 +1924,7 @@ Cover	The_Expression_Amrilato_cover.jpg
 Engine	Ren'Py
 Setup	renpyify
 Runtime	Ren'Py
-Store	https://www.gog.com/game/the_expression_amrilato
+Store	https://www.gog.com/game/the_expression_amrilato https://store.steampowered.com/app/1044490
 Hints	if voices get interrupted, try out Interrupt voices during playback toggle; untested
 Genre	Visual Novel
 Tags
@@ -1941,7 +1941,7 @@ Cover
 Engine
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/fenimore_fillmore_3_skulls_of_the_toltecs
+Store	https://www.gog.com/game/fenimore_fillmore_3_skulls_of_the_toltecs https://store.steampowered.com/app/977300
 Hints
 Genre	Adventure
 Tags
@@ -1958,7 +1958,7 @@ Cover	450px-Fez_-_cover.png
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
-Store	https://www.humblebundle.com/store/fez https://polytron.itch.io/fez https://store.steampowered.com/app/224760/FEZ/
+Store	https://www.humblebundle.com/store/fez https://polytron.itch.io/fez https://store.steampowered.com/app/224760/FEZ/ https://www.gog.com/game/fez
 Hints
 Genre	Puzzle Platformer
 Tags	indie
@@ -2026,7 +2026,7 @@ Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/ftl-faster-than-light
+Store	https://www.humblebundle.com/store/ftl-faster-than-light https://store.steampowered.com/app/212680
 Hints	Demo available on humblebundle.com
 Genre	Roguelite, Strategy
 Tags	space, pixelart
@@ -2043,7 +2043,7 @@ Cover	Fatal_Twelve_cover.jpg
 Engine	Ren'Py
 Setup	renpyify
 Runtime	ren'py
-Store	https://store.steampowered.com/app/620210/Fatal_Twelve/
+Store	https://store.steampowered.com/app/620210/Fatal_Twelve/ https://www.gog.com/game/fatal_twelve
 Hints
 Genre
 Tags
@@ -2230,7 +2230,7 @@ Cover
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/gemini_rue
+Store	https://www.gog.com/game/gemini_rue https://store.steampowered.com/app/80310
 Hints
 Genre	Adventure
 Tags	indie
@@ -2264,7 +2264,7 @@ Cover
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/a_golden_wake
+Store	https://www.gog.com/game/a_golden_wake https://store.steampowered.com/app/307570
 Hints
 Genre	Adventure
 Tags
@@ -2366,7 +2366,7 @@ Cover	Grimms_Hollow_cover.jpg
 Engine
 Setup
 Runtime	easyrpg
-Store	https://ghosthum.itch.io/grimms-hollow
+Store	https://ghosthum.itch.io/grimms-hollow https://store.steampowered.com/app/1170880/Grimms_Hollow/
 Hints
 Genre
 Tags
@@ -2536,7 +2536,7 @@ Cover
 Engine	idTech
 Setup
 Runtime	gzdoom
-Store	https://store.steampowered.com/app/1898610/Hands_of_Necromancy/
+Store	https://store.steampowered.com/app/1898610/Hands_of_Necromancy/ https://www.gog.com/en/game/hands_of_necromancy
 Hints
 Genre	FPS
 Tags	retro, fantasy
@@ -2570,7 +2570,7 @@ Cover	Hexen_Beyond_Heretic_cover.jpg
 Engine	id Tech 1
 Setup
 Runtime	gzdoom
-Store	https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/
+Store	https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/ https://www.gog.com/game/hexen_beyond_heretic
 Hints
 Genre	FPS
 Tags
@@ -2587,7 +2587,7 @@ Cover	Hexen_II_cover.jpg
 Engine	Quake engine
 Setup
 Runtime	uhexen2
-Store	https://store.steampowered.com/app/9060/HeXen_II/
+Store	https://store.steampowered.com/app/9060/HeXen_II/ https://www.gog.com/game/hexen_ii
 Hints
 Genre	FPS
 Tags
@@ -2621,7 +2621,7 @@ Cover	Heretic_cover.jpg
 Engine	id Tech 1
 Setup
 Runtime	gzdoom, crispy-doom
-Store	https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
+Store	https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/ https://www.gog.com/game/heretic_shadow_of_the_serpent_riders
 Hints
 Genre	FPS
 Tags
@@ -2723,7 +2723,7 @@ Cover	Hiveswap_Friendsim_cover.jpg
 Engine	ren'py
 Setup	renpyify
 Runtime	ren'py
-Store	https://store.steampowered.com/app/833040/Hiveswap_Friendsim/
+Store	https://store.steampowered.com/app/833040/Hiveswap_Friendsim/ https://www.gog.com/game/hiveswap_friendsim
 Hints	https://www.reddit.com/r/openbsd_gaming/comments/hhy4h0/hiveswap_friendsim_works_with_renpyrenpyify/ Reddit post
 Genre
 Tags
@@ -2825,7 +2825,7 @@ Cover	IbBanner.png
 Engine
 Setup
 Runtime	easyrpg
-Store	https://vgperson.com/games/ib.htm
+Store	https://vgperson.com/games/ib.htm https://store.steampowered.com/app/1901370
 Hints	https://www.reddit.com/r/openbsd_gaming/comments/hkq3bs/ib_rpg_maker_2000_playonbsd/ Reddit post https://videos.pair2jeux.tube/videos/watch/bdf3fb76-5c46-4d17-9046-5e9e9fabcdb2 Video
 Genre
 Tags	free
@@ -3029,7 +3029,7 @@ Cover
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/kathy_rain
+Store	https://www.gog.com/game/kathy_rain https://store.steampowered.com/app/370910
 Hints
 Genre	Adventure
 Tags
@@ -3165,7 +3165,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/1573390/Lilas_Sky_Ark/
+Store	https://store.steampowered.com/app/1573390/Lilas_Sky_Ark/ https://www.gog.com/game/lilas_sky_ark
 Hints
 Genre	metroidvania
 Tags	indie, pixelart
@@ -3233,7 +3233,7 @@ Cover	Long_Live_the_Queen.jpg
 Engine	Ren'Py 6
 Setup	renpyify
 Runtime	Ren'Py
-Store	https://www.gog.com/game/long_live_the_queen
+Store	https://www.gog.com/game/long_live_the_queen https://store.steampowered.com/app/251990
 Hints	https://raw.githubusercontent.com/reivyr/renpy-games/master/LongLiveTheQueen/script.sh tweaks to apply before running the game
 Genre
 Tags
@@ -3250,7 +3250,7 @@ Cover	The_Longest_Journey_Box.jpg
 Engine	Stark
 Setup
 Runtime	residualvm
-Store	https://www.gog.com/game/the_longest_journey
+Store	https://www.gog.com/game/the_longest_journey https://store.steampowered.com/app/6310
 Hints
 Genre	Adventure
 Tags
@@ -3267,7 +3267,7 @@ Cover	Loom_Cover.jpg
 Engine	SCUMM
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/loom
+Store	https://www.gog.com/game/loom https://store.steampowered.com/app/32340
 Hints
 Genre	Adventure
 Tags
@@ -3488,7 +3488,7 @@ Cover	Micro_Mages_cover.jpg
 Engine
 Setup
 Runtime	NES emulator
-Store	https://morphcatgames.itch.io/micromages
+Store	https://morphcatgames.itch.io/micromages https://store.steampowered.com/app/1065020
 Hints
 Genre
 Tags
@@ -3675,7 +3675,7 @@ Cover	MystCover.png
 Engine	Mohawk Engine
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/myst_masterpiece_edition
+Store	https://www.gog.com/game/myst_masterpiece_edition https://store.steampowered.com/app/63660
 Hints
 Genre	Adventure
 Tags	puzzle
@@ -3692,7 +3692,7 @@ Cover	MYSTIIICOVER.jpg
 Engine	Sprint Engine
 Setup
 Runtime	residualvm
-Store	https://www.gog.com/game/myst_3_exile
+Store	https://www.gog.com/game/myst_3_exile https://store.steampowered.com/app/925930
 Hints
 Genre	Adventure
 Tags	puzzle
@@ -3862,7 +3862,7 @@ Cover	Osmos_Coverart.png
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/osmos
+Store	https://www.humblebundle.com/store/osmos https://store.steampowered.com/app/29180
 Hints
 Genre
 Tags
@@ -4253,7 +4253,7 @@ Cover	Return_to_Castle_Wolfenstein_Cover.png
 Engine
 Setup
 Runtime	iorctw
-Store	https://www.gog.com/game/return_to_castle_wolfenstein
+Store	https://www.gog.com/game/return_to_castle_wolfenstein https://store.steampowered.com/app/9010
 Hints	https://marc.info/?l=openbsd-ports&m=154076966325692&w=2 iortcw
 Genre	FPS
 Tags
@@ -4321,7 +4321,7 @@ Cover	Riven_Coverart.png
 Engine	Mohawk Engine
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/riven_the_sequel_to_myst
+Store	https://www.gog.com/game/riven_the_sequel_to_myst https://store.steampowered.com/app/63610
 Hints	untested
 Genre	Adventure
 Tags	puzzle
@@ -4440,7 +4440,7 @@ Cover	Ruggnar_cover.png
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
-Store	https://sirill.itch.io/ruggnar
+Store	https://sirill.itch.io/ruggnar https://store.steampowered.com/app/1303050 https://www.gog.com/game/ruggnar
 Hints
 Genre
 Tags
@@ -4474,7 +4474,7 @@ Cover
 Engine	godot
 Setup
 Runtime	godot
-Store	https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/
+Store	https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/ https://www.gog.com/en/game/run_the_world_inbetween
 Hints
 Genre	platformer
 Tags
@@ -4644,7 +4644,7 @@ Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
 Engine	SCUMM
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/sam_max_hit_the_road
+Store	https://www.gog.com/game/sam_max_hit_the_road https://store.steampowered.com/app/355170
 Hints
 Genre	Adventure
 Tags	humor
@@ -4797,7 +4797,7 @@ Cover	Shivah-cover.jpg
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/the_shivah
+Store	https://www.gog.com/game/the_shivah https://store.steampowered.com/app/252370
 Hints
 Genre	Adventure
 Tags
@@ -5001,7 +5001,7 @@ Cover	SpaceChem_-_cover.jpg
 Engine	FontEngine
 Setup	fnaify
 Runtime	fnaify
-Store	https://zachtronics.itch.io/spacechem
+Store	https://zachtronics.itch.io/spacechem https://store.steampowered.com/app/92800 https://www.gog.com/game/spacechem
 Hints
 Genre	puzzle
 Tags	indie zach-like
@@ -5256,7 +5256,7 @@ Cover	Strife_Veteran_Edition_cover.jpg
 Engine	id Tech 1
 Setup
 Runtime	gzdoom | strife-ve
-Store	https://www.gog.com/game/strife_veteran_edition
+Store	https://www.gog.com/game/strife_veteran_edition https://store.steampowered.com/app/317040
 Hints
 Genre	FPS
 Tags
@@ -5290,7 +5290,7 @@ Cover	Sunrider_Mask_of_Arcadius_cover.jpg
 Engine	Ren'Py 6
 Setup	renpyify
 Runtime	Ren'Py
-Store	https://www.gog.com/game/sunrider_mask_of_arcadius
+Store	https://www.gog.com/game/sunrider_mask_of_arcadius https://store.steampowered.com/app/313730
 Hints
 Genre	Visual Novel
 Tags
@@ -5358,7 +5358,7 @@ Cover	Super_Hexagon_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/super-hexagon
+Store	https://www.humblebundle.com/store/super-hexagon https://store.steampowered.com/app/221640 https://www.gog.com/game/super_hexagon
 Hints
 Genre	Puzzle
 Tags
@@ -5494,7 +5494,7 @@ Cover
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/technobabylon
+Store	https://www.gog.com/game/technobabylon https://store.steampowered.com/app/307580
 Hints
 Genre	Adventure
 Tags	cyberpunk
@@ -5630,7 +5630,7 @@ Cover	Toonstruck_-_Cover.jpg
 Engine	Toon
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/toonstruck
+Store	https://www.gog.com/game/toonstruck https://store.steampowered.com/app/369830
 Hints	untested
 Genre	Adventure
 Tags	humor
@@ -5681,7 +5681,7 @@ Cover	Ultra_Hat_Dimension_cover.jpg
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
-Store	https://eniko.itch.io/uhd
+Store	https://eniko.itch.io/uhd https://store.steampowered.com/app/628830/Ultra_Hat_Dimension
 Hints
 Genre
 Tags
@@ -5715,7 +5715,7 @@ Cover
 Engine	AGS
 Setup
 Runtime	scummvm
-Store	https://www.gog.com/game/unavowed
+Store	https://www.gog.com/game/unavowed https://store.steampowered.com/app/336140
 Hints
 Genre	Adventure
 Tags
@@ -5834,7 +5834,7 @@ Cover	A_Virus_Named_TOM_-_cover.jpg
 Engine	FNA
 Setup	fnaify
 Runtime
-Store	https://www.humblebundle.com/store/a-virus-named-tom https://www.humblebundle.com/store/a-virus-named-tom-with-soundtrack
+Store	https://www.humblebundle.com/store/a-virus-named-tom https://www.humblebundle.com/store/a-virus-named-tom-with-soundtrack https://store.steampowered.com/app/207650
 Hints
 Genre	Puzzle
 Tags
@@ -6089,7 +6089,7 @@ Cover
 Engine	Mono
 Setup	fnaify
 Runtime	fnaify
-Store	https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
+Store	https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/ https://www.gog.com/game/the_zachtronics_solitaire_collection
 Hints
 Genre	Puzzle
 Tags	zach-like
@@ -6123,7 +6123,7 @@ Cover	Zen_Bound_2_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/zen-bound-2
+Store	https://www.humblebundle.com/store/zen-bound-2 https://store.steampowered.com/app/61600
 Hints
 Genre	Puzzle
 Tags
