@@ -3,7 +3,7 @@ Cover	AaaaaA_for_the_Awesome_Cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome https://store.steampowered.com/app/15560
+Store	https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome
 Hints	Demo on HumbleBundle store page
 Genre
 Tags
@@ -1346,7 +1346,7 @@ Cover	Democracy_3_-_cover.png
 Engine	Irrlicht Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/democracy-3 https://store.steampowered.com/app/245470 https://www.gog.com/game/democracy_3
+Store	https://www.humblebundle.com/store/democracy-3
 Hints
 Genre	Simulation
 Tags
@@ -1958,7 +1958,7 @@ Cover	450px-Fez_-_cover.png
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
-Store	https://www.humblebundle.com/store/fez https://polytron.itch.io/fez https://store.steampowered.com/app/224760/FEZ/ https://www.gog.com/game/fez
+Store	https://www.humblebundle.com/store/fez https://store.steampowered.com/app/224760/FEZ/
 Hints
 Genre	Puzzle Platformer
 Tags	indie
@@ -2026,7 +2026,7 @@ Cover	FTL_-_Faster_Than_Light_-_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/ftl-faster-than-light https://store.steampowered.com/app/212680
+Store	https://www.humblebundle.com/store/ftl-faster-than-light
 Hints	Demo available on humblebundle.com
 Genre	Roguelite, Strategy
 Tags	space, pixelart
@@ -3862,7 +3862,7 @@ Cover	Osmos_Coverart.png
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/osmos https://store.steampowered.com/app/29180
+Store	https://www.humblebundle.com/store/osmos
 Hints
 Genre
 Tags
@@ -4448,9 +4448,9 @@ Year	In Development
 Dev
 Pub
 Version
-Status	works with minor bugs - no gamepad support (2021-01-12)
+Status	recent versions are built with dotnet and don't run anymore - it might never run on OpenBSD anymore
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-03-31
 IgdbId	164177
 Game	ROTA
 Cover
@@ -5358,7 +5358,7 @@ Cover	Super_Hexagon_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/super-hexagon https://store.steampowered.com/app/221640 https://www.gog.com/game/super_hexagon
+Store	https://www.humblebundle.com/store/super-hexagon
 Hints
 Genre	Puzzle
 Tags
@@ -6123,7 +6123,7 @@ Cover	Zen_Bound_2_cover.jpg
 Engine
 Setup
 Runtime	HumblePlay
-Store	https://www.humblebundle.com/store/zen-bound-2 https://store.steampowered.com/app/61600
+Store	https://www.humblebundle.com/store/zen-bound-2
 Hints
 Genre	Puzzle
 Tags
