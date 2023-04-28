@@ -5455,6 +5455,23 @@ Status	works with minor bugs (2021-01-12)
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	23
+Game	Takara Cards
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1932210/Takara_Cards/
+Hints
+Genre	rogue-like, deckbuilder
+Tags	indie, space
+Year
+Dev	Post Mortem Pixels
+Pub	Post Mortem Pixels
+Version	Early Access b085
+Status	runs (2023-04-28)
+Added	2023-04-28
+Updated	2023-04-28
+IgdbId	194401
 Game	Tales of Maj'Eyal
 Cover	tome.jpg
 Engine	T-Engine 4
