@@ -5100,20 +5100,20 @@ Updated	2023-01-07
 IgdbId	34639
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
-Engine	XNA
+Engine	FNA
 Setup	fnaify
 Runtime
 Store	https://www.humblebundle.com/store/speedrunners https://store.steampowered.com/app/207140/SpeedRunners/
-Hints
+Hints	update from 2023-03-25 switched to FNA, which fixed gamepad support
 Genre	Platformer
 Tags
 Year	2016
 Dev	DoubleDutch Games
-Pub	tinyBuildGames
+Pub	tinyBuild
 Version
-Status	works with minor bugs - no gamepad support, no online multiplayer
+Status	works with minor limitations - no online multiplayer
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-01
 IgdbId	9527
 Game	Spellbook Demonslayers
 Cover
