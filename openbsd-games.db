@@ -3976,6 +3976,23 @@ Status	runs (2021-11-10)
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	141787
+Game	Path of Achra
+Cover
+Engine	godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2128270/Path_of_Achra/
+Hints
+Genre	roguelike RPG
+Tags	indie, minimalist, early access
+Year
+Dev	Ulfsire
+Pub	Slouching Beast LLC
+Version
+Status	runs (2023-05-01)
+Added	2023-05-01
+Updated	2023-05-01
+IgdbId	222738
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
 Cover	Precipice_of_darkness_3.jpg
 Engine	FNA
