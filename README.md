@@ -32,7 +32,7 @@ Currently **17** lines per entry, **in the following order**:
 13. *Version*: version number/string
 14. *Status*: numerical status with date when tested on -current in parentheses (doesn't apply to upstream bugs that have nothing to do with the OpenBSD platform); note highest numerical description reached applies
  * 0 = doesn't run
- * 1 = game launches (not tested beyond or doesn't get farther)
+ * 1 = game launches (not enough information to comment meaningfully on status beyond launching the game)
  * 2 = major bugs: potentially game-breaking, making finishing the game impossible or a chore; noticeably degrading the enjoyment compared to running the game on other platforms
  * 3 = medium-impact bugs: noticeable, but not game-breaking
  * 4 = minor bugs: barely noticeable, or not relevant to core game
