@@ -351,9 +351,9 @@ Year	1998
 Dev	BioWare
 Pub	Black Isle Studios
 Version
-Status	1
+Status	5 (2023-05-06)
 Added	1970-01-01
-Updated	2023-05-04
+Updated	2023-05-07
 IgdbId	5
 Game	Baldur's Gate 2
 Cover	Baldurs_Gate_II_Shadows_of_Amn_cover.jpg
@@ -1201,9 +1201,9 @@ Year	2021
 Dev	KnKo
 Pub	KnKo
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	163399
 Game	Cyber-doge 2077: Meme runner
 Cover
@@ -1218,9 +1218,9 @@ Year	2020
 Dev	Take Toad
 Pub	Take Toad
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	167422
 Game	Dad Quest
 Cover	Dad_Quest_cover.jpg
@@ -1235,9 +1235,9 @@ Year	In Development
 Dev	Sundae Month
 Pub	Excalibur Publishing
 Version
-Status	minor limitations - no gamepad support
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	27145
 Game	Dark Crypt
 Cover
@@ -1252,9 +1252,9 @@ Year	2021
 Dev	Daisy Games
 Pub	Daisy Games
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	164215
 Game	Dark Sheep
 Cover
@@ -1269,9 +1269,9 @@ Year	2021
 Dev	Daisy Games
 Pub	Daisy Games
 Version
-Status	runs (2021-12-10)
+Status	1 (2021-12-10)
 Added	2021-12-10
-Updated	2021-12-10
+Updated	2023-05-07
 IgdbId	150884
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
@@ -1286,9 +1286,9 @@ Year	2018
 Dev	Motion Twin
 Pub
 Version
-Status	works (2021-01-12)
+Status	5 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	26855
 Game	Dead Pixels
 Cover	Dead_Pixels_cover.jpg
@@ -1303,9 +1303,9 @@ Year	2012
 Dev	CSR-Studios
 Pub
 Version
-Status	currently not working
+Status	0
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	5448
 Game	Dead Pixels II
 Cover	Dead_Pixels_II_cover.jpg
@@ -1337,9 +1337,9 @@ Year	Early Access
 Dev	Kodera Software
 Pub	Kodera Software, Kurki.games
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	108324
 Game	Delver
 Cover
@@ -1354,9 +1354,9 @@ Year	2018
 Dev	Chad Cuddigan, Joshua Skelton
 Pub	Priority Interrupt
 Version	1.08
-Status	runs (2022-12-30)
+Status	1 (2022-12-30)
 Added	2022-12-30
-Updated	2022-12-30
+Updated	2023-05-07
 IgdbId	3236
 Game	Democracy 3
 Cover	Democracy_3_-_cover.png
@@ -1371,9 +1371,9 @@ Year	2013
 Dev	Positech Games
 Pub
 Version
-Status	browser needed to run
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	5506
 Game	Descent
 Cover	Descent_cover.jpg
@@ -1422,9 +1422,9 @@ Year	1997
 Dev	Blizzard North
 Pub	Blizzard Entertainment
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	125
 Game	Dice Tribes: Ambitions
 Cover
@@ -1439,9 +1439,9 @@ Year	2022
 Dev	Sprouting Potato
 Pub	Sprouting Potato
 Version	1.3.4
-Status	runs (2022-11-19)
+Status	1 (2022-11-19)
 Added	2022-11-19
-Updated	2022-11-19
+Updated	2023-05-07
 IgdbId	200871
 Game	Diefrosty
 Cover
@@ -1456,9 +1456,9 @@ Year	2021
 Dev	Ulon
 Pub	Gagonfe
 Version
-Status	runs (2021-12-22)
+Status	1 (2021-12-22)
 Added	2021-12-22
-Updated	2021-12-22
+Updated	2023-05-07
 IgdbId	189364
 Game	Diehard Dungeon
 Cover	Diehard_Dungeon_cover.jpg
@@ -1473,9 +1473,9 @@ Year	2012
 Dev	Tricktale
 Pub
 Version
-Status	works with modifications - libCSteamworks stub (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	17064
 Game	The Dig
 Cover	The_Dig_Cover.jpg
@@ -1490,9 +1490,9 @@ Year	1995
 Dev	LucasArts
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	207
 Game	Dino Eggs: Rebirth
 Cover
@@ -1507,9 +1507,9 @@ Year	2016
 Dev	David H Schroeder, Eric Ferrot
 Pub	Davie H Schroeder
 Version
-Status	runs (2021-08-19)
+Status	1 (2021-08-19)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	33336
 Game	The Dishwasher: Vampire Smile
 Cover	The_Dishwasher_Vampire_Smile_cover.jpg
@@ -1558,9 +1558,9 @@ Year
 Dev	Bippinbits
 Pub	Bippinbits
 Version	Demo (2022-06-07)
-Status	runs (2022-06-07)
+Status	1 (2022-06-07)
 Added	2022-03-19
-Updated	2022-06-07
+Updated	2023-05-07
 IgdbId	200611
 Game	Doom
 Cover	Doom_Ultimate.jpg
@@ -1592,9 +1592,9 @@ Year	2016
 Dev	Heartbit Interactive
 Pub	Heartbit Interactive
 Version
-Status	runs with bugs, e.g. crash on window resizing (2021-08-23)
+Status	3 - runs with bugs, e.g. crash on window resizing (2021-08-23)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	25944
 Game	Doppelganger
 Cover
@@ -1626,9 +1626,9 @@ Year	2016
 Dev
 Pub
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	213124
 Game	Draw A Stickman: EPIC
 Cover	Draw_a_Stickman_EPIC_logo.png
@@ -1660,9 +1660,9 @@ Year	2023
 Dev	Atom Brain Games
 Pub	Bonus Stage Publishing
 Version	1.04
-Status	runs with rare bugs, unclear if game breaking (2023-03-05)
+Status	5 (2023-05-01)
 Added	2023-03-05
-Updated	2023-03-05
+Updated	2023-05-07
 IgdbId	197158
 Game	Droid Assault
 Cover
@@ -1677,9 +1677,9 @@ Year	2013
 Dev	Puppygames
 Pub	Puppygames
 Version	20151219
-Status	runs (2023-01-07)
+Status	1 (2023-01-07)
 Added	2023-01-07
-Updated	2023-01-07
+Updated	2023-05-07
 IgdbId	9704
 Game	Dune 2000
 Cover	Dune_2000_cover.jpg
@@ -1728,9 +1728,9 @@ Year	2012
 Dev	Hitbox Team
 Pub
 Version
-Status	needs browser
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	1340
 Game	DwarfCorp
 Cover
@@ -1745,9 +1745,9 @@ Year	2019
 Dev	Completely Fair Games LLC
 Pub	Completely Fair Games LLC
 Version
-Status	runs (2022-08-27)
+Status	1 (2022-08-27)
 Added	2022-08-28
-Updated	2022-08-28
+Updated	2023-05-07
 IgdbId	59133
 Game	EXAPUNKS
 Cover	EXAPUNKS_cover.jpg
@@ -1762,9 +1762,9 @@ Year	2018
 Dev	Zachtronics
 Pub
 Version
-Status	works (2021-01-12)
+Status	5 (2023-05-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	106122
 Game	Eagle Island
 Cover	Eagle_Island_cover.jpg
@@ -1779,9 +1779,9 @@ Year	2019
 Dev	Pixelnicks
 Pub	Screenwave Media
 Version
-Status	works with minor bugs - no gamepad support (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	150781
 Game	The Elder Scrolls III: Morrowind
 Cover	The_Elder_Scrolls_III_Morrowind_cover.jpg
@@ -1796,9 +1796,9 @@ Year	2002
 Dev	Bethesda Game Studios
 Pub	Bethesda Softworks
 Version
-Status	works
+Status	5 (2023-05-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	56
 Game	Eliza
 Cover	Eliza_-_cover.jpg
@@ -1813,9 +1813,9 @@ Year	2019
 Dev	Zachtronics
 Pub
 Version
-Status	works (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	92919
 Game	Elliot Quest
 Cover	Elliot_Quest_cover.jpg
@@ -1830,9 +1830,9 @@ Year	2014
 Dev	Ansimuz Games
 Pub
 Version
-Status	minor limitations - no gamepad support; needs browser
+Status	3
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	8596
 Game	Escape Goat
 Cover	Escape_Goat_-_cover.jpg
@@ -1898,9 +1898,9 @@ Year	2019
 Dev	Shiro Games
 Pub
 Version
-Status	not working - needs modifications to steam hashlink library
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	114910
 Game	The Excavation of Hob's Barrow
 Cover
@@ -1915,9 +1915,9 @@ Year	2022
 Dev	Cloak and Dagger Games
 Pub	Wadjet Eye Games
 Version	1.0
-Status	runs (2023-03-03)
+Status	2 (2023-04-15)
 Added	2022-09-28
-Updated	2023-03-03
+Updated	2023-05-07
 IgdbId	210665
 Game	Explosionade
 Cover	Explosionade_cover.jpg
@@ -1932,7 +1932,7 @@ Year	2015
 Dev	Mommy's Best Games
 Pub
 Version
-Status	currently not working
+Status	0
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	35176
@@ -1983,9 +1983,9 @@ Year	2013
 Dev	Polytron Corporation
 Pub	Trapdoor
 Version
-Status	custom version needed - need to use beta version to run
+Status	1 - need to use beta version to run
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	1991
 Game	Fracture Hell
 Cover
@@ -2000,9 +2000,9 @@ Year	2021
 Dev	Solo Byte Games
 Pub	Solo Byte Games
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	165088
 Game	FRANZ FURY
 Cover
@@ -2017,9 +2017,9 @@ Year
 Dev	Raffaele Picca
 Pub	Raffaele Picca
 Version	Demo
-Status	runs (2022-04-13)
+Status	1 (2022-04-13)
 Added	2022-04-14
-Updated	2022-04-14
+Updated	2023-05-07
 IgdbId	157923
 Game	Fraymakers
 Cover
@@ -2034,9 +2034,9 @@ Year
 Dev	Team Fray, McLeodGaming
 Pub	Team Fray, McLeodGaming
 Version	0.4.20 (Early Access)
-Status	runs (2023-01-19)
+Status	3 - no Steam multiplayer implementation (2023-01-19)
 Added	2023-01-19
-Updated	2023-01-19
+Updated	2023-05-07
 IgdbId	141090
 Game	FTL
 Cover	FTL_-_Faster_Than_Light_-_cover.jpg
@@ -2051,9 +2051,9 @@ Year	2012
 Dev	Subset Games
 Pub
 Version
-Status	browser needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	3075
 Game	Fatal Twelve
 Cover	Fatal_Twelve_cover.jpg
@@ -2102,9 +2102,9 @@ Year	2017
 Dev	Tribute Games
 Pub
 Version
-Status	works (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	20330
 Game	Flotilla
 Cover	Flotilla.jpg
@@ -2153,14 +2153,14 @@ Year	2019
 Dev	Yorzh Aleksey
 Pub	Yorzh Aleksey
 Version
-Status	runs (2023-01-25)
+Status	1 (2023-01-25)
 Added	2023-01-25
-Updated	2023-01-25
+Updated	2023-05-07
 IgdbId	102875
 Game	Freespace 2
 Cover	FreeSpace_2.jpg
 Engine
-Setup
+Setup	need to compile from ports tree
 Runtime	fs2open
 Store	https://www.gog.com/game/freespace_2 https://store.steampowered.com/app/273620/Freespace_2/
 Hints	not available as package, build from ports tree
@@ -2170,9 +2170,9 @@ Year	1999
 Dev	Volition
 Pub	Interplay Entertainment
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	722
 Game	Fury's Sky
 Cover
@@ -2187,9 +2187,9 @@ Year
 Dev	Proud Cipher Media Group
 Pub	Proud Cipher Media Group
 Version
-Status	runs (2023-01-24)
+Status	1 (2023-01-24)
 Added	2023-01-24
-Updated	2023-01-24
+Updated	2023-05-07
 IgdbId	121334
 Game	Gabriel Knight: Sins of the Fathers
 Cover	Gabriel_Knight_Sins_of_the_Fathers_Cover.png
@@ -2204,9 +2204,9 @@ Year	1993
 Dev	Sierra Entertainment
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	1250
 Game	Game Type
 Cover	Game_Type_cover.jpg
@@ -2221,7 +2221,7 @@ Year	2015
 Dev	Mommy's Best Games
 Pub
 Version
-Status	currently not working
+Status	0
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	35177
@@ -2255,7 +2255,7 @@ Year	2011
 Dev	Wadjet Eye Games
 Pub	Wadjet Eye Games
 Version
-Status	completable (2023-03-11)
+Status	5 (2023-03-11)
 Added	1970-01-01
 Updated	2023-03-11
 IgdbId	6325
@@ -2272,9 +2272,9 @@ Year	2020
 Dev	Pumpkin Games
 Pub	Puppygames
 Version	1.2.2
-Status	works with minor bugs - FAudio crash on exit (2021-01-12)
+Status	1 (2023-05-07)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	127543
 Game	A Golden Wake
 Cover
@@ -2289,9 +2289,9 @@ Year	2014
 Dev	Grundislav Games
 Pub	Grundislav Games
 Version
-Status	runs (2021-10-13)
+Status	1 (2021-10-13)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	8819
 Game	Goop Loop
 Cover
@@ -2306,9 +2306,9 @@ Year	2021
 Dev	Lone Wulf Studio LLC
 Pub	Lone Wulf Studio LLC
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	141073
 Game	Grand Class Melee 2
 Cover	Grand_Class_Melee_2_cover.jpg
@@ -2340,9 +2340,9 @@ Year
 Dev	John Watson
 Pub	John Watson
 Version
-Status	runs (2021-09-19)
+Status	1 (2021-09-19)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	114912
 Game	The Great Adventurer
 Cover
@@ -2374,9 +2374,9 @@ Year	2021
 Dev	Priory Games
 Pub	Priory Games
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	149158
 Game	Grimm's Hollow
 Cover	Grimms_Hollow_cover.jpg
@@ -2391,9 +2391,9 @@ Year	2019
 Dev	ghosthunter
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	125110
 Game	Groov
 Cover
@@ -2425,9 +2425,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	22101
 Game	Growing Pains
 Cover	Growing_Pains_cover.jpg
@@ -2459,9 +2459,9 @@ Year	2015
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	35187
 Game	Gunslugs 3: Rogue Tactics
 Cover
@@ -2476,9 +2476,9 @@ Year	2019
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	114017
 Game	Hack Grid
 Cover
@@ -2493,9 +2493,9 @@ Year	2021
 Dev	Daisy Games
 Pub	Daisy Games
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	169852
 Game	HackNet
 Cover	Hacknet_Logo.jpg
@@ -2503,16 +2503,16 @@ Engine	FNA
 Setup	fnaify
 Runtime	fnaify
 Store	https://www.gog.com/game/hacknet https://www.humblebundle.com/store/hacknet https://fellowtraveller.itch.io/hacknet https://store.steampowered.com/app/365450/Hacknet/
-Hints	multiple editions available (Complete, Ultimate)
+Hints	multiple editions available (Complete, Ultimate); DLC: HackNet Labyrinths
 Genre	Hacking, Puzzle
 Tags	indie, hacking
 Year	2015
 Dev	Team Fractal Alligator
 Pub	Surprise Attack Games
 Version
-Status	minor limitations - integrated browser module not working
+Status	3 - integrated browser module not working (not needed to complete game)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	11707
 Game	Haiki
 Cover
@@ -2527,9 +2527,9 @@ Year
 Dev	Richard Hornig
 Pub	Application Systems Heidelberg
 Version
-Status	shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 (2022-08-20)
+Status	0 - shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 (2022-08-20)
 Added	1970-01-01
-Updated	2022-08-21
+Updated	2023-05-07
 IgdbId	141134
 Game	Hallow's Eve
 Cover
@@ -2544,9 +2544,9 @@ Year	2020
 Dev	Max Mraz
 Pub
 Version	1.2.0
-Status	runs (2021-11-26)
+Status	1 (2021-11-26)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId
 Game	Hands of Necromancy
 Cover
@@ -2561,9 +2561,9 @@ Year	2022
 Dev	HON Team
 Pub	Frechou Games
 Version	2.0
-Status	runs (2022-11-29)
+Status	1 (2022-11-29)
 Added	2022-11-29
-Updated	2022-11-29
+Updated	2023-05-07
 IgdbId	203249
 Game	Hashi: Light
 Cover
@@ -2578,9 +2578,9 @@ Year	2021
 Dev	amiksemo
 Pub	amiksemo
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	168485
 Game	HeXen: Beyond Heretic
 Cover	Hexen_Beyond_Heretic_cover.jpg
@@ -2663,9 +2663,9 @@ Year	2015
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	13624
 Game	Heroes of Might and Magic 2
 Cover	Heroes_of_Might_and_Magic_II_cover.jpg
@@ -2680,9 +2680,9 @@ Year	1996
 Dev	New World Computing
 Pub	3DO
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	51821
 Game	Heroine's Quest: The Herald of Ragnarok
 Cover	Heroines_Quest.png
@@ -2765,9 +2765,9 @@ Year
 Dev	Leocesar3D Productions
 Pub	Leocesar3D Productions
 Version	Early Access
-Status	runs (2021-10-28)
+Status	1 (2021-10-28)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	142253
 Game	Hyphen
 Cover	Hyphen_cover.jpg
@@ -2799,9 +2799,9 @@ Year	2022
 Dev	Sigyaad Team
 Pub	Sigyaad Team
 Version
-Status	runs (2023-01-24)
+Status	1 (2023-01-24)
 Added	2023-01-24
-Updated	2023-01-24
+Updated	2023-05-07
 IgdbId	199475
 Game	I Have No Mouth And I Must Scream
 Cover	I_Have_No_Mouth_and_I_Must_Scream_Cover.jpg
@@ -2833,9 +2833,9 @@ Year	2021
 Dev	Ska Studios, OMNIVIOLET
 Pub	Ska Studios
 Version
-Status	runs (2021-11-12)
+Status	1 (2021-11-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	181112
 Game	Ib
 Cover	IbBanner.png
@@ -2850,9 +2850,9 @@ Year	2012
 Dev
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	195732
 Game	Icewind Dale
 Cover	Icewind_Dale_Box.jpg
@@ -2867,9 +2867,9 @@ Year	2000
 Dev	Black Isle Studios
 Pub	Interplay Entertainment
 Version
-Status	untested; manual setup needed
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	753
 Game	INC: The Beginning
 Cover
@@ -2884,9 +2884,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId
 Game	Indiana Jones and the Fate of Atlantis
 Cover	Indiana_Jones_and_the_Fate_of_Atlantis_cover.jpg
@@ -2918,9 +2918,9 @@ Year	2022
 Dev	jakes1403
 Pub	jakes1403
 Version
-Status	runs (2022-01-09)
+Status	1 (2022-01-09)
 Added	2022-01-09
-Updated	2022-01-09
+Updated	2023-05-07
 IgdbId	186000
 Game	In the House of Silence
 Cover
@@ -2935,14 +2935,14 @@ Year	2021
 Dev	Kai Ruma Games
 Pub	Kai Ruma Games
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	139515
 Game	Ion Fury
 Cover	Ion_Fury_logo.jpg
 Engine	Build Engine
-Setup
+Setup	compile eduke32 from ports tree
 Runtime	eduke32
 Store	https://3drealms.com/catalog/ion-maiden_56/ https://3drealms.com/catalog/ion-fury-big-box-2_146/ https://www.gog.com/game/ion_fury https://store.steampowered.com/app/562860/Ion_Fury/
 Hints	use eduke32 with https://marc.info/?l=openbsd-misc&m=156907261602397&w=2 Ion Fury patch
@@ -2952,9 +2952,9 @@ Year	2019
 Dev	Void Point
 Pub	3D Realms
 Version
-Status	needs manual setup - compile eduke32 port (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	54844
 Game	Jagged Alliance 2
 Cover	Jagged_Alliance_2_-_cover.jpg
@@ -3003,9 +3003,9 @@ Year	1994
 Dev	Epic MegaGames
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	3167
 Game	Jon Shafer's At the Gates
 Cover	At_the_Gates_cover.jpg
@@ -3037,9 +3037,9 @@ Year	2021
 Dev	Studio Heart Engine
 Pub	Studio Heart Engine
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	156046
 Game	Kathy Rain
 Cover
@@ -3047,16 +3047,16 @@ Engine	AGS
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/kathy_rain https://store.steampowered.com/app/370910
-Hints
+Hints	Director's Cut version not supported - it uses different, unsupported engine which shall not be named
 Genre	Adventure
 Tags
 Year	2016
 Dev	Clifftop Games
 Pub	Raw Fury
 Version
-Status	runs (2021-10-13)
+Status	1 (2021-10-13)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	18997
 Game	Kitsune Zero
 Cover
@@ -3071,9 +3071,9 @@ Year	2022
 Dev	Gamedevs for Bernie
 Pub	Kitsune Games
 Version	1.2.0
-Status	runs (2022-09-13)
+Status	1 (2022-09-13)
 Added	2022-09-13
-Updated	2022-09-13
+Updated	2023-05-07
 IgdbId	213714
 Game	Kitty Tactics
 Cover
@@ -3088,9 +3088,9 @@ Year	2021
 Dev	Ibe Denaux
 Pub	Ibe Denaux
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	149510
 Game	Kotel Ne Gori: A Friend of Lena Boots
 Cover
@@ -3105,9 +3105,9 @@ Year	2020
 Dev	derevotyan
 Pub	derevotyan
 Version
-Status	runs (2021-12-22)
+Status	1 (2021-12-22)
 Added	2021-12-22
-Updated	2021-12-22
+Updated	2023-05-07
 IgdbId	158324
 Game	Lamplight City
 Cover
@@ -3122,14 +3122,14 @@ Year	2018
 Dev	Grundislav Games
 Pub	Application Systems Heidelberg
 Version
-Status	runs (2021-10-28)
+Status	1 (2021-10-28)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	79999
 Game	Lands of Lore - The Throne of Chaos
 Cover	Lands_of_Lore_The_Throne_of_Chaos_Coverart.PNG
 Engine	Kyra
-Setup
+Setup	7zip extract GAME.DAT
 Runtime	scummvm
 Store	https://www.gog.com/game/lands_of_lore_1_2
 Hints
@@ -3139,9 +3139,9 @@ Year	1993
 Dev	Westwood Studios
 Pub	Virgin Interactive
 Version
-Status	needs manual setup - 7zip extract GAME.DAT
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	2528
 Game	LaserCat
 Cover	LaserCat_cover.jpg
@@ -3173,9 +3173,9 @@ Year	2016
 Dev
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	33622
 Game	Lila's Sky Ark
 Cover
@@ -3190,9 +3190,9 @@ Year	2022
 Dev	Monolith of Minds
 Pub	Graffiti Games
 Version
-Status	runs (2022-04-21)
+Status	1 (2022-04-21)
 Added	2022-04-22
-Updated	2022-04-22
+Updated	2023-05-07
 IgdbId	144552
 Game	Lingo
 Cover
@@ -3207,9 +3207,9 @@ Year	2021
 Dev	Brenton Wildes
 Pub	Brenton Wildes
 Version
-Status	runs (2021-12-21)
+Status	1 (2021-12-21)
 Added	2021-12-13
-Updated	2022-03-19
+Updated	2023-05-07
 IgdbId	117955
 Game	Little Racers STREET
 Cover	Little_Racers_Street_-_cover.jpg
@@ -3241,9 +3241,9 @@ Year
 Dev	Quark Robot
 Pub
 Version	22.09
-Status	runs (2022-10-30)
+Status	1 (2022-10-30)
 Added	2022-10-30
-Updated	2022-10-30
+Updated	2023-05-07
 IgdbId
 Game	Long Live the Queen
 Cover	Long_Live_the_Queen.jpg
@@ -3275,9 +3275,9 @@ Year	1999
 Dev	Funcom
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	895
 Game	Loom
 Cover	Loom_Cover.jpg
@@ -3309,9 +3309,9 @@ Year	2018
 Dev	BlueLine Games
 Pub	BlueLine Games
 Version
-Status	runs (2021-08-19)
+Status	1 (2021-08-19)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	37376
 Game	Luck be a Landlord
 Cover
@@ -3326,9 +3326,9 @@ Year	2021
 Dev	TrampolineTales
 Pub	TrampolineTales
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	142035
 Game	Lycanthorn II
 Cover
@@ -3343,9 +3343,9 @@ Year	2020
 Dev	Scumhead
 Pub	Scumhead
 Version
-Status	runs (2023-01-25)
+Status	1 (2023-01-25)
 Added	2023-01-25
-Updated	2023-01-25
+Updated	2023-05-07
 IgdbId	239592
 Game	Malice & Greed
 Cover
@@ -3360,9 +3360,9 @@ Year
 Dev	Xendra
 Pub	Xendra
 Version
-Status	runs (2021-10-31)
+Status	1 (2021-10-31)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	143568
 Game	Master of Orion
 Cover	Master_of_Orion_-_cover.jpg
@@ -3411,9 +3411,9 @@ Year	2017
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	29184
 Game	Meganoid: Grandpa's Chronicles
 Cover
@@ -3428,9 +3428,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId
 Game	Mercenary Kings
 Cover	Mercenary_kings_boxart.jpg
@@ -3462,9 +3462,9 @@ Year
 Dev	Cairn4
 Pub	Cairn4
 Version
-Status	major manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	54984
 Game	Miasma: Citizens of Free Thought
 Cover
@@ -3479,9 +3479,9 @@ Year	2021
 Dev	ESP Games
 Pub	David Addis
 Version
-Status	runs (2021-11-03)
+Status	5 (2021-11-03)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	54204
 Game	Miasma 2: Freedom Uprising
 Cover
@@ -3496,9 +3496,9 @@ Year	2021
 Dev	ESP Games
 Pub	David Addis
 Version
-Status	buggy: missing graphics elements (2021-12-11)
+Status	2 (2021-12-11)
 Added	2021-12-13
-Updated	2021-12-13
+Updated	2023-05-07
 IgdbId	54205
 Game	Micro Mages
 Cover	Micro_Mages_cover.jpg
@@ -3564,9 +3564,9 @@ Year	2022
 Dev	Berry Berry Niceu
 Pub	Berry Berry Niceu
 Version	1.0.1
-Status	runs (2022-11-29)
+Status	1 (2022-11-29)
 Added	2022-11-29
-Updated	2022-11-29
+Updated	2023-05-07
 IgdbId	186824
 Game	Mobius Front 83
 Cover
@@ -3580,10 +3580,10 @@ Tags	military
 Year	2020
 Dev	Zachtronics
 Pub	Zachtronics
-Version	03/01/2021
-Status	works
+Version	March 2023 Update (GOG)
+Status	2 - game-breaking crashes are common (2023-05-07)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	140436
 Game	Molek-Syntez
 Cover	MOLEK-SYNTEZ_cover.jpg
@@ -3598,9 +3598,9 @@ Year	2019
 Dev	Zachtronics
 Pub
 Version
-Status	works (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	125208
 Game	Monster Outbreak
 Cover
@@ -3615,9 +3615,9 @@ Year	2022
 Dev	GameMunchers
 Pub	Freedom Games
 Version	1.0.12
-Status	runs (2022-11-29)
+Status	1 (2022-11-29)
 Added	2022-11-29
-Updated	2022-11-29
+Updated	2023-05-07
 IgdbId	154046
 Game	Moonshot - The Great Espionage
 Cover
@@ -3632,9 +3632,9 @@ Year	2021
 Dev	NimbleBeasts
 Pub	NimbleBeasts
 Version
-Status	works (2021-08-06)
+Status	1 (2021-08-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	159516
 Game	Mount Your Friends
 Cover	Mount_Your_Friends.jpg
@@ -3666,9 +3666,9 @@ Year	2021
 Dev	Felipe Mattar
 Pub	RocpainGames
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	171869
 Game	Murder Miners
 Cover
@@ -3683,9 +3683,9 @@ Year	2014
 Dev	JForce Games
 Pub	JForce Games
 Version
-Status	runs (2021-08-23)
+Status	2 - no online multiplayer (2021-08-23)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	17035
 Game	Myst
 Cover	MystCover.png
@@ -3700,9 +3700,9 @@ Year	1993
 Dev	Cyan Worlds
 Pub	Broderbund
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	16203
 Game	Myst III: Exile
 Cover	MYSTIIICOVER.jpg
@@ -3717,9 +3717,9 @@ Year	2001
 Dev	Presto Studios
 Pub	Ubisoft
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	797
 Game	Neofeud
 Cover
@@ -3734,9 +3734,9 @@ Year	2017
 Dev	Silver Spook Games
 Pub	Silver Spook Games
 Version
-Status	runs (2021-10-27)
+Status	1 (2021-10-27)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	55688
 Game	Neoteria
 Cover
@@ -3751,9 +3751,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	61111
 Game	NeuroVoider
 Cover	NeuroVoider_cover.jpg
@@ -3768,9 +3768,9 @@ Year	2016
 Dev	Flying Oak Games
 Pub	Plug In Digital
 Version
-Status	minor limitations - no gamepad support
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	23581
 Game	Nightfall Hacker
 Cover
@@ -3778,16 +3778,16 @@ Engine	godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1204080/Nightfall_Hacker/
-Hints	needs godot built with GodotSteam module
+Hints
 Genre	Puzzle, Hacking
 Tags	indie, hacking, 2d
 Year	2021
 Dev	Teradile
 Pub	Teradile
 Version
-Status	runs (2021-09-06)
+Status	1 (2021-09-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	127578
 Game	Northgard
 Cover	Northgard_cover.jpg
@@ -3818,10 +3818,10 @@ Tags	indie, environment
 Year	2021
 Dev	Deepnight Games
 Pub	Deepnight Games
-Version
-Status	runs (2021-11-24)
+Version	1.5
+Status	1 (2023-05-07)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	153876
 Game	One Finger Death Punch
 Cover	OneFingerDeathPunchcover.jpg
@@ -3836,9 +3836,9 @@ Year	2014
 Dev	Silver Dollar Games
 Pub
 Version
-Status
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	8360
 Game	Open Sorcery
 Cover	Open_Sorcery_cover.jpg
@@ -3853,9 +3853,9 @@ Year	2017
 Dev	Abigail Corfman
 Pub	Open Sorcery Games
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	27444
 Game	Opus Magnum
 Cover	Opus_Magnum_cover.jpg
@@ -3870,9 +3870,9 @@ Year	2017
 Dev	Zachtronics
 Pub
 Version
-Status	works (2021-01-12)
+Status	1 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	74545
 Game	Osmos
 Cover	Osmos_Coverart.png
@@ -3887,9 +3887,9 @@ Year	2009
 Dev	Hemisphere Games
 Pub
 Version
-Status	browser needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	14951
 Game	Overdriven Reloaded
 Cover	Overdriven_Reloaded_cover.jpg
@@ -3914,16 +3914,16 @@ Engine	FNA
 Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/owlboy https://www.humblebundle.com/store/owlboy https://store.steampowered.com/app/115800/Owlboy/
-Hints
+Hints	GOG.com version not working as of 2023-05-07, but Steam version works
 Genre	Metroidvania
 Tags	pixelart
 Year	2016
 Dev	D-Pad Studio
 Pub
 Version
-Status	broken (2022-04-01)
+Status	1 - use Steam version, not GOG (2023-05-07)
 Added	1970-01-01
-Updated	2022-04-02
+Updated	2023-05-07
 IgdbId	12597
 Game	Paladin
 Cover	Paladin_cover.jpg
@@ -3972,9 +3972,9 @@ Year	2020
 Dev	Alexander Lahti
 Pub	Alexander Lahti
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	141787
 Game	Path of Achra
 Cover
@@ -3989,9 +3989,9 @@ Year
 Dev	Ulfsire
 Pub	Slouching Beast LLC
 Version
-Status	runs (2023-05-01)
+Status	1 (2023-05-01)
 Added	2023-05-01
-Updated	2023-05-01
+Updated	2023-05-07
 IgdbId	222738
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
 Cover	Precipice_of_darkness_3.jpg
@@ -4091,9 +4091,9 @@ Year	1997
 Dev	Running With Scissors
 Pub	Ripcord Games
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	2000
 Game	Press X to Not Die
 Cover	Press_X_to_Not_Die_cover.jpg
@@ -4115,19 +4115,19 @@ IgdbId	13619
 Game	Primal Light
 Cover	Primal_Light_cover.jpg
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/771420/Primal_Light/
-Hints	run with 'godot --main-pack primal-light.pck'
+Hints
 Genre	Platformer
 Tags	indie pixelart
 Year	2020
 Dev	Fat Gem
 Pub	Fat Gem
 Version
-Status	works on brief testing (2021-01-26)
+Status	1 (2021-01-26)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	122794
 Game	Primordia
 Cover	Primordia_cover.jpg
@@ -4159,9 +4159,9 @@ Year	2022
 Dev	Skullazon Interactive
 Pub	Skullazon Interactive
 Version
-Status	runs (2023-01-25)
+Status	1 (2023-01-25)
 Added	2023-01-25
-Updated	2023-01-25
+Updated	2023-05-07
 IgdbId	201131
 Game	Project Heartbeat
 Cover
@@ -4176,9 +4176,9 @@ Year	2020
 Dev	EIRTeam
 Pub	EIRTeam
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	130920
 Game	Quake
 Cover	Quake_Cover.jpg
@@ -4261,9 +4261,9 @@ Year	2022
 Dev	Pixel-Archipel, Theo Mn
 Pub	Pixel-Archipel
 Version
-Status	runs (2022-04-13)
+Status	1 (2022-04-13)
 Added	2022-04-14
-Updated	2022-04-14
+Updated	2023-05-07
 IgdbId	182930
 Game	Retro City Rampage DX
 Cover	Retro_City_Rampage_cover.jpg
@@ -4278,9 +4278,9 @@ Year	2012
 Dev	Vblank Entertainment
 Pub
 Version
-Status	needs manual setup
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	8063
 Game	Return to Castle Wolfenstein
 Cover	Return_to_Castle_Wolfenstein_Cover.png
@@ -4295,9 +4295,9 @@ Year	2001
 Dev
 Pub
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	281
 Game	Rex
 Cover
@@ -4312,9 +4312,9 @@ Year	2021
 Dev	securas
 Pub	securas
 Version
-Status	runs (2021-10-29)
+Status	1 (2021-10-29)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	45348
 Game	Rex Rocket
 Cover	Rex_Rocket_-_cover.jpg
@@ -4346,9 +4346,9 @@ Year	2019
 Dev	Raymond Doerr
 Pub	SixtyGig Games
 Version	Update 1b
-Status	runs (2023-01-01)
+Status	1 (2023-01-01)
 Added	2023-01-01
-Updated	2023-01-01
+Updated	2023-05-07
 IgdbId	36220
 Game	Riven
 Cover	Riven_Coverart.png
@@ -4363,9 +4363,9 @@ Year	1997
 Dev	Cyan Worlds
 Pub	Red Orb Entertainment
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	238
 Game	Rodent and Plank: Secret Origin
 Cover
@@ -4380,9 +4380,9 @@ Year	2021
 Dev	Lodder Digital Media
 Pub	Lodder Digital Media
 Version
-Status	runs (2021-08-20)
+Status	1 (2021-08-20)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	139588
 Game	Rogue Legacy
 Cover	Rogue_Legacy_-_cover.png
@@ -4397,9 +4397,9 @@ Year	2013
 Dev	Cellar Door Games
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	3221
 Game	Rogue State Revolution
 Cover
@@ -4414,9 +4414,9 @@ Year	2021
 Dev	LRDGames, Inc.
 Pub	Modern Wolf
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	122070
 Game	RollerCoaster Tycoon
 Cover	RollerCoaster_Tycoon_cover.jpg
@@ -4431,9 +4431,9 @@ Year	1999
 Dev	Chris Sawyer
 Pub	Hasbro Interactive
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	36444
 Game	RollerCoaster Tycoon 2
 Cover	RollerCoaster_Tycoon_2_cover.jpg
@@ -4448,9 +4448,9 @@ Year	2002
 Dev	Chris Sawyer
 Pub	Infogrames
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	331
 Game	Roma Invicta
 Cover
@@ -4465,9 +4465,9 @@ Year	2022
 Dev	Puntigames
 Pub	Puntigames
 Version
-Status	runs (2022-05-13)
+Status	1 (2022-05-13)
 Added	2022-05-13
-Updated	2022-05-13
+Updated	2023-05-07
 IgdbId	190269
 Game	Ruggnar
 Cover	Ruggnar_cover.png
@@ -4482,9 +4482,9 @@ Year	In Development
 Dev
 Pub
 Version
-Status	recent versions are built with dotnet and don't run anymore - it might never run on OpenBSD anymore
+Status	0 - recent versions are built with dotnet and don't run anymore - it might never run on OpenBSD anymore
 Added	1970-01-01
-Updated	2023-03-31
+Updated	2023-05-07
 IgdbId	164177
 Game	ROTA
 Cover
@@ -4499,9 +4499,9 @@ Year	2022
 Dev	Harmony Honey
 Pub	Harmony Honey
 Version
-Status	runs (2022-11-29)
+Status	1 (2022-11-29)
 Added	2022-11-29
-Updated	2022-11-29
+Updated	2023-05-07
 IgdbId	201487
 Game	RUN: The world in-between
 Cover
@@ -4516,9 +4516,9 @@ Year	2022
 Dev	Team Run
 Pub	Team Run, PID Games
 Version
-Status	runs (2022-04-14)
+Status	1 (2022-04-14)
 Added	2022-04-14
-Updated	2022-04-14
+Updated	2023-05-07
 IgdbId	145400
 Game	RuneScape
 Cover
@@ -4533,9 +4533,9 @@ Year
 Dev	Jagex
 Pub	Jagex
 Version
-Status	major limitations - poor performance, no audio
+Status	2 - poor performance, no audio
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	5611
 Game	Rushberry Mercs
 Cover
@@ -4550,9 +4550,9 @@ Year
 Dev	Benjamin Soule
 Pub	Benjamin Soule
 Version
-Status	runs (2021-08-20)
+Status	1 (2021-08-20)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	132552
 Game	SEGA Mega Drive and Genesis Classics
 Cover	sega.jpg
@@ -4567,10 +4567,27 @@ Year	2010
 Dev
 Pub
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	80185
+Game	Shenzhen I/O
+Cover
+Engine	mono
+Setup	fnaify / IndieRunner
+Runtime	mono
+Store	https://store.steampowered.com/app/504210/SHENZHEN_IO/ https://zachtronics.itch.io/shenzhen-io https://www.gog.com/game/shenzhen_io
+Hints
+Genre	zach-like
+Tags	indie
+Year	2016
+Dev	Zachtronics
+Pub	Zachtronics
+Version
+Status	5
+Added	1970-01-01
+Updated	2023-05-07
+IgdbId	25084
 Game	SJ-19 Learns To Love!
 Cover
 Engine	godot
@@ -4584,9 +4601,9 @@ Year	2021
 Dev	Zertuk
 Pub	Zertuk
 Version
-Status	runs (2021-09-06)
+Status	1 (2021-09-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	144112
 Game	Sokobos
 Cover
@@ -4601,9 +4618,9 @@ Year	2021
 Dev	Daisy Games
 Pub	Daisy Games
 Version
-Status	runs (2022-04-01)
+Status	1 (2022-04-01)
 Added	2022-04-02
-Updated	2022-04-02
+Updated	2023-05-07
 IgdbId	189863
 Game	SokoChess
 Cover
@@ -4618,9 +4635,9 @@ Year	2022
 Dev	Daisy Games
 Pub	Daisy Games
 Version	1.0.2
-Status	runs (2022-08-18)
+Status	1 (2022-08-18)
 Added	2022-06-07
-Updated	2022-08-19
+Updated	2023-05-07
 IgdbId	201496
 Game	SokoChess White
 Cover
@@ -4635,9 +4652,9 @@ Year	2023
 Dev	Daisy Games
 Pub	Daisy Games
 Version	1.0.0
-Status	runs (2023-03-04)
+Status	1 (2023-03-04)
 Added	2023-03-04
-Updated	2023-03-04
+Updated	2023-05-07
 IgdbId	232960
 Game	SUMICO - The Numbers Game
 Cover	sumico_cover.jpg
@@ -4667,11 +4684,11 @@ Genre	Action Platformer
 Tags	souls-like
 Year	2016
 Dev	Ska Studios
-Pub
-Version
-Status	currently broken - mojoshader mismatch
+Pub	Ska Studios
+Version	1.0.0.9
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	7709
 Game	Sam & Max Hit the Road
 Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
@@ -4703,9 +4720,9 @@ Year	2021
 Dev	maybell
 Pub	maybell
 Version	0.9.1
-Status	runs (2021-10-31)
+Status	1 (2021-10-31)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	186106
 Game	Session Seven
 Cover	Session_Seven_cover.jpg
@@ -4737,9 +4754,9 @@ Year	1996
 Dev	Blue Byte
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	2617
 Game	The Settlers
 Cover	The_Settlers_-_cover.jpg
@@ -4754,9 +4771,9 @@ Year	1994
 Dev	Blue Byte
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	124562
 Game	Seven Kingdoms: Ancient Adversaries
 Cover	7kaacover.jpg
@@ -4771,9 +4788,9 @@ Year	1998
 Dev	Enlight Software
 Pub	Interactive Magic
 Version
-Status	needs manual setup
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	33303
 Game	Shadow Warrior Classic Redux
 Cover
@@ -4788,9 +4805,9 @@ Year	1997
 Dev	3D Realms (Apogee Software)
 Pub	3D Realms (Apogee Software)
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	30156
 Game	Shigatari
 Cover
@@ -4805,9 +4822,9 @@ Year	2017
 Dev	Super Legit Games
 Pub	Super Legit Games
 Version
-Status	runs (2023-03-01)
+Status	1 (2023-03-01)
 Added	2023-03-01
-Updated	2023-03-01
+Updated	2023-05-07
 IgdbId	55307
 Game	Shipwreck
 Cover	Shipwreck_-_cover.png
@@ -4839,9 +4856,9 @@ Year	2013
 Dev	Wadjet Eye Games
 Pub	Wadjet Eye Games
 Version
-Status	runs (2021-10-13)
+Status	1 (2021-10-13)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	7418
 Game	Shrine
 Cover
@@ -4856,9 +4873,9 @@ Year	2019
 Dev	Scumhead
 Pub	Scumhead
 Version
-Status	runs (2023-01-24)
+Status	1 (2023-01-24)
 Added	2023-01-24
-Updated	2023-01-24
+Updated	2023-05-07
 IgdbId	132241
 Game	Shrine II
 Cover
@@ -4873,9 +4890,9 @@ Year	2020
 Dev	Scumhead, Mengo
 Pub	Scumhead
 Version
-Status	runs (2023-01-24)
+Status	1 (2023-01-24)
 Added	2023-01-24
-Updated	2023-01-24
+Updated	2023-05-07
 IgdbId	135474
 Game	Signs of Life
 Cover	Signs_of_Life_-_cover.png
@@ -4890,9 +4907,9 @@ Year	In Development
 Dev	Sweet Dog Studios
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	16839
 Game	Simona's Requiem
 Cover
@@ -4907,9 +4924,9 @@ Year	2021
 Dev	Team Simona
 Pub	Team Simona
 Version
-Status	runs (2022-04-29)
+Status	1 (2022-04-29)
 Added	2022-04-29
-Updated	2022-04-29
+Updated	2023-05-07
 IgdbId	146360
 Game	Sir Questionnaire
 Cover
@@ -4924,9 +4941,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	96201
 Game	Skulls of the Shogun
 Cover	Skulls_of_the_Shogun_-_cover.png
@@ -4941,9 +4958,9 @@ Year	2013
 Dev	17-BIT
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	9023
 Game	Slay the Spire
 Cover	Slay_the_Spire_cover.jpg
@@ -4958,9 +4975,9 @@ Year	2019
 Dev	Mega Crit Games
 Pub	Mega Crit Games
 Version	2.3.4
-Status	runs (2023-03-19)
+Status	1 (2023-03-19)
 Added	1970-01-01
-Updated	2023-03-19
+Updated	2023-05-07
 IgdbId	40477
 Game	Snake Core
 Cover
@@ -4975,9 +4992,9 @@ Year	2020
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	132783
 Game	Solar Rogue
 Cover
@@ -4992,9 +5009,9 @@ Year	2021
 Dev	Guillaume Bouvier
 Pub	Ombarus Dev
 Version	1.0.1
-Status	runs (2021-12-22)
+Status	1 (2021-12-22)
 Added	2021-12-22
-Updated	2021-12-22
+Updated	2023-05-07
 IgdbId	133421
 Game	Solaroids: Prologue
 Cover	solaroids.png
@@ -5009,9 +5026,9 @@ Year	In Development
 Dev	DynF/X Digital
 Pub
 Version
-Status	works with major limitations - game duration capped by DRM kicking in
+Status	2 - limited by DRM
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	29314
 Game	Soulcaster I & II
 Cover	Soulcaster_cover.jpg
@@ -5043,9 +5060,9 @@ Year	2011
 Dev	Zachtronics
 Pub
 Version
-Status	works
+Status	5 (2023-05-06)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	8390
 Game	Space Grunts
 Cover
@@ -5060,9 +5077,9 @@ Year	2016
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	35224
 Game	Space Grunts 2
 Cover
@@ -5077,9 +5094,9 @@ Year	2020
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	121004
 Game	Space Haven
 Cover
@@ -5094,9 +5111,9 @@ Year
 Dev	Bugbyte Ltd.
 Pub	Bugbyte Ltd.
 Version	0.16.0.17
-Status	runs (2022-12-31)
+Status	2 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	103246
 Game	Spaceport Hope
 Cover
@@ -5111,15 +5128,15 @@ Year	2016
 Dev	team BitClub
 Pub	team BitClub, Sunken Treasure Games
 Version
-Status	runs (2023-01-07)
+Status	1 (2023-01-07)
 Added	2023-01-07
-Updated	2023-01-07
+Updated	2023-05-07
 IgdbId	34639
 Game	SpeedRunners
 Cover	Speedrunners_cover.jpg
 Engine	FNA
 Setup	fnaify
-Runtime
+Runtime	mono
 Store	https://www.humblebundle.com/store/speedrunners https://store.steampowered.com/app/207140/SpeedRunners/
 Hints	update from 2023-03-25 switched to FNA, which fixed gamepad support
 Genre	Platformer
@@ -5128,9 +5145,9 @@ Year	2016
 Dev	DoubleDutch Games
 Pub	tinyBuild
 Version
-Status	works with minor limitations - no online multiplayer
+Status	3 - no online multiplayer
 Added	1970-01-01
-Updated	2023-05-01
+Updated	2023-05-07
 IgdbId	9527
 Game	Spellbook Demonslayers
 Cover
@@ -5145,9 +5162,9 @@ Year
 Dev	Xendra
 Pub	Xendra, Erabit
 Version	early access (2022-12-10)
-Status	runs (2022-12-10)
+Status	1 (2022-12-10)
 Added	2022-12-10
-Updated	2022-12-10
+Updated	2023-05-07
 IgdbId	209740
 Game	Star Wars: Jedi Knight - Jedi Academy
 Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
@@ -5179,9 +5196,9 @@ Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
 Version
-Status	runs (2022-12-31)
+Status	1 (2022-12-31)
 Added	2022-12-31
-Updated	2022-12-31
+Updated	2023-05-07
 IgdbId	147628
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
@@ -5196,9 +5213,9 @@ Year	2016
 Dev	ConcernedApe
 Pub	ConcernedApe
 Version	1.5.6
-Status	runs (2023-01-19)
+Status	1 (2023-01-19)
 Added	1970-01-01
-Updated	2023-01-19
+Updated	2023-05-07
 IgdbId	17000
 Game	StarPrey
 Cover
@@ -5213,9 +5230,9 @@ Year	2020
 Dev	Narayana Walters
 Pub	Narayana Walters
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	143027
 Game	Star-Twine
 Cover
@@ -5230,9 +5247,9 @@ Year	2011
 Dev	SPARSE//GameDev
 Pub	SPARSE//GameDev
 Version
-Status	runs (2021-10-27)
+Status	1 (2021-10-27)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	30800
 Game	Steel Assault
 Cover
@@ -5247,9 +5264,9 @@ Year	2021
 Dev	Zenovia Interactive
 Pub	Tribute Games Inc.
 Version
-Status	runs (2021-11-10)
+Status	1 (2021-11-10)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	56668
 Game	Stone Kingdoms
 Cover
@@ -5264,9 +5281,9 @@ Year	2020
 Dev
 Pub
 Version
-Status	runs (2023-03-21)
+Status	1 (2023-03-21)
 Added	2023-03-21
-Updated	2023-03-21
+Updated	2023-05-07
 IgdbId
 Game	Strangeland
 Cover
@@ -5281,15 +5298,15 @@ Year	2021
 Dev	Wormwood Studios
 Pub	Wadjet Eye Games
 Version
-Status	runs (2021-10-28)
+Status	1 (2021-10-28)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	103219
 Game	Strife: Veteran Edition
 Cover	Strife_Veteran_Edition_cover.jpg
 Engine	id Tech 1
-Setup
-Runtime	gzdoom | strife-ve
+Setup	IndieRunner
+Runtime	gzdoom | crispy doom
 Store	https://www.gog.com/game/strife_veteran_edition https://store.steampowered.com/app/317040
 Hints
 Genre	FPS
@@ -5298,9 +5315,9 @@ Year	1996
 Dev	Rogue Entertainment
 Pub	Velocity Inc.
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	24603
 Game	Suits: A Business RPG
 Cover	Suits_A_Business_RPG_cover.jpg
@@ -5366,9 +5383,9 @@ Year	2020
 Dev	Gamedevs for Bernie
 Pub	Kitsune Games
 Version	1.1.0
-Status	runs (2022-09-13)
+Status	1 (2022-09-13)
 Added	1970-01-01
-Updated	2022-09-13
+Updated	2023-05-07
 IgdbId	132574
 Game	Super Blood Hockey
 Cover	Super_Blood_Hockey_cover.jpg
@@ -5383,9 +5400,9 @@ Year	2017
 Dev	Loren Lemcke
 Pub
 Version
-Status	works with minor bugs - gamepad not working (2021-01-12)
+Status	3 - gamepad not working (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	31160
 Game	Super Hexagon
 Cover	Super_Hexagon_cover.jpg
@@ -5400,9 +5417,9 @@ Year	2012
 Dev	Terry Cavanagh
 Pub
 Version
-Status	browser needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	3251
 Game	Super Ninja Warrior Extreme
 Cover	Super_Ninja_Warrior_Extreme.png
@@ -5468,9 +5485,9 @@ Year	1994
 Dev	Looking Glass Technologies
 Pub	Origin Systems
 Version
-Status	works with minor bugs (2021-01-12)
+Status	4 (2021-01-12)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	23
 Game	Takara Cards
 Cover
@@ -5485,9 +5502,9 @@ Year
 Dev	Post Mortem Pixels
 Pub	Post Mortem Pixels
 Version	Early Access b085
-Status	runs (2023-04-28)
+Status	1 (2023-04-28)
 Added	2023-04-28
-Updated	2023-04-28
+Updated	2023-05-07
 IgdbId	194401
 Game	Tales of Maj'Eyal
 Cover	tome.jpg
@@ -5536,9 +5553,9 @@ Year	2022
 Dev	MAKSIM VOLKAU
 Pub	MAKSIM VOLKAU
 Version
-Status	runs (2022-01-10)
+Status	1 (2022-01-10)
 Added	2022-01-10
-Updated	2022-01-10
+Updated	2023-05-07
 IgdbId	168619
 Game	Technobabylon
 Cover
@@ -5553,9 +5570,9 @@ Year	2015
 Dev	Technocrat
 Pub	Wadjet Eye Games
 Version
-Status	runs (2021-10-13)
+Status	1 (2021-10-13)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	13232
 Game	Terraria
 Cover	Terraria_cover.jpg
@@ -5570,9 +5587,9 @@ Year	2011
 Dev	Re-Logic
 Pub
 Version	1.4.3.6v2
-Status	runs (2022-04-30)
+Status	1 (2022-04-30)
 Added	1970-01-01
-Updated	2022-05-01
+Updated	2023-05-07
 IgdbId	1879
 Game	Theia: The Crimson Eclipse
 Cover	cropped-Title-LOGO_rid.png
@@ -5621,9 +5638,9 @@ Year	2021
 Dev	DjokaGames
 Pub	DjokaGames
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	159855
 Game	Timespinner
 Cover	Timespinner_cover.jpg
@@ -5655,26 +5672,26 @@ Year	2021
 Dev	6 Toad Games
 Pub	6 Toad Games
 Version
-Status	runs (2021-10-15)
+Status	1 (2021-10-15)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	190471
 Game	Titan Attacks!
 Cover	Titan_Attacks_-_cover.jpg
 Engine	lwjgl
-Setup	lwjgl
-Runtime
+Setup	IndieRunner
+Runtime	java
 Store	https://store.steampowered.com/app/203210/Titan_Attacks/
-Hints	fix launch script to use system java (and ksh); have libopenal in LD_LIBRARY_PATH
+Hints
 Genre	Action
 Tags
 Year	2006
 Dev	Puppy Games
 Pub
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	11460
 Game	Toonstruck
 Cover	Toonstruck_-_Cover.jpg
@@ -5689,9 +5706,9 @@ Year	1996
 Dev	Burst Studios
 Pub	Virgin Interactive
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	916
 Game	TowerFall: Ascension
 Cover	TowerFall_Ascension_-_cover.jpg
@@ -5740,14 +5757,14 @@ Year	2015
 Dev	Eniko
 Pub
 Version
-Status	works
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	59472
 Game	Ultratron
 Cover	Ultratron_-_cover.jpg
 Engine	lwjgl
-Setup	lwjgl
+Setup	IndieRunner
 Runtime	lwjgl
 Store	https://store.steampowered.com/app/219190/
 Hints	copy /usr/local/share/lwjgl/liblwjgl64.so into game directory, fix the launch script to use system java
@@ -5757,9 +5774,9 @@ Year	2005
 Dev	Puppy Games
 Pub
 Version
-Status	manual setup needed
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	14327
 Game	Unavowed
 Cover
@@ -5774,9 +5791,9 @@ Year	2018
 Dev	Wadjet Eye Games
 Pub	Wadjet Eye Games
 Version
-Status	runs (2021-10-13)
+Status	1 (2021-10-13)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	27867
 Game	Underlings
 Cover
@@ -5791,9 +5808,9 @@ Year	2021
 Dev	One Man Games
 Pub	One Man Games
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	138892
 Game	Unexplored
 Cover	Unexplored_cover.jpg
@@ -5825,9 +5842,9 @@ Year	2013
 Dev	Petit Depotto
 Pub	AGM PLAYISM
 Version
-Status	works (2021-09-17)
+Status	1 (2021-09-17)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	16648
 Game	Urtuk: The Desolation
 Cover
@@ -5842,9 +5859,9 @@ Year	2021
 Dev	David Kaleta
 Pub	David Kaleta
 Version	1.0.0+91b
-Status	runs (2022-11-25)
+Status	1 (2022-11-25)
 Added	2022-11-25
-Updated	2022-11-25
+Updated	2023-05-07
 IgdbId	98073
 Game	The Useful Dead
 Cover	Useful_Dead.png
@@ -5876,9 +5893,9 @@ Year	2020
 Dev	DU&I
 Pub	DU&I
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	144577
 Game	A Virus Named Tom
 Cover	A_Virus_Named_TOM_-_cover.jpg
@@ -5893,9 +5910,9 @@ Year	2012
 Dev
 Pub
 Version
-Status	major limitations - saving not working; unplayable (2021-11-28)
+Status	2 - saving not working; unplayable (2021-11-28)
 Added	1970-01-01
-Updated	2021-11-28
+Updated	2023-05-07
 IgdbId	3040
 Game	Voidrun
 Cover
@@ -5910,9 +5927,9 @@ Year	2019
 Dev	Benjamin Soule, Pentadrangle
 Pub	Benjamin Soule
 Version
-Status	runs
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	116267
 Game	Vomitoreum
 Cover
@@ -5927,9 +5944,9 @@ Year	2021
 Dev	Scumhead
 Pub	Scumhead
 Version
-Status	runs (2021-10-27)
+Status	1 (2021-10-27)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	142271
 Game	Vylan
 Cover
@@ -5944,9 +5961,9 @@ Year	2021
 Dev	MostlyMadProductions
 Pub	MostlyMadProductions
 Version
-Status	runs (2021-10-30)
+Status	1 (2021-10-30)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	157088
 Game	Weapon of Choice
 Cover	Weapon_of_Choice_cover.jpg
@@ -5961,9 +5978,9 @@ Year	2015
 Dev	Mommy's Best Games
 Pub
 Version
-Status	currently not working
+Status	0
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	23028
 Game	Whispers of a Machine
 Cover
@@ -5978,9 +5995,9 @@ Year	2019
 Dev	Clifftop Games, Faravid Interactive
 Pub	Raw Fury
 Version	1.0.6
-Status	runs (2023-01-21)
+Status	1 (2023-01-21)
 Added	2023-01-21
-Updated	2023-01-21
+Updated	2023-05-07
 IgdbId	27278
 Game	Wish Project
 Cover
@@ -5995,9 +6012,9 @@ Year	2016
 Dev	Andrew Willman
 Pub	Andrew Willman
 Version
-Status	runs (2021-08-19)
+Status	1 (2021-08-19)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	35307
 Game	WizOrb
 Cover	Wizorb_game_cover.jpg
@@ -6012,9 +6029,9 @@ Year	2011
 Dev	Tribute Games
 Pub
 Version
-Status	currently not working - needs mono path fixes
+Status	0 - needs mono path fixes
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	1364
 Game	Woodland Empire
 Cover
@@ -6029,9 +6046,9 @@ Year
 Dev	Nicholas Orlowski
 Pub	Obvlong Games
 Version
-Status	runs (2021-12-22)
+Status	1 (2021-12-22)
 Added	2021-12-22
-Updated	2021-12-22
+Updated	2023-05-07
 IgdbId	158242
 Game	Word Game: Episode 0
 Cover
@@ -6046,9 +6063,9 @@ Year	2021
 Dev	Team9
 Pub	Team9
 Version
-Status	runs (2021-08-21)
+Status	1 (2021-08-21)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	174067
 Game	Wrath: Aeon of Ruin
 Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
@@ -6114,9 +6131,9 @@ Year	2020
 Dev	Max Mraz
 Pub
 Version	1.0.6
-Status	runs (2021-11-26)
+Status	1 (2021-11-26)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	135927
 Game	Yume Nikki
 Cover	Nikki.jpg
@@ -6148,9 +6165,9 @@ Year	2022
 Dev	Zachtronics
 Pub	Zachtronics
 Version
-Status	runs (2022-09-06)
+Status	1 (2022-09-06)
 Added	2022-09-07
-Updated	2022-09-07
+Updated	2023-05-07
 IgdbId	214973
 Game	Zak McKracken and the Alien Mindbenders
 Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
@@ -6165,9 +6182,9 @@ Year	1988
 Dev	LucasArts
 Pub
 Version
-Status	untested
+Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	2280
 Game	Zen Bound 2
 Cover	Zen_Bound_2_cover.jpg
@@ -6182,7 +6199,7 @@ Year	2010
 Dev	Secret Exit
 Pub
 Version
-Status	needs browser
+Status	1
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-05-07
 IgdbId	15063
