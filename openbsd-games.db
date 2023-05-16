@@ -5965,6 +5965,23 @@ Status	1 (2021-10-30)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	157088
+Game	V-Hunter Puzzler Dx
+Cover
+Engine	godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2225430/VHunter_Puzzler_Dx/
+Hints
+Genre	puzzler
+Tags	indie
+Year	2023
+Dev	Yatch Studios
+Pub	Yatch Studios
+Version
+Status	1 (2023-05-15)
+Added	2023-05-15
+Updated	2023-05-15
+IgdbId	238714
 Game	Weapon of Choice
 Cover	Weapon_of_Choice_cover.jpg
 Engine	XNA
