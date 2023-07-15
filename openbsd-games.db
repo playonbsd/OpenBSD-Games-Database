@@ -2956,6 +2956,23 @@ Status	1 (2021-01-12)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	54844
+Game	The Isolated Town
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://tossu.itch.io/the-isolated-town https://store.steampowered.com/app/2417240/The_Isolated_Town/
+Hints
+Genre	platformer
+Tags	indie
+Year	2023
+Dev	Tossu
+Pub	Tossu
+Version	1.0.0
+Status	1 (2023-07-14)
+Added	2023-07-14
+Updated	2023-07-14
+IgdbId	253594
 Game	Jagged Alliance 2
 Cover	Jagged_Alliance_2_-_cover.jpg
 Engine
