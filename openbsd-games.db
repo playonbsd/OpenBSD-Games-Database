@@ -2344,6 +2344,23 @@ Status	1 (2021-09-19)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	114912
+Game	Gravity Circuit
+Cover
+Engine	love
+Setup
+Runtime	love-11
+Store	https://store.steampowered.com/app/858710/Gravity_Circuit/
+Hints	extract AppImage with 7zip, unzip bin/GravityCircuit, patch platform/STEAM/init.lua to stub all steam functions with 'do return end', re-zip and run with love-11
+Genre	platformer
+Tags	indie, retro, megaman-inspired
+Year	2023
+Dev	Domesticated Ant Games
+Pub	PID Games
+Version	1.0.4
+Status	1 (2023-07-16)
+Added	2023-07-16
+Updated	2023-07-16
+IgdbId	106534
 Game	The Great Adventurer
 Cover
 Engine
