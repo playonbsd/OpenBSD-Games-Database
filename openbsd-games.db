@@ -5744,6 +5744,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	9567
+Game	Transmogrify
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/740310/Transmogrify/
+Hints
+Genre	Puzzle Platformer
+Tags	indie, scifi
+Year	2023
+Dev	Odyssey Entertainment
+Pub	Odyssey Entertainment
+Version	1.8.129
+Status	1 (2023-07-15)
+Added	2023-07-15
+Updated	2023-07-15
+IgdbId	103036
 Game	Tyrian 2000
 Cover	Tyrian_2000.jpg
 Engine
