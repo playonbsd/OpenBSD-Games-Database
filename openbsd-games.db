@@ -4707,6 +4707,23 @@ Status	1 (2021-09-06)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	144112
+Game	SNKRX
+Cover
+Engine	love
+Setup
+Runtime	love-11
+Store	https://store.steampowered.com/app/915310/SNKRX/
+Hints	needs luasteam and LUA_CPATH=/usr/local/lib/luasteam.so
+Genre	action roguelike
+Tags	indie, 2d
+Year	2021
+Dev	a327ex
+Pub	a327ex
+Version
+Status	1 (2023-07-22)
+Added	2023-07-22
+Updated	2023-07-22
+IgdbId	148027
 Game	Sokobos
 Cover
 Engine	godot
