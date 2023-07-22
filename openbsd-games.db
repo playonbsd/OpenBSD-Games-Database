@@ -5676,6 +5676,23 @@ Status	1 (2021-10-13)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	13232
+Game	Terraforming Earth
+Cover
+Engine	love
+Setup
+Runtime	love-11
+Store	https://store.steampowered.com/app/1029220/Terraforming_Earth/
+Hints
+Genre	puzzler
+Tags	indie, robots
+Year	2020
+Dev	Lost Robots
+Pub	Lost Robots
+Version	1.4.12
+Status	1 (2023-07-22)
+Added	2023-07-22
+Updated	2023-07-22
+IgdbId	115499
 Game	Terraria
 Cover	Terraria_cover.jpg
 Engine	FNA
