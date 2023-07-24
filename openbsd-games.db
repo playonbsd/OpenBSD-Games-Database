@@ -372,6 +372,23 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-04
 IgdbId	82
+Game	Balrum
+Cover
+Engine	LWJGL3
+Setup	IndieRunner
+Runtime	java (JDK 11)
+Store	https://www.gog.com/en/game/balrum https://store.steampowered.com/app/424250/Balrum/
+Hints
+Genre	RPG
+Tags	indie, adventure, medieval, crafting, turn-based
+Year	2016
+Dev	Balcony Softworks
+Pub	Balcony Softworks
+Version	1.7
+Status	1 (2023-07-23)
+Added	2023-07-23
+Updated	2023-07-23
+IgdbId	18135
 Game	Banana Hell
 Cover
 Engine	godot
