@@ -6050,6 +6050,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	62830
+Game	Verses of Enchantment
+Cover
+Engine	Godot 3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2086910/Verses_of_Enchantment/
+Hints
+Genre	deckbuilder, roguelike
+Tags	classical, artsy
+Year	2023
+Dev	Nachtvlam
+Pub	Nachtvlam
+Version	1.0.3
+Status	1 (2023-08-01)
+Added	2023-08-01
+Updated	2023-08-01
+IgdbId	211982
 Game	Virtual Cottage
 Cover
 Engine	godot
