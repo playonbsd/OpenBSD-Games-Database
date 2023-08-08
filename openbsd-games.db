@@ -4503,6 +4503,23 @@ Status
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	238
+Game	Robotherapy
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1895970/Robotherapy/
+Hints
+Genre	Adventure
+Tags	indie, dark humor
+Year	2023
+Dev	Lucas Molina
+Pub	Lucas Molina
+Version
+Status	1 (2023-08-07)
+Added	2023-08-07
+Updated	2023-08-07
+IgdbId	212058
 Game	Rodent and Plank: Secret Origin
 Cover
 Engine	FNA
