@@ -1003,8 +1003,8 @@ Updated	2023-05-04
 IgdbId	3222
 Game	Chess Survivors
 Cover
-Engine	Godot
-Setup	godot
+Engine	Godot3
+Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2065000/Chess_Survivors/
 Hints
@@ -1013,10 +1013,10 @@ Tags	indie, chess-themed, bullethell
 Year
 Dev	Aarimous
 Pub	Aarimous
-Version	Early Access 0.6.2.1
-Status	1 (2022-11-13)
+Version	Early Access 0.11.1
+Status	1 (2023-08-10)
 Added	2022-11-17
-Updated	2023-05-04
+Updated	2023-08-10
 IgdbId	211384
 Game	cityglitch
 Cover
