@@ -3998,7 +3998,7 @@ Cover
 Engine	Godot3
 Setup	IndieRunner
 Runtime	godot
-Store	https://store.steampowered.com/app/1768780/Of_Blades__Tails/
+Store	https://www.gog.com/en/game/of_blades_and_tails https://store.steampowered.com/app/1768780/Of_Blades__Tails/
 Hints	needs godot with mono support
 Genre	turn-based RPG
 Tags	indie, pixelart, fantasy, colorful
