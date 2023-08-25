@@ -1885,6 +1885,23 @@ Status	3
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	8596
+Game	Endoparasitic
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2124780/Endoparasitic/
+Hints	needs godot with mono support
+Genre	survival horror
+Tags	indie, minimalist, gore, body horror
+Year	2022
+Dev	Deep Root Interactive
+Pub	Deep Root Interactive
+Version	1.1.1
+Status	1 (2023-08-25)
+Added	2023-08-25
+Updated	2023-08-25
+IgdbId	177401
 Game	Escape Goat
 Cover	Escape_Goat_-_cover.jpg
 Engine	FNA
@@ -3976,6 +3993,23 @@ Status	1 (2023-07-22)
 Added	2023-07-22
 Updated	2023-07-22
 IgdbId	142340
+Game	Of Blades & Tails
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1768780/Of_Blades__Tails/
+Hints	needs godot with mono support
+Genre	turn-based RPG
+Tags	indie, pixelart, fantasy, colorful
+Year
+Dev	Felix Laukel
+Pub	Pineapple Works
+Version	early access 0.18.3
+Status	1 (2023-08-25)
+Added	2023-08-25
+Updated	2023-08-25
+IgdbId	187655
 Game	One Finger Death Punch
 Cover	OneFingerDeathPunchcover.jpg
 Engine	XNA
