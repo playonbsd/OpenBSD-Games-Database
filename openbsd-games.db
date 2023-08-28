@@ -2123,6 +2123,23 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	3075
+Game	Farm Keeper
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2458940/Farm_Keeper/
+Hints	in-browser demo available at https://jetamp.itch.io/farm-keeper
+Genre	Roguelite
+Tags	indie, farming
+Year	2023
+Dev	Napas Torteeka
+Pub	Napas Torteeka
+Version
+Status	1 (2023-08-28)
+Added	2023-08-28
+Updated	2023-08-28
+IgdbId	247034
 Game	Fatal Twelve
 Cover	Fatal_Twelve_cover.jpg
 Engine	Ren'Py
