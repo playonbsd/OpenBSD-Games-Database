@@ -5438,6 +5438,23 @@ Status	1 (2022-12-10)
 Added	2022-12-10
 Updated	2023-05-07
 IgdbId	209740
+Game	Sprout Valley
+Cover
+Engine	godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1964820/Sprout_Valley/
+Hints
+Genre	farming simulator
+Tags	indie, casual, furry, cat
+Year	2023
+Dev	Vadzim Liakhovich
+Pub	RedDeer.Games
+Version
+Status	1 (2023-09-08)
+Added	2023-09-08
+Updated	2023-09-08
+IgdbId	198626
 Game	Star Wars: Jedi Knight - Jedi Academy
 Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
 Engine	id Tech 3
