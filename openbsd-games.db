@@ -1375,6 +1375,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	18362
+Game	Deepest Chamber: Resurrection
+Cover
+Engine	LWJGL3
+Setup	IndieRunner
+Runtime	java-17
+Store	https://store.steampowered.com/app/1552080/Deepest_Chamber_Resurrection/
+Hints
+Genre	deckbuilding, dungeoncrawler
+Tags	early access, indie
+Year
+Dev	Balcony Softworks
+Pub	Those Awesome Guys
+Version	0.934
+Status	1 (2023-09-24)
+Added	2023-09-24
+Updated	2023-09-24
+IgdbId	144450
 Game	Delta-V: Rings of Saturn
 Cover
 Engine	godot
@@ -2432,10 +2449,10 @@ IgdbId	114912
 Game	Gravity Circuit
 Cover
 Engine	love
-Setup
+Setup	IndieRunner
 Runtime	love-11
 Store	https://store.steampowered.com/app/858710/Gravity_Circuit/
-Hints	extract AppImage with 7zip, unzip bin/GravityCircuit, patch platform/STEAM/init.lua to stub all steam functions with 'do return end', re-zip and run with love-11
+Hints	extract AppImage with 7zip, run with love-11, need to have package luasteam installed
 Genre	platformer
 Tags	indie, retro, megaman-inspired
 Year	2023
