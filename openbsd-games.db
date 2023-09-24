@@ -1103,6 +1103,23 @@ Status	2 (2021-08-19)
 Added	1970-01-01
 Updated	2023-05-04
 IgdbId	32996
+Game	Crop Rotation
+Cover
+Engine	hashlink
+Setup	IndieRunner
+Runtime	hashlink / rigg
+Store	https://store.steampowered.com/app/2348090/Crop_Rotation/
+Hints
+Genre	deckbuilding
+Tags	indie
+Year	2023
+Dev	Sprouting Potato
+Pub	Sprouting Potato
+Version	1.0.9
+Status	1 (2023-09-24)
+Added	2023-09-24
+Updated	2023-09-24
+IgdbId	241883
 Game	CrossCode
 Cover	CrossCode_cover.jpg
 Engine	NW.js
