@@ -89,7 +89,7 @@ Engine	LWJGL2
 Setup	IndieRunner
 Runtime	java-1.8.0
 Store	https://www.gog.com/game/airships_conquer_the_skies https://zarkonnen.itch.io/airships https://store.steampowered.com/app/342560
-Hints	has had instability, not observed by me with setting Compatibility Mode and System Cursor; for DLC Heroes & Villains copy directory `heroes` into the game's directory
+Hints	has had instability, not observed by me with setting System Cursor, if OpenGL errors, set MESA_NO_ERROR=1; for DLC Heroes & Villains copy directory `heroes` into the game's directory
 Genre	RTS
 Tags	steampunk, indie
 Year	2018
