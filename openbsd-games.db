@@ -85,20 +85,20 @@ Updated	2023-05-04
 IgdbId	50223
 Game	Airships: Conquer the Skies
 Cover	Airships_ConquerTheSkies_logo.jpg
-Engine	lwjgl
-Setup	lwjgl
-Runtime	lwjgl
+Engine	LWJGL2
+Setup	IndieRunner
+Runtime	java-1.8.0
 Store	https://www.gog.com/game/airships_conquer_the_skies https://zarkonnen.itch.io/airships https://store.steampowered.com/app/342560
-Hints	copy liblwjgl64.so and libopenal.so* (as libopenal64.so) into java.library.path
+Hints	has had instability, not observed by me with setting Compatibility Mode and System Cursor; for DLC Heroes & Villains copy directory `heroes` into the game's directory
 Genre	RTS
-Tags
+Tags	steampunk, indie
 Year	2018
 Dev	David Stark
 Pub
-Version
-Status	1
+Version	1.2.2
+Status	1 (2023-09-26)
 Added	1970-01-01
-Updated	2023-05-04
+Updated	2023-09-26
 IgdbId	35934
 Game	Akane the Kunoichi
 Cover	Akane_the_Kunoichi_cover.jpg
