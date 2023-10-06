@@ -5489,6 +5489,23 @@ Status	1 (2022-12-10)
 Added	2022-12-10
 Updated	2023-05-07
 IgdbId	209740
+Game	Spellrazor
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-0.10
+Store	https://dene.itch.io/spellrazor
+Hints	free! launch with love-0.10 Spellrazor.exe
+Genre	action, shooter
+Tags	indie, hacking, free
+Year	2015
+Dev	Fluttermind
+Pub
+Version	1.0.1 (2023-10-06)
+Status	1 (2023-10-06)
+Added	2023-10-06
+Updated	2023-10-06
+IgdbId	177340
 Game	Sprout Valley
 Cover
 Engine	godot
