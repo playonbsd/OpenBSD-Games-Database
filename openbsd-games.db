@@ -3823,6 +3823,23 @@ Status	1 (2022-11-29)
 Added	2022-11-29
 Updated	2023-05-07
 IgdbId	154046
+Game	Moonring
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2373630/Moonring/
+Hints	free
+Genre	RPG, roguelike, free
+Tags	indie, medieval, dark fantasy, retro
+Year	2023
+Dev	Fluttermind, LLC
+Pub	Fluttermind, LLC
+Version	1.0.12
+Status	1 (2023-10-05)
+Added	2023-10-05
+Updated	2023-10-05
+IgdbId	266774
 Game	Moonshot - The Great Espionage
 Cover
 Engine	godot
