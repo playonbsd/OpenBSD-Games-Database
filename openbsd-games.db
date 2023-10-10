@@ -2922,6 +2922,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	97012
+Game	Hoarder's Horrible House of Stuff
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://alesan99.itch.io/hoarders-horrible-house-of-stuff
+Hints
+Genre	puzzle
+Tags	indie, free
+Year	2020
+Dev	alesan99
+Pub	alesan99
+Version
+Status	1 (2023-10-09)
+Added	2023-10-09
+Updated	2023-10-09
+IgdbId	185059
 Game	Human Diaspora
 Cover
 Engine	godot
