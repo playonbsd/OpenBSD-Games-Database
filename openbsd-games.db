@@ -4962,6 +4962,23 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	80185
+Game	Shell Out Showdown
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://manadream.itch.io/shell-out-showdown https://store.steampowered.com/app/1556660/Shell_Out_Showdown/
+Hints	extract .AppImage with 7z x; then love-11 bin/love
+Genre	action platformer
+Tags	indie, multiplayer
+Year	2022
+Dev	manadream
+Pub	manadream
+Version	33
+Status	1 (2023-10-09)
+Added	2023-10-09
+Updated	2023-10-09
+IgdbId	148437
 Game	Shenzhen I/O
 Cover
 Engine	mono
