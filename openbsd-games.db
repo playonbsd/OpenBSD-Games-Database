@@ -6288,6 +6288,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	14432
+Game	Ukraine Defense Force Tactics
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2005660/Ukraine_Defense_Force_Tactics/
+Hints
+Genre	turn-based tactics
+Tags	military, political, charity
+Year	2022
+Dev	Spacewalkers
+Pub	Spacewalkers
+Version
+Status	1 (2023-10-10)
+Added	2023-10-10
+Updated	2023-10-10
+IgdbId	204321
 Game	Ultra Hat Dimension
 Cover	Ultra_Hat_Dimension_cover.jpg
 Engine	FNA
