@@ -661,6 +661,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	16259
+Game	BRiTEBOT
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-0.10
+Store	https://alesan99.itch.io/britebot
+Hints
+Genre	puzzle
+Tags	indie, 3d, free
+Year	2017
+Dev	alesan99
+Pub	alesan99
+Version
+Status	1 (2023-10-09)
+Added	2023-10-09
+Updated	2023-10-09
+IgdbId	178651
 Game	Broken Sword II: The Smoking Mirror
 Cover	Broken_Sword_II_The_Smoking_Mirror_Coverart.png
 Engine	Virtual Theatre
