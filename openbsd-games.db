@@ -3296,6 +3296,23 @@ Status	1 (2021-12-22)
 Added	2021-12-22
 Updated	2023-05-07
 IgdbId	158324
+Game	Labyrinth of Legendary Loot
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://dominaxis-games.itch.io/labyrinth-of-legendary-loot
+Hints
+Genre	roguelike dungeoncrawler
+Tags	indie, turn-based, free
+Year	2020
+Dev	Dominaxis Games
+Pub	Dominaxis Games
+Version	1.12
+Status	1 (2023-10-09)
+Added	2023-10-09
+Updated	2023-10-09
+IgdbId	176520
 Game	Lamplight City
 Cover
 Engine	AGS
@@ -4377,8 +4394,8 @@ Hints
 Genre	puzzle
 Tags	word game, relaxing, minimalist
 Year
-Dev
-Pub
+Dev	Hero Game Co LLC
+Pub	Hero Game Co LLC
 Version	demo
 Status	1 (2023-10-09)
 Added	2023-10-09
