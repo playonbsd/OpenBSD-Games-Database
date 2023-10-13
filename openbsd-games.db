@@ -6152,6 +6152,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	1624
+Game	They Don't Sleep
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2009380/They_Dont_Sleep/
+Hints
+Genre	survival, action
+Tags	zombies
+Year	2022
+Dev	Missing Middle Games
+Pub	Missing Middle Games
+Version	1.1.2
+Status	1 (2023-10-12)
+Added	2023-10-12
+Updated	2023-10-12
+IgdbId	212094
 Game	Thukothea Defender
 Cover
 Engine	godot
