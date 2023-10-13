@@ -882,6 +882,23 @@ Status	5 (2023-08-05)
 Added	2022-11-17
 Updated	2023-05-04
 IgdbId	166722
+Game	Cards with Personalities
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2147020/Cards_with_Personalities/
+Hints
+Genre	cardgame
+Tags	indie, pixel, turn-based
+Year	2022
+Dev	Sebastian Lind
+Pub	Sebastian Lind
+Version	1.2.1
+Status	1 (2023-10-12)
+Added	2023-10-12
+Updated	2023-10-12
+IgdbId	182661
 Game	Cassette Beasts
 Cover
 Engine	godot
