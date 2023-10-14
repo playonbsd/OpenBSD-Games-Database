@@ -5829,6 +5829,23 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	24603
+Game	Striving for Light
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://ignitingsparkgames.itch.io/strivingforlight https://store.steampowered.com/app/1646790/Striving_for_Light/
+Hints	needs godot with mono/C# support
+Genre	action RPG
+Tags	indie, dungeoncrawler, hack and slash, early access
+Year
+Dev	Igniting Spark Games
+Pub	Igniting Spark Games
+Version	0.9.0.0
+Status	1 (2023-10-14)
+Added	2023-10-14
+Updated	2023-10-14
+IgdbId	159919
 Game	Suits: A Business RPG
 Cover	Suits_A_Business_RPG_cover.jpg
 Engine
