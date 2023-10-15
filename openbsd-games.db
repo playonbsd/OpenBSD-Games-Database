@@ -3721,11 +3721,11 @@ Status	1 (2022-12-31)
 Added	2022-12-31
 Updated	2023-05-07
 IgdbId
-Game	Mercenary Kings
+Game	Mercenary Kings: Reloaded Edition
 Cover	Mercenary_kings_boxart.jpg
 Engine	FNA
-Setup	fnaify
-Runtime	fnaify
+Setup	IndieRunner
+Runtime	mono
 Store	https://www.humblebundle.com/store/mercenary-kings-reloaded-edition https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
 Hints
 Genre	Action
@@ -3734,9 +3734,9 @@ Year	2014
 Dev	Tribute Games
 Pub
 Version
-Status
+Status	1 (2023-10-14)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2023-10-14
 IgdbId	6147
 Game	Mewnbase
 Cover
