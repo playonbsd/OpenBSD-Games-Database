@@ -4268,10 +4268,10 @@ IgdbId	32259
 Game	Owlboy
 Cover	Owlboy_-_Cover.png
 Engine	FNA
-Setup	fnaify
-Runtime
+Setup	IndieRunner
+Runtime	mono
 Store	https://www.gog.com/game/owlboy https://www.humblebundle.com/store/owlboy https://store.steampowered.com/app/115800/Owlboy/
-Hints	GOG.com version not working as of 2023-05-07, but Steam version works
+Hints	GOG.com version not working as of 2023-05-07 (outdated - 1.3.x), but Steam version works (1.4.x)
 Genre	Metroidvania
 Tags	pixelart
 Year	2016
@@ -4280,7 +4280,7 @@ Pub
 Version
 Status	1 - use Steam version, not GOG (2023-05-07)
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2023-10-14
 IgdbId	12597
 Game	Paladin
 Cover	Paladin_cover.jpg
