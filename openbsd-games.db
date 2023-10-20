@@ -4452,6 +4452,23 @@ Status	1 (2023-10-09)
 Added	2023-10-09
 Updated	2023-10-09
 IgdbId	244281
+Game	Possession
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://weirdfellows.itch.io/possession https://store.steampowered.com/app/629340/Possession/
+Hints
+Genre	roguelike RPG
+Tags	minimalist, retro, pixel art, turn-based
+Year	2019
+Dev	Weirdfellows
+Pub	Weirdfellows
+Version	20
+Status	1 (2023-10-20)
+Added	2023-10-20
+Updated	2023-10-20
+IgdbId	90649
 Game	Postal
 Cover	Postal_Cover.jpg
 Engine	RSPiX
