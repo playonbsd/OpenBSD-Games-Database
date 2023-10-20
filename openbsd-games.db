@@ -3738,6 +3738,23 @@ Status	1 (2023-10-14)
 Added	1970-01-01
 Updated	2023-10-14
 IgdbId	6147
+Game	Metanet Hunter G4
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://nightkawata.itch.io/metanet-hunter-g4
+Hints
+Genre	Action
+Tags	retro
+Year	2019
+Dev	NIGHT KAWATA
+Pub	NIGHT KAWATA
+Version	1.2
+Status	1 (2023-10-20)
+Added	2023-10-20
+Updated	2023-10-20
+IgdbId
 Game	Mewnbase
 Cover
 Engine	libgdx
@@ -4458,7 +4475,7 @@ Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
 Store	https://weirdfellows.itch.io/possession https://store.steampowered.com/app/629340/Possession/
-Hints
+Hints	extract *.AppImage with 7z, possession.love is in directory usr/
 Genre	roguelike RPG
 Tags	minimalist, retro, pixel art, turn-based
 Year	2019
