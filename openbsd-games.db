@@ -746,6 +746,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	33692
+Game	Bugscraper
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://yolwoocle.itch.io/bugscraper
+Hints	extract AppImage with 7z, game file is in usr/bin directory
+Genre	Puzzle
+Tags	indie
+Year	2022
+Dev	Yolwoocle
+Pub	Yolwoocle
+Version	3
+Status	1 (2023-10-20)
+Added	2023-10-20
+Updated	2023-10-20
+IgdbId	230797
 Game	Burning Knight
 Cover	Burning_Knight_cover.jpg
 Engine	MonoGame
