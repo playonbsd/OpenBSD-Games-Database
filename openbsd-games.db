@@ -202,6 +202,23 @@ Status	1 (2023-10-09)
 Added	2023-10-09
 Updated	2023-10-09
 IgdbId	169360
+Game	Anodyne
+Cover
+Engine	FNA
+Setup	rigg / IndieRunner
+Runtime	mono
+Store	https://han-tani.itch.io/anodyne https://store.steampowered.com/app/234900/Anodyne/
+Hints	rigg needs -upermissive at this point
+Genre	action adventure
+Tags	retro, pixelart, zelda-like
+Year	2013
+Dev	Melos Han-Tani, Marina Kittaka
+Pub	Analgesic Productions
+Version	2.0
+Status	1 (2023-10-23)
+Added	2023-10-23
+Updated	2023-10-23
+IgdbId	11092
 Game	Apocalyptic Vibes
 Cover
 Engine	gzdoom
