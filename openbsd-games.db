@@ -15,6 +15,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	3240
+Game	Abscission
+Cover
+Engine	Adventure Game Studio
+Setup
+Runtime	scummvm
+Store	https://store.steampowered.com/app/2392160/Abscission/
+Hints	music cuts out intermittently
+Genre	point & click adventure
+Tags	horror, Lovecraftian, detective, noir
+Year	2023
+Dev	Beyond Booleans
+Pub	Beyond Booleans
+Version
+Status	1 (2023-10-26)
+Added	2023-10-26
+Updated	2023-10-26
+IgdbId	247159
 Game	The Adventures of Mr. Hat
 Cover
 Engine	godot
