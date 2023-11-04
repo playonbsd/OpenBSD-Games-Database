@@ -6407,6 +6407,23 @@ Status	1 (2023-07-15)
 Added	2023-07-15
 Updated	2023-07-15
 IgdbId	103036
+Game	Trolley Delayma
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://albertnez.itch.io/trolley-delayma https://store.steampowered.com/app/2372500/Trolley_Delayma/
+Hints
+Genre	Puzzle
+Tags	indie, short, philosophical, minimalist, free
+Year	2023
+Dev	albertnez
+Pub	albertnez
+Version	1.0.1
+Status	1 (2023-11-04)
+Added	2023-11-04
+Updated	2023-11-04
+IgdbId	267294
 Game	Tyrian 2000
 Cover	Tyrian_2000.jpg
 Engine
