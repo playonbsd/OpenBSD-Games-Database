@@ -5285,6 +5285,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	115395
+Game	Settlers of the Deep
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://giann.itch.io/settlers-of-the-deep
+Hints	cd usr/bin; love-11 settlers.love
+Genre	strategy
+Tags	settlers, ascii, roguelite
+Year	2018
+Dev	giann
+Pub	giann
+Version	0.0.4a
+Status	1 (2023-11-05)
+Added	2023-11-05
+Updated	2023-11-05
+IgdbId	121607
 Game	The Settlers II
 Cover	Settlers_2_cover.jpg
 Engine
