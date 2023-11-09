@@ -2837,6 +2837,23 @@ Status	1 (2021-10-15)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	168485
+Game	Her Name Was Fire
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2083840/Her_Name_Was_Fire/
+Hints
+Genre	action roguelike
+Tags	indie, survivors-like, bullet-hell
+Year	2022
+Dev	Tissue Inu
+Pub	Tissue Inu
+Version
+Status	1 (2023-11-09)
+Added	2023-11-09
+Updated	2023-11-09
+IgdbId	209779
 Game	Hedon
 Cover	Hedon_cover.png
 Engine
@@ -4248,6 +4265,23 @@ Status	1 (2023-08-25)
 Added	2023-08-25
 Updated	2023-08-25
 IgdbId	187655
+Game	Omnigon
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2371710/Omnigon/
+Hints
+Genre	platformer
+Tags	indie, metroidvania, comedy
+Year
+Dev	Yokcos
+Pub	Yokcos
+Version
+Status	1 (2023-11-09)
+Added	2023-11-09
+Updated	2023-11-09
+IgdbId	245909
 Game	One Finger Death Punch
 Cover	OneFingerDeathPunchcover.jpg
 Engine	XNA
