@@ -4707,6 +4707,23 @@ Status	1 (2023-10-09)
 Added	2023-10-09
 Updated	2023-10-09
 IgdbId	191577
+Game	PUTRID SHOT ULTRA
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2053360/PUTRID_SHOT_ULTRA/
+Hints
+Genre	action
+Tags	platformer, arena shooter, retro
+Year	2022
+Dev	Abhi Sundu
+Pub	Abhi Sundu
+Version	1.4
+Status	1 (2023-11-09)
+Added	2023-11-09
+Updated	2023-11-09
+IgdbId	207273
 Game	Quake
 Cover	Quake_Cover.jpg
 Engine	Quake Engine
