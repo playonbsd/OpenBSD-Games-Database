@@ -2106,6 +2106,23 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	114910
+Game	Ex-Zodiac
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1249480/ExZodiac/
+Hints
+Genre	action
+Tags	retro, early access
+Year	2022
+Dev	MNKY
+Pub	Pixeljam
+Version	0.79
+Status	1 (2023-11-09)
+Added	2023-11-09
+Updated	2023-11-09
+IgdbId	133089
 Game	The Excavation of Hob's Barrow
 Cover
 Engine	AGS
