@@ -6152,6 +6152,23 @@ Status
 Added	1970-01-01
 Updated	1970-01-01
 IgdbId	25695
+Game	Super Spy Raccoon
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2553530/Super_Spy_Raccoon/
+Hints
+Genre	Action Platformer
+Tags	retro, indie, stealth
+Year	2023
+Dev	Slain Mascot LLC
+Pub	Slain Mascot LLC
+Version
+Status	1 (2023-12-05)
+Added	2023-12-05
+Updated	2023-12-05
+IgdbId	264196
 Game	Supplice
 Cover
 Engine	GZDoom
