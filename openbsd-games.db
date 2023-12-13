@@ -627,6 +627,23 @@ Status	1 (2021-11-28)
 Added	1970-01-01
 Updated	2023-05-04
 IgdbId	26725
+Game	Blood
+Cover
+Engine	nblood
+Setup
+Runtime	nblood
+Store
+Hints
+Genre	FPS
+Tags
+Year	1997
+Dev	Monolith Productions
+Pub
+Version
+Status
+Added	2023-12-13
+Updated	2023-12-13
+IgdbId	7644
 Game	Blossom Tales II: The Minotaur Prince
 Cover
 Engine	FNA
@@ -1868,6 +1885,23 @@ Status	1 (2023-01-07)
 Added	2023-01-07
 Updated	2023-05-07
 IgdbId	9704
+Game	Duke Nukem 3D
+Cover
+Engine	eduke32
+Setup
+Runtime	eduke32
+Store
+Hints
+Genre	Action, FPS
+Tags
+Year	1996
+Dev	3D Realms
+Pub	3D Realms
+Version
+Status
+Added	2023-12-13
+Updated	2023-12-13
+IgdbId	342
 Game	Dune 2000
 Cover	Dune_2000_cover.jpg
 Engine
