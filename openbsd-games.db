@@ -3200,7 +3200,7 @@ Engine	Infinity Engine
 Setup
 Runtime	gemrb
 Store	https://www.gog.com/game/icewind_dale_enhanced_edition
-Hints
+Hints	https://support.gog.com/hc/en-us/articles/9002914056989-Icewind-Dale-Complete-how-to-access-the-classic-version?product=gog
 Genre	RPG
 Tags	fantasy
 Year	2000
