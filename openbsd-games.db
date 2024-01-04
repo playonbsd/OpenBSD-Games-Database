@@ -5982,6 +5982,23 @@ Status	1 (2021-11-10)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	56668
+Game	Sternly Worded Adventures
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://the-balthazar.itch.io/sternly-worded-adventures https://store.steampowered.com/app/2562130/Sternly_Worded_Adventures/
+Hints
+Genre	word puzzle
+Tags	indie, high-brow, wordgame, early access
+Year
+Dev	Balthazar
+Pub	Balthazar
+Version	V33 (early access)
+Status	1 (2024-01-03)
+Added	2024-01-03
+Updated	2024-01-03
+IgdbId	261434
 Game	Stone Kingdoms
 Cover
 Engine	love
