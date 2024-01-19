@@ -3279,6 +3279,23 @@ Status	1 (2021-11-10)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	139515
+Game	Into the Necrovale
+Cover
+Engine	HashLink
+Setup	IndieRunner
+Runtime	hl
+Store	https://clydegames.itch.io/necrovale
+Hints
+Genre	action RPG, hack and slash
+Tags	demo
+Year
+Dev	Casey Clyde
+Pub	Tribal-Storm
+Version	Demo 49
+Status	1 (2024-01-18)
+Added	2024-01-18
+Updated	2024-01-18
+IgdbId	234176
 Game	Ion Fury
 Cover	Ion_Fury_logo.jpg
 Engine	Build Engine
