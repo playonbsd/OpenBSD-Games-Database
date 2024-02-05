@@ -831,6 +831,23 @@ Status	2
 Added	1970-01-01
 Updated	2023-05-04
 IgdbId	117702
+Game	Burrito Bear
+Cover
+Engine	Godot3
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1941420/Burrito_Bear/
+Hints
+Genre	arcade
+Tags	indie, comedy, bear, crazy
+Year	2024
+Dev	SpaceOrca
+Pub	SpaceOrca
+Version
+Status	1 (2024-02-05)
+Added	2024-02-05
+Updated	2024-02-05
+IgdbId	216634
 Game	Caesar 3
 Cover	Caesar_III_Cover.png
 Engine
