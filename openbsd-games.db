@@ -389,6 +389,23 @@ Status	1 (2021-11-28)
 Added	1970-01-01
 Updated	2023-05-04
 IgdbId	8652
+Game	Balatro
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2379780/Balatro/
+Hints
+Genre	deckbuilder card game
+Tags	poker, cards
+Year	2024
+Dev	LocalThunk
+Pub	Playstack
+Version	1.0.0j
+Status	1 (2024-02-21)
+Added	2024-02-21
+Updated	2024-02-21
+IgdbId	251833
 Game	Baldur's Gate
 Cover	Baldurs_Gate_cover.jpg
 Engine	Infinity Engine
