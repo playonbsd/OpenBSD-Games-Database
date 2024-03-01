@@ -7023,18 +7023,18 @@ Game	Wrath: Aeon of Ruin
 Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
 Engine	Darkplaces
 Setup
-Runtime	=> https://github.com/reivyr/openbsd-wrath wrath-darkplaces
+Runtime	wrath
 Store	https://www.gog.com/game/wrath_aeon_of_ruin https://www.humblebundle.com/store/wrath-aeon-of-ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 Hints
 Genre	FPS
-Tags
-Year	In Development
+Tags	gothic, gore
+Year	2024
 Dev	KillPixel
-Pub	3D Realms and 1C Company
-Version
-Status
+Pub	3D Realms, Fulqrum Publishing
+Version	1.4.2
+Status	1 (2024-03-01)
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2024-03-01
 IgdbId	115873
 Game	Wrought Flesh
 Cover
