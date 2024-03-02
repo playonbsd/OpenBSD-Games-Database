@@ -3466,6 +3466,23 @@ Status	1 (2021-10-13)
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	18997
+Game	KeeperRL
+Cover
+Engine	keeperrl
+Setup
+Runtime	keeper
+Store	https://miki151.itch.io/keeperrl https://www.gog.com/en/game/keeperrl https://store.steampowered.com/app/329970/KeeperRL/
+Hints
+Genre	base-building, real-time strategy
+Tags	villain protagonist, indie, tiles
+Year	2024
+Dev	Electric Succubi
+Pub	Electric Succubi
+Version	1.0
+Status	1 (2024-03-01)
+Added	2024-03-01
+Updated	2024-03-01
+IgdbId	17968
 Game	Kitsune Zero
 Cover
 Engine	FNA
