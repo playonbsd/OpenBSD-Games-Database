@@ -66,25 +66,20 @@ open ( my $fh, '<', $in );
 while ( <$fh> ) {
 	if ( /^([^\t]*)\t(.*)/ ) {
 		if ( $hints{$1} == SKIP ) {
-			#say "$1 -- SKIPPING";
 			next;
 		}
 		elsif ( $hints{$1} == UNIQUE ) {
-			#say "$1 -- UNIQUE";
 			push( @{ $out{$1} }, $2 );
 		}
 		elsif ( $hints{$1} == COUNT ) {
-			#say "$1 -- COUNT";
 			$out{$1}{$2}++;
 		}
 		elsif ( $hints{$1} == DATE ) {
-			#say "$1 -- DATE";
 			# XXX: what to do with dates?
 			#      Array of datetime objects?
 			# note Year only is 4 digits (e.g. '1970')
 		}
 		elsif ( $hints{$1} == COMMAS ) {
-			#say "$1 -- COMMA-SEPARATED";
 			# count entries of each element
 			my @elements = split( /\,\s*/, $2 );
 			foreach my $e ( @elements ) {
@@ -92,13 +87,11 @@ while ( <$fh> ) {
 			}
 		}
 		elsif ( $hints{$1} == SPECIAL ) {
-			#say "$1 -- SPECIAL";
-
 			if ( $1 eq 'Store' ) {
-				# recognize store URLs, then count those
+				# XXX: recognize store URLs, then count those
 			}
 			elsif ( $1 eq 'Status' ) {
-				# count each status number; separately
+				# XXX: count each status number; separately
 				# also status dates
 			}
 			else {
