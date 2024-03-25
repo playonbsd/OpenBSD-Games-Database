@@ -528,7 +528,7 @@ IgdbId	612
 Game	Beyond Sunset
 Cover
 Engine	GZDoom
-Setup	remove file 'gzdoom.pk3'
+Setup	IndieRunner
 Runtime	gzdoom
 Store	https://metacorp.itch.io/beyond-sunset https://store.steampowered.com/app/1665260/Beyond_Sunset/
 Hints
@@ -1497,7 +1497,7 @@ IgdbId	150884
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
 Engine	HashLink
-Setup	remove *.so{,.*} and *.hdll
+Setup	IndieRunner (unless using rigg)
 Runtime	hl
 Store	https://www.gog.com/game/dead_cells https://plug-in-digital.itch.io/dead-cells https://www.humblebundle.com/store/dead-cells https://store.steampowered.com/app/588650/Dead_Cells/
 Hints
@@ -2160,7 +2160,7 @@ IgdbId	63
 Game	Evoland Legendary Edition
 Cover	Evoland-LE_cover.jpg
 Engine	HashLink
-Setup	remove *.so{,.*} and *.hdll
+Setup	IndieRunner (unless using rigg)
 Runtime	hl
 Store	https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/ https://www.gog.com/game/evoland_legendary_edition
 Hints
@@ -4302,7 +4302,7 @@ IgdbId	127578
 Game	Northgard
 Cover	Northgard_cover.jpg
 Engine	HashLink
-Setup	hashlink
+Setup	IndieRunner (unless using rigg)
 Runtime	hashlink
 Store	https://www.gog.com/game/northgard https://www.humblebundle.com/store/northgard https://store.steampowered.com/app/466560/Northgard/
 Hints	DLC needs hlvideo
@@ -4319,7 +4319,7 @@ IgdbId	18918
 Game	Nuclear Blaze
 Cover
 Engine	HashLink
-Setup	hashlink
+Setup	IndieRunner (unless using rigg)
 Runtime	hashlink
 Store	https://store.steampowered.com/app/1662480/Nuclear_Blaze/
 Hints	needs hlsteam to run; in dir `sdl64` rm *.{,h}dll and run `hl`
@@ -4879,9 +4879,9 @@ Updated	1970-01-01
 IgdbId	355
 Game	Quest for Infamy
 Cover	473px-Quest_for_Infamy_-_Cover.jpg
-Engine
-Setup	Adventure Game Studio
-Runtime
+Engine	Adventure Game Studio
+Setup
+Runtime	scummvm
 Store	https://www.gog.com/game/quest_for_infamy https://www.humblebundle.com/store/quest-for-infamy https://infamousquests.itch.io/quest-for-infamy https://store.steampowered.com/app/264560/Quest_for_Infamy/
 Hints
 Genre	Adventure
@@ -5254,7 +5254,7 @@ IgdbId	148437
 Game	Shenzhen I/O
 Cover
 Engine	Mono
-Setup	fnaify / IndieRunner
+Setup	IndieRunner
 Runtime	mono
 Store	https://store.steampowered.com/app/504210/SHENZHEN_IO/ https://zachtronics.itch.io/shenzhen-io https://www.gog.com/game/shenzhen_io
 Hints
@@ -6325,7 +6325,7 @@ IgdbId	19868
 Game	System Shock
 Cover	System_Shock_cover.jpg
 Engine	System Shock engine
-Setup	shockolate
+Setup
 Runtime	shockolate
 Store	https://www.gog.com/game/system_shock_enhanced_edition
 Hints	only works with the Classic Edition; Enhanced Edition is not supported
