@@ -53,7 +53,7 @@ Currently **17** lines per entry, **in the following order**:
 ## Exports
 
 Planned:
-- [ ] json
+- [x] json
 - [ ] csv
 - [ ] html table
 - [ ] text table
