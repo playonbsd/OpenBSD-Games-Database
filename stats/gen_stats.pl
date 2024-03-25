@@ -93,7 +93,12 @@ while ( <$fh> ) {
 		}
 		elsif ( $hints{$1} == SPECIAL ) {
 			if ( $1 eq 'Store' ) {
-				# XXX: recognize store URLs, then count those
+				foreach my $link ( split ' ', $2 ) {
+					# make itch.io links generic
+					$link =~ s,[^/]*\.itch\.io,itch.io,;
+					$link =~ s,^(([^/]*/){3}).*,$1,;
+					$out{ Store }{$1}++;
+				}
 			}
 			elsif ( $1 eq 'Status' ) {
 				# XXX: count each status number; separately
