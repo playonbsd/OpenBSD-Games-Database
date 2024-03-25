@@ -22,8 +22,8 @@ Setup
 Runtime	scummvm
 Store	https://store.steampowered.com/app/2392160/Abscission/
 Hints	music cuts out intermittently
-Genre	point & click adventure
-Tags	horror, Lovecraftian, detective, noir
+Genre	Adventure
+Tags	horror, Lovecraftian, detective, noir, point & click
 Year	2023
 Dev	Beyond Booleans
 Pub	Beyond Booleans
@@ -34,7 +34,7 @@ Updated	2023-10-26
 IgdbId	247159
 Game	The Adventures of Mr. Hat
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1869200/The_Adventures_of_Mr_Hat/
@@ -90,8 +90,8 @@ Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/454750/Aeternum/ http://wastedbrilliance.com/games/aeternum/ https://brooksbishop.itch.io/aeternum
 Hints	needs libCSteamworks library
-Genre	shmup
-Tags	manga, bullethell, anime, indie
+Genre	Shoot'em Up
+Tags	manga, bullet hell, anime, indie
 Year	2017
 Dev	Creaky Lantern Games
 Pub	Creaky Lantern Games
@@ -141,7 +141,7 @@ Setup
 Runtime	HashLink
 Store	https://store.steampowered.com/app/1808820/Alien_Shepherd/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags
 Year	2022
 Dev	Florent Espanet, Lea Espanet
@@ -192,8 +192,8 @@ Setup
 Runtime	amnesia-tdd
 Store	https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/ https://www.gog.com/game/amnesia_the_dark_descent
 Hints	see README for installation
-Genre	adventure, puzzle
-Tags	horror
+Genre	Horror
+Tags	first-person, adventure, puzzle, classic
 Year	2010
 Dev	Frictional Games
 Pub	Frictional Games
@@ -209,11 +209,11 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://herogameco.itch.io/anagrams
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	word game, casual, relaxing
 Year	2020
-Dev	Hero Game Co
-Pub	Hero Game Co
+Dev	Hero Game Co LLC
+Pub	Hero Game Co LLC
 Version	1.1.13
 Status	1 (2023-10-09)
 Added	2023-10-09
@@ -222,12 +222,12 @@ IgdbId	169360
 Game	Anodyne
 Cover
 Engine	FNA
-Setup	rigg / IndieRunner
+Setup	IndieRunner
 Runtime	mono
 Store	https://han-tani.itch.io/anodyne https://store.steampowered.com/app/234900/Anodyne/
 Hints	rigg needs -upermissive at this point
-Genre	action adventure
-Tags	retro, pixelart, zelda-like
+Genre	Action Adventure
+Tags	retro, pixel art, zelda-like
 Year	2013
 Dev	Melos Han-Tani, Marina Kittaka
 Pub	Analgesic Productions
@@ -238,13 +238,13 @@ Updated	2023-10-23
 IgdbId	11092
 Game	Apocalyptic Vibes
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1840610/Apocalyptic_Vibes/
 Hints
 Genre	FPS
-Tags	post-apocalyptic
+Tags	post-apocalypse
 Year	2023
 Dev	Amanito Computing
 Pub	Frictional Games
@@ -260,8 +260,8 @@ Setup	fnaify
 Runtime
 Store	https://www.humblebundle.com/store/apotheon https://www.gog.com/game/apotheon https://store.steampowered.com/app/208750
 Hints
-Genre	Platformer Brawler
-Tags
+Genre	Platformer, Brawler
+Tags	mythology
 Year	2015
 Dev	Alientrap Games
 Pub
@@ -297,7 +297,7 @@ Hints
 Genre	Action
 Tags	indie
 Year	2007
-Dev	Bit Blot, LLC
+Dev	Bit Blot LLC
 Pub
 Version
 Status	1
@@ -323,13 +323,13 @@ Updated	1970-01-01
 IgdbId	602
 Game	Ashworld
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/ashworld https://store.steampowered.com/app/580320/Ashworld/
 Hints
-Genre	survival
-Tags	pixel, indie, post-apocalypse
+Genre	Action
+Tags	pixels, indie, post-apocalypse, survival
 Year	2017
 Dev	Orangepixel
 Pub	Orangepixel
@@ -357,9 +357,9 @@ Updated	1970-01-01
 IgdbId	8388
 Game	The Average Everyday Adventures of Samantha Browne
 Cover	The_Average_Everyday_Adventures_of_Samantha_Browne_cover.jpg
-Engine	ren'py
+Engine	Ren'Py
 Setup	renpyify
-Runtime	ren'py
+Runtime	renpy
 Store	https://store.steampowered.com/app/445130/The_Average_Everyday_Adventures_of_Samantha_Browne/
 Hints	https://videos.pair2jeux.tube/videos/watch/f8a323da-29b0-4997-b2ea-af30d95cf058 Video https://www.reddit.com/r/openbsd_gaming/comments/hjctm2/the_average_everyday_adventures_of_samantha/ Reddit post
 Genre
@@ -396,8 +396,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://store.steampowered.com/app/2379780/Balatro/
 Hints
-Genre	deckbuilder card game
-Tags	poker, cards
+Genre	Card Game
+Tags	poker, cards, deckbuilder
 Year	2024
 Dev	LocalThunk
 Pub	Playstack
@@ -444,7 +444,7 @@ Game	Balrum
 Cover
 Engine	LWJGL3
 Setup	IndieRunner
-Runtime	java (JDK 11)
+Runtime	java-11
 Store	https://www.gog.com/en/game/balrum https://store.steampowered.com/app/424250/Balrum/
 Hints
 Genre	RPG
@@ -459,12 +459,12 @@ Updated	2023-07-23
 IgdbId	18135
 Game	Banana Hell
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1260130/Banana_Hell/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags
 Year	2020
 Dev	Petriheart
@@ -481,8 +481,8 @@ Setup
 Runtime	barony
 Store	https://www.gog.com/game/barony_cursed_edition https://www.humblebundle.com/store/barony https://store.steampowered.com/app/371970
 Hints
-Genre	Dungeoncrawler
-Tags	indie first-person open-source
+Genre	Dungeon Crawler
+Tags	indie, first-person, open-source
 Year	2015
 Dev	Turning Wheel LLC
 Pub
@@ -493,7 +493,7 @@ Updated	1970-01-01
 IgdbId	35189
 Game	Beholder's Lair
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1347880/Beholders_Lair/
@@ -527,7 +527,7 @@ Updated	1970-01-01
 IgdbId	612
 Game	Beyond Sunset
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup	remove file 'gzdoom.pk3'
 Runtime	gzdoom
 Store	https://metacorp.itch.io/beyond-sunset https://store.steampowered.com/app/1665260/Beyond_Sunset/
@@ -561,12 +561,12 @@ Updated	2023-05-04
 IgdbId	17596
 Game	Blacken Slash
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1746560/Blacken_Slash/
 Hints
-Genre	turn-based tactics
+Genre	Turn-Based Tactics
 Tags	retro, hacking
 Year	2022
 Dev	ehmprah
@@ -578,9 +578,9 @@ Updated	2023-05-04
 IgdbId	188723
 Game	The Blackwell Epiphany
 Cover	The_Blackwell_Epiphany_cover.png
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
-Runtime	AGS
+Runtime	scummvm
 Store	https://www.gog.com/game/the_blackwell_epiphany https://store.steampowered.com/app/236930
 Hints
 Genre	Adventure
@@ -595,7 +595,7 @@ Updated	2023-05-04
 IgdbId	8511
 Game	Blastronaut
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1392650/BLASTRONAUT/
@@ -646,7 +646,7 @@ Updated	2023-05-04
 IgdbId	26725
 Game	Blood
 Cover
-Engine	nblood
+Engine	NBlood
 Setup
 Runtime	nblood
 Store
@@ -680,12 +680,12 @@ Updated	2023-05-04
 IgdbId	172489
 Game	BLUE REVOLVER
 Cover
-Engine	love
+Engine	Love2D
 Setup
-Runtime	love-0.10.2
+Runtime	love-0.10
 Store	https://stellarcircle.itch.io/blue-revolver https://store.steampowered.com/app/439490/BLUE_REVOLVER/
 Hints	for Steam version: unzip bluerevolver.love, edit conf.lua with `STEAM_BUILD = false' and zip it back up.
-Genre	shoot'em'up
+Genre	Shoot'em Up
 Tags
 Year	2016
 Dev	Stellar Circle
@@ -697,12 +697,12 @@ Updated	2023-05-04
 IgdbId	24928
 Game	Bottomless
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://picster.itch.io/bottomless
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie
 Year	2020
 Dev	Raffaele Picca
@@ -736,8 +736,8 @@ Setup	IndieRunner
 Runtime	love-0.10
 Store	https://alesan99.itch.io/britebot
 Hints
-Genre	puzzle
-Tags	indie, 3d, free
+Genre	Puzzle
+Tags	indie, 3D, free
 Year	2017
 Dev	alesan99
 Pub	alesan99
@@ -782,7 +782,7 @@ Updated	1970-01-01
 IgdbId	206502
 Game	Brotato
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime
 Store	https://store.steampowered.com/app/1942280/Brotato/
@@ -839,7 +839,7 @@ Runtime	fnaify
 Store	https://egordorichev.itch.io/bk https://store.steampowered.com/app/851150/Burning_Knight/
 Hints	runtime is buggy, frequent crashes
 Genre
-Tags	indie open-source
+Tags	indie, open-source
 Year	2020
 Dev	Rexcellent Games
 Pub
@@ -850,13 +850,13 @@ Updated	2023-05-04
 IgdbId	117702
 Game	Burrito Bear
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1941420/Burrito_Bear/
 Hints
-Genre	arcade
-Tags	indie, comedy, bear, crazy
+Genre	Action
+Tags	indie, comedy, bears, crazy, arcade
 Year	2024
 Dev	SpaceOrca
 Pub	SpaceOrca
@@ -952,7 +952,7 @@ Updated	2023-05-04
 IgdbId	11184
 Game	Capsule Wars
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://busyweasel.itch.io/capsule-wars
@@ -969,7 +969,7 @@ Updated	2023-05-04
 IgdbId
 Game	The Case of the Golden Idol
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/ https://www.gog.com/en/game/the_case_of_the_golden_idol
@@ -991,8 +991,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://store.steampowered.com/app/2147020/Cards_with_Personalities/
 Hints
-Genre	cardgame
-Tags	indie, pixel, turn-based
+Genre	Card Game
+Tags	indie, pixel art, turn-based
 Year	2022
 Dev	Sebastian Lind
 Pub	Sebastian Lind
@@ -1003,12 +1003,12 @@ Updated	2023-10-12
 IgdbId	182661
 Game	Cassette Beasts
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1321440/Cassette_Beasts/
 Hints
-Genre	turn-based tactics
+Genre	Turn-Based Tactics
 Tags	indie, JRPG
 Year	2023
 Dev	Bytten Studio
@@ -1020,12 +1020,12 @@ Updated	2023-05-04
 IgdbId	133866
 Game	Cat Box Paradox
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1771200/Cat_Box_Paradox/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie
 Year	2021
 Dev	BiscuitLocker
@@ -1037,13 +1037,13 @@ Updated	2023-05-04
 IgdbId	185679
 Game	Cat Cafe Manager
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/ https://www.gog.com/en/game/cat_cafe_manager
 Hints
-Genre	management, simulation
-Tags	feline
+Genre	Management Simulator
+Tags	cats, indie
 Year	2022
 Dev	Roost Games
 Pub	Freedom Games
@@ -1054,9 +1054,9 @@ Updated	2023-05-04
 IgdbId	140827
 Game	The Cat Lady
 Cover	The_Cat_Lady_-_cover.jpg
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
-Runtime	AGS
+Runtime	scummvm
 Store	https://store.steampowered.com/app/253110 https://www.gog.com/game/the_cat_lady
 Hints
 Genre	Adventure
@@ -1071,7 +1071,7 @@ Updated	1970-01-01
 IgdbId	11270
 Game	Cave - Legend of the Forge
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://bitbrain.itch.io/cave
@@ -1093,8 +1093,8 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://mattmakesgames.itch.io/celeste https://www.humblebundle.com/store/celeste https://store.steampowered.com/app/504230/Celeste/
 Hints	fnaify >= 3.0, fnaify-extralibs, no sound
-Genre	Jumpnrun Platformer
-Tags	indie
+Genre	Platformer
+Tags	indie, hard
 Year	2018
 Dev	Matt Makes Games
 Pub
@@ -1156,13 +1156,13 @@ Updated	2023-05-04
 IgdbId	3222
 Game	Chess Survivors
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2065000/Chess_Survivors/
 Hints
-Genre	roguelite
-Tags	indie, chess-themed, bullethell
+Genre	Roguelite
+Tags	indie, chess, bullet hell
 Year
 Dev	Aarimous
 Pub	Aarimous
@@ -1173,12 +1173,12 @@ Updated	2023-08-10
 IgdbId	211384
 Game	cityglitch
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-0.10
 Store	https://mindfungus.itch.io/cityglitch
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	indie
 Year	2017
 Dev	mindfungus
@@ -1247,10 +1247,10 @@ Runtime	fnaify
 Store	https://store.steampowered.com/app/462860/Crawlers_and_Brawlers/
 Hints
 Genre	Action RPG
-Tags	multiplayer roguelike
+Tags	multiplayer, roguelike
 Year	2016
-Dev	Ugly Beard Games, LLC
-Pub	Ugly Beard Games, LLC
+Dev	Ugly Beard Games LLC
+Pub	Ugly Beard Games LLC
 Version
 Status	2 (2021-08-19)
 Added	1970-01-01
@@ -1258,13 +1258,13 @@ Updated	2023-05-04
 IgdbId	32996
 Game	Crop Rotation
 Cover
-Engine	hashlink
+Engine	HashLink
 Setup	IndieRunner
-Runtime	hashlink / rigg
+Runtime	hashlink
 Store	https://store.steampowered.com/app/2348090/Crop_Rotation/
 Hints
-Genre	deckbuilding
-Tags	indie
+Genre	Farming Sim
+Tags	indie, deckbuilder
 Year	2023
 Dev	Sprouting Potato
 Pub	Sprouting Potato
@@ -1280,7 +1280,7 @@ Setup
 Runtime	HTML5
 Store	https://www.gog.com/game/crosscode https://radicalfishgames.itch.io/crosscode https://www.humblebundle.com/store/crosscode https://store.steampowered.com/app/368340/CrossCode/
 Hints	uses local browser storage; concern that this could break the game (not observed so far)
-Genre	ARPG
+Genre	Action RPG
 Tags	indie
 Year	2018
 Dev	Radical Fish Games
@@ -1292,7 +1292,7 @@ Updated	2023-05-04
 IgdbId	35282
 Game	Cruelty Squad
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1388770/
@@ -1314,8 +1314,8 @@ Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/cryptark https://www.humblebundle.com/store/cryptark https://store.steampowered.com/app/344740/CRYPTARK/
 Hints
-Genre	Roguelite Twinstick Action
-Tags	indie
+Genre	Twin-Stick Shooter
+Tags	indie, roguelite
 Year	2017
 Dev	Alientrap Games
 Pub
@@ -1360,12 +1360,12 @@ Updated	1970-01-01
 IgdbId	8427
 Game	Curse of the Arrow
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-11
 Store	https://egordorichev.itch.io/curse-of-the-arrow
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie
 Year	2018
 Dev	egordorichev
@@ -1394,13 +1394,13 @@ Updated	1970-01-01
 IgdbId	35398
 Game	Cursed Gem
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1194480/Cursed_Gem/
 Hints
-Genre	Platformer
-Tags	free, indie, puzzle platformer
+Genre	Puzzle Platformer
+Tags	free, indie
 Year	2020
 Dev	AikonCWD
 Pub	Vega Games
@@ -1411,7 +1411,7 @@ Updated	2023-05-04
 IgdbId	129411
 Game	Cute Cats
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1667400/Cute_Cats/
@@ -1428,13 +1428,13 @@ Updated	2023-05-07
 IgdbId	163399
 Game	Cyber-doge 2077: Meme runner
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1383720/Cyberdoge_2077_Meme_runner/
 Hints	performance not great on integrated Intel GPU
-Genre	runner
-Tags
+Genre	Action
+Tags	running
 Year	2020
 Dev	Take Toad
 Pub	Take Toad
@@ -1452,7 +1452,7 @@ Store	https://www.humblebundle.com/store/dad-quest https://store.steampowered.co
 Hints
 Genre	Platformer
 Tags
-Year	In Development
+Year
 Dev	Sundae Month
 Pub	Excalibur Publishing
 Version
@@ -1462,7 +1462,7 @@ Updated	2023-05-07
 IgdbId	27145
 Game	Dark Crypt
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1706170/Dark_Crypt/
@@ -1479,7 +1479,7 @@ Updated	2023-05-07
 IgdbId	164215
 Game	Dark Sheep
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1576490/Dark_Sheep/
@@ -1496,13 +1496,13 @@ Updated	2023-05-07
 IgdbId	150884
 Game	Dead Cells
 Cover	Dead_Cells_cover.jpg
-Engine	hashlink
+Engine	HashLink
 Setup	remove *.so{,.*} and *.hdll
 Runtime	hl
 Store	https://www.gog.com/game/dead_cells https://plug-in-digital.itch.io/dead-cells https://www.humblebundle.com/store/dead-cells https://store.steampowered.com/app/588650/Dead_Cells/
 Hints
-Genre	Roguelite Platformer
-Tags	indie, award-winning
+Genre	Metroidvania
+Tags	indie, award-winning, roguelite, platformer
 Year	2018
 Dev	Motion Twin
 Pub
@@ -1537,7 +1537,7 @@ Store	https://store.steampowered.com/app/259000/Dead_Pixels_II/
 Hints
 Genre
 Tags
-Year	In Development
+Year
 Dev	CSR-Studios
 Pub
 Version
@@ -1552,8 +1552,8 @@ Setup	IndieRunner
 Runtime	java-17
 Store	https://store.steampowered.com/app/1552080/Deepest_Chamber_Resurrection/
 Hints
-Genre	deckbuilding, dungeoncrawler
-Tags	early access, indie
+Genre	Card Game
+Tags	early access, indie, dungeoncrawler
 Year
 Dev	Balcony Softworks
 Pub	Those Awesome Guys
@@ -1564,14 +1564,14 @@ Updated	2023-09-24
 IgdbId	144450
 Game	Delta-V: Rings of Saturn
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/846030/V_Rings_of_Saturn/ https://www.gog.com/game/dv_rings_of_saturn
 Hints	note a Unicode "delta" is used in the game's name
 Genre	Simulation
 Tags	scifi, space
-Year	Early Access
+Year
 Dev	Kodera Software
 Pub	Kodera Software, Kurki.games
 Version
@@ -1581,7 +1581,7 @@ Updated	2023-05-07
 IgdbId	108324
 Game	Delver
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup
 Runtime	IndieRunner
 Store	https://priorityinterrupt.itch.io/delver https://store.steampowered.com/app/249630/Delver/
@@ -1654,7 +1654,7 @@ Setup
 Runtime	devilutionx
 Store	https://www.gog.com/game/diablo
 Hints
-Genre	ARPG
+Genre	Action RPG
 Tags	classic, fantasy
 Year	1997
 Dev	Blizzard North
@@ -1671,7 +1671,7 @@ Setup
 Runtime	HashLink
 Store	https://store.steampowered.com/app/1965800/Dice_Tribes_Ambitions/
 Hints
-Genre	boardgame
+Genre	Boardgame
 Tags	indie, dice
 Year	2022
 Dev	Sprouting Potato
@@ -1683,12 +1683,12 @@ Updated	2023-05-07
 IgdbId	200871
 Game	Diefrosty
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1814950/Diefrosty/
 Hints
-Genre	puzzle platformer
+Genre	Puzzle Platformer
 Tags	indie
 Year	2021
 Dev	Ulon
@@ -1757,7 +1757,7 @@ Runtime	fnaify
 Store	https://www.humblebundle.com/store/the-dishwasher-vampire-smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 Hints
 Genre	Brawler
-Tags	indie, graphical violence
+Tags	indie, gore
 Year	2017
 Dev	Ska Studios
 Pub
@@ -1770,7 +1770,7 @@ Game	Doki Doki Literature Club!
 Cover	DDLC_cover.jpg
 Engine	Ren'Py 6
 Setup	renpyify
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://teamsalvato.itch.io/ddlc https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
 Hints
 Genre	Visual Novel
@@ -1785,13 +1785,13 @@ Updated	1970-01-01
 IgdbId	55935
 Game	Dome Keeper (formerly Dome Romantik)
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1637320/Dome_Romantik/ https://bippinbits.itch.io/dome-romantik https://www.gog.com/en/game/dome_keeper
 Hints	Run with `godot --main-pack domeromantik.x86_64`. As of 2022-03-19, itch.io demo is outdated compared to Steam.
-Genre	mining, action
-Tags	Lovecraftian
+Genre	Mining
+Tags	lovecraftian, indie, action
 Year
 Dev	Bippinbits
 Pub	Bippinbits
@@ -1853,9 +1853,9 @@ Updated	1970-01-01
 IgdbId	13606
 Game	Downfall
 Cover	Downfall_cover.jpg
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
-Runtime	AGS
+Runtime	scummvm
 Store	https://www.gog.com/game/downfall_redux https://www.humblebundle.com/store/downfall https://store.steampowered.com/app/364390/Downfall/
 Hints
 Genre	Adventure
@@ -1870,9 +1870,9 @@ Updated	2023-05-07
 IgdbId	213124
 Game	Draw A Stickman: EPIC
 Cover	Draw_a_Stickman_EPIC_logo.png
-Engine	XNA/MonoGame
+Engine	MonoGame
 Setup	fnaify
-Runtime	fnaify
+Runtime	mono
 Store	https://www.humblebundle.com/store/draw-a-stickman-epic https://store.steampowered.com/app/248650/Draw_a_Stickman_EPIC/
 Hints
 Genre	Puzzle
@@ -1887,13 +1887,13 @@ Updated	1970-01-01
 IgdbId	5032
 Game	Dreams in the Witch House
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/en/game/dreams_in_the_witch_house https://store.steampowered.com/app/1902850/Dreams_in_the_Witch_House/
 Hints	with scummvm 2.7.0 has segfault when looking down platform in dream section
-Genre	point and click adventure
-Tags	horror, Lovecraftian
+Genre	Adventure
+Tags	horror, Lovecraftian, point & click
 Year	2023
 Dev	Atom Brain Games
 Pub	Bonus Stage Publishing
@@ -2006,12 +2006,12 @@ Updated	2023-05-07
 IgdbId	59133
 Game	EXAPUNKS
 Cover	EXAPUNKS_cover.jpg
-Engine
+Engine	Mono
 Setup	fnaify
 Runtime	fnaify
 Store	https://www.gog.com/game/exapunks https://www.humblebundle.com/store/exapunks https://zachtronics.itch.io/exapunks https://store.steampowered.com/app/716490/EXAPUNKS/
 Hints	fnaify >= 3.0
-Genre	puzzle
+Genre	Puzzle
 Tags	zach-like
 Year	2018
 Dev	Zachtronics
@@ -2029,7 +2029,7 @@ Runtime	fnaify
 Store	https://www.gog.com/game/eagle_island https://store.steampowered.com/app/681110/Eagle_Island_Twist
 Hints
 Genre	Platformer
-Tags	pixelart
+Tags	pixel art
 Year	2019
 Dev	Pixelnicks
 Pub	Screenwave Media
@@ -2079,7 +2079,7 @@ Setup
 Runtime	HTML5
 Store	https://www.humblebundle.com/store/elliot-quest https://ansimuz.itch.io/elliot-quest https://store.steampowered.com/app/293440/Elliot_Quest/
 Hints	uses NW.js; run by unzipping file 'app', then opening index.html in a browser; no sound though
-Genre	platformer
+Genre	Platformer
 Tags	indie
 Year	2014
 Dev	Ansimuz Games
@@ -2091,13 +2091,13 @@ Updated	2023-05-07
 IgdbId	8596
 Game	Endoparasitic
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2124780/Endoparasitic/
 Hints	needs godot with mono support
-Genre	survival horror
-Tags	indie, minimalist, gore, body horror
+Genre	Action
+Tags	indie, minimalist, gore, body horror, survival
 Year	2022
 Dev	Deep Root Interactive
 Pub	Deep Root Interactive
@@ -2159,7 +2159,7 @@ Updated	1970-01-01
 IgdbId	63
 Game	Evoland Legendary Edition
 Cover	Evoland-LE_cover.jpg
-Engine	hashlink
+Engine	HashLink
 Setup	remove *.so{,.*} and *.hdll
 Runtime	hl
 Store	https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/ https://www.gog.com/game/evoland_legendary_edition
@@ -2176,12 +2176,12 @@ Updated	2023-05-07
 IgdbId	114910
 Game	Ex-Zodiac
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1249480/ExZodiac/
 Hints
-Genre	action
+Genre	Action
 Tags	retro, early access
 Year	2022
 Dev	MNKY
@@ -2193,13 +2193,13 @@ Updated	2023-11-09
 IgdbId	133089
 Game	The Excavation of Hob's Barrow
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/en/game/the_excavation_of_hobs_barrow https://store.steampowered.com/app/1182310/The_Excavation_of_Hobs_Barrow/
 Hints	scummvm >= 2.7.0 display text correctly
 Genre	Adventure
-Tags	pixelart
+Tags	pixel art
 Year	2022
 Dev	Cloak and Dagger Games
 Pub	Wadjet Eye Games
@@ -2229,7 +2229,7 @@ Game	The Expression Amrilato
 Cover	The_Expression_Amrilato_cover.jpg
 Engine	Ren'Py
 Setup	renpyify
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://www.gog.com/game/the_expression_amrilato https://store.steampowered.com/app/1044490
 Hints	if voices get interrupted, try out Interrupt voices during playback toggle; untested
 Genre	Visual Novel
@@ -2278,12 +2278,12 @@ Updated	2023-05-07
 IgdbId	1991
 Game	Fracture Hell
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1713770/Fracture_Hell/
 Hints
-Genre	Top-down shooter
+Genre	Top-Down Shooter
 Tags	indie
 Year	2021
 Dev	Solo Byte Games
@@ -2295,12 +2295,12 @@ Updated	2023-05-07
 IgdbId	165088
 Game	FRANZ FURY
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1513960/FRANZ_FURY/
 Hints
-Genre	action
+Genre	Action
 Tags	top-down, vehicle
 Year
 Dev	Raffaele Picca
@@ -2312,13 +2312,13 @@ Updated	2023-05-07
 IgdbId	157923
 Game	Fraymakers
 Cover
-Engine	hashlink
+Engine	HashLink
 Setup	IndieRunner
 Runtime	hashlink
 Store	https://store.steampowered.com/app/1420350/Fraymakers/
 Hints
-Genre	fighting
-Tags	indie, cartoon, early access
+Genre	Fighting Game
+Tags	indie, cartoon, early access, multiplayer
 Year
 Dev	Team Fray, McLeodGaming
 Pub	Team Fray, McLeodGaming
@@ -2334,8 +2334,8 @@ Setup
 Runtime	HumblePlay
 Store	https://www.humblebundle.com/store/ftl-faster-than-light
 Hints	Demo available on humblebundle.com
-Genre	Roguelite, Strategy
-Tags	space, pixelart
+Genre	Strategy
+Tags	space, pixel art, roguelite
 Year	2012
 Dev	Subset Games
 Pub
@@ -2346,7 +2346,7 @@ Updated	2023-05-07
 IgdbId	3075
 Game	Farm Keeper
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2458940/Farm_Keeper/
@@ -2365,7 +2365,7 @@ Game	Fatal Twelve
 Cover	Fatal_Twelve_cover.jpg
 Engine	Ren'Py
 Setup	renpyify
-Runtime	ren'py
+Runtime	renpy
 Store	https://store.steampowered.com/app/620210/Fatal_Twelve/ https://www.gog.com/game/fatal_twelve
 Hints
 Genre
@@ -2402,8 +2402,8 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://store.steampowered.com/app/401710/Flinthook/
 Hints
-Genre	Roguelite Platformer
-Tags
+Genre	Platformer
+Tags	indie, roguelite, quirky
 Year	2017
 Dev	Tribute Games
 Pub
@@ -2420,7 +2420,7 @@ Runtime	fnaify
 Store	https://blendogames.itch.io/flotilla https://store.steampowered.com/app/55000/Flotilla/
 Hints
 Genre	Strategy
-Tags	3d space
+Tags	3D, space
 Year	2010
 Dev	Blendo Games
 Pub
@@ -2431,7 +2431,7 @@ Updated	1970-01-01
 IgdbId	8396
 Game	Forest's Secret: Mystery of the Frost
 Cover	forests_secret_cover.png
-Engine	libgdx
+Engine	LibGDX
 Setup
 Runtime
 Store	https://bynine.itch.io/forestssecret
@@ -2448,7 +2448,7 @@ Updated	1970-01-01
 IgdbId	138716
 Game	The Forestale
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/817220/The_Forestale/
@@ -2482,13 +2482,13 @@ Updated	2023-05-07
 IgdbId	722
 Game	Fury's Sky
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1118550/Furys_Sky/
 Hints
-Genre	action, simulation, flightsim
-Tags	retro, early access
+Genre	Flightsim
+Tags	retro, early access, simulation
 Year
 Dev	Proud Cipher Media Group
 Pub	Proud Cipher Media Group
@@ -2550,7 +2550,7 @@ Updated	1970-01-01
 IgdbId	13662
 Game	Gemini Rue
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/gemini_rue https://store.steampowered.com/app/80310
@@ -2584,7 +2584,7 @@ Updated	2023-05-07
 IgdbId	127543
 Game	A Golden Wake
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/a_golden_wake https://store.steampowered.com/app/307570
@@ -2601,7 +2601,7 @@ Updated	2023-05-07
 IgdbId	8819
 Game	Goop Loop
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1454550/Goop_Loop/
@@ -2635,12 +2635,12 @@ Updated	1970-01-01
 IgdbId	36014
 Game	Gravity Ace
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1003860/Gravity_Ace/
 Hints
-Genre	twinstick shooter
+Genre	Twin-Stick Shooter
 Tags	early access
 Year
 Dev	John Watson
@@ -2652,12 +2652,12 @@ Updated	2023-05-07
 IgdbId	114912
 Game	Gravity Circuit
 Cover
-Engine	love
+Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
 Store	https://store.steampowered.com/app/858710/Gravity_Circuit/
 Hints	extract AppImage with 7zip, run with love-11, need to have package luasteam installed
-Genre	platformer
+Genre	Platformer
 Tags	indie, retro, megaman-inspired
 Year	2023
 Dev	Domesticated Ant Games
@@ -2686,7 +2686,7 @@ Updated	1970-01-01
 IgdbId
 Game	The Great Plague Exodus
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1510800/The_Great_Plague_Exodus/
@@ -2737,13 +2737,13 @@ Updated	1970-01-01
 IgdbId	69161
 Game	Groundskeeper 2
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/groundskeeper2
 Hints
 Genre	Action
-Tags	indie, pixelart
+Tags	indie, pixel art
 Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
@@ -2771,13 +2771,13 @@ Updated	1970-01-01
 IgdbId	17203
 Game	Gunslugs
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/gunslugs https://store.steampowered.com/app/371890/Gunslugs/
 Hints
 Genre	Platformer
-Tags	retro, pixel
+Tags	retro, pixel art
 Year	2015
 Dev	Orangepixel
 Pub	Orangepixel
@@ -2788,13 +2788,13 @@ Updated	2023-05-07
 IgdbId	35187
 Game	Gunslugs 3: Rogue Tactics
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/gunslugs3 https://store.steampowered.com/app/1012360/Gunslugs_3Rogue_Tactics/
 Hints
-Genre	Platformer roguelite stealth
-Tags	retro, pixel
+Genre	Platformer
+Tags	retro, pixel art, roguelite, stealth
 Year	2019
 Dev	Orangepixel
 Pub	Orangepixel
@@ -2805,7 +2805,7 @@ Updated	2023-05-07
 IgdbId	114017
 Game	Hack Grid
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1543290/Hack_Grid/
@@ -2839,7 +2839,7 @@ Updated	2023-05-07
 IgdbId	11707
 Game	Haiki
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1395270/Haiki/
@@ -2856,12 +2856,12 @@ Updated	2023-05-07
 IgdbId	141134
 Game	Hallow's Eve
 Cover
-Engine	solarus
+Engine	Solarus
 Setup
-Runtime	solarus
+Runtime	solarus-run
 Store	https://maxatrillionator.itch.io/hallows-eve
 Hints	solarus-run *.solarus
-Genre	ARPG
+Genre	Action RPG
 Tags	indie, 2D, comedy, halloween
 Year	2020
 Dev	Max Mraz
@@ -2873,7 +2873,7 @@ Updated	2023-05-07
 IgdbId
 Game	Hands of Necromancy
 Cover
-Engine	idTech
+Engine	id Tech
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1898610/Hands_of_Necromancy/ https://www.gog.com/en/game/hands_of_necromancy
@@ -2890,7 +2890,7 @@ Updated	2023-05-07
 IgdbId	203249
 Game	Hashi: Light
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1703650/Hashi_Light/
@@ -2907,13 +2907,13 @@ Updated	2023-05-07
 IgdbId	168485
 Game	Her Name Was Fire
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2083840/Her_Name_Was_Fire/
 Hints
-Genre	action roguelike
-Tags	indie, survivors-like, bullet-hell
+Genre	Action
+Tags	indie, survivors-like, bullet hell, roguelite
 Year	2022
 Dev	Tissue Inu
 Pub	Tissue Inu
@@ -2958,7 +2958,7 @@ Updated	1970-01-01
 IgdbId	8419
 Game	Heroes of Loot
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup
 Runtime	java
 Store	https://orangepixel.itch.io/heroes-of-loot https://store.steampowered.com/app/359280/Heroes_of_Loot/
@@ -2980,7 +2980,7 @@ Setup
 Runtime	fheroes2
 Store	https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition
 Hints
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags	classic, fantasy
 Year	1996
 Dev	New World Computing
@@ -2992,7 +2992,7 @@ Updated	2023-05-07
 IgdbId	51821
 Game	Heroine's Quest: The Herald of Ragnarok
 Cover	Heroines_Quest.png
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime
 Store	https://www.humblebundle.com/g/heroines-quest https://radiant.itch.io/heroines-quest https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
@@ -3026,7 +3026,7 @@ Updated	1970-01-01
 IgdbId	3512
 Game	HeXen II
 Cover	Hexen_II_cover.jpg
-Engine	Quake engine
+Engine	Quake Engine
 Setup
 Runtime	uhexen2
 Store	https://store.steampowered.com/app/9060/HeXen_II/ https://www.gog.com/game/hexen_ii
@@ -3043,13 +3043,13 @@ Updated	1970-01-01
 IgdbId	6637
 Game	Hexes
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1977770/Hexes/
 Hints
-Genre	puzzle
-Tags	match3, indie, casual
+Genre	Puzzle
+Tags	match three, indie, casual
 Year	2023
 Dev	Elektri Inc.
 Pub	Elektri Inc.
@@ -3060,12 +3060,12 @@ Updated	2023-08-13
 IgdbId	243780
 Game	Highway Blossoms
 Cover	Highway_Blossoms_Remastered.jpg
-Engine	Ren'Py 6
+Engine	Ren'Py
 Setup
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://www.gog.com/game/highway_blossoms https://vnstudioelan.itch.io/highway-blossoms https://www.humblebundle.com/store/highway-blossoms https://store.steampowered.com/app/451760/Highway_Blossoms/
 Hints
-Genre	Visual Novel
+Genre	visual novel
 Tags
 Year	2016
 Dev	AlienWorks
@@ -3094,9 +3094,9 @@ Updated	1970-01-01
 IgdbId	5604
 Game	Hiveswap Friendsim
 Cover	Hiveswap_Friendsim_cover.jpg
-Engine	ren'py
+Engine	Ren'Py
 Setup	renpyify
-Runtime	ren'py
+Runtime	renpy
 Store	https://store.steampowered.com/app/833040/Hiveswap_Friendsim/ https://www.gog.com/game/hiveswap_friendsim
 Hints	https://www.reddit.com/r/openbsd_gaming/comments/hhy4h0/hiveswap_friendsim_works_with_renpyrenpyify/ Reddit post
 Genre
@@ -3116,7 +3116,7 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://alesan99.itch.io/hoarders-horrible-house-of-stuff
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	indie, free
 Year	2020
 Dev	alesan99
@@ -3128,13 +3128,13 @@ Updated	2023-10-09
 IgdbId	185059
 Game	Human Diaspora
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1395420/Human_Diaspora/
 Hints
 Genre	FPS
-Tags	sci-fi
+Tags	scifi
 Year
 Dev	Leocesar3D Productions
 Pub	Leocesar3D Productions
@@ -3162,13 +3162,13 @@ Updated	1970-01-01
 IgdbId	24566
 Game	I am Sakuya: Touhou FPS Game
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1960590/I_Am_Sakuya_Touhou_FPS_Game/
 Hints
-Genre	action, FPS
-Tags
+Genre	FPS
+Tags	touhou
 Year	2022
 Dev	Sigyaad Team
 Pub	Sigyaad Team
@@ -3201,7 +3201,7 @@ Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/1800730/I_MAED_A_GAM3_W1TH_Z0MB1ES_1N_IT1/
 Hints
-Genre	twin-stick shooter
+Genre	Twin-Stick Shooter
 Tags	zombies, free
 Year	2021
 Dev	Ska Studios, OMNIVIOLET
@@ -3247,12 +3247,12 @@ Updated	2023-05-07
 IgdbId	753
 Game	INC: The Beginning
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/inc
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie, dystopian
 Year	2018
 Dev	Orangepixel
@@ -3281,12 +3281,12 @@ Updated	1970-01-01
 IgdbId	184
 Game	Indirection
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1744450/Indirection/
 Hints
-Genre	puzzle platformer
+Genre	Puzzle Platformer
 Tags
 Year	2022
 Dev	jakes1403
@@ -3298,12 +3298,12 @@ Updated	2023-05-07
 IgdbId	186000
 Game	In the House of Silence
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1378870/In_the_House_of_Silence/
 Hints
-Genre	dungeon crawler
+Genre	Dungeon Crawler
 Tags
 Year	2021
 Dev	Kai Ruma Games
@@ -3320,8 +3320,8 @@ Setup	IndieRunner
 Runtime	hl
 Store	https://clydegames.itch.io/necrovale
 Hints
-Genre	action RPG, hack and slash
-Tags	demo
+Genre	Action RPG
+Tags	early access, hack'n'slash
 Year
 Dev	Casey Clyde
 Pub	Tribal-Storm
@@ -3354,7 +3354,7 @@ Setup	IndieRunner
 Runtime	godot
 Store	https://tossu.itch.io/the-isolated-town https://store.steampowered.com/app/2417240/The_Isolated_Town/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie
 Year	2023
 Dev	Tossu
@@ -3371,10 +3371,10 @@ Setup
 Runtime	ja2-stracciatella
 Store	https://www.gog.com/game/jagged_alliance_2 https://store.steampowered.com/app/545210/Jagged_Alliance_2_Classic/
 Hints
-Genre	TBS RPG
-Tags	classic
+Genre	Turn-Based Tactics
+Tags	classic, RPG
 Year	1999
-Dev	Sir-tech Software, Inc.
+Dev	Sir-tech Software Inc.
 Pub	TalonSoft
 Version
 Status
@@ -3385,7 +3385,7 @@ Game	Jam and the Mystery of the Mysteriously Spooky Mansion
 Cover	jam.png
 Engine	Ren'Py
 Setup
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion
 Hints
 Genre	Adventure
@@ -3422,7 +3422,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://www.atthegatesgame.com/purchase https://www.humblebundle.com/store/jon-shafers-at-the-gates https://store.steampowered.com/app/241000/Jon_Shafers_At_the_Gates/
 Hints	buggy (upstream, not port)
-Genre	TBS
+Genre	Turn-Based Strategy
 Tags	4X
 Year	2019
 Dev	Conifer Games
@@ -3434,7 +3434,7 @@ Updated	1970-01-01
 IgdbId	8423
 Game	Joyspring
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1532360/Joyspring/
@@ -3451,7 +3451,7 @@ Updated	2023-05-07
 IgdbId	156046
 Game	Kathy Rain
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/kathy_rain https://store.steampowered.com/app/370910
@@ -3468,13 +3468,13 @@ Updated	2023-05-07
 IgdbId	18997
 Game	KeeperRL
 Cover
-Engine	keeperrl
+Engine	custom engine
 Setup
 Runtime	keeper
 Store	https://miki151.itch.io/keeperrl https://www.gog.com/en/game/keeperrl https://store.steampowered.com/app/329970/KeeperRL/
 Hints
-Genre	base-building, real-time strategy
-Tags	villain protagonist, indie, tiles
+Genre	Colony Sim
+Tags	villain protagonist, indie, tiles, base-building
 Year	2024
 Dev	Electric Succubi
 Pub	Electric Succubi
@@ -3502,12 +3502,12 @@ Updated	2023-05-07
 IgdbId	213714
 Game	Kitty Tactics
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1473820/Kitty_Tactics/
 Hints
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags
 Year	2021
 Dev	Ibe Denaux
@@ -3519,7 +3519,7 @@ Updated	2023-05-07
 IgdbId	149510
 Game	Kotel Ne Gori: A Friend of Lena Boots
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1325870/Kotel_Ne_Gori_A_Friend_of_Lena_Boots/
@@ -3541,8 +3541,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://dominaxis-games.itch.io/labyrinth-of-legendary-loot
 Hints
-Genre	roguelike dungeoncrawler
-Tags	indie, turn-based, free
+Genre	Dungeon Crawler
+Tags	indie, turn-based, free, roguelite
 Year	2020
 Dev	Dominaxis Games
 Pub	Dominaxis Games
@@ -3553,7 +3553,7 @@ Updated	2023-10-09
 IgdbId	176520
 Game	Lamplight City
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/lamplight_city https://store.steampowered.com/app/761460/Lamplight_City/
@@ -3570,13 +3570,13 @@ Updated	2023-05-07
 IgdbId	79999
 Game	Landnama
 Cover
-Engine	Godot 3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2339040/Landnama/
 Hints
 Genre	Strategy
-Tags	indie, hextiles, nordic, viking, boardgame
+Tags	indie, hex tiles, nordic, viking, boardgame
 Year	2023
 Dev	Sonderland
 Pub	Sonderland
@@ -3638,13 +3638,13 @@ Updated	2023-05-07
 IgdbId	33622
 Game	Lila's Sky Ark
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1573390/Lilas_Sky_Ark/ https://www.gog.com/game/lilas_sky_ark
 Hints
-Genre	metroidvania
-Tags	indie, pixelart
+Genre	Metroidvania
+Tags	indie, pixel art
 Year	2022
 Dev	Monolith of Minds
 Pub	Graffiti Games
@@ -3655,12 +3655,12 @@ Updated	2023-05-07
 IgdbId	144552
 Game	Lingo
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1814170/Lingo/
 Hints	slow graphics performance on Intel UHD 630/Tigerlake
-Genre	puzzle
+Genre	Puzzle
 Tags	first-person, indie
 Year	2021
 Dev	Brenton Wildes
@@ -3708,7 +3708,7 @@ Game	Long Live the Queen
 Cover	Long_Live_the_Queen.jpg
 Engine	Ren'Py 6
 Setup	renpyify
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://www.gog.com/game/long_live_the_queen https://store.steampowered.com/app/251990
 Hints	https://raw.githubusercontent.com/reivyr/renpy-games/master/LongLiveTheQueen/script.sh tweaks to apply before running the game
 Genre
@@ -3762,7 +3762,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://store.steampowered.com/app/520680/Lost_Cities/
 Hints
-Genre	Cardgame
+Genre	Card Game
 Tags	multiplayer
 Year	2018
 Dev	BlueLine Games
@@ -3774,12 +3774,12 @@ Updated	2023-05-07
 IgdbId	37376
 Game	Luck be a Landlord
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/
 Hints	extract from Linux version with https://github.com/rfht/pck-extract
-Genre	deckbuilder
+Genre	Slotmachine Game
 Tags	indie, early access
 Year	2021
 Dev	TrampolineTales
@@ -3791,7 +3791,7 @@ Updated	2023-05-07
 IgdbId	142035
 Game	Lycanthorn II
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1546440/
@@ -3808,13 +3808,13 @@ Updated	2023-05-07
 IgdbId	239592
 Game	Malice & Greed
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1566090/Malice__Greed/
 Hints
 Genre	RPG
-Tags	indie, early access, rogue-lite, turn-based
+Tags	indie, early access, roguelite, turn-based
 Year
 Dev	Xendra
 Pub	Xendra
@@ -3825,12 +3825,12 @@ Updated	2023-05-07
 IgdbId	143568
 Game	Marvellous Inc.
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-0.10
 Store	https://marvellous.itch.io/marvellous-inc https://store.steampowered.com/app/827940/Marvellous_Inc/
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	indie, hacking
 Year	2018
 Dev	Marvellous Soft
@@ -3847,7 +3847,7 @@ Setup
 Runtime	1oom
 Store	https://www.gog.com/game/master_of_orion_1_2
 Hints
-Genre	TBS
+Genre	Turn-Based Strategy
 Tags	space, 4X
 Year	1993
 Dev	Simtex
@@ -3876,13 +3876,13 @@ Updated	1970-01-01
 IgdbId	19874
 Game	Meganoid
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/meganoid https://store.steampowered.com/app/606030/Meganoid/
 Hints
 Genre	Platformer
-Tags	pixel, retro, roguelite
+Tags	pixel art, retro, roguelite
 Year	2017
 Dev	Orangepixel
 Pub	Orangepixel
@@ -3893,13 +3893,13 @@ Updated	2023-05-07
 IgdbId	29184
 Game	Meganoid: Grandpa's Chronicles
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/meganoid2
 Hints
 Genre	Platformer
-Tags	pixel, retro, roguelite
+Tags	pixel art, retro, roguelite
 Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
@@ -3944,9 +3944,9 @@ Updated	2023-10-20
 IgdbId
 Game	Mewnbase
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	jar xvf the game's .jar, replace com/badlogic with libgdx 1.9.11 dir built with lwjgl3 backend, replace org/lwjgl with pertinent files from the lwjgl3 port (may need to extract from its .jar files), replace all .so files with files from ports, libgdx, and lwjgl3.
-Runtime	jdk 11, see main class in config.json
+Runtime	java-11
 Store	https://cairn4.itch.io/mewnbase https://store.steampowered.com/app/743130/MewnBase/
 Hints
 Genre	Survival
@@ -3966,7 +3966,7 @@ Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/1771340/Miasma_Citizens_of_Free_Thought/
 Hints
-Genre	turn-based tactics
+Genre	Turn-Based Tactics
 Tags	indie
 Year	2021
 Dev	ESP Games
@@ -3983,7 +3983,7 @@ Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/1765980/Miasma_2_Freedom_Uprising/
 Hints
-Genre	turn-based tactics
+Genre	Turn-Based Tactics
 Tags	indie, 3d
 Year	2021
 Dev	ESP Games
@@ -4017,8 +4017,8 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://eniko.itch.io/midboss https://www.humblebundle.com/store/midboss https://store.steampowered.com/app/561740/MidBoss/
 Hints	fnaify >= 3.0, fnaify-extralibs
-Genre	Roguelite Dungeoncrawler
-Tags	indie
+Genre	Dungeon Crawler
+Tags	indie, roguelite
 Year	2017
 Dev	Kitsune Games
 Pub
@@ -4035,7 +4035,7 @@ Runtime
 Store	https://minecraft.net/en-us/store/
 Hints	https://github.com/octeep/lwjgl3/blob/openbsd-working/README.md Instructions for Minecraft >= 1.13
 Genre	Sandbox
-Tags
+Tags	genre-defining, classic
 Year	2011
 Dev
 Pub
@@ -4046,13 +4046,13 @@ Updated	1970-01-01
 IgdbId	121
 Game	Mirrorama
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1845050/Mirrorama/
 Hints
-Genre	first-person puzzle game
-Tags	indie, physics, mind-bending
+Genre	Puzzle Game
+Tags	indie, physics, mind-bending, first-person
 Year	2022
 Dev	Berry Berry Niceu
 Pub	Berry Berry Niceu
@@ -4068,7 +4068,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://www.gog.com/game/mobius_front_83 https://zachtronics.itch.io/mobius-front-83 https://store.steampowered.com/app/971160/Mbius_Front_83/
 Hints	game version >= 03/01/2021
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags	military
 Year	2020
 Dev	Zachtronics
@@ -4085,7 +4085,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://www.gog.com/game/moleksyntez https://www.humblebundle.com/store/molek-syntez https://zachtronics.itch.io/molek-syntez https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/
 Hints	fnaify >= 3.0
-Genre	puzzle
+Genre	Puzzle
 Tags
 Year	2019
 Dev	Zachtronics
@@ -4097,13 +4097,13 @@ Updated	2023-05-07
 IgdbId	125208
 Game	Monster Outbreak
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1525190/Monster_Outbreak/
 Hints	Only tested in solo player. Multiplayer likely won't work or only via LAN support of goldberg_emulator
-Genre	Survival hack'n'slash
-Tags	indie, pixelart
+Genre	Survival
+Tags	indie, pixel art, hack'n'slash
 Year	2022
 Dev	GameMunchers
 Pub	Freedom Games
@@ -4119,11 +4119,11 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://dene.itch.io/moonring https://store.steampowered.com/app/2373630/Moonring/
 Hints	free
-Genre	RPG, roguelike, free
-Tags	indie, medieval, dark fantasy, retro
+Genre	RPG
+Tags	indie, medieval, dark fantasy, retro, free, roguelite
 Year	2023
-Dev	Fluttermind, LLC
-Pub	Fluttermind, LLC
+Dev	Fluttermind LLC
+Pub	Fluttermind LLC
 Version	1.0.12
 Status	1 (2023-10-05)
 Added	2023-10-05
@@ -4131,13 +4131,13 @@ Updated	2023-10-05
 IgdbId	266774
 Game	Moonshot - The Great Espionage
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1492610/Moonshot__The_Great_Espionage/
 Hints
-Genre	stealth platformer
-Tags	indie stealth
+Genre	Stealth Platformer
+Tags	indie, stealth
 Year	2021
 Dev	NimbleBeasts
 Pub	NimbleBeasts
@@ -4165,7 +4165,7 @@ Updated	1970-01-01
 IgdbId	15916
 Game	Mud River
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1642600/Mud_River/
@@ -4188,7 +4188,7 @@ Runtime	fnaify
 Store	https://store.steampowered.com/app/274900/Murder_Miners/
 Hints	multiplayer-only game, and only runs via LAN with goldberg emulator; requires goldberg emulator
 Genre	FPS
-Tags	pixel, multiplayer
+Tags	pixels, multiplayer
 Year	2014
 Dev	JForce Games
 Pub	JForce Games
@@ -4233,7 +4233,7 @@ Updated	2023-05-07
 IgdbId	797
 Game	Neofeud
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://silverspook.itch.io/neofeud https://store.steampowered.com/app/673850/Neofeud/
@@ -4250,12 +4250,12 @@ Updated	2023-05-07
 IgdbId	55688
 Game	Neoteria
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/neoteria
 Hints
-Genre	side-scrolling shooter
+Genre	Side-Scrolling Shooter
 Tags	indie
 Year	2018
 Dev	Orangepixel
@@ -4272,8 +4272,8 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://flyingoakgames.itch.io/neurovoider https://www.gog.com/game/neurovoider https://www.humblebundle.com/store/neurovoider https://store.steampowered.com/app/400450/NeuroVoider/
 Hints	fnaify >= 3.0
-Genre	Roguelite Twinstick Action
-Tags
+Genre	Twin-Stick Shooter
+Tags	indie, roguelite
 Year	2016
 Dev	Flying Oak Games
 Pub	Plug In Digital
@@ -4284,13 +4284,13 @@ Updated	2023-05-07
 IgdbId	23581
 Game	Nightfall Hacker
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1204080/Nightfall_Hacker/
 Hints
 Genre	Puzzle, Hacking
-Tags	indie, hacking, 2d
+Tags	indie, hacking, 2D
 Year	2021
 Dev	Teradile
 Pub	Teradile
@@ -4301,7 +4301,7 @@ Updated	2023-05-07
 IgdbId	127578
 Game	Northgard
 Cover	Northgard_cover.jpg
-Engine	hashlink
+Engine	HashLink
 Setup	hashlink
 Runtime	hashlink
 Store	https://www.gog.com/game/northgard https://www.humblebundle.com/store/northgard https://store.steampowered.com/app/466560/Northgard/
@@ -4318,13 +4318,13 @@ Updated	2023-03-13
 IgdbId	18918
 Game	Nuclear Blaze
 Cover
-Engine	hashlink
+Engine	HashLink
 Setup	hashlink
 Runtime	hashlink
 Store	https://store.steampowered.com/app/1662480/Nuclear_Blaze/
 Hints	needs hlsteam to run; in dir `sdl64` rm *.{,h}dll and run `hl`
 Genre	Platformer
-Tags	indie, environment
+Tags	indie, pixel art
 Year	2021
 Dev	Deepnight Games
 Pub	Deepnight Games
@@ -4340,7 +4340,7 @@ Setup
 Runtime	solarus-run
 Store	https://store.steampowered.com/app/1393750/Oceans_Heart/
 Hints	$ solarus-run data.solarus
-Genre	action RPG
+Genre	Action RPG
 Tags	indie, zelda-like
 Year	2021
 Dev	Max Mraz
@@ -4352,13 +4352,13 @@ Updated	2023-07-22
 IgdbId	142340
 Game	Of Blades & Tails
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://www.gog.com/en/game/of_blades_and_tails https://store.steampowered.com/app/1768780/Of_Blades__Tails/
 Hints	needs godot with mono support
-Genre	turn-based RPG
-Tags	indie, pixelart, fantasy, colorful
+Genre	RPG
+Tags	indie, pixel art, fantasy, colorful, turn-based
 Year
 Dev	Felix Laukel
 Pub	Pineapple Works
@@ -4369,12 +4369,12 @@ Updated	2023-08-25
 IgdbId	187655
 Game	Omnigon
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2371710/Omnigon/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie, metroidvania, comedy
 Year
 Dev	Yokcos
@@ -4420,13 +4420,13 @@ Updated	2023-05-07
 IgdbId	27444
 Game	Operation STEEL
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1489300/Operation_STEEL/
 Hints
-Genre	shmup
-Tags	indie, arcade, bullethell
+Genre	Shoot'em Up
+Tags	indie, arcade, bullet hell
 Year	2022
 Dev	Undermog Games
 Pub	Undermog Games
@@ -4442,7 +4442,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://www.gog.com/game/opus_magnum https://www.humblebundle.com/store/opus-magnum https://zachtronics.itch.io/opus-magnum https://store.steampowered.com/app/558990/Opus_Magnum/
 Hints	fnaify >= 3.0
-Genre	puzzle
+Genre	Puzzle
 Tags	zach-like
 Year	2017
 Dev	Zachtronics
@@ -4476,7 +4476,7 @@ Setup	fnaify
 Runtime
 Store	https://store.steampowered.com/app/495680/Overdriven_Reloaded/
 Hints
-Genre	Shmup
+Genre	Shoot'em Up
 Tags
 Year	2016
 Dev	TOMAGameStudio
@@ -4494,7 +4494,7 @@ Runtime	mono
 Store	https://www.gog.com/game/owlboy https://www.humblebundle.com/store/owlboy https://store.steampowered.com/app/115800/Owlboy/
 Hints	GOG.com version not working as of 2023-05-07 (outdated - 1.3.x), but Steam version works (1.4.x)
 Genre	Metroidvania
-Tags	pixelart
+Tags	pixel art
 Year	2016
 Dev	D-Pad Studio
 Pub
@@ -4539,12 +4539,12 @@ Updated	2022-11-21
 IgdbId	4268
 Game	Paralyzed
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1412500/Paralyzed/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags
 Year	2020
 Dev	Alexander Lahti
@@ -4556,13 +4556,13 @@ Updated	2023-05-07
 IgdbId	141787
 Game	Path of Achra
 Cover
-Engine	godot
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2128270/Path_of_Achra/
 Hints
-Genre	roguelike RPG
-Tags	indie, minimalist, early access
+Genre	RPG
+Tags	indie, minimalist, early access, roguelite
 Year
 Dev	Ulfsire
 Pub	Slouching Beast LLC
@@ -4579,7 +4579,7 @@ Runtime
 Store	https://store.steampowered.com/app/213030/Penny_Arcades_On_the_RainSlick_Precipice_of_Darkness_3/
 Hints
 Genre	RPG
-Tags	humor indie
+Tags	humor, indie
 Year	2012
 Dev	Zeboyd Games
 Pub
@@ -4663,7 +4663,7 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://herogameco.itch.io/poemsandcodes https://store.steampowered.com/app/2295070/Poems__Codes/
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	word game, relaxing, minimalist
 Year
 Dev	Hero Game Co LLC
@@ -4680,8 +4680,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://weirdfellows.itch.io/possession https://store.steampowered.com/app/629340/Possession/
 Hints	extract *.AppImage with 7z, possession.love is in directory usr/
-Genre	roguelike RPG
-Tags	minimalist, retro, pixel art, turn-based
+Genre	RPG
+Tags	minimalist, retro, pixel art, turn-based, roguelite
 Year	2019
 Dev	Weirdfellows
 Pub	Weirdfellows
@@ -4698,7 +4698,7 @@ Runtime	postal
 Store	https://www.gog.com/game/postal_classic_and_uncut https://www.humblebundle.com/store/postal https://store.steampowered.com/app/232770/POSTAL/
 Hints
 Genre	Action
-Tags	graphic_violence
+Tags	gore
 Year	1997
 Dev	Running With Scissors
 Pub	Ripcord Games
@@ -4715,7 +4715,7 @@ Runtime
 Store	https://www.humblebundle.com/store/press-x-to-not-die https://store.steampowered.com/app/402330/Press_X_to_Not_Die/
 Hints
 Genre	FMV
-Tags	indie quicktime
+Tags	indie, quicktime, zombies
 Year	2017
 Dev	All Seeing Eye Games
 Pub
@@ -4732,7 +4732,7 @@ Runtime	godot
 Store	https://store.steampowered.com/app/771420/Primal_Light/
 Hints
 Genre	Platformer
-Tags	indie pixelart
+Tags	indie, pixel art
 Year	2020
 Dev	Fat Gem
 Pub	Fat Gem
@@ -4743,9 +4743,9 @@ Updated	2023-05-07
 IgdbId	122794
 Game	Primordia
 Cover	Primordia_cover.jpg
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
-Runtime	AGS
+Runtime	Adventure Game Studio
 Store	https://www.gog.com/game/primordia https://store.steampowered.com/app/227000/Primordia/
 Hints
 Genre	Adventure
@@ -4760,7 +4760,7 @@ Updated	1970-01-01
 IgdbId	7635
 Game	Project Crypt
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1988750/Project_Crypt/
@@ -4777,13 +4777,13 @@ Updated	2023-05-07
 IgdbId	201131
 Game	Project Heartbeat
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1216230/Project_Heartbeat/
 Hints	Godot 3.4
-Genre	rhythm game
-Tags
+Genre	Rhythm Game
+Tags	indie
 Year	2020
 Dev	EIRTeam
 Pub	EIRTeam
@@ -4799,7 +4799,7 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://herogameco.itch.io/proseandcodes https://store.steampowered.com/app/1718910/Prose__Codes/
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	word game, minimalist
 Year	2021
 Dev	Hero Game Co LLC
@@ -4816,7 +4816,7 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://store.steampowered.com/app/2053360/PUTRID_SHOT_ULTRA/
 Hints
-Genre	action
+Genre	Action
 Tags	platformer, arena shooter, retro
 Year	2022
 Dev	Abhi Sundu
@@ -4880,7 +4880,7 @@ IgdbId	355
 Game	Quest for Infamy
 Cover	473px-Quest_for_Infamy_-_Cover.jpg
 Engine
-Setup	AGS
+Setup	Adventure Game Studio
 Runtime
 Store	https://www.gog.com/game/quest_for_infamy https://www.humblebundle.com/store/quest-for-infamy https://infamousquests.itch.io/quest-for-infamy https://store.steampowered.com/app/264560/Quest_for_Infamy/
 Hints
@@ -4896,13 +4896,13 @@ Updated	1970-01-01
 IgdbId	8250
 Game	Quest of Graal
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1765700/Quest_Of_Graal/
 Hints
-Genre	racing, platformer
-Tags	multiplayer
+Genre	Platformer
+Tags	multiplayer, racing
 Year	2022
 Dev	Pixel-Archipel, Theo Mn
 Pub	Pixel-Archipel
@@ -4947,7 +4947,7 @@ Updated	2023-05-07
 IgdbId	281
 Game	Rex
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://securas.itch.io/rex
@@ -4986,7 +4986,7 @@ Setup	IndieRunner
 Runtime	java
 Store	https://www.gog.com/en/game/rise_to_ruins https://rayvolution.itch.io/risetoruins https://store.steampowered.com/app/328080/Rise_to_Ruins/
 Hints
-Genre	city builder
+Genre	City Builder
 Tags	indie
 Year	2019
 Dev	Raymond Doerr
@@ -5015,7 +5015,7 @@ Updated	2023-05-07
 IgdbId	238
 Game	Robotherapy
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1895970/Robotherapy/
@@ -5054,8 +5054,8 @@ Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/rogue_legacy https://www.humblebundle.com/store/rogue-legacy https://store.steampowered.com/app/241600/Rogue_Legacy/
 Hints
-Genre	Roguelite Metroidvania
-Tags	indie classic
+Genre	Metroidvania
+Tags	indie, classic, quirky, roguelite
 Year	2013
 Dev	Cellar Door Games
 Pub
@@ -5066,15 +5066,15 @@ Updated	2023-05-07
 IgdbId	3221
 Game	Rogue State Revolution
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1145340/Rogue_State_Revolution/
 Hints
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags
 Year	2021
-Dev	LRDGames, Inc.
+Dev	LRDGames Inc.
 Pub	Modern Wolf
 Version
 Status	1 (2021-08-21)
@@ -5117,13 +5117,13 @@ Updated	2023-05-07
 IgdbId	331
 Game	Roma Invicta
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1878070/Roma_Invicta/
 Hints
-Genre	strategy, RTS
-Tags	indie
+Genre	RTS
+Tags	indie, strategy
 Year	2022
 Dev	Puntigames
 Pub	Puntigames
@@ -5141,7 +5141,7 @@ Store	https://sirill.itch.io/ruggnar https://store.steampowered.com/app/1303050 
 Hints
 Genre
 Tags
-Year	In Development
+Year
 Dev
 Pub
 Version
@@ -5151,12 +5151,12 @@ Updated	2023-05-07
 IgdbId	164177
 Game	ROTA
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1993830/ROTA/
 Hints
-Genre	puzzle platformer
+Genre	Puzzle Platformer
 Tags	indie, colorful
 Year	2022
 Dev	Harmony Honey
@@ -5168,13 +5168,13 @@ Updated	2023-05-07
 IgdbId	201487
 Game	RUN: The world in-between
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/ https://www.gog.com/en/game/run_the_world_inbetween
 Hints
-Genre	platformer
-Tags
+Genre	Platformer
+Tags	indie
 Year	2022
 Dev	Team Run
 Pub	Team Run, PID Games
@@ -5187,7 +5187,7 @@ Game	RuneScape
 Cover
 Engine	Java
 Setup	https://old.reddit.com/r/openbsd_gaming/comments/lh2jts/runescape_on_openbsd/
-Runtime	jdk 11
+Runtime	java-11
 Store	https://www.runescape.com/splash https://store.steampowered.com/app/1343400/
 Hints
 Genre	MMORPG
@@ -5202,7 +5202,7 @@ Updated	2023-05-07
 IgdbId	5611
 Game	Rushberry Mercs
 Cover
-Engine	hashlink
+Engine	HashLink
 Setup
 Runtime	hashlink
 Store	https://store.steampowered.com/app/1258990/Rushberry_Mercs/
@@ -5241,8 +5241,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://manadream.itch.io/shell-out-showdown https://store.steampowered.com/app/1556660/Shell_Out_Showdown/
 Hints	extract .AppImage with 7z x; then love-11 bin/love
-Genre	action platformer
-Tags	indie, multiplayer
+Genre	Action
+Tags	indie, multiplayer, platformer
 Year	2022
 Dev	manadream
 Pub	manadream
@@ -5253,13 +5253,13 @@ Updated	2023-10-09
 IgdbId	148437
 Game	Shenzhen I/O
 Cover
-Engine	mono
+Engine	Mono
 Setup	fnaify / IndieRunner
 Runtime	mono
 Store	https://store.steampowered.com/app/504210/SHENZHEN_IO/ https://zachtronics.itch.io/shenzhen-io https://www.gog.com/game/shenzhen_io
 Hints
-Genre	zach-like
-Tags	indie
+Genre	Puzzle
+Tags	indie, zach-like
 Year	2016
 Dev	Zachtronics
 Pub	Zachtronics
@@ -5270,13 +5270,13 @@ Updated	2023-05-07
 IgdbId	25084
 Game	SJ-19 Learns To Love!
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1441670/SJ19_Learns_To_Love/
 Hints	needs godot built with GodotSteam module
-Genre	platformer
-Tags	indie, 2d
+Genre	Platformer
+Tags	indie, 2D
 Year	2021
 Dev	Zertuk
 Pub	Zertuk
@@ -5287,13 +5287,13 @@ Updated	2023-05-07
 IgdbId	144112
 Game	SNKRX
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-11
 Store	https://store.steampowered.com/app/915310/SNKRX/
 Hints	needs luasteam and LUA_CPATH=/usr/local/lib/luasteam.so
-Genre	action roguelike
-Tags	indie, 2d
+Genre	Action
+Tags	indie, 2D, roguelite
 Year	2021
 Dev	a327ex
 Pub	a327ex
@@ -5304,7 +5304,7 @@ Updated	2023-07-22
 IgdbId	148027
 Game	Sokobos
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1655890/Sokobos/
@@ -5321,7 +5321,7 @@ Updated	2023-05-07
 IgdbId	189863
 Game	SokoChess
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1960400/SokoChess/
@@ -5338,7 +5338,7 @@ Updated	2023-05-07
 IgdbId	201496
 Game	SokoChess White
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/2185860/SokoChess_White/
@@ -5355,7 +5355,7 @@ Updated	2023-05-07
 IgdbId	232960
 Game	SokoSolitaire
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2318680/SokoSolitaire/
@@ -5423,12 +5423,12 @@ Updated	1970-01-01
 IgdbId	202
 Game	satryn deluxe
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1677360/satryn_deluxe/
 Hints	extract linux binary with pck-extract
-Genre	twinstick shooter
+Genre	Twin-Stick Shooter
 Tags	indie
 Year	2021
 Dev	maybell
@@ -5462,7 +5462,7 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://giann.itch.io/settlers-of-the-deep
 Hints	cd usr/bin; love-11 settlers.love
-Genre	strategy
+Genre	Strategy
 Tags	settlers, ascii, roguelite
 Year	2018
 Dev	giann
@@ -5542,7 +5542,7 @@ Updated	2023-05-07
 IgdbId	30156
 Game	Shigatari
 Cover
-Engine	renpy
+Engine	Ren'Py
 Setup
 Runtime	renpy
 Store	https://store.steampowered.com/app/486380/Shigatari/
@@ -5564,7 +5564,7 @@ Setup	fnaify
 Runtime
 Store	https://brushfiregames.itch.io/shipwreck https://store.steampowered.com/app/342490/Shipwreck/
 Hints
-Genre	ARPG
+Genre	Action RPG
 Tags	indie
 Year	2014
 Dev	Brushfire Games
@@ -5576,7 +5576,7 @@ Updated	1970-01-01
 IgdbId	176573
 Game	The Shivah
 Cover	Shivah-cover.jpg
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/the_shivah https://store.steampowered.com/app/252370
@@ -5593,7 +5593,7 @@ Updated	2023-05-07
 IgdbId	7418
 Game	Shrine
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1271050/Shrine/
@@ -5610,7 +5610,7 @@ Updated	2023-05-07
 IgdbId	132241
 Game	Shrine II
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1417010/Shrine_II/
@@ -5634,7 +5634,7 @@ Store	https://store.steampowered.com/app/263200/Signs_of_Life/
 Hints
 Genre
 Tags
-Year	In Development
+Year
 Dev	Sweet Dog Studios
 Pub
 Version
@@ -5644,12 +5644,12 @@ Updated	2023-05-07
 IgdbId	16839
 Game	Simona's Requiem
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1482430/Simonas_Requiem/
 Hints
-Genre	platformer, action
+Genre	Platformer
 Tags	Castlevania-like
 Year	2021
 Dev	Team Simona
@@ -5661,13 +5661,13 @@ Updated	2023-05-07
 IgdbId	146360
 Game	Sir Questionnaire
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/questionnaire https://store.steampowered.com/app/2124790/Sir_Questionnaire/
 Hints
-Genre	roguelike
-Tags	pixel, relaxing, indie
+Genre	Roguelite
+Tags	pixel art, relaxing, indie
 Year	2018
 Dev	Orangepixel
 Pub	Orangepixel
@@ -5683,7 +5683,7 @@ Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/skulls_of_the_shogun https://store.steampowered.com/app/228960/Skulls_of_the_Shogun/
 Hints
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags	humor
 Year	2013
 Dev	17-BIT
@@ -5695,13 +5695,13 @@ Updated	2023-05-07
 IgdbId	9023
 Game	Slay the Spire
 Cover	Slay_the_Spire_cover.jpg
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://www.gog.com/game/slay_the_spire https://www.humblebundle.com/store/slay-the-spire https://store.steampowered.com/app/646570/Slay_the_Spire/
 Hints	If running fails with OpenGLException Invalid enum (1280), can workaround by setting MESA_NO_ERROR=1
-Genre	Roguelite Deckbuilder
-Tags
+Genre	Deckbuilder
+Tags	roguelite, genre-defining
 Year	2019
 Dev	Mega Crit Games
 Pub	Mega Crit Games
@@ -5712,13 +5712,13 @@ Updated	2023-05-07
 IgdbId	40477
 Game	Snake Core
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/snakecore https://store.steampowered.com/app/1262770/Snake_Core/
 Hints
 Genre	Action
-Tags	retro, pixelart, indie
+Tags	retro, pixel art, indie
 Year	2020
 Dev	Orangepixel
 Pub	Orangepixel
@@ -5729,12 +5729,12 @@ Updated	2023-05-07
 IgdbId	132783
 Game	Solar Rogue
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1301410/Solar_Rogue/
 Hints
-Genre	roguelike
+Genre	Roguelite
 Tags	space
 Year	2021
 Dev	Guillaume Bouvier
@@ -5753,7 +5753,7 @@ Store	https://store.steampowered.com/app/602080/Solaroids_Prologue/
 Hints	only demo/trial version because game uses DRM not addressed by Steamworks.NET.dll stub
 Genre	Action
 Tags
-Year	In Development
+Year
 Dev	DynF/X Digital
 Pub
 Version
@@ -5785,7 +5785,7 @@ Setup	IndieRunner
 Runtime	love-0.10
 Store	https://midipixel.itch.io/soulstice
 Hints
-Genre	puzzle platformer
+Genre	Puzzle Platformer
 Tags	indie, retro, co-op
 Year	2016
 Dev	Midipixel
@@ -5802,7 +5802,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://zachtronics.itch.io/spacechem https://store.steampowered.com/app/92800 https://www.gog.com/game/spacechem
 Hints
-Genre	puzzle
+Genre	Puzzle
 Tags	indie zach-like
 Year	2011
 Dev	Zachtronics
@@ -5814,13 +5814,13 @@ Updated	2023-05-07
 IgdbId	8390
 Game	Space Grunts
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/spacegrunts https://store.steampowered.com/app/371430/Space_Grunts/
 Hints
-Genre	Turn-based Tactics
-Tags	indie, pixel
+Genre	Turn-Based Tactics
+Tags	indie, pixel art
 Year	2016
 Dev	Orangepixel
 Pub	Orangepixel
@@ -5831,13 +5831,13 @@ Updated	2023-05-07
 IgdbId	35224
 Game	Space Grunts 2
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/spacegrunts2 https://store.steampowered.com/app/1125370/Space_Grunts_2/
 Hints
-Genre	Turn-based Tactics
-Tags	indie, pixel
+Genre	Turn-Based Tactics
+Tags	indie, pixel art
 Year	2020
 Dev	Orangepixel
 Pub	Orangepixel
@@ -5848,13 +5848,13 @@ Updated	2023-05-07
 IgdbId	121004
 Game	Space Haven
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://www.gog.com/game/space_haven https://store.steampowered.com/app/979110/Space_Haven/
 Hints	needs lwjgl3 jars in class path and JDK 17 (2022-12-31)
-Genre	colony sim, base-building
-Tags	indie, space, early access
+Genre	Colony Sim
+Tags	indie, space, early access, base-building
 Year
 Dev	Bugbyte Ltd.
 Pub	Bugbyte Ltd.
@@ -5865,12 +5865,12 @@ Updated	2023-05-07
 IgdbId	103246
 Game	Spaceport Hope
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://store.steampowered.com/app/394540/Spaceport_Hope/
 Hints
-Genre	platformer
+Genre	Platformer
 Tags	indie, space
 Year	2016
 Dev	team BitClub
@@ -5899,13 +5899,13 @@ Updated	2023-05-07
 IgdbId	9527
 Game	Spellbook Demonslayers
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/2007530/Spellbook_Demonslayers/
 Hints
-Genre	action roguelike
-Tags	indie, casual
+Genre	Action
+Tags	indie, casual, roguelite
 Year
 Dev	Xendra
 Pub	Xendra, Erabit
@@ -5921,7 +5921,7 @@ Setup	IndieRunner
 Runtime	love-0.10
 Store	https://dene.itch.io/spellrazor
 Hints	free! launch with love-0.10 Spellrazor.exe
-Genre	action, shooter
+Genre	Shooter
 Tags	indie, hacking, free
 Year	2015
 Dev	Fluttermind
@@ -5933,13 +5933,13 @@ Updated	2023-10-06
 IgdbId	177340
 Game	Sprout Valley
 Cover
-Engine	godot
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1964820/Sprout_Valley/
 Hints
-Genre	farming simulator
-Tags	indie, casual, furry, cat
+Genre	Farming Simulator
+Tags	indie, casual, furry, cats
 Year	2023
 Dev	Vadzim Liakhovich
 Pub	RedDeer.Games
@@ -5956,7 +5956,7 @@ Runtime	openjk
 Store	https://www.gog.com/game/star_wars_jedi_knight_jedi_academy https://www.humblebundle.com/store/star-wars-jedi-knight-jedi-academy https://store.steampowered.com/app/6020/STAR_WARS_Jedi_Knight__Jedi_Academy/
 Hints
 Genre	Action
-Tags	thirdperson
+Tags	third-person
 Year	2003
 Dev	Raven Software
 Pub	LucasArts
@@ -5967,12 +5967,12 @@ Updated	1970-01-01
 IgdbId	153
 Game	Stardash
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
 Store	https://orangepixel.itch.io/stardash
 Hints	sorely missing gamecontroller support as of 2022-12-31
-Genre	platformer
+Genre	Platformer
 Tags	monochrome
 Year	2018
 Dev	Orangepixel
@@ -6001,7 +6001,7 @@ Updated	2023-05-07
 IgdbId	17000
 Game	StarPrey
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1467390/StarPrey/
@@ -6040,8 +6040,8 @@ Setup
 Runtime	fnaify
 Store	https://store.steampowered.com/app/1280300/Steel_Assault/
 Hints	libtheorafile-20210403 needed
-Genre	action platformer
-Tags	retro, indie
+Genre	Action
+Tags	retro, indie, platformer
 Year	2021
 Dev	Zenovia Interactive
 Pub	Tribute Games Inc.
@@ -6057,8 +6057,8 @@ Setup	IndieRunner
 Runtime	love-11
 Store	https://the-balthazar.itch.io/sternly-worded-adventures https://store.steampowered.com/app/2562130/Sternly_Worded_Adventures/
 Hints
-Genre	word puzzle
-Tags	indie, high-brow, wordgame, early access
+Genre	Puzzle
+Tags	indie, high-brow, word game, early access
 Year
 Dev	Balthazar
 Pub	Balthazar
@@ -6069,12 +6069,12 @@ Updated	2024-01-03
 IgdbId	261434
 Game	Stone Kingdoms
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-11
 Store	https://stonekingdoms.itch.io/stone-kingdoms-rts
 Hints	free and open-source
-Genre	real-time strategy
+Genre	RTS
 Tags	free
 Year	2020
 Dev
@@ -6086,7 +6086,7 @@ Updated	2023-05-07
 IgdbId
 Game	Strangeland
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/strangeland https://store.steampowered.com/app/1369520/Strangeland/
@@ -6105,7 +6105,7 @@ Game	Strife: Veteran Edition
 Cover	Strife_Veteran_Edition_cover.jpg
 Engine	id Tech 1
 Setup	IndieRunner
-Runtime	gzdoom | crispy doom
+Runtime	gzdoom, crispy-doom
 Store	https://www.gog.com/game/strife_veteran_edition https://store.steampowered.com/app/317040
 Hints
 Genre	FPS
@@ -6120,12 +6120,12 @@ Updated	2023-05-07
 IgdbId	24603
 Game	Striving for Light
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://ignitingsparkgames.itch.io/strivingforlight https://store.steampowered.com/app/1646790/Striving_for_Light/
 Hints	needs godot with mono/C# support
-Genre	action RPG
+Genre	Action RPG
 Tags	indie, dungeoncrawler, hack and slash, early access
 Year
 Dev	Igniting Spark Games
@@ -6156,7 +6156,7 @@ Game	Sunrider: Mask of Arcadius
 Cover	Sunrider_Mask_of_Arcadius_cover.jpg
 Engine	Ren'Py 6
 Setup	renpyify
-Runtime	Ren'Py
+Runtime	renpy
 Store	https://www.gog.com/game/sunrider_mask_of_arcadius https://store.steampowered.com/app/313730
 Hints
 Genre	Visual Novel
@@ -6177,7 +6177,7 @@ Runtime
 Store	https://store.steampowered.com/app/250500/Super_Amazing_Wagon_Adventure/
 Hints
 Genre
-Tags	indie retro
+Tags	indie, retro
 Year	2013
 Dev	sparsevector
 Pub
@@ -6262,7 +6262,7 @@ Runtime
 Store	https://trufun.itch.io/super-rad-raygun https://store.steampowered.com/app/297660/Super_Rad_Raygun/
 Hints
 Genre	Action Platformer
-Tags	retro indie
+Tags	retro, indie
 Year	2016
 Dev	TRU FUN Entertainment
 Pub	Rooster Teeth Games
@@ -6273,7 +6273,7 @@ Updated	1970-01-01
 IgdbId	25695
 Game	Super Spy Raccoon
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2553530/Super_Spy_Raccoon/
@@ -6312,8 +6312,8 @@ Setup	fnaify
 Runtime
 Store	https://www.gog.com/game/sword_of_the_stars_the_pit_osmium_edition https://www.humblebundle.com/store/sword-of-the-stars-the-pit-osmium-edition https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
 Hints
-Genre	Roguelite
-Tags
+Genre	RPG
+Tags	indie, roguelite
 Year	2013
 Dev	Kerberos Productions
 Pub
@@ -6346,8 +6346,8 @@ Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1932210/Takara_Cards/
 Hints
-Genre	rogue-like, deckbuilder
-Tags	indie, space
+Genre	Card Game
+Tags	indie, space, roguelite, deckbuilder
 Year
 Dev	Post Mortem Pixels
 Pub	Post Mortem Pixels
@@ -6364,7 +6364,7 @@ Runtime	tome4
 Store	https://www.gog.com/game/tales_of_majeyal https://darkgod.itch.io/tales-of-majeyal https://www.humblebundle.com/store/tales-of-majeyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 Hints
 Genre	RPG
-Tags	roguelike open-source
+Tags	roguelike, open-source
 Year	2012
 Dev	DarkGod
 Pub	Netcore
@@ -6392,12 +6392,12 @@ Updated	1970-01-01
 IgdbId	104602
 Game	TD Worlds
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1659180/TD_Worlds/
 Hints
-Genre	RTS, tower defense
+Genre	Tower Defense
 Tags	indie
 Year	2022
 Dev	MAKSIM VOLKAU
@@ -6409,7 +6409,7 @@ Updated	2023-05-07
 IgdbId	168619
 Game	Technobabylon
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/technobabylon https://store.steampowered.com/app/307580
@@ -6426,12 +6426,12 @@ Updated	2023-05-07
 IgdbId	13232
 Game	Terraforming Earth
 Cover
-Engine	love
+Engine	Love2D
 Setup
 Runtime	love-11
 Store	https://store.steampowered.com/app/1029220/Terraforming_Earth/
 Hints
-Genre	puzzler
+Genre	Puzzle
 Tags	indie, robots
 Year	2020
 Dev	Lost Robots
@@ -6494,13 +6494,13 @@ Updated	1970-01-01
 IgdbId	1624
 Game	They Don't Sleep
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2009380/They_Dont_Sleep/
 Hints
-Genre	survival, action
-Tags	zombies
+Genre	Action
+Tags	zombies, survival
 Year	2022
 Dev	Missing Middle Games
 Pub	Missing Middle Games
@@ -6511,7 +6511,7 @@ Updated	2023-10-12
 IgdbId	212094
 Game	Thukothea Defender
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1658490/Thukothea_Defender/
@@ -6534,7 +6534,7 @@ Runtime
 Store	https://www.gog.com/game/timespinner https://www.humblebundle.com/store/timespinner https://store.steampowered.com/app/368620/Timespinner/
 Hints
 Genre	Metroidvania
-Tags	indie pixelart
+Tags	indie, pixel art
 Year	2018
 Dev	Lunar Ray Games
 Pub	Chucklefish Games
@@ -6545,7 +6545,7 @@ Updated	1970-01-01
 IgdbId	28952
 Game	Time's Up in Tiny Town
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1714430/Times_Up_in_Tiny_Town/
@@ -6630,7 +6630,7 @@ Updated	2023-07-15
 IgdbId	103036
 Game	Trolley Delayma
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://albertnez.itch.io/trolley-delayma https://store.steampowered.com/app/2372500/Trolley_Delayma/
@@ -6652,7 +6652,7 @@ Setup
 Runtime	opentyrian
 Store	https://www.gog.com/game/tyrian_2000
 Hints
-Genre	Shmup
+Genre	Shoot'em Up
 Tags	classic, free
 Year	1995
 Dev	Eclipse Productions
@@ -6664,12 +6664,12 @@ Updated	1970-01-01
 IgdbId	14432
 Game	Ukraine Defense Force Tactics
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2005660/Ukraine_Defense_Force_Tactics/
 Hints
-Genre	turn-based tactics
+Genre	Turn-Based Tactics
 Tags	military, political, charity
 Year	2022
 Dev	Spacewalkers
@@ -6700,7 +6700,7 @@ Game	Ultratron
 Cover	Ultratron_-_cover.jpg
 Engine	lwjgl
 Setup	IndieRunner
-Runtime	lwjgl
+Runtime	java-1.8.0
 Store	https://store.steampowered.com/app/219190/
 Hints	copy /usr/local/share/lwjgl/liblwjgl64.so into game directory, fix the launch script to use system java
 Genre	Action
@@ -6715,7 +6715,7 @@ Updated	2023-05-07
 IgdbId	14327
 Game	Unavowed
 Cover
-Engine	AGS
+Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
 Store	https://www.gog.com/game/unavowed https://store.steampowered.com/app/336140
@@ -6732,7 +6732,7 @@ Updated	2023-05-08
 IgdbId	27867
 Game	Underlings
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1370040/Underlings/
@@ -6783,12 +6783,12 @@ Updated	2023-05-07
 IgdbId	16648
 Game	Urtuk: The Desolation
 Cover
-Engine	libgdx
+Engine	LibGDX
 Setup
 Runtime	IndieRunner
 Store	https://www.gog.com/game/urtuk_the_desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
 Hints	needs steamworks4j port, at least for the Steam version
-Genre	turn-based strategy
+Genre	Turn-Based Tactics
 Tags	indie, fantasy, dark, gore
 Year	2021
 Dev	David Kaleta
@@ -6817,13 +6817,13 @@ Updated	1970-01-01
 IgdbId	62830
 Game	Verses of Enchantment
 Cover
-Engine	Godot 3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2086910/Verses_of_Enchantment/
 Hints
-Genre	deckbuilder, roguelike
-Tags	classical, artsy
+Genre	Card Game
+Tags	artsy, high-brow, roguelite
 Year	2023
 Dev	Nachtvlam
 Pub	Nachtvlam
@@ -6834,7 +6834,7 @@ Updated	2023-08-01
 IgdbId	211982
 Game	Virtual Cottage
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1369320/Virtual_Cottage/
@@ -6868,7 +6868,7 @@ Updated	2023-05-07
 IgdbId	3040
 Game	Voidrun
 Cover
-Engine	hashlink
+Engine	HashLink
 Setup
 Runtime	hashlink
 Store	https://benjamin-soul.itch.io/voidrun https://store.steampowered.com/app/1048560/Voidrun/
@@ -6885,7 +6885,7 @@ Updated	2023-05-07
 IgdbId	116267
 Game	Vomitoreum
 Cover
-Engine	gzdoom
+Engine	GZDoom
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1549750/Vomitoreum/ https://scumhead.itch.io/vomitoreumgame
@@ -6902,12 +6902,12 @@ Updated	2023-05-07
 IgdbId	142271
 Game	Vylan
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1549750/Vomitoreum/ https://scumhead.itch.io/vomitoreumgame
 Hints
-Genre	puzzle platformer
+Genre	Puzzle Platformer
 Tags	indie
 Year	2021
 Dev	MostlyMadProductions
@@ -6919,12 +6919,12 @@ Updated	2023-05-07
 IgdbId	157088
 Game	V-Hunter Puzzler Dx
 Cover
-Engine	godot
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2225430/VHunter_Puzzler_Dx/
 Hints
-Genre	puzzler
+Genre	Puzzle
 Tags	indie
 Year	2023
 Dev	Yatch Studios
@@ -6959,7 +6959,7 @@ Runtime	scummvm
 Store	https://www.gog.com/en/game/whispers_of_a_machine https://store.steampowered.com/app/631570/Whispers_of_a_Machine/
 Hints
 Genre	Adventure
-Tags	indie, sci-fi, detective
+Tags	indie, scifi, detective
 Year	2019
 Dev	Clifftop Games, Faravid Interactive
 Pub	Raw Fury
@@ -6975,7 +6975,7 @@ Setup	fnaify
 Runtime	fnaify
 Store	https://store.steampowered.com/app/367140/Wish_Project
 Hints
-Genre	Shmup
+Genre	Shoot'em Up
 Tags
 Year	2016
 Dev	Andrew Willman
@@ -7004,12 +7004,12 @@ Updated	2023-05-07
 IgdbId	1364
 Game	Woodland Empire
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1419150/Woodland_Empire/
 Hints
-Genre	god game
+Genre	God Game
 Tags	nature, early access
 Year
 Dev	Nicholas Orlowski
@@ -7021,7 +7021,7 @@ Updated	2023-05-07
 IgdbId	158242
 Game	Word Game: Episode 0
 Cover
-Engine	godot
+Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1507970/Word_Game_Episode_0/
@@ -7055,13 +7055,13 @@ Updated	2024-03-01
 IgdbId	115873
 Game	Wrought Flesh
 Cover
-Engine	Godot3
+Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/1762010/Wrought_Flesh/
 Hints
 Genre	FPS
-Tags	gore, lowfi, polygons
+Tags	gore, retro, polygons
 Year	2021
 Dev	Deep Root Interactive
 Pub	Deep Root Interactive
@@ -7094,7 +7094,7 @@ Setup
 Runtime	openxcom
 Store	https://www.gog.com/game/xcom_ufo_defense https://www.humblebundle.com/store/xcom-ufo-defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 Hints
-Genre	TBS
+Genre	Turn-Based Tactics
 Tags	aliens
 Year	1994
 Dev	Mythos Games
@@ -7108,10 +7108,10 @@ Game	Yarntown
 Cover
 Engine	solarus
 Setup
-Runtime	solarus
+Runtime	solarus-run
 Store	https://maxatrillionator.itch.io/yarntown https://www.solarus-games.org/en/games/yarntown
 Hints	solarus-run *.solarus
-Genre	ARPG
+Genre	Action RPG
 Tags	bloodborne-like, free
 Year	2020
 Dev	Max Mraz
