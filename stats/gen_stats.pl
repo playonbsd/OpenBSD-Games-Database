@@ -75,9 +75,10 @@ while ( <$fh> ) {
 			$out{$1}{$2}++;
 		}
 		elsif ( $hints{$1} == DATE ) {
-			# XXX: what to do with dates?
-			#      Array of datetime objects?
-			# note Year only is 4 digits (e.g. '1970')
+			my ( $year, $month, $day) = split( '-', $2 );
+			$out{$1}{ Iso8601 }{ $2 . 'T00:00:00.000Z' }++;
+			$out{$1}{ Year }{ $year }++;
+			$out{$1}{ YearMonth }{ $year . '-' . $month }++;
 		}
 		elsif ( $hints{$1} == COMMAS ) {
 			# count entries of each element
