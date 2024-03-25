@@ -8,6 +8,11 @@ Note: This may be subject to change in the future, so be sure to check regularly
 
 At this point, the primary database is a text file `openbsd-games.db`. See below for its required format.
 
+## **Deprecation Warning**
+
+The following fields are deprecated and will soon be removed - adjust your scripts!
+* **Cover**
+
 ## Format of openbsd-games.db
 
 **Important Notes**:
