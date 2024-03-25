@@ -5985,7 +5985,7 @@ IgdbId	147628
 Game	Stardew Valley
 Cover	Stardew_Valley_cover.png
 Engine	MonoGame
-Setup	fnaify/IndieRunner
+Setup	IndieRunner (unless using rigg)
 Runtime	mono
 Store	https://www.gog.com/game/stardew_valley https://www.humblebundle.com/store/stardew-valley https://store.steampowered.com/app/413150/Stardew_Valley/
 Hints	starting with version 1.5.5, use MAC 32bit build which uses mono

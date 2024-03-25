@@ -28,9 +28,11 @@ sub usage() {
 
 usage unless scalar( @ARGV ) == 1;
 
-my $in = $ARGV[0];	# filename
+my $in =	$ARGV[0];	# filename
 
-my %out;		# structure to convert to JSON
+my $midnight = 'T00:00:00.000Z';	# for ISO8601 dates
+
+my %out;		# structure to convert to JSON output
 
 use constant {
 	SKIP	=> 0,
@@ -62,6 +64,16 @@ my %hints = (
 	IgdbId	=> SKIP,
 );
 
+my @status = (
+	'unlaunchable',		# 0
+	'launchable',		# 1
+	'major bugs',		# 2
+	'intermediate bugs',	# 3
+	'minor bugs',		# 4
+	'completable',		# 5
+	'perfect',		# 6
+);
+
 open ( my $fh, '<', $in );
 while ( <$fh> ) {
 	if ( /^([^\t]*)\t(.*)/ ) {
@@ -76,7 +88,6 @@ while ( <$fh> ) {
 		}
 		elsif ( $hints{$1} == DATE ) {
 			my ( $year, $month, $day) = split( '-', $2 );
-			my $midnight = 'T00:00:00.000Z';
 			# all entries as ISO8601 strings
 			$out{$1}{ Year }{ $year . '-01-01' . $month .
 				$midnight }++;
@@ -101,8 +112,14 @@ while ( <$fh> ) {
 				}
 			}
 			elsif ( $1 eq 'Status' ) {
-				# XXX: count each status number; separately
-				# also status dates
+				my $val = $2;
+				if ( $val =~ /^([0-9])/ ) {
+					$out{ Status }{ RatingNum }{ $1 }++;
+					$out{ Status }{ Rating }{ $status[$1] }++;
+				}
+				if ( $val =~ /([0-9]{4}(\-[0-9]{2}){2})/ ) {
+					$out{ Status }{ Date }{ $1 . $midnight }++;
+				}
 			}
 			else {
 				die "unrecognized special entry: $_";
