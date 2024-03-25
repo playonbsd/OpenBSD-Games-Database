@@ -76,9 +76,13 @@ while ( <$fh> ) {
 		}
 		elsif ( $hints{$1} == DATE ) {
 			my ( $year, $month, $day) = split( '-', $2 );
-			$out{$1}{ Iso8601 }{ $2 . 'T00:00:00.000Z' }++;
-			$out{$1}{ Year }{ $year }++;
-			$out{$1}{ YearMonth }{ $year . '-' . $month }++;
+			my $midnight = 'T00:00:00.000Z';
+			# all entries as ISO8601 strings
+			$out{$1}{ Year }{ $year . '-01-01' . $month .
+				$midnight }++;
+			$out{$1}{ YearMonth }{ $year . '-' . $month . '-01' .
+				$midnight }++;
+			$out{$1}{ Date }{ $2 . $midnight }++;
 		}
 		elsif ( $hints{$1} == COMMAS ) {
 			# count entries of each element
