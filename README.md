@@ -8,11 +8,16 @@ Note: This may be subject to change in the future, so be sure to check regularly
 
 At this point, the primary database is a text file `openbsd-games.db`. See below for its required format.
 
-## Deprecation Warning!!
+## Upcoming Changes
 
-The following fields are deprecated and **will soon be removed - adjust your scripts!**
+The following fields are **deprecated** and **will soon be removed - adjust your scripts!**
 
 * **Cover**
+
+The following parts will soon be changed:
+
+* `Setup` will be renamed (likely to `Helper` or `Assistant`). It will be changed to a list and any custom setup instructions will be moved to `Hints`.
+* `Dev` will be expanded to `Developer` and `Pub` to `Publisher`
 
 ## Format of openbsd-games.db
 
