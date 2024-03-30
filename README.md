@@ -18,7 +18,7 @@ The following parts will soon be changed:
 
 * `Setup` will be renamed (likely to `Helper` or `Assistant`). It will be changed to a list and any custom setup instructions will be moved to `Hints`.
 * `Dev` will be expanded to `Developer` and `Pub` to `Publisher`
-* A new field `Display` for the display name will be added, to allow sorting by `Name` which can drop the leading article, and `Display` will then have the name to show.
+* A new field `Id` for the sorting logic will be added, to drop the leading article.
 
 ## Format of openbsd-games.db
 
