@@ -4826,6 +4826,23 @@ Status	1 (2023-11-09)
 Added	2023-11-09
 Updated	2023-11-09
 IgdbId	207273
+Game	The Puzzler's Revenge
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://herogameco.itch.io/the-puzzlers-revenge
+Hints
+Genre	Puzzle
+Tags	indie, free, prototype
+Year	2024
+Dev	Hero Game Co LLC
+Pub	Hero Game Co LLC
+Version
+Status	1 (2024-03-30)
+Added	2024-03-30
+Updated	2024-03-30
+IgdbId
 Game	Quake
 Cover	Quake_Cover.jpg
 Engine	Quake Engine
