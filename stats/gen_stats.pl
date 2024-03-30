@@ -133,4 +133,6 @@ while ( <$fh> ) {
 }
 close $fh;
 
-say encode_json \%out;
+# set canonical so that JSON objects are ordered by keys
+my $json = JSON->new->canonical;
+say $json->encode( \%out );

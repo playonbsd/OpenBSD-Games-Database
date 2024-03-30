@@ -156,4 +156,17 @@ while ( <$fh> ) {
 }
 close $fh;
 
-say encode_json $out;
+# sort main array levels
+@$out = sort { $a->{ Game } cmp $b->{ Game } } @$out;
+foreach my $e ( @$out ) {
+	foreach my $k ( keys %$e ) {
+		if ( $hints{ $k } eq COMMAS ) {
+			# sort COMMAS entries as arrays
+			@{ $e->{ $k } } = sort @{ $e->{ $k } };
+		}
+	}
+}
+
+# set canonical so that JSON objects are ordered by keys
+my $json = JSON->new->canonical;
+say $json->encode( $out );
