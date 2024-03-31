@@ -20,6 +20,7 @@ Other make(1) targets:
 
 * print-json
 * print-stats
+* print-csv
 
 ## Dependencies
 

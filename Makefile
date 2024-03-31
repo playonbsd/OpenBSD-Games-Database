@@ -6,7 +6,7 @@ csv:
 	tools/gen_csv.pl openbsd-games.db > openbsd-games.csv
 
 print-csv:
-	tools/gen_csv.pl openbsd-games.db | less
+	tools/gen_csv.pl openbsd-games.db
 
 json:
 	tools/gen_json.pl openbsd-games.db > openbsd-games.json
