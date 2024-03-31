@@ -82,7 +82,7 @@ Currently **17** lines per entry, **in the following order**:
 
 Planned:
 - [x] json
-- [ ] csv
+- [x] csv
 - [ ] html table
 - [ ] text table
 - [ ] gemini/gemtext export

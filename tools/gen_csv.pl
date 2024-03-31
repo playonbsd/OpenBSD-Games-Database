@@ -36,6 +36,9 @@ my $in = $ARGV[0];	# filename
 
 my $dsc = db2dsc( $in );
 my @table = dsc2table( $dsc );
-#foreach ( @table ) {
-	#say join( ' | ', @$_ );
-#}
+foreach my $row ( @table ) {
+	# RFC-4180: escape any double quotes with another double quote
+	@$row = map { s/"/""/g; $_ } @$row;
+	@$row = map { '"' . $_ . '"' } @$row;
+	say join( ',', @$row );
+}

@@ -100,8 +100,8 @@ sub db2dsc( $in ) {
 						$counter = 0;
 					}
 					push( @{ $out }, {} );
-					$out->[ $counter ]{ $1 } = $2;
 				}
+				$out->[ $counter ]{ $1 } = $2;
 			}
 			elsif ( $hints{$1} == COMMAS ) {
 				foreach ( split( /\,\s*/, $2 ) ) {

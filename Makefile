@@ -1,6 +1,13 @@
-all: json stats
+all: csv json stats
 
-.PHONY: json stats print-json print-stats
+.PHONY: csv print-csv json stats print-json print-stats
+
+csv:
+	tools/gen_csv.pl openbsd-games.db > openbsd-games.csv
+
+print-csv:
+	tools/gen_csv.pl openbsd-games.db | less
+
 json:
 	tools/gen_json.pl openbsd-games.db > openbsd-games.json
 	tools/gen_json.pl openbsd-games.db | jq '.' \
