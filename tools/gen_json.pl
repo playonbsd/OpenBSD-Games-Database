@@ -109,7 +109,7 @@ while ( <$fh> ) {
 			}
 			# if nothing added, still create an empty list
 			unless ( $out->[$counter]{$1} ) {
-				@{ $out->[$counter]{$1} } = ();
+				$out->[$counter]{$1} = [];
 			}
 		}
 		elsif ( $hints{$1} == SPECIAL ) {
@@ -119,7 +119,7 @@ while ( <$fh> ) {
 				}
 				# if nothing added, still create an empty list
 				unless ( $out->[$counter]{$1} ) {
-					@{ $out->[$counter]{$1} } = ();
+					$out->[$counter]{$1} = [];
 				}
 			}
 			elsif ( $1 eq 'Status' ) {
