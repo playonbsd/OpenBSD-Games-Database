@@ -19,12 +19,11 @@ use warnings;
 use v5.36;
 use autodie;
 use English;
-use JSON;
 
 use FindBin;
 use lib $FindBin::Bin;
 
-use Transform qw( db2dsc );
+use Transform qw( db2dsc dsc2table );
 
 sub usage() {
 	say "Usage:	$PROGRAM_NAME filename";
@@ -33,8 +32,10 @@ sub usage() {
 
 usage unless scalar( @ARGV ) == 1;
 
-my $in = $ARGV[0];
+my $in = $ARGV[0];	# filename
 
-# set canonical so that JSON objects are ordered by keys
-my $json = JSON->new->canonical;
-say $json->encode( db2dsc( $in ) );
+my $dsc = db2dsc( $in );
+my @table = dsc2table( $dsc );
+#foreach ( @table ) {
+	#say join( ' | ', @$_ );
+#}
