@@ -16,6 +16,7 @@
       "https://www.gog.com/game/a_golden_wake",
       "https://store.steampowered.com/app/307570"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -37,12 +38,14 @@
       "https://www.humblebundle.com/store/a-virus-named-tom-with-soundtrack",
       "https://store.steampowered.com/app/207650"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
+    "Genre": [],
     "IgdbId": "3240",
     "Status": {
       "StatusComment": "",
@@ -53,6 +56,7 @@
     "Store": [
       "https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2011T00:00:00.000Z"
   },
@@ -172,6 +176,7 @@
     "Store": [
       "https://store.steampowered.com/app/291130/Akane_the_Kunoichi"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -191,6 +196,7 @@
     "Store": [
       "https://store.steampowered.com/app/1808820/Alien_Shepherd/"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2022T00:00:00.000Z"
   },
@@ -211,6 +217,7 @@
       "https://www.gog.com/game/always_sometimes_monsters",
       "https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -230,6 +237,7 @@
     "Store": [
       "https://store.steampowered.com/app/315850/Amazing_Princess_Sarah/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -371,6 +379,7 @@
     "Store": [
       "https://store.steampowered.com/app/351690/Apple_Jack_12/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -487,6 +496,7 @@
       "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=axiom+verge+collector&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=axiom+verge+gametrust",
       "https://store.steampowered.com/app/332200"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -507,6 +517,7 @@
       "https://stellarcircle.itch.io/blue-revolver",
       "https://store.steampowered.com/app/439490/BLUE_REVOLVER/"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -574,6 +585,7 @@
     "Store": [
       "https://www.gog.com/game/baldurs_gate_enhanced_edition"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1998T00:00:00.000Z"
   },
@@ -593,6 +605,7 @@
     "Store": [
       "https://www.gog.com/game/baldurs_gate_2_enhanced_edition"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2000T00:00:00.000Z"
   },
@@ -639,6 +652,7 @@
     "Store": [
       "https://store.steampowered.com/app/1260130/Banana_Hell/"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2020T00:00:00.000Z"
   },
@@ -707,6 +721,7 @@
       "https://www.gog.com/game/beneath_a_steel_sky",
       "https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -737,6 +752,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Bird Assassin",
+    "Genre": [],
     "IgdbId": "17596",
     "Status": {
       "StatusComment": "",
@@ -747,6 +763,7 @@
     "Store": [
       "https://store.steampowered.com/app/312010/Bird_Assassin/"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2011T00:00:00.000Z"
   },
@@ -813,6 +830,7 @@
       "https://bootdiskrevolution.itch.io/bleed",
       "https://store.steampowered.com/app/239800"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -834,6 +852,7 @@
       "https://bootdiskrevolution.itch.io/bleed-2",
       "https://store.steampowered.com/app/396350"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -850,6 +869,8 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
+    "Tags": [],
     "Updated": "2023-12-13T00:00:00.000Z",
     "Year": "1997T00:00:00.000Z"
   },
@@ -936,6 +957,7 @@
       "https://www.gog.com/game/broken_sword_2__the_smoking_mirror",
       "https://store.steampowered.com/app/580440/Broken_Sword_2_Original_Version"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1997T00:00:00.000Z"
   },
@@ -955,12 +977,14 @@
     "Store": [
       "https://www.gog.com/game/broken_sword_directors_cut"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1996T00:00:00.000Z"
   },
   {
     "Added": "2022-06-07T00:00:00.000Z",
     "Game": "Brotato",
+    "Genre": [],
     "IgdbId": "199116",
     "Status": {
       "StatusComment": "",
@@ -1025,6 +1049,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Burning Knight",
+    "Genre": [],
     "IgdbId": "117702",
     "Status": {
       "StatusComment": "",
@@ -1072,6 +1097,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Caesar 3",
+    "Genre": [],
     "IgdbId": "6332",
     "Status": {
       "StatusComment": "",
@@ -1083,12 +1109,14 @@
       "https://www.gog.com/game/caesar_3",
       "https://store.steampowered.com/app/517790"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1998T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Cannon Fodder",
+    "Genre": [],
     "IgdbId": "5519",
     "Status": {
       "StatusComment": "",
@@ -1099,12 +1127,14 @@
     "Store": [
       "https://www.gog.com/game/cannon_fodder"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1993T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Cannon Fodder 2",
+    "Genre": [],
     "IgdbId": "11986",
     "Status": {
       "StatusComment": "",
@@ -1115,6 +1145,7 @@
     "Store": [
       "https://www.gog.com/game/cannon_fodder_2"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -1329,6 +1360,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Chaos Heart",
+    "Genre": [],
     "IgdbId": "",
     "Status": {
       "StatusComment": "",
@@ -1362,6 +1394,7 @@
       "https://www.humblebundle.com/store/charlie-murder",
       "https://store.steampowered.com/app/405290/Charlie_Murder/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -1448,6 +1481,7 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
     "Tags": [
       "multiplayer"
     ],
@@ -1467,6 +1501,7 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
     "Tags": [
       "multiplayer"
     ],
@@ -1679,6 +1714,7 @@
       "https://www.humblebundle.com/store/curse-of-the-crescent-isle-dx",
       "https://store.steampowered.com/app/365120/Curse_of_the_Crescent_Isle_DX/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -1766,6 +1802,7 @@
       "https://www.humblebundle.com/store/dad-quest",
       "https://store.steampowered.com/app/524250/Dad_Quest"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -1866,6 +1903,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Dead Pixels II",
+    "Genre": [],
     "IgdbId": "18362",
     "Status": {
       "StatusComment": "",
@@ -1876,6 +1914,7 @@
     "Store": [
       "https://store.steampowered.com/app/259000/Dead_Pixels_II/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -1969,6 +2008,7 @@
     "Store": [
       "https://www.humblebundle.com/store/democracy-3"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -2127,6 +2167,7 @@
     "Store": [
       "https://store.steampowered.com/app/449320/Dino_Eggs_Rebirth/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -2147,6 +2188,7 @@
       "https://teamsalvato.itch.io/ddlc",
       "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -2264,6 +2306,7 @@
       "https://www.humblebundle.com/store/downfall",
       "https://store.steampowered.com/app/364390/Downfall/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -2284,6 +2327,7 @@
       "https://www.humblebundle.com/store/draw-a-stickman-epic",
       "https://store.steampowered.com/app/248650/Draw_a_Stickman_EPIC/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -2352,6 +2396,8 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
+    "Tags": [],
     "Updated": "2023-12-13T00:00:00.000Z",
     "Year": "1996T00:00:00.000Z"
   },
@@ -2368,6 +2414,7 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
     "Tags": [
       "multiplayer"
     ],
@@ -2496,6 +2543,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Eliza",
+    "Genre": [],
     "IgdbId": "92919",
     "Status": {
       "StatusComment": "",
@@ -2509,6 +2557,7 @@
       "https://zachtronics.itch.io/eliza",
       "https://store.steampowered.com/app/716500/Eliza/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -2651,6 +2700,7 @@
       "https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/",
       "https://www.gog.com/game/evoland_legendary_edition"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -2694,6 +2744,7 @@
       "https://mommysbestgames.itch.io/explosionade",
       "https://store.steampowered.com/app/373620/Explosionade/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -2793,6 +2844,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Fatal Twelve",
+    "Genre": [],
     "IgdbId": "28801",
     "Status": {
       "StatusComment": "",
@@ -2804,6 +2856,7 @@
       "https://store.steampowered.com/app/620210/Fatal_Twelve/",
       "https://www.gog.com/game/fatal_twelve"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2018T00:00:00.000Z"
   },
@@ -2824,6 +2877,7 @@
       "https://www.gog.com/game/fenimore_fillmore_3_skulls_of_the_toltecs",
       "https://store.steampowered.com/app/977300"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -3035,12 +3089,14 @@
       "https://www.gog.com/game/gabriel_knight_sins_of_the_fathers",
       "https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1993T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Game Type",
+    "Genre": [],
     "IgdbId": "35177",
     "Status": {
       "StatusComment": "",
@@ -3051,6 +3107,7 @@
     "Store": [
       "https://store.steampowered.com/app/373630/Game_Type/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -3116,6 +3173,7 @@
     "Store": [
       "https://store.steampowered.com/app/1170300/Glitchangels/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2020T00:00:00.000Z"
   },
@@ -3144,6 +3202,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Grand Class Melee 2",
+    "Genre": [],
     "IgdbId": "36014",
     "Status": {
       "StatusComment": "",
@@ -3154,6 +3213,7 @@
     "Store": [
       "https://store.steampowered.com/app/340440/Grand_Class_Melee_2/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2018T00:00:00.000Z"
   },
@@ -3206,6 +3266,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Grimm's Hollow",
+    "Genre": [],
     "IgdbId": "125110",
     "Status": {
       "StatusComment": "",
@@ -3217,6 +3278,7 @@
       "https://ghosthum.itch.io/grimms-hollow",
       "https://store.steampowered.com/app/1170880/Grimms_Hollow/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -3236,6 +3298,7 @@
     "Store": [
       "https://store.steampowered.com/app/1503430/Groov/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2009T00:00:00.000Z"
   },
@@ -3278,6 +3341,7 @@
     "Store": [
       "https://store.steampowered.com/app/291610/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -3492,6 +3556,7 @@
       "https://store.steampowered.com/app/9060/HeXen_II/",
       "https://www.gog.com/game/hexen_ii"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1997T00:00:00.000Z"
   },
@@ -3512,12 +3577,14 @@
       "https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/",
       "https://www.gog.com/game/hexen_beyond_heretic"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1995T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Hedon",
+    "Genre": [],
     "IgdbId": "183074",
     "Status": {
       "StatusComment": "",
@@ -3529,6 +3596,7 @@
       "https://www.gog.com/game/hedon",
       "https://store.steampowered.com/app/1072150/Hedon/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -3574,6 +3642,7 @@
       "https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/",
       "https://www.gog.com/game/heretic_shadow_of_the_serpent_riders"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -3641,6 +3710,7 @@
       "https://radiant.itch.io/heroines-quest",
       "https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -3687,6 +3757,7 @@
       "https://www.humblebundle.com/store/highway-blossoms",
       "https://store.steampowered.com/app/451760/Highway_Blossoms/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -3706,12 +3777,14 @@
     "Store": [
       "https://store.steampowered.com/app/251210/Hive/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Hiveswap Friendsim",
+    "Genre": [],
     "IgdbId": "97012",
     "Status": {
       "StatusComment": "",
@@ -3723,6 +3796,7 @@
       "https://store.steampowered.com/app/833040/Hiveswap_Friendsim/",
       "https://www.gog.com/game/hiveswap_friendsim"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2018T00:00:00.000Z"
   },
@@ -3787,6 +3861,7 @@
     "Store": [
       "https://store.steampowered.com/app/346510/Hyphen/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -3884,6 +3959,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Ib",
+    "Genre": [],
     "IgdbId": "195732",
     "Status": {
       "StatusComment": "",
@@ -3939,6 +4015,7 @@
     "Store": [
       "https://store.steampowered.com/app/1378870/In_the_House_of_Silence/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2021T00:00:00.000Z"
   },
@@ -3981,6 +4058,7 @@
     "Store": [
       "https://store.steampowered.com/app/1744450/Indirection/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2022T00:00:00.000Z"
   },
@@ -4073,6 +4151,7 @@
     "Store": [
       "https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -4092,6 +4171,7 @@
     "Store": [
       "https://www.gog.com/game/jazz_jackrabbit_collection"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -4158,6 +4238,7 @@
       "https://www.gog.com/game/kathy_rain",
       "https://store.steampowered.com/app/370910"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -4227,6 +4308,7 @@
     "Store": [
       "https://store.steampowered.com/app/1473820/Kitty_Tactics/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2021T00:00:00.000Z"
   },
@@ -4366,6 +4448,7 @@
       "https://monsterjail.itch.io/lasercat",
       "https://store.steampowered.com/app/496120/LaserCat/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -4455,6 +4538,7 @@
     "Store": [
       "https://store.steampowered.com/app/262690/Little_Racers_STREET/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -4483,6 +4567,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Long Live the Queen",
+    "Genre": [],
     "IgdbId": "9722",
     "Status": {
       "StatusComment": "",
@@ -4494,6 +4579,7 @@
       "https://www.gog.com/game/long_live_the_queen",
       "https://store.steampowered.com/app/251990"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -4514,6 +4600,7 @@
       "https://www.gog.com/game/loom",
       "https://store.steampowered.com/app/32340"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1990T00:00:00.000Z"
   },
@@ -4749,6 +4836,7 @@
       "https://www.humblebundle.com/store/mercenary-kings-reloaded-edition",
       "https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/"
     ],
+    "Tags": [],
     "Updated": "2023-10-14T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -4845,6 +4933,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Micro Mages",
+    "Genre": [],
     "IgdbId": "110882",
     "Status": {
       "StatusComment": "",
@@ -4856,6 +4945,7 @@
       "https://morphcatgames.itch.io/micromages",
       "https://store.steampowered.com/app/1065020"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -4975,6 +5065,7 @@
       "https://zachtronics.itch.io/molek-syntez",
       "https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -5280,6 +5371,7 @@
       "https://www.humblebundle.com/store/northgard",
       "https://store.steampowered.com/app/466560/Northgard/"
     ],
+    "Tags": [],
     "Updated": "2023-03-13T00:00:00.000Z",
     "Year": "2018T00:00:00.000Z"
   },
@@ -5405,6 +5497,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Open Sorcery",
+    "Genre": [],
     "IgdbId": "27444",
     "Status": {
       "StatusComment": "",
@@ -5416,6 +5509,7 @@
       "https://opensorcerygames.itch.io/open-sorcery",
       "https://store.steampowered.com/app/585180/Open_Sorcery/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -5471,6 +5565,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Osmos",
+    "Genre": [],
     "IgdbId": "14951",
     "Status": {
       "StatusComment": "",
@@ -5481,6 +5576,7 @@
     "Store": [
       "https://www.humblebundle.com/store/osmos"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2009T00:00:00.000Z"
   },
@@ -5500,6 +5596,7 @@
     "Store": [
       "https://store.steampowered.com/app/495680/Overdriven_Reloaded/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -5568,6 +5665,7 @@
       "https://www.humblebundle.com/store/paladin",
       "https://store.steampowered.com/app/548220/Paladin/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -5584,6 +5682,7 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
     "Tags": [
       "WW2",
       "wargame"
@@ -5607,6 +5706,7 @@
     "Store": [
       "https://store.steampowered.com/app/1412500/Paralyzed/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2020T00:00:00.000Z"
   },
@@ -5674,6 +5774,7 @@
     "Store": [
       "https://store.steampowered.com/app/237570/Penny_Arcades_On_the_RainSlick_Precipice_of_Darkness_4/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -5693,6 +5794,7 @@
     "Store": [
       "https://store.steampowered.com/app/332480/Phoenix_Force/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -5734,6 +5836,7 @@
     "Store": [
       "https://lauramichet.itch.io/planetfriend"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2020T00:00:00.000Z"
   },
@@ -5878,6 +5981,7 @@
       "https://www.gog.com/game/primordia",
       "https://store.steampowered.com/app/227000/Primordia/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -5970,6 +6074,7 @@
       "https://www.humblebundle.com/store/quake-offering-pack",
       "https://store.steampowered.com/app/2310/QUAKE/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "1996T00:00:00.000Z"
   },
@@ -6156,6 +6261,7 @@
       "https://www.gog.com/game/return_to_castle_wolfenstein",
       "https://store.steampowered.com/app/9010"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2001T00:00:00.000Z"
   },
@@ -6339,6 +6445,7 @@
     "Store": [
       "https://store.steampowered.com/app/1145340/Rogue_State_Revolution/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2021T00:00:00.000Z"
   },
@@ -6360,6 +6467,7 @@
       "https://www.humblebundle.com/store/rollercoaster-tycoon-deluxe",
       "https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1999T00:00:00.000Z"
   },
@@ -6381,6 +6489,7 @@
       "https://www.humblebundle.com/store/rollercoaster-tycoon-2-triple-thrill-pack",
       "https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2002T00:00:00.000Z"
   },
@@ -6410,6 +6519,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Ruggnar",
+    "Genre": [],
     "IgdbId": "164177",
     "Status": {
       "StatusComment": "- recent versions are built with dotnet and don't run anymore - it might never run on OpenBSD anymore",
@@ -6422,6 +6532,7 @@
       "https://store.steampowered.com/app/1303050",
       "https://www.gog.com/game/ruggnar"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -6474,6 +6585,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "SEGA Mega Drive and Genesis Classics",
+    "Genre": [],
     "IgdbId": "80185",
     "Status": {
       "StatusComment": "",
@@ -6555,6 +6667,7 @@
       "https://libredia.itch.io/sumico-the-numbers-game",
       "https://store.steampowered.com/app/383190/SUMICO__The_Numbers_Game/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -6607,6 +6720,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Session Seven",
+    "Genre": [],
     "IgdbId": "115395",
     "Status": {
       "StatusComment": "",
@@ -6617,6 +6731,7 @@
     "Store": [
       "https://store.steampowered.com/app/915720/Session_Seven/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -6662,6 +6777,7 @@
       "https://www.humblebundle.com/store/seven-kingdoms-ancient-adversaries",
       "https://store.steampowered.com/app/450140/Seven_Kingdoms_Ancient_Adversaries/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1998T00:00:00.000Z"
   },
@@ -6682,6 +6798,7 @@
       "https://www.gog.com/game/shadow_warrior_classic_redux",
       "https://store.steampowered.com/app/358400/Shadow_Warrior_Classic/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1997T00:00:00.000Z"
   },
@@ -6833,6 +6950,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Signs of Life",
+    "Genre": [],
     "IgdbId": "16839",
     "Status": {
       "StatusComment": "",
@@ -6843,6 +6961,7 @@
     "Store": [
       "https://store.steampowered.com/app/263200/Signs_of_Life/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -6982,6 +7101,7 @@
     "Store": [
       "https://store.steampowered.com/app/1960400/SokoChess/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2022T00:00:00.000Z"
   },
@@ -7001,6 +7121,7 @@
     "Store": [
       "https://store.steampowered.com/app/2185860/SokoChess_White/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2023T00:00:00.000Z"
   },
@@ -7020,6 +7141,7 @@
     "Store": [
       "https://store.steampowered.com/app/2318680/SokoSolitaire/"
     ],
+    "Tags": [],
     "Updated": "2023-08-10T00:00:00.000Z",
     "Year": "2023T00:00:00.000Z"
   },
@@ -7039,6 +7161,7 @@
     "Store": [
       "https://store.steampowered.com/app/1655890/Sokobos/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2021T00:00:00.000Z"
   },
@@ -7080,12 +7203,14 @@
     "Store": [
       "https://store.steampowered.com/app/602080/Solaroids_Prologue/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Soulcaster I & II",
+    "Genre": [],
     "IgdbId": "33074",
     "Status": {
       "StatusComment": "",
@@ -7266,6 +7391,7 @@
       "https://www.humblebundle.com/store/speedrunners",
       "https://store.steampowered.com/app/207140/SpeedRunners/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -7570,6 +7696,7 @@
       "https://www.gog.com/game/strife_veteran_edition",
       "https://store.steampowered.com/app/317040"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1996T00:00:00.000Z"
   },
@@ -7602,6 +7729,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Suits: A Business RPG",
+    "Genre": [],
     "IgdbId": "16135",
     "Status": {
       "StatusComment": "",
@@ -7613,6 +7741,7 @@
       "https://technomancystudios.itch.io/suits",
       "https://store.steampowered.com/app/410670/Suits_A_Business_RPG/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -7633,12 +7762,14 @@
       "https://www.gog.com/game/sunrider_mask_of_arcadius",
       "https://store.steampowered.com/app/313730"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Super Amazing Wagon Adventure",
+    "Genre": [],
     "IgdbId": "13100",
     "Status": {
       "StatusComment": "",
@@ -7696,6 +7827,7 @@
       "https://www.humblebundle.com/store/super-blood-hockey",
       "https://store.steampowered.com/app/532190/Super_Blood_Hockey/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2017T00:00:00.000Z"
   },
@@ -7715,6 +7847,7 @@
     "Store": [
       "https://www.humblebundle.com/store/super-hexagon"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -7734,6 +7867,7 @@
     "Store": [
       "http://www.bootdiskrevolution.com/gamefiles/old/windows-ninja-1.0.zip"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "T00:00:00.000Z"
   },
@@ -7853,6 +7987,7 @@
     "Store": [
       "https://www.gog.com/game/system_shock_enhanced_edition"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -8071,6 +8206,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "The Average Everyday Adventures of Samantha Browne",
+    "Genre": [],
     "IgdbId": "16984",
     "Status": {
       "StatusComment": "",
@@ -8081,6 +8217,7 @@
     "Store": [
       "https://store.steampowered.com/app/445130/The_Average_Everyday_Adventures_of_Samantha_Browne/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -8101,6 +8238,7 @@
       "https://www.gog.com/game/the_blackwell_epiphany",
       "https://store.steampowered.com/app/236930"
     ],
+    "Tags": [],
     "Updated": "2023-05-04T00:00:00.000Z",
     "Year": "2014T00:00:00.000Z"
   },
@@ -8146,6 +8284,7 @@
       "https://store.steampowered.com/app/253110",
       "https://www.gog.com/game/the_cat_lady"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2012T00:00:00.000Z"
   },
@@ -8259,6 +8398,7 @@
       "https://www.gog.com/game/the_expression_amrilato",
       "https://store.steampowered.com/app/1044490"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -8301,6 +8441,7 @@
     "Store": [
       "https://ironpowertga.itch.io/the-great-adventurer"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -8320,6 +8461,7 @@
     "Store": [
       "https://store.steampowered.com/app/1510800/The_Great_Plague_Exodus/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2021T00:00:00.000Z"
   },
@@ -8363,6 +8505,7 @@
       "https://www.gog.com/game/the_longest_journey",
       "https://store.steampowered.com/app/6310"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1999T00:00:00.000Z"
   },
@@ -8403,6 +8546,8 @@
       "StatusNumber": "",
       "StatusText": ""
     },
+    "Store": [],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1994T00:00:00.000Z"
   },
@@ -8422,6 +8567,7 @@
     "Store": [
       "https://www.gog.com/game/the_settlers_2_gold_edition"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1996T00:00:00.000Z"
   },
@@ -8442,6 +8588,7 @@
       "https://www.gog.com/game/the_shivah",
       "https://store.steampowered.com/app/252370"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -8461,6 +8608,7 @@
     "Store": [
       "http://www.bootdiskrevolution.com/the-useful-dead/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -8639,6 +8787,7 @@
     "Store": [
       "https://store.steampowered.com/app/203210/Titan_Attacks/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2006T00:00:00.000Z"
   },
@@ -8790,6 +8939,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Ultra Hat Dimension",
+    "Genre": [],
     "IgdbId": "59472",
     "Status": {
       "StatusComment": "",
@@ -8801,6 +8951,7 @@
       "https://eniko.itch.io/uhd",
       "https://store.steampowered.com/app/628830/Ultra_Hat_Dimension"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -8820,6 +8971,7 @@
     "Store": [
       "https://store.steampowered.com/app/219190/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2005T00:00:00.000Z"
   },
@@ -8840,6 +8992,7 @@
       "https://www.gog.com/game/unavowed",
       "https://store.steampowered.com/app/336140"
     ],
+    "Tags": [],
     "Updated": "2023-05-08T00:00:00.000Z",
     "Year": "2018T00:00:00.000Z"
   },
@@ -8890,6 +9043,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Unholy Heights",
+    "Genre": [],
     "IgdbId": "16648",
     "Status": {
       "StatusComment": "",
@@ -8903,6 +9057,7 @@
       "https://www.humblebundle.com/store/unholy-heights",
       "https://store.steampowered.com/app/249330/Unholy_Heights/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2013T00:00:00.000Z"
   },
@@ -9018,6 +9173,7 @@
       "https://benjamin-soul.itch.io/voidrun",
       "https://store.steampowered.com/app/1048560/Voidrun/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2019T00:00:00.000Z"
   },
@@ -9084,6 +9240,7 @@
     "Store": [
       "https://store.steampowered.com/app/373600/Weapon_of_Choice/"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2015T00:00:00.000Z"
   },
@@ -9128,6 +9285,7 @@
     "Store": [
       "https://store.steampowered.com/app/367140/Wish_Project"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2016T00:00:00.000Z"
   },
@@ -9180,6 +9338,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Word Game: Episode 0",
+    "Genre": [],
     "IgdbId": "174067",
     "Status": {
       "StatusComment": "",
@@ -9319,6 +9478,7 @@
   {
     "Added": "1970-01-01T00:00:00.000Z",
     "Game": "Yume Nikki",
+    "Genre": [],
     "IgdbId": "18689",
     "Status": {
       "StatusComment": "",
@@ -9330,6 +9490,7 @@
       "https://playism.com/product/yumenikki",
       "https://store.steampowered.com/app/650700/Yume_Nikki/"
     ],
+    "Tags": [],
     "Updated": "1970-01-01T00:00:00.000Z",
     "Year": "2004T00:00:00.000Z"
   },
@@ -9349,6 +9510,7 @@
     "Store": [
       "https://www.gog.com/game/zak_mckracken_and_the_alien_mindbenders"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "1988T00:00:00.000Z"
   },
@@ -9368,6 +9530,7 @@
     "Store": [
       "https://www.humblebundle.com/store/zen-bound-2"
     ],
+    "Tags": [],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Year": "2010T00:00:00.000Z"
   },
