@@ -107,11 +107,19 @@ while ( <$fh> ) {
 			foreach ( split( /\,\s*/, $2 ) ) {
 				push( @{ $out->[$counter]{$1} }, $_ );
 			}
+			# if nothing added, still create an empty list
+			unless ( $out->[$counter]{$1} ) {
+				@{ $out->[$counter]{$1} } = ();
+			}
 		}
 		elsif ( $hints{$1} == SPECIAL ) {
 			if ( $1 eq 'Store' ) {
 				foreach ( split /\s+/, $2 ) {
 					push( @{ $out->[$counter]{$1} }, $_ );
+				}
+				# if nothing added, still create an empty list
+				unless ( $out->[$counter]{$1} ) {
+					@{ $out->[$counter]{$1} } = ();
 				}
 			}
 			elsif ( $1 eq 'Status' ) {
