@@ -33,7 +33,7 @@ The following is needed to run the make(1) targets:
 
 The following fields are **deprecated** and **will soon be removed - adjust your scripts!**
 
-* **Cover**
+* `Cover`
 
 The following parts will soon be changed:
 
