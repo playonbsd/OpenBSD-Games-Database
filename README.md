@@ -40,8 +40,9 @@ The following parts will soon be changed:
 
 * `Setup` will be renamed (likely to `Helper` or `Assistant`). It will be changed to a list and any custom setup instructions will be moved to `Hints`.
 * `Dev` will be expanded to `Developer` and `Pub` to `Publisher`
-* A new field `Id` for the sorting logic will be added, to drop the leading article.
-* Need for alphabetical orderin `openbsd-games.db` will be removed (scripts/users need to sort by `Id` once implemented).
+* A new field `Id` for a unique numerical identifier.
+* A new field `Canonical` for a name without leading article and white-space turned to dashes.
+* Need for alphabetical orderin `openbsd-games.db` will be removed (scripts/users need to sort by `Canonical` once implemented).
 
 ## Format of openbsd-games.db
 
