@@ -7206,3 +7206,20 @@ Status	1
 Added	1970-01-01
 Updated	2023-05-07
 IgdbId	15063
+Game	Buckshot Roulette
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://mikeklubnika.itch.io/buckshot-roulette
+Hints
+Genre	Horror
+Tags	3D, first-person, gambling
+Year	2023
+Dev	Mike Klubnika
+Pub	CRITICAL REFLEX
+Version
+Status	1 (2024-04-25)
+Added	2024-04-25
+Updated	2024-04-25
+IgdbId	281275
