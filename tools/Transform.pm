@@ -87,8 +87,19 @@ sub db2dsc( $in ) {
 				$out->[ $counter ]{ $1 } = $2;
 			}
 			elsif ( $hints{$1} == DATE ) {
-				# ISO8601 string
-				$out->[ $counter ]{ $1 } = $2 . $midnight;
+				my ( $key, $val ) = ( $1, $2 );
+				# ISO8601 strings or empty
+				if ( $val =~ /^[0-9]{4}$/ ) {
+					# only year given, add January 1st
+					$out->[ $counter ]{ $key } = $val . '-01-01' . $midnight;
+				}
+				elsif ( $val ) {
+					$out->[ $counter ]{ $key } = $val . $midnight;
+				}
+				else {
+					$out->[ $counter ]{ $key } = '';
+				}
+
 			}
 			elsif ( $hints{$1} == STRING ) {
 				if ( $1 eq "Game" ) {

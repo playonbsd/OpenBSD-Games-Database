@@ -89,8 +89,9 @@ while ( <$fh> ) {
 		}
 		elsif ( $hints{$1} == DATE ) {
 			my ( $year, $month, $day) = split( '-', $2 );
+			next unless $year;
 			# all entries as ISO8601 strings
-			$out{$1}{ Year }{ $year . '-01-01' . $month .
+			$out{$1}{ Year }{ $year . '-01-01' .
 				$midnight }++;
 			$out{$1}{ YearMonth }{ $year . '-' . $month . '-01' .
 				$midnight }++;
