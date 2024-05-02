@@ -2463,6 +2463,37 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-05-02T00:00:00.000Z",
+    "Dev": "MrEliptik",
+    "Engine": "Godot",
+    "Game": "Dashpong",
+    "Genre": [
+      "arcade"
+    ],
+    "Hints": "requires at least 1 gamecontroller to play (up to 4)",
+    "IgdbId": "192855",
+    "Pub": "MrEliptik",
+    "Runtime": "godot",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://mreliptik.itch.io/dashpong",
+      "https://store.steampowered.com/app/1729250/Dashpong/"
+    ],
+    "Tags": [
+      "indie",
+      "local multiplayer"
+    ],
+    "Updated": "2024-05-02T00:00:00.000Z",
+    "Version": "1.4.2",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Motion Twin",
     "Engine": "HashLink",

@@ -7240,3 +7240,20 @@ Status	1 (2024-05-01)
 Added	2024-05-01
 Updated	2024-05-01
 IgdbId	211232
+Game	Dashpong
+Cover
+Engine	Godot
+Setup
+Runtime	godot
+Store	https://mreliptik.itch.io/dashpong https://store.steampowered.com/app/1729250/Dashpong/
+Hints	requires at least 1 gamecontroller to play (up to 4)
+Genre	arcade
+Tags	indie, local multiplayer
+Year	2022
+Dev	MrEliptik
+Pub	MrEliptik
+Version	1.4.2
+Status	1 (2024-05-02)
+Added	2024-05-02
+Updated	2024-05-02
+IgdbId	192855
