@@ -26,6 +26,7 @@ Other make(1) targets:
 
 The following is needed to run the make(1) targets:
 
+* make(1) (BSD make)
 * Perl 5.36
 * [Perl JSON module](https://metacpan.org/pod/JSON)
 * [jq](https://jqlang.github.io/jq/)
