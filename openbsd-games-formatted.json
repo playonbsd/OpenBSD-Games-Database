@@ -10649,6 +10649,36 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-05-01T00:00:00.000Z",
+    "Dev": "Brute Farce",
+    "Engine": "Godot",
+    "Game": "Tendryll",
+    "Genre": [
+      "roguelike deckbuilder"
+    ],
+    "Hints": "needs libgodotsteam.so in addons/godotsteam/x11/",
+    "IgdbId": "211232",
+    "Pub": "Brute Farce",
+    "Runtime": "godot",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-01T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1915780/Tendryll/"
+    ],
+    "Tags": [
+      "early access",
+      "indie"
+    ],
+    "Updated": "2024-05-01T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "2023-07-22T00:00:00.000Z",
     "Dev": "Lost Robots",
     "Engine": "Love2D",

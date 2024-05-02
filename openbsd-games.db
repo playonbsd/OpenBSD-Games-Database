@@ -7223,3 +7223,20 @@ Status	1 (2024-04-25)
 Added	2024-04-25
 Updated	2024-04-25
 IgdbId	281275
+Game	Tendryll
+Cover
+Engine	Godot
+Setup
+Runtime	godot
+Store	https://store.steampowered.com/app/1915780/Tendryll/
+Hints	needs libgodotsteam.so in addons/godotsteam/x11/
+Genre	roguelike deckbuilder
+Tags	early access, indie
+Year
+Dev	Brute Farce
+Pub	Brute Farce
+Version
+Status	1 (2024-05-01)
+Added	2024-05-01
+Updated	2024-05-01
+IgdbId	211232
