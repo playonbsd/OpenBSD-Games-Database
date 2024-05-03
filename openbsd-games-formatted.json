@@ -10680,6 +10680,37 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-05-03T00:00:00.000Z",
+    "Dev": "Jasonsumm Games",
+    "Engine": "Godot",
+    "Game": "Tempus Bound",
+    "Genre": [
+      "puzzle platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "156997",
+    "Pub": "Jasonsumm Games",
+    "Runtime": "godot",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-03T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1466580/Tempus_Bound/"
+    ],
+    "Tags": [
+      "2d",
+      "exploration",
+      "indie"
+    ],
+    "Updated": "2024-05-03T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-05-01T00:00:00.000Z",
     "Dev": "Brute Farce",
     "Engine": "Godot",
