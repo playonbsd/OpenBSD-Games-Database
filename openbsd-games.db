@@ -7291,3 +7291,20 @@ Status	5 (2024-05-11)
 Added	2024-05-09
 Updated	2024-05-11
 IgdbId	144554
+Game	Aether
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2462790/Aether/
+Hints
+Genre	Action Roguelike
+Tags	indie, early access
+Year	2021
+Dev	ORYgames
+Pub	ORYgames
+Version	0.3.2
+Status	1 (2024-05-14)
+Added	2024-05-14
+Updated	2024-05-14
+IgdbId	254916
