@@ -86,14 +86,16 @@
       "2024-04-25T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 1,
       "2024-05-02T00:00:00.000Z": 1,
-      "2024-05-03T00:00:00.000Z": 1
+      "2024-05-03T00:00:00.000Z": 1,
+      "2024-05-09T00:00:00.000Z": 1,
+      "2024-05-14T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 10
+      "2024-01-01T00:00:00.000Z": 13
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -123,18 +125,18 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 3
+      "2024-05-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
-    "Adventure Game Studio": 19,
+    "Adventure Game Studio": 20,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
     "FNA": 77,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 101,
+    "Godot": 103,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -608,13 +610,17 @@
     "Buckshot Roulette",
     "Tendryll",
     "Dashpong",
-    "Tempus Bound"
+    "Tempus Bound",
+    "If On A Winter's Night, Four Travelers",
+    "Aether",
+    "100 Steps"
   ],
   "Genre": {
     "Action": 39,
     "Action Adventure": 2,
     "Action Platformer": 11,
     "Action RPG": 9,
+    "Action Roguelike": 1,
     "Adventure": 40,
     "Boardgame": 1,
     "Brawler": 4,
@@ -649,6 +655,7 @@
     "RTS": 11,
     "Racing": 1,
     "Rhythm Game": 1,
+    "Roguelike": 1,
     "Roguelite": 5,
     "Sandbox": 2,
     "Shoot'em Up": 7,
@@ -669,13 +676,14 @@
     "Visual Novel": 3,
     "arcade": 1,
     "dungeoncrawler": 2,
+    "point & click adventure": 1,
     "puzzle platformer": 1,
     "roguelike deckbuilder": 1,
     "visual novel": 1
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 82,
+    "IndieRunner": 84,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -787,7 +795,6 @@
       "2023-10-14T00:00:00.000Z": 2,
       "2023-10-20T00:00:00.000Z": 3,
       "2023-10-23T00:00:00.000Z": 1,
-      "2023-10-26T00:00:00.000Z": 1,
       "2023-11-04T00:00:00.000Z": 1,
       "2023-11-05T00:00:00.000Z": 1,
       "2023-11-09T00:00:00.000Z": 4,
@@ -801,23 +808,25 @@
       "2024-04-25T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 1,
       "2024-05-02T00:00:00.000Z": 1,
-      "2024-05-03T00:00:00.000Z": 1
+      "2024-05-04T00:00:00.000Z": 2,
+      "2024-05-11T00:00:00.000Z": 1,
+      "2024-05-14T00:00:00.000Z": 2
     },
     "Rating": {
-      "completable": 13,
+      "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
       "launches": 252,
-      "major bugs": 14,
+      "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
       "1": 252,
-      "2": 14,
+      "2": 15,
       "3": 6,
       "4": 1,
-      "5": 13
+      "5": 15
     }
   },
   "Store": {
@@ -827,11 +836,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 106,
+    "https://itch.io/": 107,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 360,
+    "https://store.steampowered.com/": 363,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -872,7 +881,7 @@
     "bears": 1,
     "bloodborne-like": 1,
     "boardgame": 1,
-    "body horror": 1,
+    "body horror": 2,
     "boomer shooter": 1,
     "bullet hell": 4,
     "cards": 1,
@@ -896,16 +905,16 @@
     "deckbuilder": 3,
     "detective": 3,
     "dice": 1,
-    "dungeoncrawler": 2,
+    "dungeoncrawler": 3,
     "dystopian": 1,
-    "early access": 18,
+    "early access": 19,
     "educational": 1,
     "exploration": 1,
     "fantasy": 8,
     "farming": 1,
     "female protagonist": 2,
     "first-person": 7,
-    "free": 24,
+    "free": 25,
     "furry": 1,
     "gambling": 1,
     "genre-defining": 2,
@@ -922,7 +931,7 @@
     "historical": 1,
     "horror": 6,
     "humor": 11,
-    "indie": 166,
+    "indie": 169,
     "indie classic": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
@@ -946,6 +955,7 @@
     "philosophical": 1,
     "physics": 1,
     "pixel art": 22,
+    "pixelart": 1,
     "pixels": 3,
     "platformer": 4,
     "point & click": 2,
@@ -983,7 +993,7 @@
     "tiles": 1,
     "top-down": 1,
     "touhou": 1,
-    "turn-based": 6,
+    "turn-based": 7,
     "vehicle": 1,
     "viking": 1,
     "villain protagonist": 1,
@@ -1031,7 +1041,6 @@
       "2023-10-14T00:00:00.000Z": 3,
       "2023-10-20T00:00:00.000Z": 3,
       "2023-10-23T00:00:00.000Z": 1,
-      "2023-10-26T00:00:00.000Z": 1,
       "2023-11-04T00:00:00.000Z": 1,
       "2023-11-05T00:00:00.000Z": 1,
       "2023-11-09T00:00:00.000Z": 4,
@@ -1046,13 +1055,15 @@
       "2024-04-25T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 1,
       "2024-05-02T00:00:00.000Z": 1,
-      "2024-05-03T00:00:00.000Z": 1
+      "2024-05-04T00:00:00.000Z": 2,
+      "2024-05-11T00:00:00.000Z": 1,
+      "2024-05-14T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 112,
       "2022-01-01T00:00:00.000Z": 2,
-      "2023-01-01T00:00:00.000Z": 303,
-      "2024-01-01T00:00:00.000Z": 11
+      "2023-01-01T00:00:00.000Z": 302,
+      "2024-01-01T00:00:00.000Z": 15
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 112,
@@ -1062,14 +1073,14 @@
       "2023-07-01T00:00:00.000Z": 11,
       "2023-08-01T00:00:00.000Z": 12,
       "2023-09-01T00:00:00.000Z": 4,
-      "2023-10-01T00:00:00.000Z": 21,
+      "2023-10-01T00:00:00.000Z": 20,
       "2023-11-01T00:00:00.000Z": 6,
       "2023-12-01T00:00:00.000Z": 3,
       "2024-01-01T00:00:00.000Z": 2,
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 3
+      "2024-05-01T00:00:00.000Z": 7
     }
   },
   "Year": {
@@ -1102,9 +1113,9 @@
     "2018": 27,
     "2019": 24,
     "2020": 26,
-    "2021": 45,
+    "2021": 47,
     "2022": 33,
-    "2023": 21,
+    "2023": 22,
     "2024": 6
   }
 }

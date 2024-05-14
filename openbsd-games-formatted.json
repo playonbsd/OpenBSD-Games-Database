@@ -1,5 +1,36 @@
 [
   {
+    "Added": "2024-05-14T00:00:00.000Z",
+    "Dev": "Endorth Studio",
+    "Engine": "Godot",
+    "Game": "100 Steps",
+    "Genre": [
+      "Roguelike"
+    ],
+    "Hints": "",
+    "IgdbId": "265505",
+    "Pub": "ByteSize, Kinda Brave",
+    "Runtime": "godot",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2374420/100_Steps/"
+    ],
+    "Tags": [
+      "dungeoncrawler",
+      "indie",
+      "turn-based"
+    ],
+    "Updated": "2024-05-14T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Grundislav Games",
     "Engine": "Adventure Game Studio",
@@ -96,21 +127,22 @@
     "Setup": "",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2023-10-26T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusDate": "2024-05-04T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
     },
     "Store": [
       "https://store.steampowered.com/app/2392160/Abscission/"
     ],
     "Tags": [
       "Lovecraftian",
+      "body horror",
       "detective",
       "horror",
       "noir",
       "point & click"
     ],
-    "Updated": "2023-10-26T00:00:00.000Z",
+    "Updated": "2024-05-04T00:00:00.000Z",
     "Version": "",
     "Year": "2023-01-01T00:00:00.000Z"
   },
@@ -176,6 +208,36 @@
     "Updated": "2023-05-04T00:00:00.000Z",
     "Version": "",
     "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-05-14T00:00:00.000Z",
+    "Dev": "ORYgames",
+    "Engine": "Godot",
+    "Game": "Aether",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "IgdbId": "254916",
+    "Pub": "ORYgames",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2462790/Aether/"
+    ],
+    "Tags": [
+      "early access",
+      "indie"
+    ],
+    "Updated": "2024-05-14T00:00:00.000Z",
+    "Version": "0.3.2",
+    "Year": "2021-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -5306,6 +5368,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2000-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-05-09T00:00:00.000Z",
+    "Dev": "Dead Idle Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "If On A Winter's Night, Four Travelers",
+    "Genre": [
+      "point & click adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "144554",
+    "Pub": "Dead Idle Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-11T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [
+      "https://laurahunt.itch.io/if-on-a-winters-night-four-travelers",
+      "https://store.steampowered.com/app/1603980/If_On_A_Winters_Night_Four_Travelers/"
+    ],
+    "Tags": [
+      "free",
+      "indie",
+      "pixelart"
+    ],
+    "Updated": "2024-05-11T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -10693,10 +10787,10 @@
     "Runtime": "godot",
     "Setup": "",
     "Status": {
-      "StatusComment": "",
-      "StatusDate": "2024-05-03T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusComment": "- severe shader corruption/glitching",
+      "StatusDate": "2024-05-04T00:00:00.000Z",
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://store.steampowered.com/app/1466580/Tempus_Bound/"
@@ -10706,7 +10800,7 @@
       "exploration",
       "indie"
     ],
-    "Updated": "2024-05-03T00:00:00.000Z",
+    "Updated": "2024-05-04T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
