@@ -5875,6 +5875,37 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-05-15T00:00:00.000Z",
+    "Dev": "Julian Ochando",
+    "Engine": "Godot",
+    "Game": "Lair of goblins",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "IgdbId": "233029",
+    "Pub": "Julian Ochando",
+    "Runtime": "godot",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2282910/Lair_of_goblins/"
+    ],
+    "Tags": [
+      "action",
+      "dungeoncrawler",
+      "indie"
+    ],
+    "Updated": "2024-05-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Grundislav Games",
     "Engine": "Adventure Game Studio",
