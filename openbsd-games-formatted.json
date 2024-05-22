@@ -414,6 +414,38 @@
     "Year": "2010-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-05-22T00:00:00.000Z",
+    "Dev": "Postmodern Adventures",
+    "Engine": "Adventure Game Studio",
+    "Game": "An English Haunting",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "258723",
+    "Pub": "Postmodern Adventures, enComplot",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-05-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://postmodernadventures.itch.io/an-english-haunting",
+      "https://store.steampowered.com/app/2474030/An_English_Haunting/"
+    ],
+    "Tags": [
+      "horror",
+      "indie",
+      "pixelart"
+    ],
+    "Updated": "2024-05-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-10-09T00:00:00.000Z",
     "Dev": "Hero Game Co LLC",
     "Engine": "Love2D",

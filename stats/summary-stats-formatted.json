@@ -90,14 +90,15 @@
       "2024-05-09T00:00:00.000Z": 1,
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
-      "2024-05-20T00:00:00.000Z": 1
+      "2024-05-20T00:00:00.000Z": 1,
+      "2024-05-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 15
+      "2024-01-01T00:00:00.000Z": 16
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -127,11 +128,11 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 8
+      "2024-05-01T00:00:00.000Z": 9
     }
   },
   "Engine": {
-    "Adventure Game Studio": 20,
+    "Adventure Game Studio": 21,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
@@ -617,7 +618,8 @@
     "Aether",
     "100 Steps",
     "Lair of goblins",
-    "Yolk Heroes: A Long Tamago"
+    "Yolk Heroes: A Long Tamago",
+    "An English Haunting"
   ],
   "Genre": {
     "Action": 39,
@@ -653,6 +655,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 52,
+    "Point & Click Adventure": 1,
     "Puzzle": 42,
     "Puzzle Game": 1,
     "Puzzle Platformer": 14,
@@ -688,7 +691,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 84,
+    "IndieRunner": 85,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -817,19 +820,20 @@
       "2024-05-11T00:00:00.000Z": 1,
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
-      "2024-05-20T00:00:00.000Z": 1
+      "2024-05-20T00:00:00.000Z": 1,
+      "2024-05-22T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
-      "launches": 254,
+      "launches": 255,
       "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
-      "1": 254,
+      "1": 255,
       "2": 15,
       "3": 6,
       "4": 1,
@@ -843,11 +847,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 107,
+    "https://itch.io/": 108,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 365,
+    "https://store.steampowered.com/": 366,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -936,10 +940,10 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 6,
+    "horror": 7,
     "humor": 11,
     "idler": 1,
-    "indie": 171,
+    "indie": 172,
     "indie classic": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
@@ -963,7 +967,7 @@
     "philosophical": 1,
     "physics": 1,
     "pixel art": 22,
-    "pixelart": 1,
+    "pixelart": 2,
     "pixels": 3,
     "platformer": 4,
     "point & click": 2,
@@ -1067,13 +1071,14 @@
       "2024-05-11T00:00:00.000Z": 1,
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
-      "2024-05-20T00:00:00.000Z": 1
+      "2024-05-20T00:00:00.000Z": 1,
+      "2024-05-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 112,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 302,
-      "2024-01-01T00:00:00.000Z": 17
+      "2024-01-01T00:00:00.000Z": 18
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 112,
@@ -1090,7 +1095,7 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 9
+      "2024-05-01T00:00:00.000Z": 10
     }
   },
   "Year": {
@@ -1126,6 +1131,6 @@
     "2021": 47,
     "2022": 33,
     "2023": 23,
-    "2024": 7
+    "2024": 8
   }
 }
