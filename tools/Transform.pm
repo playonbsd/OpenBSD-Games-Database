@@ -201,10 +201,13 @@ sub data2cell( $data ) {
 		@out = @$data;
 	}
 	elsif ( $r eq 'HASH' ) {
+		my @new_out;
 		for my $k ( keys %$data ) {
 			next unless $$data{ $k };
-			push @out, "$k: $$data{ $k }";
+			push @new_out, "$k: $$data{ $k }";
 		}
+		@new_out = sort @new_out;
+		push @out, @new_out;
 	}
 	else {
 		@out = ( scalar $data );
@@ -244,6 +247,7 @@ sub dsc2table ( $dsc ) {
 	}
 	elsif ( $r0 eq 'HASH' ) {
 		foreach ( keys %$dsc ) {
+			# XXX: this won't work; where is flatten_recursive from?
 			push @rows, ( $_, flatten_recursive ( $$dsc{ $_ } ) );
 		}
 	}
