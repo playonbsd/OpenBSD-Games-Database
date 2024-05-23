@@ -4356,7 +4356,7 @@ Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://www.gog.com/en/game/of_blades_and_tails https://store.steampowered.com/app/1768780/Of_Blades__Tails/
-Hints	needs godot with mono support
+Hints
 Genre	RPG
 Tags	indie, pixel art, fantasy, colorful, turn-based
 Year

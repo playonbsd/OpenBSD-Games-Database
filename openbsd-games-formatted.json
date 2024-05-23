@@ -1856,7 +1856,7 @@
     "Genre": [
       "Platformer"
     ],
-    "Hints": "currently requires IndieRunner with --norigg argument",
+    "Hints": "",
     "IgdbId": "281983",
     "Pub": "sadimakesgames",
     "Runtime": "mono",
@@ -7360,7 +7360,7 @@
     "Genre": [
       "RPG"
     ],
-    "Hints": "needs godot with mono support",
+    "Hints": "",
     "IgdbId": "187655",
     "Pub": "Pineapple Works",
     "Runtime": "godot",
