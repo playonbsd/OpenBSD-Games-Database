@@ -91,14 +91,15 @@
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
-      "2024-05-22T00:00:00.000Z": 1
+      "2024-05-22T00:00:00.000Z": 1,
+      "2024-05-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 16
+      "2024-01-01T00:00:00.000Z": 17
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -128,7 +129,7 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 9
+      "2024-05-01T00:00:00.000Z": 10
     }
   },
   "Engine": {
@@ -136,7 +137,7 @@
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
-    "FNA": 77,
+    "FNA": 78,
     "FontEngine": 1,
     "GZDoom": 11,
     "Godot": 105,
@@ -619,7 +620,8 @@
     "100 Steps",
     "Lair of goblins",
     "Yolk Heroes: A Long Tamago",
-    "An English Haunting"
+    "An English Haunting",
+    "Cat Warrior"
   ],
   "Genre": {
     "Action": 39,
@@ -654,7 +656,7 @@
     "Metroidvania": 8,
     "Mining": 1,
     "Physics": 1,
-    "Platformer": 52,
+    "Platformer": 53,
     "Point & Click Adventure": 1,
     "Puzzle": 42,
     "Puzzle Game": 1,
@@ -691,7 +693,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 85,
+    "IndieRunner": 86,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -821,19 +823,20 @@
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
-      "2024-05-22T00:00:00.000Z": 1
+      "2024-05-22T00:00:00.000Z": 1,
+      "2024-05-23T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
-      "launches": 255,
+      "launches": 256,
       "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
-      "1": 255,
+      "1": 256,
       "2": 15,
       "3": 6,
       "4": 1,
@@ -851,7 +854,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 366,
+    "https://store.steampowered.com/": 367,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -879,7 +882,7 @@
     "RPG": 1,
     "WW2": 1,
     "Zelda-like": 1,
-    "action": 2,
+    "action": 3,
     "adventure": 2,
     "aliens": 1,
     "anime": 1,
@@ -943,7 +946,7 @@
     "horror": 7,
     "humor": 11,
     "idler": 1,
-    "indie": 172,
+    "indie": 173,
     "indie classic": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
@@ -967,7 +970,7 @@
     "philosophical": 1,
     "physics": 1,
     "pixel art": 22,
-    "pixelart": 2,
+    "pixelart": 3,
     "pixels": 3,
     "platformer": 4,
     "point & click": 2,
@@ -983,7 +986,7 @@
     "quirky": 2,
     "racing": 1,
     "relaxing": 3,
-    "retro": 32,
+    "retro": 33,
     "robots": 1,
     "roguelike": 2,
     "roguelite": 25,
@@ -1072,13 +1075,14 @@
       "2024-05-14T00:00:00.000Z": 2,
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
-      "2024-05-22T00:00:00.000Z": 1
+      "2024-05-22T00:00:00.000Z": 1,
+      "2024-05-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 112,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 302,
-      "2024-01-01T00:00:00.000Z": 18
+      "2024-01-01T00:00:00.000Z": 19
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 112,
@@ -1095,7 +1099,7 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 10
+      "2024-05-01T00:00:00.000Z": 11
     }
   },
   "Year": {
@@ -1131,6 +1135,6 @@
     "2021": 47,
     "2022": 33,
     "2023": 23,
-    "2024": 8
+    "2024": 9
   }
 }

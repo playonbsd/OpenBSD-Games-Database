@@ -7376,3 +7376,20 @@ Status	1 (2024-05-22)
 Added	2024-05-22
 Updated	2024-05-22
 IgdbId	258723
+Game	Cat Warrior
+Cover
+Engine	FNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://store.steampowered.com/app/2640520/Cat_Warrior/
+Hints	currently requires IndieRunner with --norigg argument
+Genre	Platformer
+Tags	indie, pixelart, action, retro
+Year	2024
+Dev	Sadi & Ayu
+Pub	sadimakesgames
+Version	1.4
+Status	1 (2024-05-23)
+Added	2024-05-23
+Updated	2024-05-23
+IgdbId	281983
