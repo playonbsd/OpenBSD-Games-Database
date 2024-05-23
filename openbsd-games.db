@@ -7382,7 +7382,7 @@ Engine	FNA
 Setup	IndieRunner
 Runtime	mono
 Store	https://store.steampowered.com/app/2640520/Cat_Warrior/
-Hints	currently requires IndieRunner with --norigg argument
+Hints
 Genre	Platformer
 Tags	indie, pixelart, action, retro
 Year	2024
