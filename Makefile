@@ -1,6 +1,6 @@
 all: csv json stats
 
-.PHONY: csv print-csv json stats print-json print-stats
+.PHONY: csv print-csv json stats print-json print-stats diff
 
 csv:
 	tools/gen_csv.pl openbsd-games.db > openbsd-games.csv
@@ -23,3 +23,6 @@ stats:
 
 print-stats:
 	@stats/gen_stats.pl openbsd-games.db | jq -C '.'
+
+diff:
+	@git diff -- . ':(exclude)openbsd-games.json'
