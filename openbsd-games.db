@@ -7393,3 +7393,20 @@ Status	1 (2024-05-23)
 Added	2024-05-23
 Updated	2024-05-23
 IgdbId	281983
+Game	Sudocats
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://www.gog.com/en/game/sudocats https://store.steampowered.com/app/1725640/Sudocats/
+Hints
+Genre	Puzzler
+Tags	indie, pixelart, cats, cute, relaxing
+Year	2022
+Dev	Devcats
+Pub	Devcats
+Version	1.11
+Status	1 (2024-05-24)
+Added	2024-05-24
+Updated	2024-05-24
+IgdbId	193466
