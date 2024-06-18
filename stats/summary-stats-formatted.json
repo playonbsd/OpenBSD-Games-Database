@@ -92,14 +92,16 @@
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
       "2024-05-22T00:00:00.000Z": 1,
-      "2024-05-23T00:00:00.000Z": 1
+      "2024-05-23T00:00:00.000Z": 1,
+      "2024-05-24T00:00:00.000Z": 1,
+      "2024-06-18T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 17
+      "2024-01-01T00:00:00.000Z": 20
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -129,7 +131,8 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 10
+      "2024-05-01T00:00:00.000Z": 11,
+      "2024-06-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -140,7 +143,7 @@
     "FNA": 78,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 105,
+    "Godot": 108,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -621,14 +624,17 @@
     "Lair of goblins",
     "Yolk Heroes: A Long Tamago",
     "An English Haunting",
-    "Cat Warrior"
+    "Cat Warrior",
+    "Sudocats",
+    "Immortals Must Die",
+    "DreamCell: Lost in Nightmares"
   ],
   "Genre": {
     "Action": 39,
     "Action Adventure": 2,
     "Action Platformer": 11,
     "Action RPG": 9,
-    "Action Roguelike": 2,
+    "Action Roguelike": 4,
     "Adventure": 40,
     "Boardgame": 1,
     "Brawler": 4,
@@ -661,6 +667,7 @@
     "Puzzle": 42,
     "Puzzle Game": 1,
     "Puzzle Platformer": 14,
+    "Puzzler": 1,
     "RPG": 30,
     "RTS": 11,
     "Racing": 1,
@@ -693,7 +700,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 86,
+    "IndieRunner": 89,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -824,19 +831,21 @@
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
       "2024-05-22T00:00:00.000Z": 1,
-      "2024-05-23T00:00:00.000Z": 1
+      "2024-05-23T00:00:00.000Z": 1,
+      "2024-05-24T00:00:00.000Z": 1,
+      "2024-06-18T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
-      "launches": 256,
+      "launches": 259,
       "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
-      "1": 256,
+      "1": 259,
       "2": 15,
       "3": 6,
       "4": 1,
@@ -854,14 +863,14 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 367,
+    "https://store.steampowered.com/": 370,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 138,
+    "https://www.gog.com/": 139,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -901,7 +910,7 @@
     "cards": 1,
     "cartoon": 1,
     "casual": 4,
-    "cats": 3,
+    "cats": 4,
     "charity": 1,
     "chess": 1,
     "classic": 16,
@@ -912,6 +921,7 @@
     "conspiracy": 1,
     "crafting": 2,
     "crazy": 1,
+    "cute": 1,
     "cyberpunk": 3,
     "dark": 1,
     "dark fantasy": 1,
@@ -946,7 +956,7 @@
     "horror": 7,
     "humor": 11,
     "idler": 1,
-    "indie": 173,
+    "indie": 176,
     "indie classic": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
@@ -970,9 +980,9 @@
     "philosophical": 1,
     "physics": 1,
     "pixel art": 22,
-    "pixelart": 3,
+    "pixelart": 5,
     "pixels": 3,
-    "platformer": 4,
+    "platformer": 5,
     "point & click": 2,
     "poker": 1,
     "political": 3,
@@ -985,7 +995,7 @@
     "quicktime": 1,
     "quirky": 2,
     "racing": 1,
-    "relaxing": 3,
+    "relaxing": 4,
     "retro": 33,
     "robots": 1,
     "roguelike": 2,
@@ -1022,7 +1032,7 @@
   },
   "Updated": {
     "Date": {
-      "1970-01-01T00:00:00.000Z": 112,
+      "1970-01-01T00:00:00.000Z": 111,
       "2022-11-04T00:00:00.000Z": 1,
       "2022-11-21T00:00:00.000Z": 1,
       "2023-03-11T00:00:00.000Z": 1,
@@ -1076,16 +1086,19 @@
       "2024-05-15T00:00:00.000Z": 1,
       "2024-05-20T00:00:00.000Z": 1,
       "2024-05-22T00:00:00.000Z": 1,
-      "2024-05-23T00:00:00.000Z": 1
+      "2024-05-23T00:00:00.000Z": 1,
+      "2024-05-24T00:00:00.000Z": 1,
+      "2024-06-12T00:00:00.000Z": 1,
+      "2024-06-18T00:00:00.000Z": 2
     },
     "Year": {
-      "1970-01-01T00:00:00.000Z": 112,
+      "1970-01-01T00:00:00.000Z": 111,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 302,
-      "2024-01-01T00:00:00.000Z": 19
+      "2024-01-01T00:00:00.000Z": 23
     },
     "YearMonth": {
-      "1970-01-01T00:00:00.000Z": 112,
+      "1970-01-01T00:00:00.000Z": 111,
       "2022-11-01T00:00:00.000Z": 2,
       "2023-03-01T00:00:00.000Z": 2,
       "2023-05-01T00:00:00.000Z": 244,
@@ -1099,7 +1112,8 @@
       "2024-02-01T00:00:00.000Z": 2,
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
-      "2024-05-01T00:00:00.000Z": 11
+      "2024-05-01T00:00:00.000Z": 12,
+      "2024-06-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -1133,8 +1147,8 @@
     "2019": 24,
     "2020": 26,
     "2021": 47,
-    "2022": 33,
+    "2022": 35,
     "2023": 23,
-    "2024": 9
+    "2024": 10
   }
 }

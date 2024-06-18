@@ -7410,3 +7410,37 @@ Status	1 (2024-05-24)
 Added	2024-05-24
 Updated	2024-05-24
 IgdbId	193466
+Game	Immortals Must Die
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2814760/Immortals_Must_Die/
+Hints
+Genre	Action Roguelike
+Tags	indie, pixelart, platformer
+Year	2024
+Dev	Charles Palva
+Pub	Charles Palva
+Version	1.1.1
+Status	1 (2024-06-18)
+Added	2024-06-18
+Updated	2024-06-18
+IgdbId	287880
+Game	DreamCell: Lost in Nightmares
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2101440/DreamCell_Lost_in_Nightmares/
+Hints
+Genre	Action Roguelike
+Tags	indie
+Year	2022
+Dev	Blockcode Games
+Pub	Blockcode Games
+Version	1.01
+Status	1 (2024-06-18)
+Added	2024-06-18
+Updated	2024-06-18
+IgdbId	211601
