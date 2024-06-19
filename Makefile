@@ -25,4 +25,4 @@ print-stats:
 	@stats/gen_stats.pl openbsd-games.db | jq -C '.'
 
 diff:
-	@git diff -- . ':(exclude)openbsd-games.json'
+	@git diff -- . ':(exclude)openbsd-games.json' ':(exclude)stats/summary-stats.json'
