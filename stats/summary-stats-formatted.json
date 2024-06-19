@@ -94,14 +94,14 @@
       "2024-05-22T00:00:00.000Z": 1,
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 2
+      "2024-06-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 20
+      "2024-01-01T00:00:00.000Z": 21
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -132,11 +132,11 @@
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
-      "2024-06-01T00:00:00.000Z": 2
+      "2024-06-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
-    "Adventure Game Studio": 21,
+    "Adventure Game Studio": 22,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
@@ -627,7 +627,8 @@
     "Cat Warrior",
     "Sudocats",
     "Immortals Must Die",
-    "DreamCell: Lost in Nightmares"
+    "DreamCell: Lost in Nightmares",
+    "Nightmare Frames"
   ],
   "Genre": {
     "Action": 39,
@@ -663,7 +664,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 53,
-    "Point & Click Adventure": 1,
+    "Point & Click Adventure": 2,
     "Puzzle": 42,
     "Puzzle Game": 1,
     "Puzzle Platformer": 14,
@@ -700,7 +701,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 89,
+    "IndieRunner": 90,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -833,19 +834,19 @@
       "2024-05-22T00:00:00.000Z": 1,
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 2
+      "2024-06-18T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
-      "launches": 259,
+      "launches": 260,
       "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
-      "1": 259,
+      "1": 260,
       "2": 15,
       "3": 6,
       "4": 1,
@@ -859,11 +860,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 108,
+    "https://itch.io/": 109,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 370,
+    "https://store.steampowered.com/": 371,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -883,6 +884,7 @@
     "3d": 1,
     "4X": 2,
     "6DOF": 2,
+    "80s": 1,
     "Castlevania-like": 1,
     "JRPG": 2,
     "Lovecraftian": 4,
@@ -953,11 +955,12 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 7,
+    "horror": 8,
     "humor": 11,
     "idler": 1,
-    "indie": 176,
+    "indie": 177,
     "indie classic": 1,
+    "investigation": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
     "manga": 1,
@@ -980,7 +983,7 @@
     "philosophical": 1,
     "physics": 1,
     "pixel art": 22,
-    "pixelart": 5,
+    "pixelart": 6,
     "pixels": 3,
     "platformer": 5,
     "point & click": 2,
@@ -1089,13 +1092,13 @@
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
       "2024-06-12T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 2
+      "2024-06-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 111,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 302,
-      "2024-01-01T00:00:00.000Z": 23
+      "2024-01-01T00:00:00.000Z": 24
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 111,
@@ -1113,7 +1116,7 @@
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
-      "2024-06-01T00:00:00.000Z": 3
+      "2024-06-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1147,7 +1150,7 @@
     "2019": 24,
     "2020": 26,
     "2021": 47,
-    "2022": 35,
+    "2022": 36,
     "2023": 23,
     "2024": 10
   }

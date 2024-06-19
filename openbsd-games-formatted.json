@@ -7324,6 +7324,40 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-06-18T00:00:00.000Z",
+    "Dev": "Postmodern Adventures",
+    "Engine": "Adventure Game Studio",
+    "Game": "Nightmare Frames",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "152450",
+    "Pub": "Postmodern Adventures",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://postmodernadventures.itch.io/nightmare-frames",
+      "https://store.steampowered.com/app/1650590/Nightmare_Frames/"
+    ],
+    "Tags": [
+      "80s",
+      "horror",
+      "indie",
+      "investigation",
+      "pixelart"
+    ],
+    "Updated": "2024-06-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Shiro Games",
     "Engine": "HashLink",
