@@ -94,14 +94,15 @@
       "2024-05-22T00:00:00.000Z": 1,
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 3
+      "2024-06-18T00:00:00.000Z": 3,
+      "2024-06-19T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 21
+      "2024-01-01T00:00:00.000Z": 22
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -132,7 +133,7 @@
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
-      "2024-06-01T00:00:00.000Z": 3
+      "2024-06-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -154,7 +155,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 27,
+    "Love2D": 28,
     "Mohawk Engine": 2,
     "Mono": 3,
     "MonoGame": 7,
@@ -628,7 +629,8 @@
     "Sudocats",
     "Immortals Must Die",
     "DreamCell: Lost in Nightmares",
-    "Nightmare Frames"
+    "Nightmare Frames",
+    "Endless Dark"
   ],
   "Genre": {
     "Action": 39,
@@ -636,7 +638,7 @@
     "Action Platformer": 11,
     "Action RPG": 9,
     "Action Roguelike": 4,
-    "Adventure": 40,
+    "Adventure": 41,
     "Boardgame": 1,
     "Brawler": 4,
     "Card Game": 6,
@@ -701,7 +703,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 90,
+    "IndieRunner": 91,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -834,19 +836,20 @@
       "2024-05-22T00:00:00.000Z": 1,
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 3
+      "2024-06-18T00:00:00.000Z": 3,
+      "2024-06-19T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 7,
       "intermediate bugs": 6,
-      "launches": 260,
+      "launches": 261,
       "major bugs": 15,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 7,
-      "1": 260,
+      "1": 261,
       "2": 15,
       "3": 6,
       "4": 1,
@@ -864,7 +867,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 371,
+    "https://store.steampowered.com/": 372,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -933,7 +936,7 @@
     "dice": 1,
     "dungeoncrawler": 4,
     "dystopian": 1,
-    "early access": 19,
+    "early access": 20,
     "educational": 1,
     "exploration": 1,
     "fantasy": 8,
@@ -958,7 +961,7 @@
     "horror": 8,
     "humor": 11,
     "idler": 1,
-    "indie": 177,
+    "indie": 178,
     "indie classic": 1,
     "investigation": 1,
     "local multiplayer": 1,
@@ -994,6 +997,7 @@
     "productivity": 1,
     "prototype": 1,
     "psychedelic": 1,
+    "psychological horror": 1,
     "puzzle": 4,
     "quicktime": 1,
     "quirky": 2,
@@ -1009,7 +1013,7 @@
     "short": 1,
     "simulation": 1,
     "souls-like": 1,
-    "space": 10,
+    "space": 11,
     "stealth": 3,
     "steampunk": 1,
     "strategy": 1,
@@ -1092,13 +1096,14 @@
       "2024-05-23T00:00:00.000Z": 1,
       "2024-05-24T00:00:00.000Z": 1,
       "2024-06-12T00:00:00.000Z": 1,
-      "2024-06-18T00:00:00.000Z": 3
+      "2024-06-18T00:00:00.000Z": 3,
+      "2024-06-19T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 111,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 302,
-      "2024-01-01T00:00:00.000Z": 24
+      "2024-01-01T00:00:00.000Z": 25
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 111,
@@ -1116,7 +1121,7 @@
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
-      "2024-06-01T00:00:00.000Z": 4
+      "2024-06-01T00:00:00.000Z": 5
     }
   },
   "Year": {

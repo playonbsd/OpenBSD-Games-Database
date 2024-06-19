@@ -3608,6 +3608,38 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-06-19T00:00:00.000Z",
+    "Dev": "Little Light Studios, LLC",
+    "Engine": "Love2D",
+    "Game": "Endless Dark",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "236912",
+    "Pub": "Little Light Studios, LLC",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2290890/Endless_Dark/"
+    ],
+    "Tags": [
+      "early access",
+      "indie",
+      "psychological horror",
+      "space"
+    ],
+    "Updated": "2024-06-19T00:00:00.000Z",
+    "Version": "0.9.26",
+    "Year": ""
+  },
+  {
     "Added": "2023-08-25T00:00:00.000Z",
     "Dev": "Deep Root Interactive",
     "Engine": "Godot",
