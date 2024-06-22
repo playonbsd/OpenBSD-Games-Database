@@ -7478,3 +7478,20 @@ Status	1 (2024-06-19)
 Added	2024-06-19
 Updated	2024-06-19
 IgdbId	236912
+Game	Defendor
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2583640/Defendor/
+Hints
+Genre	Shoot'Em'Up
+Tags	indie, retro, action
+Year	2023
+Dev	almostApixel
+Pub	almostApixel
+Version	1.2.0
+Status	1 (2024-06-24)
+Added	2024-06-24
+Updated	2024-06-24
+IgdbId	267733
