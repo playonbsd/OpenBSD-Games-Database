@@ -2740,7 +2740,7 @@
     "Year": ""
   },
   {
-    "Added": "2024-06-24T00:00:00.000Z",
+    "Added": "2024-06-22T00:00:00.000Z",
     "Dev": "almostApixel",
     "Engine": "Godot",
     "Game": "Defendor",
@@ -2754,7 +2754,7 @@
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2024-06-24T00:00:00.000Z",
+      "StatusDate": "2024-06-22T00:00:00.000Z",
       "StatusNumber": "1",
       "StatusText": "launches"
     },
@@ -2766,7 +2766,7 @@
       "indie",
       "retro"
     ],
-    "Updated": "2024-06-24T00:00:00.000Z",
+    "Updated": "2024-06-23T00:00:00.000Z",
     "Version": "1.2.0",
     "Year": "2023-01-01T00:00:00.000Z"
   },
