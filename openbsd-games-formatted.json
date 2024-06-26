@@ -11381,6 +11381,36 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-06-26T00:00:00.000Z",
+    "Dev": "Sierra",
+    "Engine": "ScummVM",
+    "Game": "The Dagger of Amon Ra",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "9737",
+    "Pub": "Sierra",
+    "Runtime": "scummvm",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/the_dagger_of_amon_ra"
+    ],
+    "Tags": [
+      "detective",
+      "mystery"
+    ],
+    "Updated": "2024-06-26T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": "1992-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "LucasArts",
     "Engine": "SCUMM",
