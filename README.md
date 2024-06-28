@@ -61,9 +61,11 @@ Key<tab>Value
 
 Currently **17 keys per entry**. All keys **must** be entered. For unused keys, list the key without `<tab>Value`, like in this example for `Hints`:
 ```
+...
 Store	https://example.org/
 Hints
 Genre	Action
+...
 ```
 
 Adhere to the following order of keys:
