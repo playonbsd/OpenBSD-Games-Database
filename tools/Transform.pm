@@ -72,14 +72,21 @@ my @statustext = (
 
 sub db2dsc( $in ) {
 	my $out;
-	my $counter;
+	my $counter = 0;
+	push( @{ $out }, {} );
 
 	open ( my $fh, '<', $in );
 	while ( <$fh> ) {
 
-		next if /^\s*#/;		# skip if line starts with '#'
-
-		if ( /^([^\t\n]*)\t?(.*)/ ) {
+		if (  /^\s*$/ ) {
+			# new Game entry starts with empty line
+			$counter++;
+			push( @{ $out }, {} );
+		}
+		elsif ( /^\s*#/ ) {
+			next;		# skip if line starts with '#'
+		}
+		elsif ( /^([^\t\n]*)\t?(.*)/ ) {
 			if ( $hints{$1} == SKIP ) {
 				next;
 			}
@@ -102,16 +109,6 @@ sub db2dsc( $in ) {
 
 			}
 			elsif ( $hints{$1} == STRING ) {
-				if ( $1 eq "Game" ) {
-					# new Game entry starts with this line
-					if (defined $counter) {
-						$counter++;
-					}
-					else {
-						$counter = 0;
-					}
-					push( @{ $out }, {} );
-				}
 				$out->[ $counter ]{ $1 } = $2;
 			}
 			elsif ( $hints{$1} == COMMAS ) {
@@ -171,6 +168,9 @@ sub db2dsc( $in ) {
 			else {
 				die "unrecognized entry: $_";
 			}
+		}
+		else {
+			die "Error - invalid line format: $_";
 		}
 	}
 	close $fh;

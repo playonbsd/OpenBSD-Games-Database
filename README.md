@@ -6,7 +6,7 @@ Repository of the database of (initially primarily commercial/proprietary) games
 
 Note: This may be subject to change in the future, so be sure to check regularly for updates to this README.md before working on the repository.
 
-At this point, the primary database is a text file `openbsd-games.db`. See below for its required format. Other output like `openbsd-games.json` is created from `openbsd-games.db` at this point, using make(1).
+At this point, the primary database is a text file `openbsd-games.db`. See below for its required format. Other output like `openbsd-games.json` is created from `openbsd-games.db` using make(1).
 
 To update the generated files after editing `openbsd-games.db`:
 
@@ -49,8 +49,9 @@ The following parts will soon be changed:
 
 **Important Notes**:
 
-* TABS are currently **mandatory** where listed below!!
-* Entries are ordered alphabetically (by `Game<TAB>Name`)
+* **TABS** are currently **mandatory** where listed below!!
+* **Blank line before a new entry is mandatory!**
+* Add new entries to the bottom of the file (used to be alphabetical order, but this is not necessary anymore).
 
 Currently **17** lines per entry, **in the following order**:
 
