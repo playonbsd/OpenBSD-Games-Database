@@ -50,12 +50,12 @@ The following parts will soon be changed:
 **Important Notes**:
 
 * **TABS** are currently **mandatory** where listed below!!
-* **Blank line before a new entry is mandatory!**
+* Exactly **one blank line before a new entry** is mandatory!
 * Add new entries to the bottom of the file (used to be alphabetical order, but this is not necessary anymore).
 
 Currently **17** lines per entry, **in the following order**:
 
-1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering. **This line signals a new entry has started.**
+1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering.
 2. *Cover*: path to cover art image file (`.png`, `.jpg`)
 3. *Engine*: string of valid engine entry
 4. *Setup*: string (package, command, text)
