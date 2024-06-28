@@ -49,11 +49,24 @@ The following parts will soon be changed:
 
 **Important Notes**:
 
+*
 * **TABS** are currently **mandatory** where listed below!!
 * Exactly **one blank line before a new entry** is mandatory!
 * Add new entries to the bottom of the file (used to be alphabetical order, but this is not necessary anymore).
 
-Currently **17** lines per entry, **in the following order**:
+`openbsd-games.db` uses a TAB-based key-value format:
+```
+Key<tab>Value
+```
+
+Currently **17 keys per entry**. All keys **must** be entered. For unused keys, list the key without `<tab>Value`, like in this example for `Hints`:
+```
+Store	https://example.org/
+Hints
+Genre	Action
+```
+
+Adhere to the following order of keys:
 
 1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering.
 2. *Cover*: path to cover art image file (`.png`, `.jpg`)
