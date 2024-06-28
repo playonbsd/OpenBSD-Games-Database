@@ -49,7 +49,6 @@ The following parts will soon be changed:
 
 **Important Notes**:
 
-*
 * **TABS** are currently **mandatory** where listed below!!
 * Exactly **one blank line before a new entry** is mandatory!
 * Add new entries to the bottom of the file (used to be alphabetical order, but this is not necessary anymore).
