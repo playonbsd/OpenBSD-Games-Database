@@ -7427,9 +7427,9 @@ Year	2011
 Dev	Tribute Games
 Pub
 Version
-Status	0 - needs mono path fixes
+Status	2 - crashes in GameOver state
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2024-06-28
 IgdbId	1364
 
 Game	Woodland Empire

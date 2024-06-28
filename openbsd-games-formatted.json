@@ -12740,10 +12740,10 @@
     "Runtime": "",
     "Setup": "fnaify",
     "Status": {
-      "StatusComment": "- needs mono path fixes",
+      "StatusComment": "- crashes in GameOver state",
       "StatusDate": "",
-      "StatusNumber": "0",
-      "StatusText": "doesn't launch"
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://www.humblebundle.com/store/wizorb",
@@ -12752,7 +12752,7 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2023-05-07T00:00:00.000Z",
+    "Updated": "2024-06-28T00:00:00.000Z",
     "Version": "",
     "Year": "2011-01-01T00:00:00.000Z"
   },
