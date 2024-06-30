@@ -954,6 +954,37 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-06-30T00:00:00.000Z",
+    "Dev": "Bananamanhatguy",
+    "Engine": "Godot",
+    "Game": "Bananaguy 2",
+    "Genre": [
+      "Strategy"
+    ],
+    "Hints": "",
+    "IgdbId": "247604",
+    "Pub": "Bananamanhatguy",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2346890/Bananaguy/"
+    ],
+    "Tags": [
+      "humor",
+      "indie",
+      "quirky"
+    ],
+    "Updated": "2024-06-30T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Turning Wheel LLC",
     "Engine": "",
