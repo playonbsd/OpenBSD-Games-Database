@@ -6270,6 +6270,37 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-06-30T00:00:00.000Z",
+    "Dev": "Soju and Ink",
+    "Engine": "Godot",
+    "Game": "Lil Baby Poop's NIGHTMARE",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "IgdbId": "231185",
+    "Pub": "Soju and Ink",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2195720/Lil_Baby_Poops_NIGHTMARES/"
+    ],
+    "Tags": [
+      "cartoon",
+      "hand-drawn",
+      "retro"
+    ],
+    "Updated": "2024-06-30T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-04-22T00:00:00.000Z",
     "Dev": "Monolith of Minds",
     "Engine": "Godot",
