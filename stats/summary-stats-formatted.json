@@ -99,14 +99,14 @@
       "2024-06-22T00:00:00.000Z": 1,
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
-      "2024-06-30T00:00:00.000Z": 1
+      "2024-06-30T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 26
+      "2024-01-01T00:00:00.000Z": 27
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -137,7 +137,7 @@
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
-      "2024-06-01T00:00:00.000Z": 8
+      "2024-06-01T00:00:00.000Z": 9
     }
   },
   "Engine": {
@@ -148,7 +148,7 @@
     "FNA": 78,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 110,
+    "Godot": 111,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -638,7 +638,8 @@
     "Defendor",
     "Downfall: Redux",
     "The Dagger of Amon Ra",
-    "Lil Baby Poop's NIGHTMARE"
+    "Lil Baby Poop's NIGHTMARE",
+    "Legendary Creatures"
   ],
   "Genre": {
     "Action": 40,
@@ -695,7 +696,7 @@
     "Spacesim": 1,
     "Sports": 1,
     "Stealth Platformer": 1,
-    "Strategy": 7,
+    "Strategy": 8,
     "Survival": 3,
     "Top-Down Shooter": 1,
     "Tower Defense": 2,
@@ -712,7 +713,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 93,
+    "IndieRunner": 94,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -850,19 +851,19 @@
       "2024-06-22T00:00:00.000Z": 1,
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
-      "2024-06-30T00:00:00.000Z": 1
+      "2024-06-30T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 265,
+      "launches": 266,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 265,
+      "1": 266,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -880,7 +881,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 374,
+    "https://store.steampowered.com/": 375,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -975,7 +976,7 @@
     "horror": 8,
     "humor": 11,
     "idler": 1,
-    "indie": 179,
+    "indie": 180,
     "indie classic": 1,
     "investigation": 1,
     "local multiplayer": 1,
@@ -1020,7 +1021,7 @@
     "relaxing": 4,
     "retro": 35,
     "robots": 1,
-    "roguelike": 2,
+    "roguelike": 3,
     "roguelite": 25,
     "running": 1,
     "scifi": 6,
@@ -1116,13 +1117,13 @@
       "2024-06-23T00:00:00.000Z": 3,
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-28T00:00:00.000Z": 1,
-      "2024-06-30T00:00:00.000Z": 1
+      "2024-06-30T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 111,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 31
+      "2024-01-01T00:00:00.000Z": 32
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 111,
@@ -1140,7 +1141,7 @@
       "2024-03-01T00:00:00.000Z": 3,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
-      "2024-06-01T00:00:00.000Z": 11
+      "2024-06-01T00:00:00.000Z": 12
     }
   },
   "Year": {
@@ -1173,7 +1174,7 @@
     "2017": 21,
     "2018": 27,
     "2019": 24,
-    "2020": 26,
+    "2020": 27,
     "2021": 47,
     "2022": 36,
     "2023": 25,

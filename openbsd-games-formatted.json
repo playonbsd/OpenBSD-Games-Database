@@ -6271,6 +6271,36 @@
   },
   {
     "Added": "2024-06-30T00:00:00.000Z",
+    "Dev": "HideChara",
+    "Engine": "Godot",
+    "Game": "Legendary Creatures",
+    "Genre": [
+      "Strategy"
+    ],
+    "Hints": "",
+    "IgdbId": "128256",
+    "Pub": "HideChara",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-06-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1191840/Legend_Creatures/"
+    ],
+    "Tags": [
+      "indie",
+      "roguelike"
+    ],
+    "Updated": "2024-06-30T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-06-30T00:00:00.000Z",
     "Dev": "Soju and Ink",
     "Engine": "Godot",
     "Game": "Lil Baby Poop's NIGHTMARE",
