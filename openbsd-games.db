@@ -2578,7 +2578,7 @@ Engine	LibGDX
 Setup
 Runtime
 Store	https://bynine.itch.io/forestssecret
-Hints	https://brynet.biz.tm/pub/openbsd_forests_secret.sh.txt brynet's setup script
+Hints	see launch script: https://brynet.ca/pub/openbsd_forests_secret.sh.txt, or try libgdx-{setup,run} in libgdx port or IndieRunner
 Genre	Adventure
 Tags	free
 Year	2018
@@ -2587,7 +2587,7 @@ Pub
 Version
 Status
 Added	1970-01-01
-Updated	1970-01-01
+Updated	2024-07-06
 IgdbId	138716
 
 Game	The Forestale

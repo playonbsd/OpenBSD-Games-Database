@@ -4217,7 +4217,7 @@
     "Genre": [
       "Adventure"
     ],
-    "Hints": "https://brynet.biz.tm/pub/openbsd_forests_secret.sh.txt brynet's setup script",
+    "Hints": "see launch script: https://brynet.ca/pub/openbsd_forests_secret.sh.txt, or try libgdx-{setup,run} in libgdx port or IndieRunner",
     "IgdbId": "138716",
     "Pub": "",
     "Runtime": "",
@@ -4234,7 +4234,7 @@
     "Tags": [
       "free"
     ],
-    "Updated": "1970-01-01T00:00:00.000Z",
+    "Updated": "2024-07-06T00:00:00.000Z",
     "Version": "",
     "Year": "2018-01-01T00:00:00.000Z"
   },
