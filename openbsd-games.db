@@ -8043,3 +8043,39 @@ Status	1 (2024-07-13)
 Added	2024-07-13
 Updated	2024-07-13
 IgdbId	210901
+
+Game	Hexpire
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://store.steampowered.com/app/2792760/Hexpire/
+Hints
+Genre	City Builder
+Tags	indie, minimalist, hex
+Year	2024
+Dev	DoughnutDev
+Pub	DoughnutDev
+Version	1.2
+Status	1 (2024-07-13)
+Added	2024-07-13
+Updated	2024-07-13
+IgdbId	292944
+
+Game	Void Wizard
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://store.steampowered.com/app/2717810/Void_Wizard/
+Hints
+Genre	FPS
+Tags	indie, pixel, wizard, magic, roguelike
+Year	2024
+Dev	Antique Gear Games
+Pub	Antique Gear Games
+Version
+Status	1 (2024-07-13)
+Added	2024-07-13
+Updated	2024-07-13
+IgdbId	280133

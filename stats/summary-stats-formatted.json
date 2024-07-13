@@ -100,14 +100,14 @@
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
-      "2024-07-13T00:00:00.000Z": 1
+      "2024-07-13T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 29
+      "2024-01-01T00:00:00.000Z": 31
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -139,7 +139,7 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
-      "2024-07-01T00:00:00.000Z": 1
+      "2024-07-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -150,7 +150,7 @@
     "FNA": 78,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 113,
+    "Godot": 115,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -643,7 +643,9 @@
     "Lil Baby Poop's NIGHTMARE",
     "Legendary Creatures",
     "Bananaguy 2",
-    "A Castle Full of Cats"
+    "A Castle Full of Cats",
+    "Hexpire",
+    "Void Wizard"
   ],
   "Genre": {
     "Action": 40,
@@ -655,12 +657,12 @@
     "Boardgame": 1,
     "Brawler": 4,
     "Card Game": 6,
-    "City Builder": 2,
+    "City Builder": 3,
     "Colony Sim": 2,
     "Deckbuilder": 1,
     "Dungeon Crawler": 4,
     "FMV": 1,
-    "FPS": 33,
+    "FPS": 34,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 1,
@@ -857,19 +859,19 @@
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
-      "2024-07-13T00:00:00.000Z": 1
+      "2024-07-13T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 268,
+      "launches": 270,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 268,
+      "1": 270,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -887,7 +889,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 377,
+    "https://store.steampowered.com/": 379,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -976,17 +978,19 @@
     "halloween": 1,
     "hand-drawn": 1,
     "hard": 1,
+    "hex": 1,
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
     "horror": 8,
     "humor": 12,
     "idler": 1,
-    "indie": 182,
+    "indie": 184,
     "indie classic": 1,
     "investigation": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
+    "magic": 1,
     "manga": 1,
     "match three": 1,
     "medieval": 2,
@@ -994,7 +998,7 @@
     "metroidvania": 1,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 6,
+    "minimalist": 7,
     "monochrome": 1,
     "multiplayer": 16,
     "mystery": 1,
@@ -1007,6 +1011,7 @@
     "openworld": 1,
     "philosophical": 1,
     "physics": 1,
+    "pixel": 1,
     "pixel art": 22,
     "pixelart": 6,
     "pixels": 3,
@@ -1027,7 +1032,7 @@
     "relaxing": 4,
     "retro": 35,
     "robots": 1,
-    "roguelike": 3,
+    "roguelike": 4,
     "roguelite": 25,
     "running": 1,
     "scifi": 6,
@@ -1055,6 +1060,7 @@
     "wargame": 1,
     "weird": 1,
     "wholesome": 1,
+    "wizard": 1,
     "word game": 4,
     "zach-like": 5,
     "zelda-like": 2,
@@ -1126,13 +1132,13 @@
       "2024-06-28T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-06T00:00:00.000Z": 1,
-      "2024-07-13T00:00:00.000Z": 1
+      "2024-07-13T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 35
+      "2024-01-01T00:00:00.000Z": 37
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1151,7 +1157,7 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
-      "2024-07-01T00:00:00.000Z": 2
+      "2024-07-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1188,6 +1194,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 26,
-    "2024": 10
+    "2024": 12
   }
 }

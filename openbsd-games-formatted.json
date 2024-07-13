@@ -5272,6 +5272,37 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-07-13T00:00:00.000Z",
+    "Dev": "DoughnutDev",
+    "Engine": "Godot",
+    "Game": "Hexpire",
+    "Genre": [
+      "City Builder"
+    ],
+    "Hints": "",
+    "IgdbId": "292944",
+    "Pub": "DoughnutDev",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-07-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2792760/Hexpire/"
+    ],
+    "Tags": [
+      "hex",
+      "indie",
+      "minimalist"
+    ],
+    "Updated": "2024-07-13T00:00:00.000Z",
+    "Version": "1.2",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "AlienWorks",
     "Engine": "Ren'Py",
@@ -12675,6 +12706,39 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-07-13T00:00:00.000Z",
+    "Dev": "Antique Gear Games",
+    "Engine": "Godot",
+    "Game": "Void Wizard",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "IgdbId": "280133",
+    "Pub": "Antique Gear Games",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-07-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2717810/Void_Wizard/"
+    ],
+    "Tags": [
+      "indie",
+      "magic",
+      "pixel",
+      "roguelike",
+      "wizard"
+    ],
+    "Updated": "2024-07-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
