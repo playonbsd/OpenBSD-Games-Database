@@ -99,14 +99,15 @@
       "2024-06-22T00:00:00.000Z": 1,
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
-      "2024-06-30T00:00:00.000Z": 3
+      "2024-06-30T00:00:00.000Z": 3,
+      "2024-07-13T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 28
+      "2024-01-01T00:00:00.000Z": 29
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -137,7 +138,8 @@
       "2024-03-01T00:00:00.000Z": 2,
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
-      "2024-06-01T00:00:00.000Z": 10
+      "2024-06-01T00:00:00.000Z": 10,
+      "2024-07-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -148,7 +150,7 @@
     "FNA": 78,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 112,
+    "Godot": 113,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -640,7 +642,8 @@
     "The Dagger of Amon Ra",
     "Lil Baby Poop's NIGHTMARE",
     "Legendary Creatures",
-    "Bananaguy 2"
+    "Bananaguy 2",
+    "A Castle Full of Cats"
   ],
   "Genre": {
     "Action": 40,
@@ -665,6 +668,7 @@
     "Flightsim": 1,
     "God Game": 1,
     "Hacking": 2,
+    "Hidden Object Puzzle": 1,
     "Horror": 3,
     "Idler": 1,
     "Immersive Sim": 2,
@@ -714,7 +718,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 95,
+    "IndieRunner": 96,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -852,19 +856,20 @@
       "2024-06-22T00:00:00.000Z": 1,
       "2024-06-23T00:00:00.000Z": 1,
       "2024-06-26T00:00:00.000Z": 1,
-      "2024-06-30T00:00:00.000Z": 3
+      "2024-06-30T00:00:00.000Z": 3,
+      "2024-07-13T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 267,
+      "launches": 268,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 267,
+      "1": 268,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -882,14 +887,14 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 376,
+    "https://store.steampowered.com/": 377,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 141,
+    "https://www.gog.com/": 142,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -930,7 +935,7 @@
     "cards": 1,
     "cartoon": 2,
     "casual": 4,
-    "cats": 4,
+    "cats": 5,
     "charity": 1,
     "chess": 1,
     "classic": 16,
@@ -941,7 +946,7 @@
     "conspiracy": 1,
     "crafting": 2,
     "crazy": 1,
-    "cute": 1,
+    "cute": 2,
     "cyberpunk": 3,
     "dark": 1,
     "dark fantasy": 1,
@@ -977,7 +982,7 @@
     "horror": 8,
     "humor": 12,
     "idler": 1,
-    "indie": 181,
+    "indie": 182,
     "indie classic": 1,
     "investigation": 1,
     "local multiplayer": 1,
@@ -1049,6 +1054,7 @@
     "voxel": 2,
     "wargame": 1,
     "weird": 1,
+    "wholesome": 1,
     "word game": 4,
     "zach-like": 5,
     "zelda-like": 2,
@@ -1119,13 +1125,14 @@
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-28T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
-      "2024-07-06T00:00:00.000Z": 1
+      "2024-07-06T00:00:00.000Z": 1,
+      "2024-07-13T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 34
+      "2024-01-01T00:00:00.000Z": 35
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1144,7 +1151,7 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
-      "2024-07-01T00:00:00.000Z": 1
+      "2024-07-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1179,7 +1186,7 @@
     "2019": 24,
     "2020": 27,
     "2021": 47,
-    "2022": 36,
+    "2022": 37,
     "2023": 26,
     "2024": 10
   }
