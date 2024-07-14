@@ -1,6 +1,10 @@
 # OpenBSD-Games-Database
 
-Repository of the database of (initially primarily commercial/proprietary) games that run on OpenBSD.
+Database of games that run on OpenBSD.
+
+## Scope
+
+Games that run on OpenBSD and are commercial/proprietary in nature and/or quality. At this point, any game with an [IGDB entry](https://www.igdb.com/) qualifies, and the occasional game without such an entry.
 
 ## How to Use
 
