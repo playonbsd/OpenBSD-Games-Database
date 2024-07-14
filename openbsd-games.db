@@ -8115,3 +8115,21 @@ Status	1 (2024-07-14)
 Added	2024-07-14
 Updated	2024-07-14
 IgdbId	2365
+
+Game	Vay
+Cover
+Engine	FNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://store.steampowered.com/app/2926110/Vay/
+Hints
+Genre	JRPG
+Tags	remake, retro, RPG, fantasy
+Year	2024
+Dev	SoMoGa Inc., SIMS Co. Ltd.
+Pub	SoMoGa Inc.
+Version	1.1
+Status	1 (2024-07-14)
+Added	2024-07-14
+Updated	2024-07-14
+IgdbId	304287

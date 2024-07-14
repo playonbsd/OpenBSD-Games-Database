@@ -12707,6 +12707,38 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-07-14T00:00:00.000Z",
+    "Dev": "SoMoGa Inc., SIMS Co. Ltd.",
+    "Engine": "FNA",
+    "Game": "Vay",
+    "Genre": [
+      "JRPG"
+    ],
+    "Hints": "",
+    "IgdbId": "304287",
+    "Pub": "SoMoGa Inc.",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-07-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2926110/Vay/"
+    ],
+    "Tags": [
+      "RPG",
+      "fantasy",
+      "remake",
+      "retro"
+    ],
+    "Updated": "2024-07-14T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-08-01T00:00:00.000Z",
     "Dev": "Nachtvlam",
     "Engine": "Godot",

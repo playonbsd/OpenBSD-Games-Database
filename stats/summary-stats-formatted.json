@@ -101,14 +101,14 @@
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-13T00:00:00.000Z": 3,
-      "2024-07-14T00:00:00.000Z": 2
+      "2024-07-14T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 33
+      "2024-01-01T00:00:00.000Z": 34
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -140,7 +140,7 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
-      "2024-07-01T00:00:00.000Z": 5
+      "2024-07-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
@@ -148,7 +148,7 @@
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
-    "FNA": 78,
+    "FNA": 79,
     "FontEngine": 1,
     "GZDoom": 11,
     "Godot": 115,
@@ -649,7 +649,8 @@
     "Hexpire",
     "Void Wizard",
     "Beyond All Reason",
-    "Battle for Wesnoth"
+    "Battle for Wesnoth",
+    "Vay"
   ],
   "Genre": {
     "Action": 40,
@@ -678,7 +679,7 @@
     "Horror": 3,
     "Idler": 1,
     "Immersive Sim": 2,
-    "JRPG": 1,
+    "JRPG": 2,
     "Life Sim": 1,
     "MMORPG": 1,
     "Management Simulator": 1,
@@ -724,7 +725,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 96,
+    "IndieRunner": 97,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -864,19 +865,19 @@
       "2024-06-26T00:00:00.000Z": 1,
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-13T00:00:00.000Z": 3,
-      "2024-07-14T00:00:00.000Z": 2
+      "2024-07-14T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 272,
+      "launches": 273,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 272,
+      "1": 273,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -894,7 +895,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 379,
+    "https://store.steampowered.com/": 380,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -920,7 +921,7 @@
     "Lovecraftian": 4,
     "NSFW": 1,
     "ROM": 2,
-    "RPG": 1,
+    "RPG": 2,
     "WW2": 1,
     "Zelda-like": 1,
     "action": 4,
@@ -966,7 +967,7 @@
     "early access": 20,
     "educational": 1,
     "exploration": 1,
-    "fantasy": 9,
+    "fantasy": 10,
     "farming": 1,
     "female protagonist": 2,
     "first-person": 7,
@@ -1038,7 +1039,8 @@
     "quirky": 3,
     "racing": 1,
     "relaxing": 4,
-    "retro": 35,
+    "remake": 1,
+    "retro": 36,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
@@ -1141,13 +1143,13 @@
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-06T00:00:00.000Z": 1,
       "2024-07-13T00:00:00.000Z": 3,
-      "2024-07-14T00:00:00.000Z": 2
+      "2024-07-14T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 39
+      "2024-01-01T00:00:00.000Z": 40
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1166,7 +1168,7 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
-      "2024-07-01T00:00:00.000Z": 6
+      "2024-07-01T00:00:00.000Z": 7
     }
   },
   "Year": {
@@ -1203,6 +1205,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 26,
-    "2024": 12
+    "2024": 13
   }
 }
