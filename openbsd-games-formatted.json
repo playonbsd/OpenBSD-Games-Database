@@ -1051,6 +1051,35 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-07-14T00:00:00.000Z",
+    "Dev": "",
+    "Engine": "",
+    "Game": "Battle for Wesnoth",
+    "Genre": [
+      "Turn-Based Tactics"
+    ],
+    "Hints": "",
+    "IgdbId": "2365",
+    "Pub": "",
+    "Runtime": "wesnoth",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-07-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [],
+    "Tags": [
+      "fantasy",
+      "free",
+      "open-source engine"
+    ],
+    "Updated": "2024-07-14T00:00:00.000Z",
+    "Version": "1.18.2",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Kaan Alpar",
     "Engine": "Godot",

@@ -8097,3 +8097,21 @@ Status	1 (2024-07-14)
 Added	2024-07-14
 Updated	2024-07-14
 IgdbId	133655
+
+Game	Battle for Wesnoth
+Cover
+Engine
+Setup
+Runtime	wesnoth
+Store
+Hints
+Genre	Turn-Based Tactics
+Tags	open-source engine, free, fantasy
+Year
+Dev
+Pub
+Version	1.18.2
+Status	1 (2024-07-14)
+Added	2024-07-14
+Updated	2024-07-14
+IgdbId	2365
