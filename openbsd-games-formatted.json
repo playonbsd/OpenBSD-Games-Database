@@ -5332,6 +5332,36 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-07-27T00:00:00.000Z",
+    "Dev": "Edetanorum Games",
+    "Engine": "Godot",
+    "Game": "Hexis",
+    "Genre": [
+      "Arcade"
+    ],
+    "Hints": "",
+    "IgdbId": "291582",
+    "Pub": "Edetanorum Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-07-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2764350/Hexis/"
+    ],
+    "Tags": [
+      "Tetris-like",
+      "casual"
+    ],
+    "Updated": "2024-07-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-13T00:00:00.000Z",
     "Dev": "DoughnutDev",
     "Engine": "Godot",

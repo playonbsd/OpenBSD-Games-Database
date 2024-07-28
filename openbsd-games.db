@@ -8133,3 +8133,21 @@ Status	1 (2024-07-14)
 Added	2024-07-14
 Updated	2024-07-14
 IgdbId	304287
+
+Game	Hexis
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2764350/Hexis/
+Hints
+Genre	Arcade
+Tags	casual, Tetris-like
+Year	2024
+Dev	Edetanorum Games
+Pub	Edetanorum Games
+Version
+Status	1 (2024-07-27)
+Added	2024-07-27
+Updated	2024-07-27
+IgdbId	291582
