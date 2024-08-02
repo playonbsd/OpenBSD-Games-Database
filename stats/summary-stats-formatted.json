@@ -102,14 +102,15 @@
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
-      "2024-07-27T00:00:00.000Z": 1
+      "2024-07-27T00:00:00.000Z": 1,
+      "2024-08-01T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 35
+      "2024-01-01T00:00:00.000Z": 36
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -141,7 +142,8 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
-      "2024-07-01T00:00:00.000Z": 7
+      "2024-07-01T00:00:00.000Z": 7,
+      "2024-08-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -149,7 +151,7 @@
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
-    "FNA": 79,
+    "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 11,
     "Godot": 116,
@@ -652,7 +654,8 @@
     "Beyond All Reason",
     "Battle for Wesnoth",
     "Vay",
-    "Hexis"
+    "Hexis",
+    "Kitsune Tails"
   ],
   "Genre": {
     "Action": 40,
@@ -689,7 +692,7 @@
     "Metroidvania": 8,
     "Mining": 1,
     "Physics": 1,
-    "Platformer": 53,
+    "Platformer": 54,
     "Point & Click Adventure": 2,
     "Puzzle": 42,
     "Puzzle Game": 1,
@@ -728,7 +731,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 98,
+    "IndieRunner": 99,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -869,19 +872,20 @@
       "2024-06-30T00:00:00.000Z": 3,
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
-      "2024-07-27T00:00:00.000Z": 1
+      "2024-07-27T00:00:00.000Z": 1,
+      "2024-08-01T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 274,
+      "launches": 275,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 274,
+      "1": 275,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -895,11 +899,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 109,
+    "https://itch.io/": 110,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 381,
+    "https://store.steampowered.com/": 382,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -996,7 +1000,7 @@
     "horror": 8,
     "humor": 12,
     "idler": 1,
-    "indie": 184,
+    "indie": 185,
     "indie classic": 1,
     "investigation": 1,
     "local multiplayer": 1,
@@ -1045,7 +1049,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 36,
+    "retro": 37,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
@@ -1149,13 +1153,14 @@
       "2024-07-06T00:00:00.000Z": 1,
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
-      "2024-07-27T00:00:00.000Z": 1
+      "2024-07-27T00:00:00.000Z": 1,
+      "2024-08-01T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 41
+      "2024-01-01T00:00:00.000Z": 42
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1174,7 +1179,8 @@
       "2024-04-01T00:00:00.000Z": 1,
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
-      "2024-07-01T00:00:00.000Z": 8
+      "2024-07-01T00:00:00.000Z": 8,
+      "2024-08-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1211,6 +1217,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 26,
-    "2024": 14
+    "2024": 15
   }
 }

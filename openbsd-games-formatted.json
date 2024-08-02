@@ -6155,6 +6155,37 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-01T00:00:00.000Z",
+    "Dev": "Kitsune Games",
+    "Engine": "FNA",
+    "Game": "Kitsune Tails",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "142469",
+    "Pub": "Kitsune Games, MidBoss LLC",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-01T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://eniko.itch.io/kitsunetails",
+      "https://store.steampowered.com/app/1325260/Kitsune_Tails/"
+    ],
+    "Tags": [
+      "indie",
+      "retro"
+    ],
+    "Updated": "2024-08-01T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-09-13T00:00:00.000Z",
     "Dev": "Gamedevs for Bernie",
     "Engine": "FNA",

@@ -8151,3 +8151,21 @@ Status	1 (2024-07-27)
 Added	2024-07-27
 Updated	2024-07-27
 IgdbId	291582
+
+Game	Kitsune Tails
+Cover
+Engine	FNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://eniko.itch.io/kitsunetails https://store.steampowered.com/app/1325260/Kitsune_Tails/
+Hints
+Genre	Platformer
+Tags	retro, indie
+Year	2024
+Dev	Kitsune Games
+Pub	Kitsune Games, MidBoss LLC
+Version
+Status	1 (2024-08-01)
+Added	2024-08-01
+Updated	2024-08-01
+IgdbId	142469
