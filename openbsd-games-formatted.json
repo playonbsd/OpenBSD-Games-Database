@@ -4425,6 +4425,37 @@
     "Year": "1999-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-01T00:00:00.000Z",
+    "Dev": "Frood Designs",
+    "Engine": "Godot",
+    "Game": "Frood Robotics",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "IgdbId": "294121",
+    "Pub": "Frood Designs",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-01T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2901010/Frood_Robotics/"
+    ],
+    "Tags": [
+      "Sokoban-style",
+      "programming",
+      "retro"
+    ],
+    "Updated": "2024-08-01T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-01-24T00:00:00.000Z",
     "Dev": "Proud Cipher Media Group",
     "Engine": "GZDoom",

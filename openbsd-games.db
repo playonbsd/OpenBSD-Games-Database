@@ -8169,3 +8169,21 @@ Status	1 (2024-08-01)
 Added	2024-08-01
 Updated	2024-08-01
 IgdbId	142469
+
+Game	Frood Robotics
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://store.steampowered.com/app/2901010/Frood_Robotics/
+Hints
+Genre	Puzzle
+Tags	Sokoban-style, programming, retro
+Year	2024
+Dev	Frood Designs
+Pub	Frood Designs
+Version
+Status	1 (2024-08-01)
+Added	2024-08-01
+Updated	2024-08-01
+IgdbId	294121
