@@ -121,6 +121,37 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-05T00:00:00.000Z",
+    "Dev": "Strangelet Games",
+    "Engine": "Love2D",
+    "Game": "ALL IN THE GAME: Crime Strategy",
+    "Genre": [
+      "TBS"
+    ],
+    "Hints": "needs luasteam 3.2.1",
+    "IgdbId": "",
+    "Pub": "Strangelet Games",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-05T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2346780/ALL_IN_THE_GAME_Crime_Strategy/"
+    ],
+    "Tags": [
+      "4X",
+      "crime",
+      "multiplayer"
+    ],
+    "Updated": "2024-08-05T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",

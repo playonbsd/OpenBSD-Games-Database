@@ -104,14 +104,14 @@
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
-      "2024-08-05T00:00:00.000Z": 1
+      "2024-08-05T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 38
+      "2024-01-01T00:00:00.000Z": 39
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -144,7 +144,7 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 3
+      "2024-08-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -166,7 +166,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 28,
+    "Love2D": 29,
     "Mohawk Engine": 2,
     "Mono": 3,
     "MonoGame": 7,
@@ -658,7 +658,8 @@
     "Hexis",
     "Kitsune Tails",
     "Frood Robotics",
-    "Under the Yoke"
+    "Under the Yoke",
+    "ALL IN THE GAME: Crime Strategy"
   ],
   "Genre": {
     "Action": 40,
@@ -719,6 +720,7 @@
     "Stealth Platformer": 1,
     "Strategy": 9,
     "Survival": 3,
+    "TBS": 1,
     "Top-Down Shooter": 1,
     "Tower Defense": 2,
     "Turn-Based Strategy": 2,
@@ -734,7 +736,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 100,
+    "IndieRunner": 101,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -877,19 +879,19 @@
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
-      "2024-08-05T00:00:00.000Z": 1
+      "2024-08-05T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 277,
+      "launches": 278,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 277,
+      "1": 278,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -907,7 +909,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 384,
+    "https://store.steampowered.com/": 385,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -925,7 +927,7 @@
     "2d": 1,
     "3D": 3,
     "3d": 1,
-    "4X": 2,
+    "4X": 3,
     "6DOF": 2,
     "80s": 1,
     "Castlevania-like": 1,
@@ -968,6 +970,7 @@
     "conspiracy": 1,
     "crafting": 2,
     "crazy": 1,
+    "crime": 1,
     "cute": 2,
     "cyberpunk": 3,
     "dark": 1,
@@ -1022,7 +1025,7 @@
     "mind-bending": 1,
     "minimalist": 7,
     "monochrome": 1,
-    "multiplayer": 16,
+    "multiplayer": 17,
     "mystery": 1,
     "mythology": 1,
     "nature": 1,
@@ -1162,13 +1165,13 @@
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
-      "2024-08-05T00:00:00.000Z": 1
+      "2024-08-05T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 44
+      "2024-01-01T00:00:00.000Z": 45
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1188,7 +1191,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 3
+      "2024-08-01T00:00:00.000Z": 4
     }
   },
   "Year": {

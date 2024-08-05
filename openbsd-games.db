@@ -8205,3 +8205,21 @@ Status	1 (2024-08-05)
 Added	2024-08-05
 Updated	2024-08-05
 IgdbId	268939
+
+Game	ALL IN THE GAME: Crime Strategy
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2346780/ALL_IN_THE_GAME_Crime_Strategy/
+Hints	needs luasteam 3.2.1
+Genre	TBS
+Tags	4X, crime, multiplayer
+Year
+Dev	Strangelet Games
+Pub	Strangelet Games
+Version
+Status	1 (2024-08-05)
+Added	2024-08-05
+Updated	2024-08-05
+IgdbId
