@@ -103,14 +103,15 @@
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
-      "2024-08-01T00:00:00.000Z": 2
+      "2024-08-01T00:00:00.000Z": 2,
+      "2024-08-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 37
+      "2024-01-01T00:00:00.000Z": 38
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -143,7 +144,7 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 2
+      "2024-08-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -154,7 +155,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 117,
+    "Godot": 118,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -656,7 +657,8 @@
     "Vay",
     "Hexis",
     "Kitsune Tails",
-    "Frood Robotics"
+    "Frood Robotics",
+    "Under the Yoke"
   ],
   "Genre": {
     "Action": 40,
@@ -710,7 +712,7 @@
     "Shoot'em Up": 7,
     "Shooter": 1,
     "Side-Scrolling Shooter": 1,
-    "Simulation": 7,
+    "Simulation": 8,
     "Slotmachine Game": 1,
     "Spacesim": 1,
     "Sports": 1,
@@ -732,7 +734,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 99,
+    "IndieRunner": 100,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -874,19 +876,20 @@
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
-      "2024-08-01T00:00:00.000Z": 2
+      "2024-08-01T00:00:00.000Z": 2,
+      "2024-08-05T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 276,
+      "launches": 277,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 276,
+      "1": 277,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -900,11 +903,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 110,
+    "https://itch.io/": 111,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 383,
+    "https://store.steampowered.com/": 384,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1002,9 +1005,10 @@
     "horror": 8,
     "humor": 12,
     "idler": 1,
-    "indie": 185,
+    "indie": 186,
     "indie classic": 1,
     "investigation": 1,
+    "life sim": 1,
     "local multiplayer": 1,
     "lovecraftian": 2,
     "magic": 1,
@@ -1157,13 +1161,14 @@
       "2024-07-13T00:00:00.000Z": 3,
       "2024-07-14T00:00:00.000Z": 3,
       "2024-07-27T00:00:00.000Z": 1,
-      "2024-08-01T00:00:00.000Z": 2
+      "2024-08-01T00:00:00.000Z": 2,
+      "2024-08-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 43
+      "2024-01-01T00:00:00.000Z": 44
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1183,7 +1188,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 2
+      "2024-08-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -1220,6 +1225,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 26,
-    "2024": 16
+    "2024": 17
   }
 }
