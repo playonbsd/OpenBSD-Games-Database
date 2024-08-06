@@ -105,14 +105,14 @@
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
       "2024-08-05T00:00:00.000Z": 2,
-      "2024-08-06T00:00:00.000Z": 1
+      "2024-08-06T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 40
+      "2024-01-01T00:00:00.000Z": 41
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -145,7 +145,7 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 5
+      "2024-08-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
@@ -156,7 +156,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 11,
-    "Godot": 119,
+    "Godot": 120,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -661,7 +661,8 @@
     "Frood Robotics",
     "Under the Yoke",
     "ALL IN THE GAME: Crime Strategy",
-    "Skycliffs"
+    "Skycliffs",
+    "Destroy The Monoliths"
   ],
   "Genre": {
     "Action": 40,
@@ -724,7 +725,7 @@
     "Survival": 3,
     "TBS": 1,
     "Top-Down Shooter": 1,
-    "Tower Defense": 2,
+    "Tower Defense": 3,
     "Turn-Based Strategy": 2,
     "Turn-Based Tactics": 16,
     "Twin-Stick Shooter": 5,
@@ -738,7 +739,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 102,
+    "IndieRunner": 103,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -882,19 +883,19 @@
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
       "2024-08-05T00:00:00.000Z": 2,
-      "2024-08-06T00:00:00.000Z": 1
+      "2024-08-06T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 279,
+      "launches": 280,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 279,
+      "1": 280,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -912,7 +913,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 386,
+    "https://store.steampowered.com/": 387,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -944,6 +945,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "action": 4,
+    "action roguelike": 1,
     "adventure": 2,
     "aliens": 1,
     "anime": 1,
@@ -1011,7 +1013,7 @@
     "horror": 8,
     "humor": 12,
     "idler": 1,
-    "indie": 187,
+    "indie": 188,
     "indie classic": 1,
     "investigation": 1,
     "life sim": 1,
@@ -1027,6 +1029,7 @@
     "military": 2,
     "mind-bending": 1,
     "minimalist": 7,
+    "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
     "mystery": 1,
@@ -1169,13 +1172,13 @@
       "2024-07-27T00:00:00.000Z": 1,
       "2024-08-01T00:00:00.000Z": 2,
       "2024-08-05T00:00:00.000Z": 2,
-      "2024-08-06T00:00:00.000Z": 1
+      "2024-08-06T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 46
+      "2024-01-01T00:00:00.000Z": 47
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1195,7 +1198,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 5
+      "2024-08-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1231,7 +1234,7 @@
     "2020": 27,
     "2021": 47,
     "2022": 37,
-    "2023": 26,
+    "2023": 27,
     "2024": 17
   }
 }

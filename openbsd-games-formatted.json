@@ -3079,6 +3079,37 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-06T00:00:00.000Z",
+    "Dev": "Radiant Sloth",
+    "Engine": "Godot",
+    "Game": "Destroy The Monoliths",
+    "Genre": [
+      "Tower Defense"
+    ],
+    "Hints": "",
+    "IgdbId": "244644",
+    "Pub": "Radiant Sloth",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2352000/Destroy_The_Monoliths/"
+    ],
+    "Tags": [
+      "action roguelike",
+      "indie",
+      "mining"
+    ],
+    "Updated": "2024-08-06T00:00:00.000Z",
+    "Version": "1.3",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Blizzard North",
     "Engine": "",

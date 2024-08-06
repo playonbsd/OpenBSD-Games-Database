@@ -8241,3 +8241,21 @@ Status	1 (2024-08-06)
 Added	2024-08-06
 Updated	2024-08-06
 IgdbId	190727
+
+Game	Destroy The Monoliths
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2352000/Destroy_The_Monoliths/
+Hints
+Genre	Tower Defense
+Tags	mining, indie, action roguelike
+Year	2023
+Dev	Radiant Sloth
+Pub	Radiant Sloth
+Version	1.3
+Status	1 (2024-08-06)
+Added	2024-08-06
+Updated	2024-08-06
+IgdbId	244644
