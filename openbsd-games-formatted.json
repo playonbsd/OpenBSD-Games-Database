@@ -9987,6 +9987,37 @@
     "Year": "2013-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-06T00:00:00.000Z",
+    "Dev": "Radiant Sloth",
+    "Engine": "Godot",
+    "Game": "Skycliffs",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "IgdbId": "190727",
+    "Pub": "Radiant Sloth",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1888200/Skycliffs/"
+    ],
+    "Tags": [
+      "bullet hell",
+      "early access",
+      "indie"
+    ],
+    "Updated": "2024-08-06T00:00:00.000Z",
+    "Version": "0.9.6d",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Mega Crit Games",
     "Engine": "LibGDX",

@@ -8223,3 +8223,21 @@ Status	1 (2024-08-05)
 Added	2024-08-05
 Updated	2024-08-05
 IgdbId
+
+Game	Skycliffs
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1888200/Skycliffs/
+Hints
+Genre	Action Roguelike
+Tags	bullet hell, indie, early access
+Year
+Dev	Radiant Sloth
+Pub	Radiant Sloth
+Version	0.9.6d
+Status	1 (2024-08-06)
+Added	2024-08-06
+Updated	2024-08-06
+IgdbId	190727
