@@ -8295,3 +8295,21 @@ Status	1 (2024-08-06)
 Added	2024-08-06
 Updated	2024-08-06
 IgdbId	301888
+
+Game	20 Small Mazes
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://fleb.itch.io/20-small-mazes https://store.steampowered.com/app/2570630/20_Small_Mazes/
+Hints
+Genre	Puzzler
+Tags	indie, free, casual
+Year	2024
+Dev	FLEB
+Pub	FLEB
+Version
+Status	1 (2024-08-07)
+Added	2024-08-07
+Updated	2024-08-07
+IgdbId	272249

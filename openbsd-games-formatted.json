@@ -31,6 +31,38 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-07T00:00:00.000Z",
+    "Dev": "FLEB",
+    "Engine": "Godot",
+    "Game": "20 Small Mazes",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "IgdbId": "272249",
+    "Pub": "FLEB",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-07T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://fleb.itch.io/20-small-mazes",
+      "https://store.steampowered.com/app/2570630/20_Small_Mazes/"
+    ],
+    "Tags": [
+      "casual",
+      "free",
+      "indie"
+    ],
+    "Updated": "2024-08-07T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-13T00:00:00.000Z",
     "Dev": "Devcats",
     "Engine": "Godot",
