@@ -12602,6 +12602,38 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-06T00:00:00.000Z",
+    "Dev": "Sigyaad Team",
+    "Engine": "GZDoom",
+    "Game": "Twilight Town: A Cyberpunk FPS",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "IgdbId": "260400",
+    "Pub": "Sigyaad Team",
+    "Runtime": "gzdoom",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2477140/Twilight_Town_A_Cyberpunk_FPS/"
+    ],
+    "Tags": [
+      "action",
+      "cyberpunk",
+      "gore",
+      "shooter"
+    ],
+    "Updated": "2024-08-06T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Eclipse Productions",
     "Engine": "",
