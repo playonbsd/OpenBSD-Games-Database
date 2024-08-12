@@ -2246,6 +2246,38 @@
     "Year": ""
   },
   {
+    "Added": "2024-08-12T00:00:00.000Z",
+    "Dev": "TACSOU",
+    "Engine": "Godot",
+    "Game": "Colored Effects",
+    "Genre": [
+      "Puzzle Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "211339",
+    "Pub": "TACSOU",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1892570/Colored_Effects/"
+    ],
+    "Tags": [
+      "2D",
+      "colors",
+      "indie",
+      "logic"
+    ],
+    "Updated": "2024-08-12T00:00:00.000Z",
+    "Version": "1.0.2.4",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "FNA",

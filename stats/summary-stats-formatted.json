@@ -107,14 +107,15 @@
       "2024-08-05T00:00:00.000Z": 2,
       "2024-08-06T00:00:00.000Z": 4,
       "2024-08-07T00:00:00.000Z": 1,
-      "2024-08-08T00:00:00.000Z": 1
+      "2024-08-08T00:00:00.000Z": 1,
+      "2024-08-12T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 45
+      "2024-01-01T00:00:00.000Z": 46
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -147,7 +148,7 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 10
+      "2024-08-01T00:00:00.000Z": 11
     }
   },
   "Engine": {
@@ -158,7 +159,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 123,
+    "Godot": 124,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -668,7 +669,8 @@
     "Twilight Town: A Cyberpunk FPS",
     "Knight Runner: Blade and Bolt",
     "20 Small Mazes",
-    "That's not my Neighbor"
+    "That's not my Neighbor",
+    "Colored Effects"
   ],
   "Genre": {
     "Action": 41,
@@ -709,7 +711,7 @@
     "Point & Click Adventure": 2,
     "Puzzle": 43,
     "Puzzle Game": 1,
-    "Puzzle Platformer": 14,
+    "Puzzle Platformer": 15,
     "Puzzler": 2,
     "RPG": 30,
     "RTS": 12,
@@ -745,7 +747,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 105,
+    "IndieRunner": 106,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -891,19 +893,20 @@
       "2024-08-05T00:00:00.000Z": 2,
       "2024-08-06T00:00:00.000Z": 4,
       "2024-08-07T00:00:00.000Z": 1,
-      "2024-08-08T00:00:00.000Z": 1
+      "2024-08-08T00:00:00.000Z": 1,
+      "2024-08-12T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 284,
+      "launches": 285,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 284,
+      "1": 285,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -921,7 +924,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 390,
+    "https://store.steampowered.com/": 391,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -935,7 +938,7 @@
     "https://www.solarus-games.org/": 1
   },
   "Tags": {
-    "2D": 5,
+    "2D": 6,
     "2d": 1,
     "3D": 3,
     "3d": 1,
@@ -979,6 +982,7 @@
     "co-op": 1,
     "collection": 1,
     "colorful": 2,
+    "colors": 1,
     "comedy": 3,
     "conspiracy": 1,
     "crafting": 2,
@@ -1021,11 +1025,12 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 191,
+    "indie": 192,
     "indie classic": 1,
     "investigation": 1,
     "life sim": 1,
     "local multiplayer": 1,
+    "logic": 1,
     "lovecraftian": 2,
     "magic": 1,
     "manga": 1,
@@ -1185,13 +1190,14 @@
       "2024-08-05T00:00:00.000Z": 2,
       "2024-08-06T00:00:00.000Z": 4,
       "2024-08-07T00:00:00.000Z": 1,
-      "2024-08-08T00:00:00.000Z": 1
+      "2024-08-08T00:00:00.000Z": 1,
+      "2024-08-12T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 51
+      "2024-01-01T00:00:00.000Z": 52
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1211,7 +1217,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 10
+      "2024-08-01T00:00:00.000Z": 11
     }
   },
   "Year": {
@@ -1247,7 +1253,7 @@
     "2020": 27,
     "2021": 47,
     "2022": 37,
-    "2023": 28,
+    "2023": 29,
     "2024": 20
   }
 }
