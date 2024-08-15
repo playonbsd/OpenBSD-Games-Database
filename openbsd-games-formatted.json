@@ -723,6 +723,37 @@
     "Year": "2007-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-15T00:00:00.000Z",
+    "Dev": "Franek, Max Cahill, Bibiki, Fayer",
+    "Engine": "Love2D",
+    "Game": "Arco",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "IgdbId": "263903",
+    "Pub": "Panic",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2366970/Arco/"
+    ],
+    "Tags": [
+      "adventure",
+      "indie",
+      "turn-based"
+    ],
+    "Updated": "2024-08-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Arkane Studios",
     "Engine": "",

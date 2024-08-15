@@ -8349,3 +8349,21 @@ Status	1 (2024-08-12)
 Added	2024-08-12
 Updated	2024-08-12
 IgdbId	211339
+
+Game	Arco
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2366970/Arco/
+Hints
+Genre	RPG
+Tags	indie, adventure, turn-based
+Year	2024
+Dev	Franek, Max Cahill, Bibiki, Fayer
+Pub	Panic
+Version
+Status	1 (2024-08-15)
+Added	2024-08-15
+Updated	2024-08-15
+IgdbId	263903
