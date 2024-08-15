@@ -4813,6 +4813,37 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-15T00:00:00.000Z",
+    "Dev": "AuntyGames",
+    "Engine": "Godot",
+    "Game": "Gourdlets",
+    "Genre": [
+      "City Builder"
+    ],
+    "Hints": "",
+    "IgdbId": "226469",
+    "Pub": "Future Friends Games, AuntyGames",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2013730/Gourdlets/"
+    ],
+    "Tags": [
+      "cute",
+      "pixel art",
+      "sandbox"
+    ],
+    "Updated": "2024-08-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Ogopogoid Entertainment",
     "Engine": "XNA",
