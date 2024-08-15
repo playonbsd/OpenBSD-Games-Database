@@ -109,14 +109,14 @@
       "2024-08-07T00:00:00.000Z": 1,
       "2024-08-08T00:00:00.000Z": 1,
       "2024-08-12T00:00:00.000Z": 1,
-      "2024-08-15T00:00:00.000Z": 1
+      "2024-08-15T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 47
+      "2024-01-01T00:00:00.000Z": 48
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -149,11 +149,11 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 12
+      "2024-08-01T00:00:00.000Z": 13
     }
   },
   "Engine": {
-    "Adventure Game Studio": 23,
+    "Adventure Game Studio": 24,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent Engine": 2,
@@ -672,7 +672,8 @@
     "20 Small Mazes",
     "That's not my Neighbor",
     "Colored Effects",
-    "Arco"
+    "Arco",
+    "The Crimson Diamond"
   ],
   "Genre": {
     "Action": 41,
@@ -680,7 +681,7 @@
     "Action Platformer": 11,
     "Action RPG": 9,
     "Action Roguelike": 5,
-    "Adventure": 43,
+    "Adventure": 44,
     "Arcade": 1,
     "Boardgame": 1,
     "Brawler": 4,
@@ -749,7 +750,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 107,
+    "IndieRunner": 108,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -897,19 +898,19 @@
       "2024-08-07T00:00:00.000Z": 1,
       "2024-08-08T00:00:00.000Z": 1,
       "2024-08-12T00:00:00.000Z": 1,
-      "2024-08-15T00:00:00.000Z": 1
+      "2024-08-15T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 286,
+      "launches": 287,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 286,
+      "1": 287,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -927,7 +928,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 392,
+    "https://store.steampowered.com/": 393,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1048,7 +1049,7 @@
     "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
-    "mystery": 1,
+    "mystery": 2,
     "mythology": 1,
     "nature": 1,
     "nerd culture": 1,
@@ -1081,7 +1082,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 38,
+    "retro": 39,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
@@ -1195,13 +1196,13 @@
       "2024-08-07T00:00:00.000Z": 1,
       "2024-08-08T00:00:00.000Z": 1,
       "2024-08-12T00:00:00.000Z": 1,
-      "2024-08-15T00:00:00.000Z": 1
+      "2024-08-15T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 53
+      "2024-01-01T00:00:00.000Z": 54
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1221,7 +1222,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 12
+      "2024-08-01T00:00:00.000Z": 13
     }
   },
   "Year": {
@@ -1258,6 +1259,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 29,
-    "2024": 21
+    "2024": 22
   }
 }

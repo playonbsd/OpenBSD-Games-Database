@@ -11938,6 +11938,36 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-15T00:00:00.000Z",
+    "Dev": "Julia Minamata",
+    "Engine": "Adventure Game Studio",
+    "Game": "The Crimson Diamond",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "119214",
+    "Pub": "Julia Minamata",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1098770/The_Crimson_Diamond/"
+    ],
+    "Tags": [
+      "mystery",
+      "retro"
+    ],
+    "Updated": "2024-08-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-06-26T00:00:00.000Z",
     "Dev": "Sierra",
     "Engine": "ScummVM",
