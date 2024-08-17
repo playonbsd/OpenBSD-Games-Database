@@ -6491,6 +6491,37 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-17T00:00:00.000Z",
+    "Dev": "Shiny Byte Studio",
+    "Engine": "Godot",
+    "Game": "Knights of the Road",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "243213",
+    "Pub": "Shiny Byte Studio",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2324390/Knights_of_the_Road/"
+    ],
+    "Tags": [
+      "action",
+      "pixel graphics",
+      "retro"
+    ],
+    "Updated": "2024-08-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2021-12-22T00:00:00.000Z",
     "Dev": "derevotyan",
     "Engine": "Godot",

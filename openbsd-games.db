@@ -8403,3 +8403,21 @@ Status	1 (2024-08-15)
 Added	2024-08-15
 Updated	2024-08-15
 IgdbId	226469
+
+Game	Knights of the Road
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://store.steampowered.com/app/2324390/Knights_of_the_Road/
+Hints
+Genre	Platformer
+Tags	retro, action, pixel graphics
+Year	2024
+Dev	Shiny Byte Studio
+Pub	Shiny Byte Studio
+Version
+Status	1 (2024-08-17)
+Added	2024-08-17
+Updated	2024-08-17
+IgdbId	243213
