@@ -8421,3 +8421,21 @@ Status	1 (2024-08-17)
 Added	2024-08-17
 Updated	2024-08-17
 IgdbId	243213
+
+Game	Descent 3
+Cover
+Engine	Descent 3 open source engine
+Setup
+Runtime	Descent3
+Store	https://www.gog.com/en/game/descent_3_expansion https://store.steampowered.com/app/273590/Descent_3/
+Hints
+Genre	6DOF Shooter
+Tags	classic, action, scifi, vertigo
+Year	1999
+Dev	Outrage Entertainment
+Pub	Interplay Inc.
+Version	1.5.0
+Status	1 (2024-08-20)
+Added	2024-08-20
+Updated	2024-08-20
+IgdbId	667

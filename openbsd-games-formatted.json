@@ -3143,6 +3143,39 @@
     "Year": "1995-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-20T00:00:00.000Z",
+    "Dev": "Outrage Entertainment",
+    "Engine": "Descent 3 open source engine",
+    "Game": "Descent 3",
+    "Genre": [
+      "6DOF Shooter"
+    ],
+    "Hints": "",
+    "IgdbId": "667",
+    "Pub": "Interplay Inc.",
+    "Runtime": "Descent3",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/descent_3_expansion",
+      "https://store.steampowered.com/app/273590/Descent_3/"
+    ],
+    "Tags": [
+      "action",
+      "classic",
+      "scifi",
+      "vertigo"
+    ],
+    "Updated": "2024-08-20T00:00:00.000Z",
+    "Version": "1.5.0",
+    "Year": "1999-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Parallax Software",
     "Engine": "Descent Engine",
