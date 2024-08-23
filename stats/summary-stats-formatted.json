@@ -111,14 +111,15 @@
       "2024-08-12T00:00:00.000Z": 1,
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
-      "2024-08-20T00:00:00.000Z": 1
+      "2024-08-20T00:00:00.000Z": 1,
+      "2024-08-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 51
+      "2024-01-01T00:00:00.000Z": 52
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -151,11 +152,11 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 16
+      "2024-08-01T00:00:00.000Z": 17
     }
   },
   "Engine": {
-    "Adventure Game Studio": 24,
+    "Adventure Game Studio": 25,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -679,7 +680,8 @@
     "The Crimson Diamond",
     "Gourdlets",
     "Knights of the Road",
-    "Descent 3"
+    "Descent 3",
+    "The Legend of Skye"
   ],
   "Genre": {
     "6DOF Shooter": 1,
@@ -718,7 +720,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 55,
-    "Point & Click Adventure": 2,
+    "Point & Click Adventure": 3,
     "Puzzle": 43,
     "Puzzle Game": 1,
     "Puzzle Platformer": 15,
@@ -757,7 +759,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 108,
+    "IndieRunner": 109,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -907,19 +909,20 @@
       "2024-08-12T00:00:00.000Z": 1,
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
-      "2024-08-20T00:00:00.000Z": 1
+      "2024-08-20T00:00:00.000Z": 1,
+      "2024-08-23T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 290,
+      "launches": 291,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 290,
+      "1": 291,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -937,14 +940,14 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 396,
+    "https://store.steampowered.com/": 397,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 143,
+    "https://www.gog.com/": 144,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1038,7 +1041,7 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 193,
+    "indie": 194,
     "indie classic": 1,
     "investigation": 1,
     "life sim": 1,
@@ -1092,7 +1095,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 40,
+    "retro": 41,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
@@ -1210,13 +1213,14 @@
       "2024-08-12T00:00:00.000Z": 1,
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
-      "2024-08-20T00:00:00.000Z": 1
+      "2024-08-20T00:00:00.000Z": 1,
+      "2024-08-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 57
+      "2024-01-01T00:00:00.000Z": 58
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1236,7 +1240,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 16
+      "2024-08-01T00:00:00.000Z": 17
     }
   },
   "Year": {
@@ -1273,6 +1277,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 29,
-    "2024": 24
+    "2024": 25
   }
 }
