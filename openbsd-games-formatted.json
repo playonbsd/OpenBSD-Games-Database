@@ -4522,6 +4522,39 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-24T00:00:00.000Z",
+    "Dev": "Gingertips Game Studio",
+    "Engine": "Wintermute",
+    "Game": "FoxTail",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "86383",
+    "Pub": "Artem Vodoriz",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/foxtail",
+      "https://store.steampowered.com/app/581360/FoxTail/"
+    ],
+    "Tags": [
+      "early access",
+      "indie",
+      "pixelart",
+      "retro"
+    ],
+    "Updated": "2024-08-24T00:00:00.000Z",
+    "Version": "1.2.902",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Solo Byte Games",
     "Engine": "Godot",
@@ -11227,6 +11260,40 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-08-24T00:00:00.000Z",
+    "Dev": "Cloak and Dagger Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "Sumatra: Fate of Yandi",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "110416",
+    "Pub": "Cloak and Dagger Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://shaun9991.itch.io/sumatra-fate-of-yandi",
+      "https://www.gog.com/en/game/sumatra_fate_of_yandi",
+      "https://store.steampowered.com/app/610900/Sumatra_Fate_of_Yandi/"
+    ],
+    "Tags": [
+      "indie",
+      "investigation",
+      "retro",
+      "story-rich"
+    ],
+    "Updated": "2024-08-24T00:00:00.000Z",
+    "Version": "1.2",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

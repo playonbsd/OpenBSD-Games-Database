@@ -8457,3 +8457,39 @@ Status	1 (2024-08-23)
 Added	2024-08-23
 Updated	2024-08-23
 IgdbId	239802
+
+Game	FoxTail
+Cover
+Engine	Wintermute
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/foxtail https://store.steampowered.com/app/581360/FoxTail/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, retro, pixelart, early access
+Year
+Dev	Gingertips Game Studio
+Pub	Artem Vodoriz
+Version	1.2.902
+Status	1 (2024-08-24)
+Added	2024-08-24
+Updated	2024-08-24
+IgdbId	86383
+
+Game	Sumatra: Fate of Yandi
+Cover
+Engine	Adventure Game Studio
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://shaun9991.itch.io/sumatra-fate-of-yandi https://www.gog.com/en/game/sumatra_fate_of_yandi https://store.steampowered.com/app/610900/Sumatra_Fate_of_Yandi/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, retro, investigation, story-rich
+Year	2019
+Dev	Cloak and Dagger Games
+Pub	Cloak and Dagger Games
+Version	1.2
+Status	1 (2024-08-24)
+Added	2024-08-24
+Updated	2024-08-24
+IgdbId	110416

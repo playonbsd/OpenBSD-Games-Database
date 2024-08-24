@@ -112,14 +112,15 @@
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
-      "2024-08-23T00:00:00.000Z": 1
+      "2024-08-23T00:00:00.000Z": 1,
+      "2024-08-24T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 52
+      "2024-01-01T00:00:00.000Z": 54
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -152,11 +153,11 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 17
+      "2024-08-01T00:00:00.000Z": 19
     }
   },
   "Engine": {
-    "Adventure Game Studio": 25,
+    "Adventure Game Studio": 26,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -199,6 +200,7 @@
     "T-Engine 4": 1,
     "Toon": 1,
     "Virtual Theatre": 2,
+    "Wintermute": 1,
     "XNA": 24,
     "amnesia-tdd": 1,
     "custom engine": 1,
@@ -681,7 +683,9 @@
     "Gourdlets",
     "Knights of the Road",
     "Descent 3",
-    "The Legend of Skye"
+    "The Legend of Skye",
+    "FoxTail",
+    "Sumatra: Fate of Yandi"
   ],
   "Genre": {
     "6DOF Shooter": 1,
@@ -720,7 +724,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 55,
-    "Point & Click Adventure": 3,
+    "Point & Click Adventure": 5,
     "Puzzle": 43,
     "Puzzle Game": 1,
     "Puzzle Platformer": 15,
@@ -759,7 +763,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 109,
+    "IndieRunner": 111,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -910,19 +914,20 @@
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
-      "2024-08-23T00:00:00.000Z": 1
+      "2024-08-23T00:00:00.000Z": 1,
+      "2024-08-24T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 291,
+      "launches": 293,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 291,
+      "1": 293,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -936,18 +941,18 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 113,
+    "https://itch.io/": 114,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 397,
+    "https://store.steampowered.com/": 399,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 144,
+    "https://www.gog.com/": 146,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1014,7 +1019,7 @@
     "dice": 1,
     "dungeoncrawler": 4,
     "dystopian": 1,
-    "early access": 21,
+    "early access": 22,
     "educational": 1,
     "exploration": 1,
     "fantasy": 10,
@@ -1041,9 +1046,9 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 194,
+    "indie": 196,
     "indie classic": 1,
-    "investigation": 1,
+    "investigation": 2,
     "life sim": 1,
     "local multiplayer": 1,
     "logic": 1,
@@ -1076,7 +1081,7 @@
     "pixel": 1,
     "pixel art": 23,
     "pixel graphics": 1,
-    "pixelart": 6,
+    "pixelart": 7,
     "pixels": 3,
     "platformer": 5,
     "point & click": 2,
@@ -1095,7 +1100,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 41,
+    "retro": 43,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
@@ -1111,6 +1116,7 @@
     "spooky": 1,
     "stealth": 3,
     "steampunk": 1,
+    "story-rich": 1,
     "strategy": 1,
     "surreal": 1,
     "survival": 3,
@@ -1214,13 +1220,14 @@
       "2024-08-15T00:00:00.000Z": 3,
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
-      "2024-08-23T00:00:00.000Z": 1
+      "2024-08-23T00:00:00.000Z": 1,
+      "2024-08-24T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 58
+      "2024-01-01T00:00:00.000Z": 60
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1240,7 +1247,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 17
+      "2024-08-01T00:00:00.000Z": 19
     }
   },
   "Year": {
@@ -1272,7 +1279,7 @@
     "2016": 25,
     "2017": 21,
     "2018": 27,
-    "2019": 24,
+    "2019": 25,
     "2020": 27,
     "2021": 47,
     "2022": 37,
