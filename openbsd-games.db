@@ -8493,3 +8493,21 @@ Status	1 (2024-08-24)
 Added	2024-08-24
 Updated	2024-08-24
 IgdbId	110416
+
+Game	Bring the Chickens Home
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2529740/Bring_The_Chickens_Home/
+Hints
+Genre	Action Roguelike
+Tags	indie, voxel, action, over-the-top, animals, violence
+Year	2024
+Dev	Clyde Smets
+Pub	Clyde Smets
+Version	1.0.0
+Status	1 (2024-08-28)
+Added	2024-08-28
+Updated	2024-08-28
+IgdbId	260520

@@ -113,14 +113,15 @@
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
       "2024-08-23T00:00:00.000Z": 1,
-      "2024-08-24T00:00:00.000Z": 2
+      "2024-08-24T00:00:00.000Z": 2,
+      "2024-08-28T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 54
+      "2024-01-01T00:00:00.000Z": 55
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -153,7 +154,7 @@
       "2024-05-01T00:00:00.000Z": 11,
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
-      "2024-08-01T00:00:00.000Z": 19
+      "2024-08-01T00:00:00.000Z": 20
     }
   },
   "Engine": {
@@ -165,7 +166,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 126,
+    "Godot": 127,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -685,7 +686,8 @@
     "Descent 3",
     "The Legend of Skye",
     "FoxTail",
-    "Sumatra: Fate of Yandi"
+    "Sumatra: Fate of Yandi",
+    "Bring the Chickens Home"
   ],
   "Genre": {
     "6DOF Shooter": 1,
@@ -693,7 +695,7 @@
     "Action Adventure": 2,
     "Action Platformer": 11,
     "Action RPG": 9,
-    "Action Roguelike": 5,
+    "Action Roguelike": 6,
     "Adventure": 44,
     "Arcade": 1,
     "Boardgame": 1,
@@ -763,7 +765,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 111,
+    "IndieRunner": 112,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -915,19 +917,20 @@
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
       "2024-08-23T00:00:00.000Z": 1,
-      "2024-08-24T00:00:00.000Z": 2
+      "2024-08-24T00:00:00.000Z": 2,
+      "2024-08-28T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 293,
+      "launches": 294,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 293,
+      "1": 294,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -945,7 +948,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 399,
+    "https://store.steampowered.com/": 400,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -976,10 +979,11 @@
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
-    "action": 7,
+    "action": 8,
     "action roguelike": 1,
     "adventure": 3,
     "aliens": 1,
+    "animals": 1,
     "anime": 1,
     "arcade": 4,
     "arena shooter": 1,
@@ -1046,7 +1050,7 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 196,
+    "indie": 197,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1076,6 +1080,7 @@
     "open-source": 3,
     "open-source engine": 2,
     "openworld": 1,
+    "over-the-top": 1,
     "philosophical": 1,
     "physics": 1,
     "pixel": 1,
@@ -1131,7 +1136,8 @@
     "vertigo": 1,
     "viking": 1,
     "villain protagonist": 1,
-    "voxel": 2,
+    "violence": 1,
+    "voxel": 3,
     "wargame": 1,
     "weird": 1,
     "wholesome": 1,
@@ -1221,13 +1227,14 @@
       "2024-08-17T00:00:00.000Z": 1,
       "2024-08-20T00:00:00.000Z": 1,
       "2024-08-23T00:00:00.000Z": 1,
-      "2024-08-24T00:00:00.000Z": 2
+      "2024-08-24T00:00:00.000Z": 2,
+      "2024-08-28T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 60
+      "2024-01-01T00:00:00.000Z": 61
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1247,7 +1254,7 @@
       "2024-05-01T00:00:00.000Z": 12,
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
-      "2024-08-01T00:00:00.000Z": 19
+      "2024-08-01T00:00:00.000Z": 20
     }
   },
   "Year": {
@@ -1284,6 +1291,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 29,
-    "2024": 25
+    "2024": 26
   }
 }

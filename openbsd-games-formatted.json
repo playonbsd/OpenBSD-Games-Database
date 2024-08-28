@@ -1547,6 +1547,40 @@
     "Year": "2011-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-08-28T00:00:00.000Z",
+    "Dev": "Clyde Smets",
+    "Engine": "Godot",
+    "Game": "Bring the Chickens Home",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "IgdbId": "260520",
+    "Pub": "Clyde Smets",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-08-28T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2529740/Bring_The_Chickens_Home/"
+    ],
+    "Tags": [
+      "action",
+      "animals",
+      "indie",
+      "over-the-top",
+      "violence",
+      "voxel"
+    ],
+    "Updated": "2024-08-28T00:00:00.000Z",
+    "Version": "1.0.0",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Revolution Software",
     "Engine": "Virtual Theatre",
