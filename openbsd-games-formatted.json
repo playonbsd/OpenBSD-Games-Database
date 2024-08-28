@@ -1554,7 +1554,7 @@
     "Genre": [
       "Action Roguelike"
     ],
-    "Hints": "",
+    "Hints": "needs addons/godotsteam/x11/libgodotsteam.so (manual build needed currently)",
     "IgdbId": "260520",
     "Pub": "Clyde Smets",
     "Runtime": "godot",

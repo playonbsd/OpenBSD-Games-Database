@@ -8500,7 +8500,7 @@ Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2529740/Bring_The_Chickens_Home/
-Hints
+Hints	needs addons/godotsteam/x11/libgodotsteam.so (manual build needed currently)
 Genre	Action Roguelike
 Tags	indie, voxel, action, over-the-top, animals, violence
 Year	2024
