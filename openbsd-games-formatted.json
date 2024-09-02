@@ -6267,6 +6267,70 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-02T00:00:00.000Z",
+    "Dev": "Shin'en Multimedia, Piko Interactive",
+    "Engine": "",
+    "Game": "Iridion 3D",
+    "Genre": [
+      "Shoot'Em Up"
+    ],
+    "Hints": "run file res/game (need to rename to game.gba to run with mednafen)",
+    "IgdbId": "6449",
+    "Pub": "Majesco Entertainment",
+    "Runtime": "mgba, mednafen",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1132220/Iridion_3D/"
+    ],
+    "Tags": [
+      "ROM",
+      "classic",
+      "retro",
+      "scifi"
+    ],
+    "Updated": "2024-09-02T00:00:00.000Z",
+    "Version": "",
+    "Year": "2001-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-09-02T00:00:00.000Z",
+    "Dev": "Shin'en Multimedia, Piko Interactive",
+    "Engine": "",
+    "Game": "Iridion II",
+    "Genre": [
+      "Shoot'Em Up"
+    ],
+    "Hints": "run file res/game (need to rename to game.gba to run with mednafen)",
+    "IgdbId": "6450",
+    "Pub": "Majesco Entertainment",
+    "Runtime": "mgba, mednafen",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1132230/Iridion_II/"
+    ],
+    "Tags": [
+      "ROM",
+      "classic",
+      "retro",
+      "scifi"
+    ],
+    "Updated": "2024-09-02T00:00:00.000Z",
+    "Version": "",
+    "Year": "2003-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Sir-tech Software Inc.",
     "Engine": "",

@@ -8511,3 +8511,39 @@ Status	1 (2024-08-28)
 Added	2024-08-28
 Updated	2024-08-28
 IgdbId	260520
+
+Game	Iridion II
+Cover
+Engine
+Setup
+Runtime	mgba, mednafen
+Store	https://store.steampowered.com/app/1132230/Iridion_II/
+Hints	run file res/game (need to rename to game.gba to run with mednafen)
+Genre	Shoot'Em Up
+Tags	retro, ROM, classic, scifi
+Year	2003
+Dev	Shin'en Multimedia, Piko Interactive
+Pub	Majesco Entertainment
+Version
+Status	1 (2024-09-02)
+Added	2024-09-02
+Updated	2024-09-02
+IgdbId	6450
+
+Game	Iridion 3D
+Cover
+Engine
+Setup
+Runtime	mgba, mednafen
+Store	https://store.steampowered.com/app/1132220/Iridion_3D/
+Hints	run file res/game (need to rename to game.gba to run with mednafen)
+Genre	Shoot'Em Up
+Tags	retro, ROM, classic, scifi
+Year	2001
+Dev	Shin'en Multimedia, Piko Interactive
+Pub	Majesco Entertainment
+Version
+Status	1 (2024-09-02)
+Added	2024-09-02
+Updated	2024-09-02
+IgdbId	6449
