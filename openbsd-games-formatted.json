@@ -12521,6 +12521,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-02T00:00:00.000Z",
+    "Dev": "AuraTummyache",
+    "Engine": "Godot",
+    "Game": "The Last Craftsman",
+    "Genre": [
+      "Life Simulator"
+    ],
+    "Hints": "",
+    "IgdbId": "229937",
+    "Pub": "AuraTummyache",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2238440/The_Last_Craftsman/",
+      "https://tummyache.itch.io/the-last-craftsman"
+    ],
+    "Tags": [
+      "adventure",
+      "cozy",
+      "early access",
+      "indie"
+    ],
+    "Updated": "2024-09-02T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "2024-08-23T00:00:00.000Z",
     "Dev": "Point & Pixel Adventures",
     "Engine": "Adventure Game Studio",

@@ -115,14 +115,14 @@
       "2024-08-23T00:00:00.000Z": 1,
       "2024-08-24T00:00:00.000Z": 2,
       "2024-08-28T00:00:00.000Z": 1,
-      "2024-09-02T00:00:00.000Z": 2
+      "2024-09-02T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 57
+      "2024-01-01T00:00:00.000Z": 58
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -156,7 +156,7 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 2
+      "2024-09-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -168,7 +168,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 127,
+    "Godot": 128,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -691,7 +691,8 @@
     "Sumatra: Fate of Yandi",
     "Bring the Chickens Home",
     "Iridion II",
-    "Iridion 3D"
+    "Iridion 3D",
+    "The Last Craftsman"
   ],
   "Genre": {
     "6DOF Shooter": 1,
@@ -724,6 +725,7 @@
     "Immersive Sim": 2,
     "JRPG": 2,
     "Life Sim": 1,
+    "Life Simulator": 1,
     "MMORPG": 1,
     "Management Simulator": 1,
     "Metroidvania": 8,
@@ -770,7 +772,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 112,
+    "IndieRunner": 113,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -924,19 +926,19 @@
       "2024-08-23T00:00:00.000Z": 1,
       "2024-08-24T00:00:00.000Z": 2,
       "2024-08-28T00:00:00.000Z": 1,
-      "2024-09-02T00:00:00.000Z": 2
+      "2024-09-02T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 296,
+      "launches": 297,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 296,
+      "1": 297,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -950,11 +952,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 114,
+    "https://itch.io/": 115,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 402,
+    "https://store.steampowered.com/": 403,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -987,7 +989,7 @@
     "Zelda-like": 1,
     "action": 8,
     "action roguelike": 1,
-    "adventure": 3,
+    "adventure": 4,
     "aliens": 1,
     "animals": 1,
     "anime": 1,
@@ -1016,6 +1018,7 @@
     "colors": 1,
     "comedy": 3,
     "conspiracy": 1,
+    "cozy": 1,
     "crafting": 2,
     "crazy": 1,
     "crime": 1,
@@ -1029,7 +1032,7 @@
     "dice": 1,
     "dungeoncrawler": 4,
     "dystopian": 1,
-    "early access": 22,
+    "early access": 23,
     "educational": 1,
     "exploration": 1,
     "fantasy": 10,
@@ -1056,7 +1059,7 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 197,
+    "indie": 198,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1235,13 +1238,13 @@
       "2024-08-23T00:00:00.000Z": 1,
       "2024-08-24T00:00:00.000Z": 2,
       "2024-08-28T00:00:00.000Z": 1,
-      "2024-09-02T00:00:00.000Z": 2
+      "2024-09-02T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 63
+      "2024-01-01T00:00:00.000Z": 64
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1262,7 +1265,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 2
+      "2024-09-01T00:00:00.000Z": 3
     }
   },
   "Year": {
