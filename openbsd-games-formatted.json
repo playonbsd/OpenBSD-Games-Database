@@ -4884,6 +4884,36 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-07T00:00:00.000Z",
+    "Dev": "Vidvad Games",
+    "Engine": "Godot",
+    "Game": "Goliath Depot",
+    "Genre": [
+      "Arcade Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "260432",
+    "Pub": "Vidvad Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-07T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2479030/Goliath_Depot/"
+    ],
+    "Tags": [
+      "indie",
+      "retro"
+    ],
+    "Updated": "2024-09-07T00:00:00.000Z",
+    "Version": "1.013",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Lone Wulf Studio LLC",
     "Engine": "Godot",

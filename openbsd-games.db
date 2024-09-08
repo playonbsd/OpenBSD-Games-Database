@@ -8565,3 +8565,21 @@ Status	1 (2024-09-02)
 Added	2024-09-02
 Updated	2024-09-02
 IgdbId	229937
+
+Game	Goliath Depot
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2479030/Goliath_Depot/
+Hints
+Genre	Arcade Platformer
+Tags	indie, retro
+Year	2023
+Dev	Vidvad Games
+Pub	Vidvad Games
+Version	1.013
+Status	1 (2024-09-07)
+Added	2024-09-07
+Updated	2024-09-07
+IgdbId	260432
