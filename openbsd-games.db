@@ -8583,3 +8583,21 @@ Status	1 (2024-09-07)
 Added	2024-09-07
 Updated	2024-09-07
 IgdbId	260432
+
+Game	Oh My Git!
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://blinry.itch.io/oh-my-git
+Hints
+Genre	Programming Puzzle
+Tags	indie, free, open source
+Year	2020
+Dev	blinry, bleeptrack
+Pub
+Version	0.6.5
+Status	1 (2024-09-10)
+Added	2024-09-10
+Updated	2024-09-10
+IgdbId

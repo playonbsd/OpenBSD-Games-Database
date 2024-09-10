@@ -8321,6 +8321,37 @@
     "Year": ""
   },
   {
+    "Added": "2024-09-10T00:00:00.000Z",
+    "Dev": "blinry, bleeptrack",
+    "Engine": "Godot",
+    "Game": "Oh My Git!",
+    "Genre": [
+      "Programming Puzzle"
+    ],
+    "Hints": "",
+    "IgdbId": "",
+    "Pub": "",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://blinry.itch.io/oh-my-git"
+    ],
+    "Tags": [
+      "free",
+      "indie",
+      "open source"
+    ],
+    "Updated": "2024-09-10T00:00:00.000Z",
+    "Version": "0.6.5",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-11-09T00:00:00.000Z",
     "Dev": "Yokcos",
     "Engine": "Godot",
