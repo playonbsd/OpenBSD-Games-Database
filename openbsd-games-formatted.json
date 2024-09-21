@@ -13109,6 +13109,38 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-21T00:00:00.000Z",
+    "Dev": "Napas Torteeka",
+    "Engine": "Godot",
+    "Game": "Town Keeper",
+    "Genre": [
+      "City Builder"
+    ],
+    "Hints": "",
+    "IgdbId": "316863",
+    "Pub": "Napas Torteeka",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-21T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3104510/Town_Keeper/"
+    ],
+    "Tags": [
+      "animals",
+      "cute",
+      "indie",
+      "pixel graphics"
+    ],
+    "Updated": "2024-09-21T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-07-15T00:00:00.000Z",
     "Dev": "Odyssey Entertainment",
     "Engine": "Godot",

@@ -117,14 +117,15 @@
       "2024-08-28T00:00:00.000Z": 1,
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
-      "2024-09-10T00:00:00.000Z": 1
+      "2024-09-10T00:00:00.000Z": 1,
+      "2024-09-21T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 60
+      "2024-01-01T00:00:00.000Z": 61
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -158,7 +159,7 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 5
+      "2024-09-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
@@ -170,7 +171,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 130,
+    "Godot": 131,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -696,7 +697,8 @@
     "Iridion 3D",
     "The Last Craftsman",
     "Goliath Depot",
-    "Oh My Git!"
+    "Oh My Git!",
+    "Town Keeper"
   ],
   "Genre": {
     "6DOF Shooter": 1,
@@ -711,7 +713,7 @@
     "Boardgame": 1,
     "Brawler": 4,
     "Card Game": 6,
-    "City Builder": 4,
+    "City Builder": 5,
     "Colony Sim": 2,
     "Deckbuilder": 1,
     "Dungeon Crawler": 4,
@@ -778,7 +780,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 115,
+    "IndieRunner": 116,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -934,19 +936,20 @@
       "2024-08-28T00:00:00.000Z": 1,
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
-      "2024-09-10T00:00:00.000Z": 1
+      "2024-09-10T00:00:00.000Z": 1,
+      "2024-09-21T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 299,
+      "launches": 300,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 299,
+      "1": 300,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -964,7 +967,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 404,
+    "https://store.steampowered.com/": 405,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -999,7 +1002,7 @@
     "action roguelike": 1,
     "adventure": 4,
     "aliens": 1,
-    "animals": 1,
+    "animals": 2,
     "anime": 1,
     "arcade": 4,
     "arena shooter": 1,
@@ -1030,7 +1033,7 @@
     "crafting": 2,
     "crazy": 1,
     "crime": 1,
-    "cute": 3,
+    "cute": 4,
     "cyberpunk": 4,
     "dark": 1,
     "dark fantasy": 1,
@@ -1067,7 +1070,7 @@
     "horror": 9,
     "humor": 12,
     "idler": 1,
-    "indie": 200,
+    "indie": 201,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1103,7 +1106,7 @@
     "physics": 1,
     "pixel": 1,
     "pixel art": 23,
-    "pixel graphics": 1,
+    "pixel graphics": 2,
     "pixelart": 7,
     "pixels": 3,
     "platformer": 5,
@@ -1249,13 +1252,14 @@
       "2024-08-28T00:00:00.000Z": 1,
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
-      "2024-09-10T00:00:00.000Z": 1
+      "2024-09-10T00:00:00.000Z": 1,
+      "2024-09-21T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 66
+      "2024-01-01T00:00:00.000Z": 67
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1276,7 +1280,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 5
+      "2024-09-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1313,6 +1317,6 @@
     "2021": 47,
     "2022": 37,
     "2023": 30,
-    "2024": 26
+    "2024": 27
   }
 }
