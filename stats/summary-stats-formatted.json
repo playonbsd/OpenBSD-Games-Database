@@ -118,14 +118,15 @@
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
       "2024-09-10T00:00:00.000Z": 1,
-      "2024-09-21T00:00:00.000Z": 1
+      "2024-09-21T00:00:00.000Z": 1,
+      "2024-09-22T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 61
+      "2024-01-01T00:00:00.000Z": 65
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -159,7 +160,7 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 6
+      "2024-09-01T00:00:00.000Z": 10
     }
   },
   "Engine": {
@@ -171,7 +172,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 131,
+    "Godot": 135,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -698,13 +699,17 @@
     "The Last Craftsman",
     "Goliath Depot",
     "Oh My Git!",
-    "Town Keeper"
+    "Town Keeper",
+    "Game of Squares",
+    "Dungeons & Keyboards",
+    "Brawn, Scorn and Ammo",
+    "Monster Bullets"
   ],
   "Genre": {
     "6DOF Shooter": 1,
     "Action": 41,
     "Action Adventure": 2,
-    "Action Platformer": 11,
+    "Action Platformer": 12,
     "Action RPG": 9,
     "Action Roguelike": 6,
     "Adventure": 44,
@@ -723,6 +728,7 @@
     "Farming Simulation": 1,
     "Farming Simulator": 1,
     "Fighting Game": 1,
+    "First Person Shooter": 1,
     "Flightsim": 1,
     "God Game": 1,
     "Hacking": 2,
@@ -742,7 +748,7 @@
     "Point & Click Adventure": 5,
     "Programming Puzzle": 1,
     "Puzzle": 43,
-    "Puzzle Game": 1,
+    "Puzzle Game": 2,
     "Puzzle Platformer": 15,
     "Puzzler": 2,
     "RPG": 31,
@@ -770,6 +776,7 @@
     "Turn-Based Strategy": 2,
     "Turn-Based Tactics": 16,
     "Twin-Stick Shooter": 5,
+    "Typing Game": 1,
     "Visual Novel": 3,
     "arcade": 1,
     "dungeoncrawler": 2,
@@ -780,7 +787,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 116,
+    "IndieRunner": 119,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -937,19 +944,20 @@
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
       "2024-09-10T00:00:00.000Z": 1,
-      "2024-09-21T00:00:00.000Z": 1
+      "2024-09-21T00:00:00.000Z": 1,
+      "2024-09-22T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 300,
+      "launches": 304,
       "major bugs": 16,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 300,
+      "1": 304,
       "2": 16,
       "3": 6,
       "4": 1,
@@ -963,11 +971,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 116,
+    "https://itch.io/": 117,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 405,
+    "https://store.steampowered.com/": 408,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -998,7 +1006,7 @@
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
-    "action": 8,
+    "action": 9,
     "action roguelike": 1,
     "adventure": 4,
     "aliens": 1,
@@ -1018,7 +1026,7 @@
     "bullet hell": 5,
     "cards": 1,
     "cartoon": 2,
-    "casual": 6,
+    "casual": 7,
     "cats": 5,
     "charity": 1,
     "chess": 1,
@@ -1036,7 +1044,7 @@
     "cute": 4,
     "cyberpunk": 4,
     "dark": 1,
-    "dark fantasy": 1,
+    "dark fantasy": 2,
     "dark humor": 1,
     "deckbuilder": 3,
     "detective": 4,
@@ -1046,12 +1054,12 @@
     "early access": 23,
     "educational": 1,
     "exploration": 1,
-    "fantasy": 10,
+    "fantasy": 11,
     "farming": 1,
     "female protagonist": 2,
     "first-person": 7,
     "free": 29,
-    "furry": 1,
+    "furry": 2,
     "gambling": 1,
     "genre-defining": 2,
     "gore": 8,
@@ -1068,14 +1076,14 @@
     "high-brow": 2,
     "historical": 1,
     "horror": 9,
-    "humor": 12,
+    "humor": 13,
     "idler": 1,
-    "indie": 201,
+    "indie": 205,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
     "local multiplayer": 1,
-    "logic": 1,
+    "logic": 2,
     "lovecraftian": 2,
     "magic": 1,
     "manga": 1,
@@ -1126,13 +1134,13 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 46,
+    "retro": 49,
     "robots": 1,
     "roguelike": 4,
     "roguelite": 25,
     "running": 1,
     "sandbox": 1,
-    "scifi": 10,
+    "scifi": 11,
     "settlers": 1,
     "shooter": 1,
     "short": 1,
@@ -1253,13 +1261,14 @@
       "2024-09-02T00:00:00.000Z": 3,
       "2024-09-07T00:00:00.000Z": 1,
       "2024-09-10T00:00:00.000Z": 1,
-      "2024-09-21T00:00:00.000Z": 1
+      "2024-09-21T00:00:00.000Z": 1,
+      "2024-09-22T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 67
+      "2024-01-01T00:00:00.000Z": 71
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1280,7 +1289,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 6
+      "2024-09-01T00:00:00.000Z": 10
     }
   },
   "Year": {
@@ -1316,7 +1325,7 @@
     "2020": 28,
     "2021": 47,
     "2022": 37,
-    "2023": 30,
-    "2024": 27
+    "2023": 31,
+    "2024": 30
   }
 }

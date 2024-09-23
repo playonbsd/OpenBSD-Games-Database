@@ -1518,6 +1518,38 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-22T00:00:00.000Z",
+    "Dev": "CritCorsac",
+    "Engine": "Godot",
+    "Game": "Brawn, Scorn and Ammo",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "",
+    "Pub": "CritCorsac",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://critcorsac.itch.io/brawn-scorn-and-ammo"
+    ],
+    "Tags": [
+      "furry",
+      "indie",
+      "retro",
+      "scifi"
+    ],
+    "Updated": "2024-09-22T00:00:00.000Z",
+    "Version": "1.0.2",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Zeboyd Games",
     "Engine": "XNA",
@@ -3801,6 +3833,38 @@
     "Year": "1998-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-22T00:00:00.000Z",
+    "Dev": "Corgibox",
+    "Engine": "Godot",
+    "Game": "Dungeons & Keyboards",
+    "Genre": [
+      "Typing Game"
+    ],
+    "Hints": "",
+    "IgdbId": "250953",
+    "Pub": "Corgibox",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2066680/Dungeons__Keyboards/"
+    ],
+    "Tags": [
+      "fantasy",
+      "humor",
+      "indie",
+      "retro"
+    ],
+    "Updated": "2024-09-22T00:00:00.000Z",
+    "Version": "1.1.1",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Humble Hearts",
     "Engine": "FNA",
@@ -4795,6 +4859,37 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-09-22T00:00:00.000Z",
+    "Dev": "Kartik Narayanan",
+    "Engine": "Godot",
+    "Game": "Game of Squares",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "IgdbId": "309946",
+    "Pub": "Kartik Narayanan",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3088680/Game_of_Squares/"
+    ],
+    "Tags": [
+      "casual",
+      "indie",
+      "logic"
+    ],
+    "Updated": "2024-09-22T00:00:00.000Z",
+    "Version": "1.2",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -7794,6 +7889,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-09-22T00:00:00.000Z",
+    "Dev": "schemesmith",
+    "Engine": "Godot",
+    "Game": "Monster Bullets",
+    "Genre": [
+      "First Person Shooter"
+    ],
+    "Hints": "",
+    "IgdbId": "217093",
+    "Pub": "schemesmith",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2056090/Monster_Bullets/"
+    ],
+    "Tags": [
+      "action",
+      "dark fantasy",
+      "indie",
+      "retro"
+    ],
+    "Updated": "2024-09-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "2022-11-29T00:00:00.000Z",

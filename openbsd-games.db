@@ -8619,3 +8619,75 @@ Status	1 (2024-09-21)
 Added	2024-09-21
 Updated	2024-09-21
 IgdbId	316863
+
+Game	Game of Squares
+Cover
+Engine	Godot
+Setup
+Runtime	godot4
+Store	https://store.steampowered.com/app/3088680/Game_of_Squares/
+Hints
+Genre	Puzzle Game
+Tags	indie, casual, logic
+Year	2024
+Dev	Kartik Narayanan
+Pub	Kartik Narayanan
+Version	1.2
+Status	1 (2024-09-22)
+Added	2024-09-22
+Updated	2024-09-22
+IgdbId	309946
+
+Game	Dungeons & Keyboards
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2066680/Dungeons__Keyboards/
+Hints
+Genre	Typing Game
+Tags	indie, retro, fantasy, humor
+Year	2023
+Dev	Corgibox
+Pub	Corgibox
+Version	1.1.1
+Status	1 (2024-09-22)
+Added	2024-09-22
+Updated	2024-09-22
+IgdbId	250953
+
+Game	Brawn, Scorn and Ammo
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://critcorsac.itch.io/brawn-scorn-and-ammo
+Hints
+Genre	Action Platformer
+Tags	indie, retro, furry, scifi
+Year	2024
+Dev	CritCorsac
+Pub	CritCorsac
+Version	1.0.2
+Status	1 (2024-09-22)
+Added	2024-09-22
+Updated	2024-09-22
+IgdbId
+
+Game	Monster Bullets
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2056090/Monster_Bullets/
+Hints
+Genre	First Person Shooter
+Tags	indie, retro, action, dark fantasy
+Year	2024
+Dev	schemesmith
+Pub	schemesmith
+Version
+Status	1 (2024-09-22)
+Added	2024-09-22
+Updated	2024-09-22
+IgdbId	217093
