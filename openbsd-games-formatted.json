@@ -2343,6 +2343,41 @@
     "Year": ""
   },
   {
+    "Added": "2024-09-23T00:00:00.000Z",
+    "Dev": "Destrakz Games",
+    "Engine": "Godot",
+    "Game": "Cloaks and Capes",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "148471",
+    "Pub": "Destrakz Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-23T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1637950/Cloaks_and_Capes/"
+    ],
+    "Tags": [
+      "action",
+      "fantasy",
+      "fast-paced",
+      "free",
+      "indie",
+      "retro",
+      "roguelike"
+    ],
+    "Updated": "2024-09-23T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-12T00:00:00.000Z",
     "Dev": "TACSOU",
     "Engine": "Godot",
@@ -2845,6 +2880,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": ""
+  },
+  {
+    "Added": "2024-09-23T00:00:00.000Z",
+    "Dev": "Securas",
+    "Engine": "Godot",
+    "Game": "Daisy Dangerous",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "303832",
+    "Pub": "Securas",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-23T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2902320/Daisy_Dangerous/"
+    ],
+    "Tags": [
+      "action",
+      "free",
+      "indie",
+      "retro"
+    ],
+    "Updated": "2024-09-23T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

@@ -8691,3 +8691,39 @@ Status	1 (2024-09-22)
 Added	2024-09-22
 Updated	2024-09-22
 IgdbId	217093
+
+Game	Daisy Dangerous
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2902320/Daisy_Dangerous/
+Hints
+Genre	Platformer
+Tags	indie, retro, action, free
+Year	2024
+Dev	Securas
+Pub	Securas
+Version
+Status	1 (2024-09-23)
+Added	2024-09-23
+Updated	2024-09-23
+IgdbId	303832
+
+Game	Cloaks and Capes
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1637950/Cloaks_and_Capes/
+Hints
+Genre	Platformer
+Tags	indie, retro, action, free, roguelike, fast-paced, fantasy
+Year	2022
+Dev	Destrakz Games
+Pub	Destrakz Games
+Version
+Status	1 (2024-09-23)
+Added	2024-09-23
+Updated	2024-09-23
+IgdbId	148471
