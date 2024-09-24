@@ -959,14 +959,14 @@
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 307,
-      "major bugs": 16,
+      "launches": 306,
+      "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 307,
-      "2": 16,
+      "1": 306,
+      "2": 17,
       "3": 6,
       "4": 1,
       "5": 15

@@ -767,10 +767,10 @@
     "Runtime": "godot4",
     "Setup": "",
     "Status": {
-      "StatusComment": "",
+      "StatusComment": "after tutorial endless fall through floor",
       "StatusDate": "2024-09-24T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://the-water-museum.itch.io/arctic-eggs",
