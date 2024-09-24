@@ -754,6 +754,41 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-24T00:00:00.000Z",
+    "Dev": "The Water Museum",
+    "Engine": "Godot",
+    "Game": "Arctic Eggs",
+    "Genre": [
+      "Cooking"
+    ],
+    "Hints": "",
+    "IgdbId": "280931",
+    "Pub": "CRITICAL REFLEX",
+    "Runtime": "godot4",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://the-water-museum.itch.io/arctic-eggs",
+      "https://store.steampowered.com/app/2763670/Arctic_Eggs/"
+    ],
+    "Tags": [
+      "3d",
+      "dystopia",
+      "first person",
+      "indie",
+      "physics",
+      "surreal"
+    ],
+    "Updated": "2024-09-24T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Arkane Studios",
     "Engine": "",
