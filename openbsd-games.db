@@ -8745,3 +8745,21 @@ Status	2 (2024-09-24) after tutorial endless fall through floor
 Added	2024-09-24
 Updated	2024-09-24
 IgdbId	280931
+
+Game	A Solitaire Mystery
+Cover
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://hempuli.itch.io/a-solitaire-mystery
+Hints
+Genre	Card Game
+Tags	indie, puzzle
+Year
+Dev	Hempuli
+Pub
+Version	1.1
+Status	1 (2024-09-25)
+Added	2024-09-25
+Updated	2024-09-25
+IgdbId	297992

@@ -124,6 +124,36 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-25T00:00:00.000Z",
+    "Dev": "Hempuli",
+    "Engine": "Love2D",
+    "Game": "A Solitaire Mystery",
+    "Genre": [
+      "Card Game"
+    ],
+    "Hints": "",
+    "IgdbId": "297992",
+    "Pub": "",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://hempuli.itch.io/a-solitaire-mystery"
+    ],
+    "Tags": [
+      "indie",
+      "puzzle"
+    ],
+    "Updated": "2024-09-25T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "FNA",
