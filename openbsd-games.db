@@ -8763,3 +8763,21 @@ Status	1 (2024-09-25)
 Added	2024-09-25
 Updated	2024-09-25
 IgdbId	297992
+
+Game	Spring Dash
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2093070/Spring_Dash/
+Hints
+Genre	3D Platformer
+Tags	indie, action, parkour, fast
+Year	2024
+Dev	Dillon Steyl
+Pub	Dillon Steyl
+Version	1.0.2
+Status	1 (2024-09-25)
+Added	2024-09-25
+Updated	2024-09-25
+IgdbId	216723

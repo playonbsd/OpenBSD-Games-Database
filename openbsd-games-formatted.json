@@ -11253,6 +11253,38 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-25T00:00:00.000Z",
+    "Dev": "Dillon Steyl",
+    "Engine": "Godot",
+    "Game": "Spring Dash",
+    "Genre": [
+      "3D Platformer"
+    ],
+    "Hints": "",
+    "IgdbId": "216723",
+    "Pub": "Dillon Steyl",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2093070/Spring_Dash/"
+    ],
+    "Tags": [
+      "action",
+      "fast",
+      "indie",
+      "parkour"
+    ],
+    "Updated": "2024-09-25T00:00:00.000Z",
+    "Version": "1.0.2",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-09-08T00:00:00.000Z",
     "Dev": "Vadzim Liakhovich",
     "Engine": "Godot",
