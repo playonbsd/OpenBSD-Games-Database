@@ -1268,6 +1268,37 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-25T00:00:00.000Z",
+    "Dev": "Size Five Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "Ben There, Dan That!",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "9541",
+    "Pub": "Size Five Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/time_gentlemen_please_ben_there_dan_that",
+      "https://store.steampowered.com/app/37400/Time_Gentlemen_Please_and_Ben_There_Dan_That_Special_Edition__Double_Pack/"
+    ],
+    "Tags": [
+      "comedy",
+      "indie"
+    ],
+    "Updated": "2024-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2009-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Revolution Software",
     "Engine": "ScummVM",
@@ -1356,6 +1387,39 @@
     "Updated": "2023-05-04T00:00:00.000Z",
     "Version": "Demo",
     "Year": ""
+  },
+  {
+    "Added": "2024-09-25T00:00:00.000Z",
+    "Dev": "WatchDaToast",
+    "Engine": "Adventure Game Studio",
+    "Game": "Beyond the Edge of Owlsgard",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "173915",
+    "Pub": "Assemble Entertainment",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/beyond_the_edge_of_owlsgard",
+      "https://store.steampowered.com/app/1709730/Beyond_The_Edge_Of_Owlsgard/"
+    ],
+    "Tags": [
+      "animals",
+      "cute",
+      "indie",
+      "pixelart"
+    ],
+    "Updated": "2024-09-25T00:00:00.000Z",
+    "Version": "1.2.1",
+    "Year": "2022-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -13279,6 +13343,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-09-25T00:00:00.000Z",
+    "Dev": "Size Five Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "Time Gentlemen, Please!",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "IgdbId": "6253",
+    "Pub": "Size Five Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/time_gentlemen_please_ben_there_dan_that",
+      "https://store.steampowered.com/app/37400/Time_Gentlemen_Please_and_Ben_There_Dan_That_Special_Edition__Double_Pack/"
+    ],
+    "Tags": [
+      "comedy",
+      "indie"
+    ],
+    "Updated": "2024-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2009-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

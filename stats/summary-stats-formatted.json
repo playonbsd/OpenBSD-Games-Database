@@ -122,14 +122,14 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 3
+      "2024-09-25T00:00:00.000Z": 6
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 71
+      "2024-01-01T00:00:00.000Z": 74
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -163,11 +163,11 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 16
+      "2024-09-01T00:00:00.000Z": 19
     }
   },
   "Engine": {
-    "Adventure Game Studio": 26,
+    "Adventure Game Studio": 29,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -712,7 +712,10 @@
     "Arctic Eggs",
     "A Solitaire Mystery",
     "Spring Dash",
-    "Crossroad OS"
+    "Crossroad OS",
+    "Ben There, Dan That!",
+    "Time Gentlemen, Please!",
+    "Beyond the Edge of Owlsgard"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -722,7 +725,7 @@
     "Action Platformer": 12,
     "Action RPG": 9,
     "Action Roguelike": 6,
-    "Adventure": 44,
+    "Adventure": 47,
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Boardgame": 1,
@@ -798,7 +801,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 124,
+    "IndieRunner": 127,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -959,19 +962,19 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 3
+      "2024-09-25T00:00:00.000Z": 6
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 309,
+      "launches": 312,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 309,
+      "1": 312,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -989,14 +992,14 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 413,
+    "https://store.steampowered.com/": 416,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 146,
+    "https://www.gog.com/": 149,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1024,7 +1027,7 @@
     "action roguelike": 1,
     "adventure": 4,
     "aliens": 1,
-    "animals": 2,
+    "animals": 3,
     "anime": 1,
     "arcade": 4,
     "arena shooter": 1,
@@ -1049,13 +1052,13 @@
     "collection": 1,
     "colorful": 2,
     "colors": 1,
-    "comedy": 3,
+    "comedy": 5,
     "conspiracy": 1,
     "cozy": 1,
     "crafting": 2,
     "crazy": 1,
     "crime": 1,
-    "cute": 4,
+    "cute": 5,
     "cyberpunk": 4,
     "dark": 1,
     "dark fantasy": 2,
@@ -1096,7 +1099,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 211,
+    "indie": 214,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1134,7 +1137,7 @@
     "pixel": 1,
     "pixel art": 23,
     "pixel graphics": 2,
-    "pixelart": 7,
+    "pixelart": 8,
     "pixels": 3,
     "platformer": 5,
     "point & click": 2,
@@ -1284,13 +1287,13 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 3
+      "2024-09-25T00:00:00.000Z": 6
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 77
+      "2024-01-01T00:00:00.000Z": 80
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1311,7 +1314,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 16
+      "2024-09-01T00:00:00.000Z": 19
     }
   },
   "Year": {
@@ -1333,7 +1336,7 @@
     "2005": 1,
     "2006": 1,
     "2007": 1,
-    "2009": 2,
+    "2009": 4,
     "2010": 4,
     "2011": 12,
     "2012": 20,
@@ -1346,7 +1349,7 @@
     "2019": 25,
     "2020": 28,
     "2021": 47,
-    "2022": 38,
+    "2022": 39,
     "2023": 32,
     "2024": 33
   }
