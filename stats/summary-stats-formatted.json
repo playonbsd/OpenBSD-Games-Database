@@ -122,14 +122,14 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 2
+      "2024-09-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 70
+      "2024-01-01T00:00:00.000Z": 71
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -163,7 +163,7 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 15
+      "2024-09-01T00:00:00.000Z": 16
     }
   },
   "Engine": {
@@ -175,7 +175,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 139,
+    "Godot": 140,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -711,7 +711,8 @@
     "Cloaks and Capes",
     "Arctic Eggs",
     "A Solitaire Mystery",
-    "Spring Dash"
+    "Spring Dash",
+    "Crossroad OS"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -760,7 +761,7 @@
     "Puzzle": 43,
     "Puzzle Game": 2,
     "Puzzle Platformer": 15,
-    "Puzzler": 2,
+    "Puzzler": 3,
     "RPG": 31,
     "RTS": 12,
     "Racing": 1,
@@ -797,7 +798,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 123,
+    "IndieRunner": 124,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -958,19 +959,19 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 2
+      "2024-09-25T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 308,
+      "launches": 309,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 308,
+      "1": 309,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -988,7 +989,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 412,
+    "https://store.steampowered.com/": 413,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1067,7 +1068,7 @@
     "dystopian": 1,
     "early access": 23,
     "educational": 1,
-    "exploration": 1,
+    "exploration": 2,
     "fantasy": 12,
     "farming": 1,
     "fast": 1,
@@ -1095,7 +1096,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 210,
+    "indie": 211,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1115,7 +1116,7 @@
     "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
-    "mystery": 2,
+    "mystery": 3,
     "mythology": 1,
     "nature": 1,
     "nerd culture": 1,
@@ -1283,13 +1284,13 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 2
+      "2024-09-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 76
+      "2024-01-01T00:00:00.000Z": 77
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1310,7 +1311,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 15
+      "2024-09-01T00:00:00.000Z": 16
     }
   },
   "Year": {
@@ -1346,7 +1347,7 @@
     "2020": 28,
     "2021": 47,
     "2022": 38,
-    "2023": 31,
+    "2023": 32,
     "2024": 33
   }
 }
