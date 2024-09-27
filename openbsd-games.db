@@ -8853,3 +8853,21 @@ Status	1 (2024-09-25)
 Added	2024-09-25
 Updated	2024-09-25
 IgdbId	173915
+
+Game	Retro Kart Rush
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1877000/Retro_Kart_Rush/
+Hints
+Genre	Racing
+Tags	indie, retro, arcade, splitscreen
+Year	2022
+Dev	kurigamedev
+Pub	kurigamedev
+Version
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	192544

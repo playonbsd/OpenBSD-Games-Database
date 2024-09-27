@@ -9747,6 +9747,38 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "kurigamedev",
+    "Engine": "Godot",
+    "Game": "Retro Kart Rush",
+    "Genre": [
+      "Racing"
+    ],
+    "Hints": "",
+    "IgdbId": "192544",
+    "Pub": "kurigamedev",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1877000/Retro_Kart_Rush/"
+    ],
+    "Tags": [
+      "arcade",
+      "indie",
+      "retro",
+      "splitscreen"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",

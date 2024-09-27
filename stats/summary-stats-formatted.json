@@ -122,14 +122,15 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 6
+      "2024-09-25T00:00:00.000Z": 6,
+      "2024-09-27T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 74
+      "2024-01-01T00:00:00.000Z": 75
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -163,7 +164,7 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 19
+      "2024-09-01T00:00:00.000Z": 20
     }
   },
   "Engine": {
@@ -175,7 +176,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 140,
+    "Godot": 141,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -715,7 +716,8 @@
     "Crossroad OS",
     "Ben There, Dan That!",
     "Time Gentlemen, Please!",
-    "Beyond the Edge of Owlsgard"
+    "Beyond the Edge of Owlsgard",
+    "Retro Kart Rush"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -767,7 +769,7 @@
     "Puzzler": 3,
     "RPG": 31,
     "RTS": 12,
-    "Racing": 1,
+    "Racing": 2,
     "Rhythm Game": 1,
     "Roguelike": 1,
     "Roguelite": 5,
@@ -801,7 +803,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 127,
+    "IndieRunner": 128,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -962,19 +964,20 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 6
+      "2024-09-25T00:00:00.000Z": 6,
+      "2024-09-27T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 312,
+      "launches": 313,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 312,
+      "1": 313,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -992,7 +995,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 416,
+    "https://store.steampowered.com/": 417,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1029,7 +1032,7 @@
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 4,
+    "arcade": 5,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1099,7 +1102,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 214,
+    "indie": 215,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1156,7 +1159,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 51,
+    "retro": 52,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 25,
@@ -1169,6 +1172,7 @@
     "simulation": 1,
     "souls-like": 1,
     "space": 11,
+    "splitscreen": 1,
     "spooky": 1,
     "stealth": 3,
     "steampunk": 1,
@@ -1287,13 +1291,14 @@
       "2024-09-22T00:00:00.000Z": 4,
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
-      "2024-09-25T00:00:00.000Z": 6
+      "2024-09-25T00:00:00.000Z": 6,
+      "2024-09-27T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 80
+      "2024-01-01T00:00:00.000Z": 81
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1314,7 +1319,7 @@
       "2024-06-01T00:00:00.000Z": 13,
       "2024-07-01T00:00:00.000Z": 8,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 19
+      "2024-09-01T00:00:00.000Z": 20
     }
   },
   "Year": {
@@ -1349,7 +1354,7 @@
     "2019": 25,
     "2020": 28,
     "2021": 47,
-    "2022": 39,
+    "2022": 40,
     "2023": 32,
     "2024": 33
   }
