@@ -37,17 +37,11 @@ The following is needed to run the make(1) targets:
 
 ## Upcoming Changes
 
-The following fields are **deprecated** and **will soon be removed - adjust your scripts!**
-
-* `Cover`
-
 The following parts will soon be changed:
 
 * `Setup` will be renamed (likely to `Helper` or `Assistant`). It will be changed to a list and any custom setup instructions will be moved to `Hints`.
 * `Dev` will be expanded to `Developer` and `Pub` to `Publisher`
-* A new field `Id` for a unique numerical identifier.
 * A new field `Canonical` for a name without leading article and white-space turned to dashes.
-* Need for alphabetical orderin `openbsd-games.db` will be removed (scripts/users need to sort by `Canonical` once implemented).
 
 ## Format of openbsd-games.db
 
@@ -74,7 +68,7 @@ Genre	Action
 Adhere to the following order of keys:
 
 1. *Game*: string, leading "A " or "The " treated specially for alphabetic ordering.
-2. *Cover*: path to cover art image file (`.png`, `.jpg`)
+2. *Id*: integer, unique for each entry
 3. *Engine*: string of valid engine entry
 4. *Setup*: string (package, command, text)
 5. *Runtime*: string; should correspond to an executable in packages
