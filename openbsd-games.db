@@ -7633,7 +7633,7 @@ IgdbId	15063
 Game	Buckshot Roulette
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://mikeklubnika.itch.io/buckshot-roulette
 Hints
@@ -7645,7 +7645,7 @@ Pub	CRITICAL REFLEX
 Version
 Status	1 (2024-04-25)
 Added	2024-04-25
-Updated	2024-04-25
+Updated	2024-09-27
 IgdbId	281275
 
 Game	Tendryll
@@ -8047,7 +8047,7 @@ IgdbId	210901
 Game	Hexpire
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2792760/Hexpire/
 Hints
@@ -8059,13 +8059,13 @@ Pub	DoughnutDev
 Version	1.2
 Status	1 (2024-07-13)
 Added	2024-07-13
-Updated	2024-07-13
+Updated	2024-09-27
 IgdbId	292944
 
 Game	Void Wizard
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2717810/Void_Wizard/
 Hints
@@ -8077,7 +8077,7 @@ Pub	Antique Gear Games
 Version
 Status	1 (2024-07-13)
 Added	2024-07-13
-Updated	2024-07-13
+Updated	2024-09-27
 IgdbId	280133
 
 Game	Beyond All Reason
@@ -8173,7 +8173,7 @@ IgdbId	142469
 Game	Frood Robotics
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2901010/Frood_Robotics/
 Hints
@@ -8185,7 +8185,7 @@ Pub	Frood Designs
 Version
 Status	1 (2024-08-01)
 Added	2024-08-01
-Updated	2024-08-01
+Updated	2024-09-27
 IgdbId	294121
 
 Game	Under the Yoke
@@ -8317,7 +8317,7 @@ IgdbId	272249
 Game	That's not my Neighbor
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://nachogames.itch.io/thats-not-my-neighbor
 Hints
@@ -8329,8 +8329,8 @@ Pub	Nacho Sama
 Version	1.1.0.2
 Status	1 (2024-08-08)
 Added	2024-08-08
-Updated	2024-08-08
-IgdbId
+Updated	2024-09-27
+IgdbId	288935
 
 Game	Colored Effects
 Cover
@@ -8623,7 +8623,7 @@ IgdbId	316863
 Game	Game of Squares
 Cover
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/3088680/Game_of_Squares/
 Hints
@@ -8635,7 +8635,7 @@ Pub	Kartik Narayanan
 Version	1.2
 Status	1 (2024-09-22)
 Added	2024-09-22
-Updated	2024-09-22
+Updated	2024-09-27
 IgdbId	309946
 
 Game	Dungeons & Keyboards
@@ -8871,3 +8871,93 @@ Status	1 (2024-09-27)
 Added	2024-09-27
 Updated	2024-09-27
 IgdbId	192544
+
+Game	8 Colors Star Guardians+
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://dermondhase.itch.io/8-colors-sentai https://store.steampowered.com/app/2483150/8Colors_Star_Guardians/
+Hints
+Genre	RPG
+Tags	indie, retro, LGBTQ, female protagonist, turn-based
+Year	2023
+Dev	Andrea Demetrio
+Pub	Andrea Demetrio
+Version
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	258599
+
+Game	Cozy Space Survivors
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2657850/Cozy_Space_Survivors/
+Hints
+Genre	Action Roguelike
+Tags	indie, bullet hell, arcade
+Year	2024
+Dev	simonschreibt
+Pub	simonschreibt
+Version	1.5.6
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	275087
+
+Game	Interstellar Plunderer
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2832630/Interstellar_Plunderer/
+Hints
+Genre	Action Roguelike
+Tags	indie, bullet hell, arcade, 3d, space
+Year	2024
+Dev	Cozy Frog Games
+Pub	Cozy Frog Games
+Version
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	287003
+
+Game	Sisypush
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2219240/Sisypush/
+Hints
+Genre	Puzzler
+Tags	indie, 2bit, sokoban-like
+Year	2023
+Dev	Centi Games
+Pub	Centi Games
+Version	1.4.3
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	236358
+
+Game	The Pulse of Evil
+Cover
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2437890/The_Pulse_of_Evil/
+Hints
+Genre	Action Adventure
+Tags	indie, shooter, action
+Year	2023
+Dev	Madnukin, Miroko, Yeramia
+Pub	Mads Games
+Version	1.1
+Status	1 (2024-09-27)
+Added	2024-09-27
+Updated	2024-09-27
+IgdbId	252261
