@@ -8,6 +8,7 @@
       "Roguelike"
     ],
     "Hints": "",
+    "Id": "431",
     "IgdbId": "265505",
     "Pub": "ByteSize, Kinda Brave",
     "Runtime": "godot",
@@ -39,6 +40,7 @@
       "Puzzler"
     ],
     "Hints": "",
+    "Id": "462",
     "IgdbId": "272249",
     "Pub": "FLEB",
     "Runtime": "godot",
@@ -63,6 +65,41 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "Andrea Demetrio",
+    "Engine": "Godot",
+    "Game": "8 Colors Star Guardians+",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "494",
+    "IgdbId": "258599",
+    "Pub": "Andrea Demetrio",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://dermondhase.itch.io/8-colors-sentai",
+      "https://store.steampowered.com/app/2483150/8Colors_Star_Guardians/"
+    ],
+    "Tags": [
+      "LGBTQ",
+      "female protagonist",
+      "indie",
+      "retro",
+      "turn-based"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-13T00:00:00.000Z",
     "Dev": "Devcats",
     "Engine": "Godot",
@@ -71,6 +108,7 @@
       "Hidden Object Puzzle"
     ],
     "Hints": "",
+    "Id": "447",
     "IgdbId": "210901",
     "Pub": "Devcats",
     "Runtime": "godot",
@@ -104,6 +142,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "153",
     "IgdbId": "8819",
     "Pub": "Grundislav Games",
     "Runtime": "scummvm",
@@ -132,6 +171,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "487",
     "IgdbId": "297992",
     "Pub": "",
     "Runtime": "love-11",
@@ -162,6 +202,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "405",
     "IgdbId": "3040",
     "Pub": "",
     "Runtime": "",
@@ -191,6 +232,7 @@
       "TBS"
     ],
     "Hints": "needs luasteam 3.2.1",
+    "Id": "457",
     "IgdbId": "",
     "Pub": "Strangelet Games",
     "Runtime": "love-11",
@@ -220,6 +262,7 @@
     "Game": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
     "Genre": [],
     "Hints": "Demo on HumbleBundle store page",
+    "Id": "1",
     "IgdbId": "3240",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -247,6 +290,7 @@
       "Adventure"
     ],
     "Hints": "music cuts out intermittently",
+    "Id": "2",
     "IgdbId": "247159",
     "Pub": "Beyond Booleans",
     "Runtime": "scummvm",
@@ -281,6 +325,7 @@
       "RPG"
     ],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/g8o27l/aedemphia_works_in_openbsd_with_easyrpg_engine/ Reddit post",
+    "Id": "5",
     "IgdbId": "125943",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -310,6 +355,7 @@
       "Shoot'em Up"
     ],
     "Hints": "needs libCSteamworks library",
+    "Id": "6",
     "IgdbId": "50223",
     "Pub": "Creaky Lantern Games",
     "Runtime": "fnaify",
@@ -344,6 +390,7 @@
       "Action Roguelike"
     ],
     "Hints": "",
+    "Id": "430",
     "IgdbId": "254916",
     "Pub": "ORYgames",
     "Runtime": "godot",
@@ -374,6 +421,7 @@
       "RTS"
     ],
     "Hints": "has had instability, not observed by me with setting System Cursor, if OpenGL errors, set MESA_NO_ERROR=1; for DLC Heroes & Villains copy directory `heroes` into the game's directory",
+    "Id": "7",
     "IgdbId": "35934",
     "Pub": "",
     "Runtime": "java-1.8.0",
@@ -406,6 +454,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "8",
     "IgdbId": "8376",
     "Pub": "",
     "Runtime": "",
@@ -433,6 +482,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "9",
     "IgdbId": "190200",
     "Pub": "Florent Espanet",
     "Runtime": "HashLink",
@@ -460,6 +510,7 @@
       "RPG"
     ],
     "Hints": "open index.html in www subdirectory (Linux version)",
+    "Id": "10",
     "IgdbId": "7289",
     "Pub": "",
     "Runtime": "HTML5",
@@ -488,6 +539,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "11",
     "IgdbId": "20968",
     "Pub": "",
     "Runtime": "",
@@ -515,6 +567,7 @@
       "Horror"
     ],
     "Hints": "see README for installation",
+    "Id": "12",
     "IgdbId": "111",
     "Pub": "Frictional Games",
     "Runtime": "amnesia-tdd",
@@ -548,6 +601,7 @@
       "Point & Click Adventure"
     ],
     "Hints": "",
+    "Id": "434",
     "IgdbId": "258723",
     "Pub": "Postmodern Adventures, enComplot",
     "Runtime": "scummvm",
@@ -580,6 +634,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "13",
     "IgdbId": "169360",
     "Pub": "Hero Game Co LLC",
     "Runtime": "love-11",
@@ -611,6 +666,7 @@
       "Action Adventure"
     ],
     "Hints": "rigg needs -upermissive at this point",
+    "Id": "14",
     "IgdbId": "11092",
     "Pub": "Analgesic Productions",
     "Runtime": "mono",
@@ -643,6 +699,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "15",
     "IgdbId": "189189",
     "Pub": "Frictional Games",
     "Runtime": "gzdoom",
@@ -673,6 +730,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "16",
     "IgdbId": "9016",
     "Pub": "",
     "Runtime": "",
@@ -704,6 +762,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "17",
     "IgdbId": "35716",
     "Pub": "",
     "Runtime": "",
@@ -731,6 +790,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "18",
     "IgdbId": "7406",
     "Pub": "",
     "Runtime": "AquariaOSE",
@@ -761,6 +821,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "465",
     "IgdbId": "263903",
     "Pub": "Panic",
     "Runtime": "love-11",
@@ -792,10 +853,11 @@
       "Cooking"
     ],
     "Hints": "",
+    "Id": "486",
     "IgdbId": "280931",
     "Pub": "CRITICAL REFLEX",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "after tutorial endless fall through floor",
       "StatusDate": "2024-09-24T00:00:00.000Z",
@@ -814,7 +876,7 @@
       "physics",
       "surreal"
     ],
-    "Updated": "2024-09-24T00:00:00.000Z",
+    "Updated": "2024-09-28T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -827,6 +889,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "19",
     "IgdbId": "602",
     "Pub": "JoWood Productions",
     "Runtime": "arx-libertatis",
@@ -857,6 +920,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "20",
     "IgdbId": "43120",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -890,6 +954,7 @@
       "RTS"
     ],
     "Hints": "fnaify >= 3.0, fnaify-extralibs",
+    "Id": "21",
     "IgdbId": "8388",
     "Pub": "",
     "Runtime": "fnaify",
@@ -919,6 +984,7 @@
       "Metroidvania"
     ],
     "Hints": "saving not possible with Steam version",
+    "Id": "23",
     "IgdbId": "8652",
     "Pub": "",
     "Runtime": "",
@@ -949,6 +1015,7 @@
       "Shoot'em Up"
     ],
     "Hints": "for Steam version: unzip bluerevolver.love, edit conf.lua with `STEAM_BUILD = false' and zip it back up.",
+    "Id": "41",
     "IgdbId": "24928",
     "Pub": "Stellar Circle",
     "Runtime": "love-0.10",
@@ -977,6 +1044,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "44",
     "IgdbId": "178651",
     "Pub": "alesan99",
     "Runtime": "love-0.10",
@@ -1008,6 +1076,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "24",
     "IgdbId": "251833",
     "Pub": "Playstack",
     "Runtime": "love-11",
@@ -1039,6 +1108,7 @@
       "RPG"
     ],
     "Hints": "widescreen mod via weidu",
+    "Id": "25",
     "IgdbId": "5",
     "Pub": "Black Isle Studios",
     "Runtime": "gemrb",
@@ -1066,6 +1136,7 @@
       "RPG"
     ],
     "Hints": "widescreen mod via weidu",
+    "Id": "26",
     "IgdbId": "82",
     "Pub": "Black Isle Studios",
     "Runtime": "gemrb",
@@ -1093,6 +1164,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "27",
     "IgdbId": "18135",
     "Pub": "Balcony Softworks",
     "Runtime": "java-11",
@@ -1127,6 +1199,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "28",
     "IgdbId": "140861",
     "Pub": "Petriheart",
     "Runtime": "godot",
@@ -1154,6 +1227,7 @@
       "Strategy"
     ],
     "Hints": "",
+    "Id": "446",
     "IgdbId": "247604",
     "Pub": "Bananamanhatguy",
     "Runtime": "godot",
@@ -1185,6 +1259,7 @@
       "Dungeon Crawler"
     ],
     "Hints": "",
+    "Id": "29",
     "IgdbId": "35189",
     "Pub": "",
     "Runtime": "barony",
@@ -1218,6 +1293,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "451",
     "IgdbId": "2365",
     "Pub": "",
     "Runtime": "wesnoth",
@@ -1247,6 +1323,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "30",
     "IgdbId": "143525",
     "Pub": "Alpar Entertainment",
     "Runtime": "godot",
@@ -1276,6 +1353,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "490",
     "IgdbId": "9541",
     "Pub": "Size Five Games",
     "Runtime": "scummvm",
@@ -1307,6 +1385,7 @@
       "Adventure"
     ],
     "Hints": "alternatively '# pkg_add bass'",
+    "Id": "31",
     "IgdbId": "612",
     "Pub": "Virgin Interactive",
     "Runtime": "scummvm",
@@ -1335,6 +1414,7 @@
       "RTS"
     ],
     "Hints": "script beyond-all-reason in package recoil-rts",
+    "Id": "450",
     "IgdbId": "133655",
     "Pub": "",
     "Runtime": "spring",
@@ -1366,6 +1446,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "32",
     "IgdbId": "164206",
     "Pub": "Movie Games S.A.",
     "Runtime": "gzdoom",
@@ -1397,6 +1478,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "492",
     "IgdbId": "173915",
     "Pub": "Assemble Entertainment",
     "Runtime": "scummvm",
@@ -1428,6 +1510,7 @@
     "Game": "Bird Assassin",
     "Genre": [],
     "Hints": "",
+    "Id": "33",
     "IgdbId": "17596",
     "Pub": "",
     "Runtime": "fnaify",
@@ -1455,6 +1538,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "34",
     "IgdbId": "188723",
     "Pub": "ehmprah",
     "Runtime": "godot",
@@ -1485,6 +1569,7 @@
       "Action Platformer"
     ],
     "Hints": "run with `godot --main-pack blastronaut.pck`",
+    "Id": "36",
     "IgdbId": "145877",
     "Pub": "Perfoon",
     "Runtime": "godot",
@@ -1514,6 +1599,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "37",
     "IgdbId": "9706",
     "Pub": "",
     "Runtime": "",
@@ -1543,6 +1629,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "38",
     "IgdbId": "26725",
     "Pub": "",
     "Runtime": "",
@@ -1572,6 +1659,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "39",
     "IgdbId": "7644",
     "Pub": "",
     "Runtime": "nblood",
@@ -1597,6 +1685,7 @@
       "Action Adventure"
     ],
     "Hints": "",
+    "Id": "40",
     "IgdbId": "172489",
     "Pub": "Playtonic Friends",
     "Runtime": "",
@@ -1626,6 +1715,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "42",
     "IgdbId": "183596",
     "Pub": "",
     "Runtime": "godot",
@@ -1655,6 +1745,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "482",
     "IgdbId": "",
     "Pub": "CritCorsac",
     "Runtime": "godot",
@@ -1687,6 +1778,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "43",
     "IgdbId": "16259",
     "Pub": "",
     "Runtime": "",
@@ -1716,6 +1808,7 @@
       "Action Roguelike"
     ],
     "Hints": "needs addons/godotsteam/x11/libgodotsteam.so (manual build needed currently)",
+    "Id": "473",
     "IgdbId": "260520",
     "Pub": "Clyde Smets",
     "Runtime": "godot",
@@ -1750,6 +1843,7 @@
       "Adventure"
     ],
     "Hints": "GOG.com version includes the original",
+    "Id": "45",
     "IgdbId": "1150",
     "Pub": "Virgin Interactive",
     "Runtime": "scummvm",
@@ -1778,6 +1872,7 @@
       "Adventure"
     ],
     "Hints": "GOG.com version includes the original",
+    "Id": "46",
     "IgdbId": "206502",
     "Pub": "Virgin Interactive",
     "Runtime": "scummvm",
@@ -1803,6 +1898,7 @@
     "Game": "Brotato",
     "Genre": [],
     "Hints": "",
+    "Id": "47",
     "IgdbId": "199116",
     "Pub": "Blobfish",
     "Runtime": "",
@@ -1832,6 +1928,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "48",
     "IgdbId": "33692",
     "Pub": "",
     "Runtime": "",
@@ -1862,10 +1959,11 @@
       "Horror"
     ],
     "Hints": "",
+    "Id": "425",
     "IgdbId": "281275",
     "Pub": "CRITICAL REFLEX",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-04-25T00:00:00.000Z",
@@ -1880,7 +1978,7 @@
       "first-person",
       "gambling"
     ],
-    "Updated": "2024-04-25T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "",
     "Year": "2023-01-01T00:00:00.000Z"
   },
@@ -1893,6 +1991,7 @@
       "Puzzle"
     ],
     "Hints": "extract AppImage with 7z, game file is in usr/bin directory",
+    "Id": "49",
     "IgdbId": "230797",
     "Pub": "Yolwoocle",
     "Runtime": "love-11",
@@ -1920,6 +2019,7 @@
     "Game": "Burning Knight",
     "Genre": [],
     "Hints": "runtime is buggy, frequent crashes",
+    "Id": "50",
     "IgdbId": "117702",
     "Pub": "",
     "Runtime": "fnaify",
@@ -1951,6 +2051,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "51",
     "IgdbId": "216634",
     "Pub": "SpaceOrca",
     "Runtime": "godot",
@@ -1982,6 +2083,7 @@
     "Game": "Caesar 3",
     "Genre": [],
     "Hints": "",
+    "Id": "52",
     "IgdbId": "6332",
     "Pub": "Sierra Entertainment",
     "Runtime": "julius",
@@ -2008,6 +2110,7 @@
     "Game": "Cannon Fodder",
     "Genre": [],
     "Hints": "",
+    "Id": "53",
     "IgdbId": "5519",
     "Pub": "Eidos Interactive",
     "Runtime": "openfodder",
@@ -2033,6 +2136,7 @@
     "Game": "Cannon Fodder 2",
     "Genre": [],
     "Hints": "",
+    "Id": "54",
     "IgdbId": "11986",
     "Pub": "Codemasters",
     "Runtime": "openfodder",
@@ -2060,6 +2164,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "55",
     "IgdbId": "3050",
     "Pub": "",
     "Runtime": "",
@@ -2091,6 +2196,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "56",
     "IgdbId": "11184",
     "Pub": "Iron Galaxy",
     "Runtime": "",
@@ -2120,6 +2226,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "57",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "godot",
@@ -2149,6 +2256,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "59",
     "IgdbId": "182661",
     "Pub": "Sebastian Lind",
     "Runtime": "love-11",
@@ -2180,6 +2288,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "60",
     "IgdbId": "133866",
     "Pub": "Raw Fury",
     "Runtime": "godot",
@@ -2210,6 +2319,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "61",
     "IgdbId": "185679",
     "Pub": "BiscuitLocker",
     "Runtime": "godot",
@@ -2239,6 +2349,7 @@
       "Management Simulator"
     ],
     "Hints": "",
+    "Id": "62",
     "IgdbId": "140827",
     "Pub": "Freedom Games",
     "Runtime": "godot",
@@ -2270,6 +2381,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "435",
     "IgdbId": "281983",
     "Pub": "sadimakesgames",
     "Runtime": "mono",
@@ -2302,6 +2414,7 @@
       "RPG"
     ],
     "Hints": "use pck-extract on the linux binary",
+    "Id": "64",
     "IgdbId": "141816",
     "Pub": "bitbrain",
     "Runtime": "godot",
@@ -2331,6 +2444,7 @@
       "Platformer"
     ],
     "Hints": "fnaify >= 3.0, fnaify-extralibs, no sound",
+    "Id": "65",
     "IgdbId": "26226",
     "Pub": "",
     "Runtime": "fnaify",
@@ -2361,6 +2475,7 @@
     "Game": "Chaos Heart",
     "Genre": [],
     "Hints": "",
+    "Id": "66",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "",
@@ -2390,6 +2505,7 @@
       "Brawler"
     ],
     "Hints": "",
+    "Id": "67",
     "IgdbId": "19914",
     "Pub": "",
     "Runtime": "",
@@ -2418,6 +2534,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "68",
     "IgdbId": "3222",
     "Pub": "",
     "Runtime": "",
@@ -2449,6 +2566,7 @@
       "Roguelite"
     ],
     "Hints": "",
+    "Id": "69",
     "IgdbId": "211384",
     "Pub": "Aarimous",
     "Runtime": "godot",
@@ -2480,6 +2598,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "485",
     "IgdbId": "148471",
     "Pub": "Destrakz Games",
     "Runtime": "godot",
@@ -2515,6 +2634,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "464",
     "IgdbId": "211339",
     "Pub": "TACSOU",
     "Runtime": "godot",
@@ -2547,6 +2667,7 @@
       "Action"
     ],
     "Hints": "updated version CometStriker DX untested so far",
+    "Id": "71",
     "IgdbId": "55766",
     "Pub": "",
     "Runtime": "",
@@ -2576,6 +2697,7 @@
       "RTS"
     ],
     "Hints": "OpenRA can automatically download the freeware version",
+    "Id": "72",
     "IgdbId": "647",
     "Pub": "Virgin Interactive",
     "Runtime": "openra",
@@ -2603,6 +2725,7 @@
       "RTS"
     ],
     "Hints": "OpenRA can automatically download the freeware version",
+    "Id": "73",
     "IgdbId": "295",
     "Pub": "Virgin Interactive",
     "Runtime": "openra",
@@ -2622,6 +2745,38 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "simonschreibt",
+    "Engine": "Godot",
+    "Game": "Cozy Space Survivors",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "Id": "495",
+    "IgdbId": "275087",
+    "Pub": "simonschreibt",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2657850/Cozy_Space_Survivors/"
+    ],
+    "Tags": [
+      "arcade",
+      "bullet hell",
+      "indie"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "1.5.6",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Ugly Beard Games LLC",
     "Engine": "FNA",
@@ -2630,6 +2785,7 @@
       "Action RPG"
     ],
     "Hints": "",
+    "Id": "74",
     "IgdbId": "32996",
     "Pub": "Ugly Beard Games LLC",
     "Runtime": "fnaify",
@@ -2660,6 +2816,7 @@
       "Farming Sim"
     ],
     "Hints": "",
+    "Id": "75",
     "IgdbId": "241883",
     "Pub": "Sprouting Potato",
     "Runtime": "hashlink",
@@ -2690,6 +2847,7 @@
       "Action RPG"
     ],
     "Hints": "uses local browser storage; concern that this could break the game (not observed so far)",
+    "Id": "76",
     "IgdbId": "35282",
     "Pub": "Deck13",
     "Runtime": "HTML5",
@@ -2722,6 +2880,7 @@
       "Puzzler"
     ],
     "Hints": "",
+    "Id": "489",
     "IgdbId": "259007",
     "Pub": "Daisy Games",
     "Runtime": "godot4",
@@ -2754,6 +2913,7 @@
       "Immersive Sim"
     ],
     "Hints": "needs godot built with GodotSteam module",
+    "Id": "77",
     "IgdbId": "142076",
     "Pub": "Consumer Softproducts",
     "Runtime": "godot",
@@ -2785,6 +2945,7 @@
       "Twin-Stick Shooter"
     ],
     "Hints": "",
+    "Id": "78",
     "IgdbId": "13365",
     "Pub": "",
     "Runtime": "",
@@ -2818,6 +2979,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "79",
     "IgdbId": "181444",
     "Pub": "Andrew Willman",
     "Runtime": "",
@@ -2847,6 +3009,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "80",
     "IgdbId": "8427",
     "Pub": "",
     "Runtime": "",
@@ -2876,6 +3039,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "81",
     "IgdbId": "184410",
     "Pub": "",
     "Runtime": "love-11",
@@ -2905,6 +3069,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "82",
     "IgdbId": "35398",
     "Pub": "",
     "Runtime": "",
@@ -2934,6 +3099,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "83",
     "IgdbId": "129411",
     "Pub": "Vega Games",
     "Runtime": "godot",
@@ -2964,6 +3130,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "84",
     "IgdbId": "163399",
     "Pub": "KnKo",
     "Runtime": "godot",
@@ -2993,6 +3160,7 @@
       "Action"
     ],
     "Hints": "performance not great on integrated Intel GPU",
+    "Id": "85",
     "IgdbId": "167422",
     "Pub": "Take Toad",
     "Runtime": "godot",
@@ -3022,6 +3190,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "86",
     "IgdbId": "27145",
     "Pub": "Excalibur Publishing",
     "Runtime": "",
@@ -3050,6 +3219,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "484",
     "IgdbId": "303832",
     "Pub": "Securas",
     "Runtime": "godot",
@@ -3082,6 +3252,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "87",
     "IgdbId": "164215",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -3111,6 +3282,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "88",
     "IgdbId": "150884",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -3140,6 +3312,7 @@
       "arcade"
     ],
     "Hints": "requires at least 1 gamecontroller to play (up to 4)",
+    "Id": "427",
     "IgdbId": "192855",
     "Pub": "MrEliptik",
     "Runtime": "godot",
@@ -3171,6 +3344,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "89",
     "IgdbId": "26855",
     "Pub": "",
     "Runtime": "hl",
@@ -3206,6 +3380,7 @@
       "Action"
     ],
     "Hints": "As of 2020-01-03 recent Steam versions fail to run with API_RunCallback in backtrace",
+    "Id": "90",
     "IgdbId": "5448",
     "Pub": "",
     "Runtime": "",
@@ -3233,6 +3408,7 @@
     "Game": "Dead Pixels II",
     "Genre": [],
     "Hints": "",
+    "Id": "91",
     "IgdbId": "18362",
     "Pub": "",
     "Runtime": "",
@@ -3260,6 +3436,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "92",
     "IgdbId": "144450",
     "Pub": "Those Awesome Guys",
     "Runtime": "java-17",
@@ -3291,6 +3468,7 @@
       "Shoot'Em'Up"
     ],
     "Hints": "",
+    "Id": "441",
     "IgdbId": "267733",
     "Pub": "almostApixel",
     "Runtime": "godot",
@@ -3322,6 +3500,7 @@
       "Simulation"
     ],
     "Hints": "note a Unicode \"delta\" is used in the game's name",
+    "Id": "93",
     "IgdbId": "108324",
     "Pub": "Kodera Software, Kurki.games",
     "Runtime": "godot",
@@ -3353,6 +3532,7 @@
       "dungeoncrawler"
     ],
     "Hints": "",
+    "Id": "94",
     "IgdbId": "3236",
     "Pub": "Priority Interrupt",
     "Runtime": "IndieRunner",
@@ -3386,6 +3566,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "95",
     "IgdbId": "5506",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -3413,6 +3594,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "96",
     "IgdbId": "1872",
     "Pub": "Interplay Entertainment",
     "Runtime": "dxx-rebirth",
@@ -3444,6 +3626,7 @@
       "6DOF Shooter"
     ],
     "Hints": "",
+    "Id": "469",
     "IgdbId": "667",
     "Pub": "Interplay Inc.",
     "Runtime": "Descent3",
@@ -3477,6 +3660,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "97",
     "IgdbId": "668",
     "Pub": "Interplay Entertainment",
     "Runtime": "dxx-rebirth",
@@ -3508,6 +3692,7 @@
       "Tower Defense"
     ],
     "Hints": "",
+    "Id": "459",
     "IgdbId": "244644",
     "Pub": "Radiant Sloth",
     "Runtime": "godot",
@@ -3539,6 +3724,7 @@
       "Action RPG"
     ],
     "Hints": "",
+    "Id": "98",
     "IgdbId": "125",
     "Pub": "Blizzard Entertainment",
     "Runtime": "devilutionx",
@@ -3569,6 +3755,7 @@
       "Boardgame"
     ],
     "Hints": "",
+    "Id": "99",
     "IgdbId": "200871",
     "Pub": "Sprouting Potato",
     "Runtime": "HashLink",
@@ -3599,6 +3786,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "100",
     "IgdbId": "189364",
     "Pub": "Gagonfe",
     "Runtime": "godot",
@@ -3629,6 +3817,7 @@
       "Roguelite"
     ],
     "Hints": "needs libCSteamworks stub",
+    "Id": "101",
     "IgdbId": "17064",
     "Pub": "",
     "Runtime": "fnaify",
@@ -3658,6 +3847,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "103",
     "IgdbId": "33336",
     "Pub": "Davie H Schroeder",
     "Runtime": "fnaify",
@@ -3685,6 +3875,7 @@
       "Visual Novel"
     ],
     "Hints": "",
+    "Id": "105",
     "IgdbId": "55935",
     "Pub": "",
     "Runtime": "renpy",
@@ -3713,6 +3904,7 @@
       "Mining"
     ],
     "Hints": "Run with `godot --main-pack domeromantik.x86_64`. As of 2022-03-19, itch.io demo is outdated compared to Steam.",
+    "Id": "106",
     "IgdbId": "200611",
     "Pub": "Bippinbits",
     "Runtime": "godot",
@@ -3746,6 +3938,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "107",
     "IgdbId": "673",
     "Pub": "GT Interactive",
     "Runtime": "chocolate-doom, gzdoom, odamex, prboom-plus, crispy-doom",
@@ -3777,6 +3970,7 @@
       "RPG"
     ],
     "Hints": "currently crashes on Window resize",
+    "Id": "108",
     "IgdbId": "25944",
     "Pub": "Heartbit Interactive",
     "Runtime": "fnaify",
@@ -3808,6 +4002,7 @@
       "Action"
     ],
     "Hints": "Download the Linux version and delete the line with libOpenCL in OpenTK.dll.config",
+    "Id": "109",
     "IgdbId": "13606",
     "Pub": "",
     "Runtime": "fnaify",
@@ -3837,6 +4032,7 @@
       "Adventure"
     ],
     "Hints": "GOG version includes Downfall: Redux",
+    "Id": "110",
     "IgdbId": "18189",
     "Pub": "Screen 7",
     "Runtime": "scummvm",
@@ -3866,6 +4062,7 @@
       "Adventure"
     ],
     "Hints": "GOG version includes Downfall (non-Redux)",
+    "Id": "442",
     "IgdbId": "51750",
     "Pub": "Screen 7",
     "Runtime": "scummvm",
@@ -3893,6 +4090,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "111",
     "IgdbId": "5032",
     "Pub": "",
     "Runtime": "mono",
@@ -3921,6 +4119,7 @@
       "Action Roguelike"
     ],
     "Hints": "",
+    "Id": "438",
     "IgdbId": "211601",
     "Pub": "Blockcode Games",
     "Runtime": "godot",
@@ -3950,6 +4149,7 @@
       "Adventure"
     ],
     "Hints": "with scummvm 2.7.0 has segfault when looking down platform in dream section",
+    "Id": "112",
     "IgdbId": "197158",
     "Pub": "Bonus Stage Publishing",
     "Runtime": "scummvm",
@@ -3982,6 +4182,7 @@
       "Action"
     ],
     "Hints": "get DRM-free version from developer page. Steam version can't run because of libsteampuppy.so",
+    "Id": "113",
     "IgdbId": "9704",
     "Pub": "Puppygames",
     "Runtime": "java",
@@ -4016,6 +4217,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "114",
     "IgdbId": "342",
     "Pub": "3D Realms",
     "Runtime": "eduke32",
@@ -4041,6 +4243,7 @@
       "RTS"
     ],
     "Hints": "OpenRA can automatically download the freeware version",
+    "Id": "115",
     "IgdbId": "87",
     "Pub": "Virgin Interactive",
     "Runtime": "openra",
@@ -4068,6 +4271,7 @@
       "Typing Game"
     ],
     "Hints": "",
+    "Id": "481",
     "IgdbId": "250953",
     "Pub": "Corgibox",
     "Runtime": "godot",
@@ -4100,6 +4304,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "116",
     "IgdbId": "2130",
     "Pub": "Microsoft Studios",
     "Runtime": "fnaify",
@@ -4131,6 +4336,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "117",
     "IgdbId": "1340",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -4162,6 +4368,7 @@
       "Strategy"
     ],
     "Hints": "note itch.io version is outdated and doesn't run well",
+    "Id": "118",
     "IgdbId": "59133",
     "Pub": "Completely Fair Games LLC",
     "Runtime": "fnaify",
@@ -4192,6 +4399,7 @@
       "Puzzle"
     ],
     "Hints": "fnaify >= 3.0",
+    "Id": "119",
     "IgdbId": "106122",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4224,6 +4432,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "120",
     "IgdbId": "150781",
     "Pub": "Screenwave Media",
     "Runtime": "fnaify",
@@ -4252,6 +4461,7 @@
     "Game": "Eliza",
     "Genre": [],
     "Hints": "fnaify >= 3.0",
+    "Id": "122",
     "IgdbId": "92919",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4282,6 +4492,7 @@
       "Platformer"
     ],
     "Hints": "uses NW.js; run by unzipping file 'app', then opening index.html in a browser; no sound though",
+    "Id": "123",
     "IgdbId": "8596",
     "Pub": "",
     "Runtime": "HTML5",
@@ -4313,6 +4524,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "440",
     "IgdbId": "236912",
     "Pub": "Little Light Studios, LLC",
     "Runtime": "love-11",
@@ -4345,6 +4557,7 @@
       "Action"
     ],
     "Hints": "needs godot with mono support",
+    "Id": "124",
     "IgdbId": "177401",
     "Pub": "Deep Root Interactive",
     "Runtime": "godot",
@@ -4378,6 +4591,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "125",
     "IgdbId": "7590",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4409,6 +4623,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "126",
     "IgdbId": "8252",
     "Pub": "Double Fine Productions",
     "Runtime": "fnaify",
@@ -4440,6 +4655,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "127",
     "IgdbId": "63",
     "Pub": "",
     "Runtime": "residualvm",
@@ -4471,6 +4687,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "128",
     "IgdbId": "114910",
     "Pub": "",
     "Runtime": "hl",
@@ -4499,6 +4716,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "129",
     "IgdbId": "133089",
     "Pub": "Pixeljam",
     "Runtime": "godot",
@@ -4529,6 +4747,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "131",
     "IgdbId": "35176",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4557,6 +4776,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "134",
     "IgdbId": "1991",
     "Pub": "Trapdoor",
     "Runtime": "fnaify",
@@ -4587,6 +4807,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "136",
     "IgdbId": "157923",
     "Pub": "Raffaele Picca",
     "Runtime": "godot",
@@ -4617,6 +4838,7 @@
       "Strategy"
     ],
     "Hints": "Demo available on humblebundle.com",
+    "Id": "138",
     "IgdbId": "3075",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -4648,6 +4870,7 @@
       "Roguelite"
     ],
     "Hints": "in-browser demo available at https://jetamp.itch.io/farm-keeper",
+    "Id": "139",
     "IgdbId": "247034",
     "Pub": "Napas Torteeka",
     "Runtime": "godot",
@@ -4676,6 +4899,7 @@
     "Game": "Fatal Twelve",
     "Genre": [],
     "Hints": "",
+    "Id": "140",
     "IgdbId": "28801",
     "Pub": "",
     "Runtime": "renpy",
@@ -4704,6 +4928,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "133",
     "IgdbId": "111882",
     "Pub": "",
     "Runtime": "scummvm",
@@ -4732,6 +4957,7 @@
       "Brawler"
     ],
     "Hints": "",
+    "Id": "141",
     "IgdbId": "9088",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4764,6 +4990,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "142",
     "IgdbId": "20330",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4795,6 +5022,7 @@
       "Strategy"
     ],
     "Hints": "",
+    "Id": "143",
     "IgdbId": "8396",
     "Pub": "",
     "Runtime": "fnaify",
@@ -4826,6 +5054,7 @@
       "Adventure"
     ],
     "Hints": "see launch script: https://brynet.ca/pub/openbsd_forests_secret.sh.txt, or try libgdx-{setup,run} in libgdx port or IndieRunner",
+    "Id": "144",
     "IgdbId": "138716",
     "Pub": "",
     "Runtime": "",
@@ -4855,6 +5084,7 @@
       "Point & Click Adventure"
     ],
     "Hints": "",
+    "Id": "471",
     "IgdbId": "86383",
     "Pub": "Artem Vodoriz",
     "Runtime": "scummvm",
@@ -4888,6 +5118,7 @@
       "Top-Down Shooter"
     ],
     "Hints": "",
+    "Id": "135",
     "IgdbId": "165088",
     "Pub": "Solo Byte Games",
     "Runtime": "godot",
@@ -4917,6 +5148,7 @@
       "Fighting Game"
     ],
     "Hints": "",
+    "Id": "137",
     "IgdbId": "141090",
     "Pub": "Team Fray, McLeodGaming",
     "Runtime": "hashlink",
@@ -4950,6 +5182,7 @@
       "Spacesim"
     ],
     "Hints": "not available as package, build from ports tree",
+    "Id": "146",
     "IgdbId": "722",
     "Pub": "Interplay Entertainment",
     "Runtime": "fs2open",
@@ -4981,10 +5214,11 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "455",
     "IgdbId": "294121",
     "Pub": "Frood Designs",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-08-01T00:00:00.000Z",
@@ -4999,7 +5233,7 @@
       "programming",
       "retro"
     ],
-    "Updated": "2024-08-01T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -5012,6 +5246,7 @@
       "Flightsim"
     ],
     "Hints": "",
+    "Id": "147",
     "IgdbId": "121334",
     "Pub": "Proud Cipher Media Group",
     "Runtime": "gzdoom",
@@ -5043,6 +5278,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "148",
     "IgdbId": "1250",
     "Pub": "",
     "Runtime": "scummvm",
@@ -5069,6 +5305,7 @@
     "Game": "Game Type",
     "Genre": [],
     "Hints": "currently defective",
+    "Id": "149",
     "IgdbId": "35177",
     "Pub": "",
     "Runtime": "fnaify",
@@ -5096,10 +5333,11 @@
       "Puzzle Game"
     ],
     "Hints": "",
+    "Id": "480",
     "IgdbId": "309946",
     "Pub": "Kartik Narayanan",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-09-22T00:00:00.000Z",
@@ -5114,7 +5352,7 @@
       "indie",
       "logic"
     ],
-    "Updated": "2024-09-22T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "1.2",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -5127,6 +5365,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "150",
     "IgdbId": "13662",
     "Pub": "",
     "Runtime": "fnaify",
@@ -5157,6 +5396,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "151",
     "IgdbId": "6325",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -5187,6 +5427,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "152",
     "IgdbId": "127543",
     "Pub": "Puppygames",
     "Runtime": "fnaify",
@@ -5214,6 +5455,7 @@
       "Arcade Platformer"
     ],
     "Hints": "",
+    "Id": "477",
     "IgdbId": "260432",
     "Pub": "Vidvad Games",
     "Runtime": "godot",
@@ -5244,6 +5486,7 @@
       "Physics"
     ],
     "Hints": "",
+    "Id": "154",
     "IgdbId": "141073",
     "Pub": "Lone Wulf Studio LLC",
     "Runtime": "godot",
@@ -5273,10 +5516,11 @@
       "City Builder"
     ],
     "Hints": "",
+    "Id": "467",
     "IgdbId": "226469",
     "Pub": "Future Friends Games, AuntyGames",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-08-15T00:00:00.000Z",
@@ -5291,7 +5535,7 @@
       "pixel art",
       "sandbox"
     ],
-    "Updated": "2024-08-15T00:00:00.000Z",
+    "Updated": "2024-09-28T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -5302,6 +5546,7 @@
     "Game": "Grand Class Melee 2",
     "Genre": [],
     "Hints": "",
+    "Id": "155",
     "IgdbId": "36014",
     "Pub": "",
     "Runtime": "fnaify",
@@ -5329,6 +5574,7 @@
       "Twin-Stick Shooter"
     ],
     "Hints": "",
+    "Id": "156",
     "IgdbId": "114912",
     "Pub": "John Watson",
     "Runtime": "godot",
@@ -5358,6 +5604,7 @@
       "Platformer"
     ],
     "Hints": "extract AppImage with 7zip, run with love-11, need to have package luasteam installed",
+    "Id": "157",
     "IgdbId": "106534",
     "Pub": "PID Games",
     "Runtime": "love-11",
@@ -5387,6 +5634,7 @@
     "Game": "Grimm's Hollow",
     "Genre": [],
     "Hints": "",
+    "Id": "160",
     "IgdbId": "125110",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -5415,6 +5663,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "161",
     "IgdbId": "69161",
     "Pub": "Metronomaton",
     "Runtime": "fnaify",
@@ -5442,6 +5691,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "162",
     "IgdbId": "22101",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -5472,6 +5722,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "163",
     "IgdbId": "17203",
     "Pub": "",
     "Runtime": "fnaify",
@@ -5499,6 +5750,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "164",
     "IgdbId": "35187",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -5530,6 +5782,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "165",
     "IgdbId": "114017",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -5563,6 +5816,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "166",
     "IgdbId": "169852",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -5593,6 +5847,7 @@
       "Puzzle"
     ],
     "Hints": "multiple editions available (Complete, Ultimate); DLC: HackNet Labyrinths",
+    "Id": "167",
     "IgdbId": "11707",
     "Pub": "Surprise Attack Games",
     "Runtime": "fnaify",
@@ -5626,6 +5881,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "168",
     "IgdbId": "141134",
     "Pub": "Application Systems Heidelberg",
     "Runtime": "godot",
@@ -5657,6 +5913,7 @@
       "Action RPG"
     ],
     "Hints": "solarus-run *.solarus",
+    "Id": "169",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "solarus-run",
@@ -5689,6 +5946,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "170",
     "IgdbId": "203249",
     "Pub": "Frechou Games",
     "Runtime": "gzdoom",
@@ -5720,6 +5978,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "171",
     "IgdbId": "168485",
     "Pub": "amiksemo",
     "Runtime": "godot",
@@ -5749,6 +6008,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "179",
     "IgdbId": "6637",
     "Pub": "id Software",
     "Runtime": "uhexen2",
@@ -5777,6 +6037,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "178",
     "IgdbId": "3512",
     "Pub": "id Software",
     "Runtime": "gzdoom",
@@ -5803,6 +6064,7 @@
     "Game": "Hedon",
     "Genre": [],
     "Hints": "",
+    "Id": "173",
     "IgdbId": "183074",
     "Pub": "",
     "Runtime": "gzdoom",
@@ -5831,6 +6093,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "172",
     "IgdbId": "209779",
     "Pub": "Tissue Inu",
     "Runtime": "godot",
@@ -5863,6 +6126,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "174",
     "IgdbId": "8419",
     "Pub": "id Software",
     "Runtime": "gzdoom, crispy-doom",
@@ -5891,6 +6155,7 @@
       "dungeoncrawler"
     ],
     "Hints": "no straightforward way to quit the game",
+    "Id": "175",
     "IgdbId": "13624",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -5921,6 +6186,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "176",
     "IgdbId": "51821",
     "Pub": "3DO",
     "Runtime": "fheroes2",
@@ -5951,6 +6217,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "177",
     "IgdbId": "36441",
     "Pub": "",
     "Runtime": "",
@@ -5980,6 +6247,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "180",
     "IgdbId": "243780",
     "Pub": "Elektri Inc.",
     "Runtime": "godot",
@@ -6011,6 +6279,7 @@
       "Arcade"
     ],
     "Hints": "",
+    "Id": "453",
     "IgdbId": "291582",
     "Pub": "Edetanorum Games",
     "Runtime": "godot",
@@ -6041,10 +6310,11 @@
       "City Builder"
     ],
     "Hints": "",
+    "Id": "448",
     "IgdbId": "292944",
     "Pub": "DoughnutDev",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-07-13T00:00:00.000Z",
@@ -6059,7 +6329,7 @@
       "indie",
       "minimalist"
     ],
-    "Updated": "2024-07-13T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "1.2",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -6072,6 +6342,7 @@
       "visual novel"
     ],
     "Hints": "",
+    "Id": "181",
     "IgdbId": "20688",
     "Pub": "Sekai Project",
     "Runtime": "renpy",
@@ -6102,6 +6373,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "182",
     "IgdbId": "5604",
     "Pub": "",
     "Runtime": "fnaify",
@@ -6127,6 +6399,7 @@
     "Game": "Hiveswap Friendsim",
     "Genre": [],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/hhy4h0/hiveswap_friendsim_works_with_renpyrenpyify/ Reddit post",
+    "Id": "183",
     "IgdbId": "97012",
     "Pub": "Fellow Traveller",
     "Runtime": "renpy",
@@ -6155,6 +6428,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "184",
     "IgdbId": "185059",
     "Pub": "alesan99",
     "Runtime": "love-11",
@@ -6185,6 +6459,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "185",
     "IgdbId": "142253",
     "Pub": "Leocesar3D Productions",
     "Runtime": "godot",
@@ -6214,6 +6489,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "186",
     "IgdbId": "24566",
     "Pub": "",
     "Runtime": "fnaify",
@@ -6241,6 +6517,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "188",
     "IgdbId": "7578",
     "Pub": "Cyberdreams",
     "Runtime": "scummvm",
@@ -6271,6 +6548,7 @@
       "Twin-Stick Shooter"
     ],
     "Hints": "",
+    "Id": "189",
     "IgdbId": "181112",
     "Pub": "Ska Studios",
     "Runtime": "fnaify",
@@ -6301,6 +6579,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "187",
     "IgdbId": "199475",
     "Pub": "Sigyaad Team",
     "Runtime": "gzdoom",
@@ -6330,6 +6609,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "192",
     "IgdbId": "",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -6358,6 +6638,7 @@
     "Game": "Ib",
     "Genre": [],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/hkq3bs/ib_rpg_maker_2000_playonbsd/ Reddit post https://videos.pair2jeux.tube/videos/watch/bdf3fb76-5c46-4d17-9046-5e9e9fabcdb2 Video",
+    "Id": "190",
     "IgdbId": "195732",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -6388,6 +6669,7 @@
       "RPG"
     ],
     "Hints": "https://support.gog.com/hc/en-us/articles/9002914056989-Icewind-Dale-Complete-how-to-access-the-classic-version?product=gog",
+    "Id": "191",
     "IgdbId": "753",
     "Pub": "Interplay Entertainment",
     "Runtime": "gemrb",
@@ -6417,6 +6699,7 @@
       "point & click adventure"
     ],
     "Hints": "",
+    "Id": "429",
     "IgdbId": "144554",
     "Pub": "Dead Idle Games",
     "Runtime": "scummvm",
@@ -6449,6 +6732,7 @@
       "Action Roguelike"
     ],
     "Hints": "",
+    "Id": "437",
     "IgdbId": "287880",
     "Pub": "Charles Palva",
     "Runtime": "godot",
@@ -6480,6 +6764,7 @@
       "Dungeon Crawler"
     ],
     "Hints": "",
+    "Id": "195",
     "IgdbId": "139515",
     "Pub": "Kai Ruma Games",
     "Runtime": "godot",
@@ -6507,6 +6792,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "193",
     "IgdbId": "184",
     "Pub": "LucasArts",
     "Runtime": "scummvm",
@@ -6537,6 +6823,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "194",
     "IgdbId": "186000",
     "Pub": "jakes1403",
     "Runtime": "godot",
@@ -6556,6 +6843,40 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "Cozy Frog Games",
+    "Engine": "Godot",
+    "Game": "Interstellar Plunderer",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "Id": "496",
+    "IgdbId": "287003",
+    "Pub": "Cozy Frog Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2832630/Interstellar_Plunderer/"
+    ],
+    "Tags": [
+      "3d",
+      "arcade",
+      "bullet hell",
+      "indie",
+      "space"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-01-18T00:00:00.000Z",
     "Dev": "Casey Clyde",
     "Engine": "HashLink",
@@ -6564,6 +6885,7 @@
       "Action RPG"
     ],
     "Hints": "",
+    "Id": "196",
     "IgdbId": "234176",
     "Pub": "Tribal-Storm",
     "Runtime": "hl",
@@ -6594,6 +6916,7 @@
       "FPS"
     ],
     "Hints": "use eduke32 with https://marc.info/?l=openbsd-misc&m=156907261602397&w=2 Ion Fury patch",
+    "Id": "197",
     "IgdbId": "54844",
     "Pub": "3D Realms",
     "Runtime": "eduke32",
@@ -6627,6 +6950,7 @@
       "Shoot'Em Up"
     ],
     "Hints": "run file res/game (need to rename to game.gba to run with mednafen)",
+    "Id": "475",
     "IgdbId": "6449",
     "Pub": "Majesco Entertainment",
     "Runtime": "mgba, mednafen",
@@ -6659,6 +6983,7 @@
       "Shoot'Em Up"
     ],
     "Hints": "run file res/game (need to rename to game.gba to run with mednafen)",
+    "Id": "474",
     "IgdbId": "6450",
     "Pub": "Majesco Entertainment",
     "Runtime": "mgba, mednafen",
@@ -6691,6 +7016,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "199",
     "IgdbId": "9",
     "Pub": "TalonSoft",
     "Runtime": "ja2-stracciatella",
@@ -6722,6 +7048,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "200",
     "IgdbId": "134098",
     "Pub": "",
     "Runtime": "renpy",
@@ -6749,6 +7076,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "201",
     "IgdbId": "3167",
     "Pub": "",
     "Runtime": "openjazz",
@@ -6776,6 +7104,7 @@
       "Turn-Based Strategy"
     ],
     "Hints": "buggy (upstream, not port)",
+    "Id": "202",
     "IgdbId": "8423",
     "Pub": "",
     "Runtime": "fnaify",
@@ -6807,6 +7136,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "203",
     "IgdbId": "156046",
     "Pub": "Studio Heart Engine",
     "Runtime": "godot",
@@ -6836,6 +7166,7 @@
       "Adventure"
     ],
     "Hints": "Director's Cut version not supported - it uses different, unsupported engine which shall not be named",
+    "Id": "204",
     "IgdbId": "18997",
     "Pub": "Raw Fury",
     "Runtime": "scummvm",
@@ -6864,6 +7195,7 @@
       "Colony Sim"
     ],
     "Hints": "",
+    "Id": "205",
     "IgdbId": "17968",
     "Pub": "Electric Succubi",
     "Runtime": "keeper",
@@ -6898,6 +7230,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "454",
     "IgdbId": "142469",
     "Pub": "Kitsune Games, MidBoss LLC",
     "Runtime": "mono",
@@ -6929,6 +7262,7 @@
       "Platformer"
     ],
     "Hints": "force using FNA 19.3; easiest with IndieRunner rather than fnaify. Steam version sold as DLC for (free) Super Bernie World.",
+    "Id": "206",
     "IgdbId": "213714",
     "Pub": "Kitsune Games",
     "Runtime": "IndieRunner",
@@ -6959,6 +7293,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "207",
     "IgdbId": "149510",
     "Pub": "Ibe Denaux",
     "Runtime": "godot",
@@ -6986,10 +7321,11 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "461",
     "IgdbId": "301888",
     "Pub": "Barkitect",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-08-06T00:00:00.000Z",
@@ -7002,7 +7338,7 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2024-08-06T00:00:00.000Z",
+    "Updated": "2024-09-28T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -7015,10 +7351,11 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "468",
     "IgdbId": "243213",
     "Pub": "Shiny Byte Studio",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-08-17T00:00:00.000Z",
@@ -7033,7 +7370,7 @@
       "pixel graphics",
       "retro"
     ],
-    "Updated": "2024-08-17T00:00:00.000Z",
+    "Updated": "2024-09-28T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -7046,6 +7383,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "208",
     "IgdbId": "158324",
     "Pub": "derevotyan",
     "Runtime": "godot",
@@ -7076,6 +7414,7 @@
       "Dungeon Crawler"
     ],
     "Hints": "",
+    "Id": "209",
     "IgdbId": "176520",
     "Pub": "Dominaxis Games",
     "Runtime": "love-11",
@@ -7108,6 +7447,7 @@
       "Action Roguelike"
     ],
     "Hints": "",
+    "Id": "432",
     "IgdbId": "233029",
     "Pub": "Julian Ochando",
     "Runtime": "godot",
@@ -7139,6 +7479,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "210",
     "IgdbId": "79999",
     "Pub": "Application Systems Heidelberg",
     "Runtime": "scummvm",
@@ -7169,6 +7510,7 @@
       "Strategy"
     ],
     "Hints": "",
+    "Id": "211",
     "IgdbId": "245366",
     "Pub": "Sonderland",
     "Runtime": "godot",
@@ -7202,6 +7544,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "212",
     "IgdbId": "2528",
     "Pub": "Virgin Interactive",
     "Runtime": "scummvm",
@@ -7231,6 +7574,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "213",
     "IgdbId": "32271",
     "Pub": "",
     "Runtime": "fnaify",
@@ -7259,6 +7603,7 @@
       "RPG"
     ],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/hhdxp7/learn_japanese_to_survive_hiragana_battle/ Reddit post https://videos.pair2jeux.tube/videos/watch/77efc60a-adb5-45ed-b6c0-d121229739d0 Video",
+    "Id": "214",
     "IgdbId": "33622",
     "Pub": "",
     "Runtime": "",
@@ -7289,6 +7634,7 @@
       "Strategy"
     ],
     "Hints": "",
+    "Id": "445",
     "IgdbId": "128256",
     "Pub": "HideChara",
     "Runtime": "godot",
@@ -7319,6 +7665,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "444",
     "IgdbId": "231185",
     "Pub": "Soju and Ink",
     "Runtime": "godot",
@@ -7350,6 +7697,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "215",
     "IgdbId": "144552",
     "Pub": "Graffiti Games",
     "Runtime": "godot",
@@ -7381,6 +7729,7 @@
       "Puzzle"
     ],
     "Hints": "slow graphics performance on Intel UHD 630/Tigerlake",
+    "Id": "216",
     "IgdbId": "117955",
     "Pub": "Brenton Wildes",
     "Runtime": "godot",
@@ -7411,6 +7760,7 @@
       "Racing"
     ],
     "Hints": "needs a stub for libCommunityExpressSW.so to run",
+    "Id": "217",
     "IgdbId": "10518",
     "Pub": "",
     "Runtime": "fnaify",
@@ -7438,6 +7788,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "218",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "fnaify",
@@ -7465,6 +7816,7 @@
     "Game": "Long Live the Queen",
     "Genre": [],
     "Hints": "https://raw.githubusercontent.com/reivyr/renpy-games/master/LongLiveTheQueen/script.sh tweaks to apply before running the game",
+    "Id": "219",
     "IgdbId": "9722",
     "Pub": "Zone of Games",
     "Runtime": "renpy",
@@ -7493,6 +7845,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "221",
     "IgdbId": "191",
     "Pub": "LucasArts",
     "Runtime": "scummvm",
@@ -7521,6 +7874,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "222",
     "IgdbId": "37376",
     "Pub": "BlueLine Games",
     "Runtime": "fnaify",
@@ -7550,6 +7904,7 @@
       "Slotmachine Game"
     ],
     "Hints": "extract from Linux version with https://github.com/rfht/pck-extract",
+    "Id": "223",
     "IgdbId": "142035",
     "Pub": "TrampolineTales",
     "Runtime": "godot",
@@ -7580,6 +7935,7 @@
       "FPS"
     ],
     "Hints": "free",
+    "Id": "224",
     "IgdbId": "239592",
     "Pub": "Scumhead",
     "Runtime": "gzdoom",
@@ -7612,6 +7968,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "225",
     "IgdbId": "143568",
     "Pub": "Xendra",
     "Runtime": "godot",
@@ -7644,6 +8001,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "226",
     "IgdbId": "96638",
     "Pub": "Marvellous Soft",
     "Runtime": "love-0.10",
@@ -7675,6 +8033,7 @@
       "Turn-Based Strategy"
     ],
     "Hints": "",
+    "Id": "227",
     "IgdbId": "155305",
     "Pub": "MicroProse",
     "Runtime": "1oom",
@@ -7705,6 +8064,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "228",
     "IgdbId": "19874",
     "Pub": "Capcom",
     "Runtime": "mednafen",
@@ -7736,6 +8096,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "229",
     "IgdbId": "29184",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -7768,6 +8129,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "230",
     "IgdbId": "",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -7799,6 +8161,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "231",
     "IgdbId": "6147",
     "Pub": "",
     "Runtime": "mono",
@@ -7827,6 +8190,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "232",
     "IgdbId": "",
     "Pub": "NIGHT KAWATA",
     "Runtime": "love-11",
@@ -7856,6 +8220,7 @@
       "Survival"
     ],
     "Hints": "",
+    "Id": "233",
     "IgdbId": "54984",
     "Pub": "Cairn4",
     "Runtime": "java-11",
@@ -7886,6 +8251,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "235",
     "IgdbId": "54205",
     "Pub": "David Addis",
     "Runtime": "fnaify",
@@ -7916,6 +8282,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "234",
     "IgdbId": "54204",
     "Pub": "David Addis",
     "Runtime": "fnaify",
@@ -7943,6 +8310,7 @@
     "Game": "Micro Mages",
     "Genre": [],
     "Hints": "",
+    "Id": "236",
     "IgdbId": "110882",
     "Pub": "",
     "Runtime": "NES emulator",
@@ -7971,6 +8339,7 @@
       "Dungeon Crawler"
     ],
     "Hints": "fnaify >= 3.0, fnaify-extralibs",
+    "Id": "237",
     "IgdbId": "30360",
     "Pub": "",
     "Runtime": "fnaify",
@@ -8003,6 +8372,7 @@
       "Sandbox"
     ],
     "Hints": "https://github.com/octeep/lwjgl3/blob/openbsd-working/README.md Instructions for Minecraft >= 1.13",
+    "Id": "238",
     "IgdbId": "121",
     "Pub": "",
     "Runtime": "",
@@ -8033,6 +8403,7 @@
       "Puzzle Game"
     ],
     "Hints": "",
+    "Id": "239",
     "IgdbId": "186824",
     "Pub": "Berry Berry Niceu",
     "Runtime": "godot",
@@ -8065,6 +8436,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "game version >= 03/01/2021",
+    "Id": "240",
     "IgdbId": "140436",
     "Pub": "Zachtronics",
     "Runtime": "fnaify",
@@ -8096,6 +8468,7 @@
       "Puzzle"
     ],
     "Hints": "fnaify >= 3.0",
+    "Id": "241",
     "IgdbId": "125208",
     "Pub": "",
     "Runtime": "fnaify",
@@ -8126,6 +8499,7 @@
       "First Person Shooter"
     ],
     "Hints": "",
+    "Id": "483",
     "IgdbId": "217093",
     "Pub": "schemesmith",
     "Runtime": "godot",
@@ -8158,6 +8532,7 @@
       "Survival"
     ],
     "Hints": "Only tested in solo player. Multiplayer likely won't work or only via LAN support of goldberg_emulator",
+    "Id": "242",
     "IgdbId": "154046",
     "Pub": "Freedom Games",
     "Runtime": "godot",
@@ -8189,6 +8564,7 @@
       "RPG"
     ],
     "Hints": "free",
+    "Id": "243",
     "IgdbId": "266774",
     "Pub": "Fluttermind LLC",
     "Runtime": "love-11",
@@ -8224,6 +8600,7 @@
       "Stealth Platformer"
     ],
     "Hints": "",
+    "Id": "244",
     "IgdbId": "159516",
     "Pub": "NimbleBeasts",
     "Runtime": "godot",
@@ -8254,6 +8631,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "245",
     "IgdbId": "15916",
     "Pub": "",
     "Runtime": "fnaify",
@@ -8283,6 +8661,7 @@
       "Shoot'em Up"
     ],
     "Hints": "",
+    "Id": "246",
     "IgdbId": "171869",
     "Pub": "RocpainGames",
     "Runtime": "godot",
@@ -8312,6 +8691,7 @@
       "FPS"
     ],
     "Hints": "multiplayer-only game, and only runs via LAN with goldberg emulator; requires goldberg emulator",
+    "Id": "247",
     "IgdbId": "17035",
     "Pub": "JForce Games",
     "Runtime": "fnaify",
@@ -8342,6 +8722,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "248",
     "IgdbId": "16203",
     "Pub": "Broderbund",
     "Runtime": "scummvm",
@@ -8372,6 +8753,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "249",
     "IgdbId": "797",
     "Pub": "Ubisoft",
     "Runtime": "residualvm",
@@ -8402,6 +8784,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "250",
     "IgdbId": "55688",
     "Pub": "Silver Spook Games",
     "Runtime": "scummvm",
@@ -8432,6 +8815,7 @@
       "Side-Scrolling Shooter"
     ],
     "Hints": "",
+    "Id": "251",
     "IgdbId": "61111",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -8461,6 +8845,7 @@
       "Twin-Stick Shooter"
     ],
     "Hints": "fnaify >= 3.0",
+    "Id": "252",
     "IgdbId": "23581",
     "Pub": "Plug In Digital",
     "Runtime": "fnaify",
@@ -8495,6 +8880,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "253",
     "IgdbId": "127578",
     "Pub": "Teradile",
     "Runtime": "godot",
@@ -8526,6 +8912,7 @@
       "Point & Click Adventure"
     ],
     "Hints": "",
+    "Id": "439",
     "IgdbId": "152450",
     "Pub": "Postmodern Adventures",
     "Runtime": "scummvm",
@@ -8560,6 +8947,7 @@
       "RTS"
     ],
     "Hints": "DLC needs hlvideo",
+    "Id": "254",
     "IgdbId": "18918",
     "Pub": "",
     "Runtime": "hashlink",
@@ -8589,6 +8977,7 @@
       "Platformer"
     ],
     "Hints": "needs hlsteam to run; in dir `sdl64` rm *.{,h}dll and run `hl`",
+    "Id": "255",
     "IgdbId": "153876",
     "Pub": "Deepnight Games",
     "Runtime": "hashlink",
@@ -8619,6 +9008,7 @@
       "Action RPG"
     ],
     "Hints": "$ solarus-run data.solarus",
+    "Id": "256",
     "IgdbId": "142340",
     "Pub": "Nordcurrent Labs",
     "Runtime": "solarus-run",
@@ -8649,6 +9039,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "257",
     "IgdbId": "187655",
     "Pub": "Pineapple Works",
     "Runtime": "godot",
@@ -8683,6 +9074,7 @@
       "Programming Puzzle"
     ],
     "Hints": "",
+    "Id": "478",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "godot",
@@ -8714,6 +9106,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "258",
     "IgdbId": "245909",
     "Pub": "Yokcos",
     "Runtime": "godot",
@@ -8745,6 +9138,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "259",
     "IgdbId": "8360",
     "Pub": "",
     "Runtime": "",
@@ -8772,6 +9166,7 @@
     "Game": "Open Sorcery",
     "Genre": [],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/hk34q0/open_sorcery_textbased_adventure_works_with_a_web/ Reddit post",
+    "Id": "260",
     "IgdbId": "27444",
     "Pub": "Open Sorcery Games",
     "Runtime": "",
@@ -8800,6 +9195,7 @@
       "Shoot'em Up"
     ],
     "Hints": "",
+    "Id": "261",
     "IgdbId": "151732",
     "Pub": "Undermog Games",
     "Runtime": "godot",
@@ -8831,6 +9227,7 @@
       "Puzzle"
     ],
     "Hints": "fnaify >= 3.0",
+    "Id": "262",
     "IgdbId": "74545",
     "Pub": "",
     "Runtime": "fnaify",
@@ -8861,6 +9258,7 @@
     "Game": "Osmos",
     "Genre": [],
     "Hints": "",
+    "Id": "263",
     "IgdbId": "14951",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -8888,6 +9286,7 @@
       "Shoot'em Up"
     ],
     "Hints": "",
+    "Id": "264",
     "IgdbId": "32259",
     "Pub": "",
     "Runtime": "",
@@ -8915,6 +9314,7 @@
       "Metroidvania"
     ],
     "Hints": "GOG.com version not working as of 2023-05-07 (outdated - 1.3.x), but Steam version works (1.4.x)",
+    "Id": "265",
     "IgdbId": "12597",
     "Pub": "",
     "Runtime": "mono",
@@ -8946,6 +9346,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "284",
     "IgdbId": "207273",
     "Pub": "Abhi Sundu",
     "Runtime": "love-11",
@@ -8977,6 +9378,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "266",
     "IgdbId": "15333",
     "Pub": "",
     "Runtime": "",
@@ -9005,6 +9407,7 @@
       "Strategy"
     ],
     "Hints": "Conversion of the original game files must be done with lgc-pg (packaged with lgeneral), which doesn't currently work on OpenBSD. The files must be converted on a different system and copied over to /usr/local/share/games/lgeneral.",
+    "Id": "267",
     "IgdbId": "4268",
     "Pub": "",
     "Runtime": "lgeneral",
@@ -9033,6 +9436,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "268",
     "IgdbId": "141787",
     "Pub": "Alexander Lahti",
     "Runtime": "godot",
@@ -9060,6 +9464,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "269",
     "IgdbId": "222738",
     "Pub": "Slouching Beast LLC",
     "Runtime": "godot",
@@ -9092,6 +9497,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "270",
     "IgdbId": "14980",
     "Pub": "",
     "Runtime": "",
@@ -9122,6 +9528,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "271",
     "IgdbId": "14981",
     "Pub": "Penny Arcade, Inc.",
     "Runtime": "",
@@ -9149,6 +9556,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "272",
     "IgdbId": "36181",
     "Pub": "",
     "Runtime": "",
@@ -9176,6 +9584,7 @@
       "RPG"
     ],
     "Hints": "widescreen mod via weidu",
+    "Id": "273",
     "IgdbId": "832",
     "Pub": "Interplay Entertainment",
     "Runtime": "gemrb",
@@ -9205,6 +9614,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "274",
     "IgdbId": "133879",
     "Pub": "",
     "Runtime": "",
@@ -9232,6 +9642,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "275",
     "IgdbId": "244281",
     "Pub": "Hero Game Co LLC",
     "Runtime": "love-11",
@@ -9264,6 +9675,7 @@
       "RPG"
     ],
     "Hints": "extract *.AppImage with 7z, possession.love is in directory usr/",
+    "Id": "276",
     "IgdbId": "90649",
     "Pub": "Weirdfellows",
     "Runtime": "love-11",
@@ -9298,6 +9710,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "277",
     "IgdbId": "2000",
     "Pub": "Ripcord Games",
     "Runtime": "postal",
@@ -9329,6 +9742,7 @@
       "FMV"
     ],
     "Hints": "",
+    "Id": "278",
     "IgdbId": "13619",
     "Pub": "",
     "Runtime": "",
@@ -9361,6 +9775,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "279",
     "IgdbId": "122794",
     "Pub": "Fat Gem",
     "Runtime": "godot",
@@ -9391,6 +9806,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "280",
     "IgdbId": "7635",
     "Pub": "Wadjet Eye Games",
     "Runtime": "Adventure Game Studio",
@@ -9421,6 +9837,7 @@
       "Horror"
     ],
     "Hints": "free!",
+    "Id": "281",
     "IgdbId": "201131",
     "Pub": "Skullazon Interactive",
     "Runtime": "gzdoom",
@@ -9451,6 +9868,7 @@
       "Rhythm Game"
     ],
     "Hints": "Godot 3.4",
+    "Id": "282",
     "IgdbId": "130920",
     "Pub": "EIRTeam",
     "Runtime": "godot",
@@ -9480,6 +9898,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "283",
     "IgdbId": "191577",
     "Pub": "Hero Game Co LLC",
     "Runtime": "love-11",
@@ -9511,6 +9930,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "286",
     "IgdbId": "333",
     "Pub": "GT Interactive",
     "Runtime": "quakespasm | ezquake | vkquake",
@@ -9540,6 +9960,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "287",
     "IgdbId": "286",
     "Pub": "Activision",
     "Runtime": "yquake2",
@@ -9571,6 +9992,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "288",
     "IgdbId": "355",
     "Pub": "Activision",
     "Runtime": "ioquake3",
@@ -9602,6 +10024,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "289",
     "IgdbId": "8250",
     "Pub": "",
     "Runtime": "scummvm",
@@ -9634,6 +10057,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "290",
     "IgdbId": "182930",
     "Pub": "Pixel-Archipel",
     "Runtime": "godot",
@@ -9664,6 +10088,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "305",
     "IgdbId": "201487",
     "Pub": "Harmony Honey",
     "Runtime": "godot",
@@ -9694,6 +10119,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "306",
     "IgdbId": "145400",
     "Pub": "Team Run, PID Games",
     "Runtime": "godot",
@@ -9724,6 +10150,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "291",
     "IgdbId": "8063",
     "Pub": "",
     "Runtime": "dosbox",
@@ -9755,6 +10182,7 @@
       "Racing"
     ],
     "Hints": "",
+    "Id": "493",
     "IgdbId": "192544",
     "Pub": "kurigamedev",
     "Runtime": "godot",
@@ -9787,6 +10215,7 @@
       "FPS"
     ],
     "Hints": "https://marc.info/?l=openbsd-ports&m=154076966325692&w=2 iortcw",
+    "Id": "292",
     "IgdbId": "281",
     "Pub": "",
     "Runtime": "iorctw",
@@ -9815,6 +10244,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "293",
     "IgdbId": "45348",
     "Pub": "securas",
     "Runtime": "godot",
@@ -9845,6 +10275,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "294",
     "IgdbId": "17191",
     "Pub": "",
     "Runtime": "",
@@ -9874,6 +10305,7 @@
       "City Builder"
     ],
     "Hints": "",
+    "Id": "295",
     "IgdbId": "36220",
     "Pub": "SixtyGig Games",
     "Runtime": "java",
@@ -9905,6 +10337,7 @@
       "Adventure"
     ],
     "Hints": "untested",
+    "Id": "296",
     "IgdbId": "238",
     "Pub": "Red Orb Entertainment",
     "Runtime": "scummvm",
@@ -9935,6 +10368,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "297",
     "IgdbId": "212058",
     "Pub": "Lucas Molina",
     "Runtime": "godot",
@@ -9965,6 +10399,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "298",
     "IgdbId": "139588",
     "Pub": "Lodder Digital Media",
     "Runtime": "fnaify",
@@ -9994,6 +10429,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "299",
     "IgdbId": "3221",
     "Pub": "",
     "Runtime": "",
@@ -10028,6 +10464,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "300",
     "IgdbId": "122070",
     "Pub": "Modern Wolf",
     "Runtime": "godot",
@@ -10055,6 +10492,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "301",
     "IgdbId": "36444",
     "Pub": "Hasbro Interactive",
     "Runtime": "openrct2",
@@ -10084,6 +10522,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "302",
     "IgdbId": "331",
     "Pub": "Infogrames",
     "Runtime": "openrct2",
@@ -10113,6 +10552,7 @@
       "RTS"
     ],
     "Hints": "",
+    "Id": "303",
     "IgdbId": "190269",
     "Pub": "Puntigames",
     "Runtime": "godot",
@@ -10141,6 +10581,7 @@
     "Game": "Ruggnar",
     "Genre": [],
     "Hints": "",
+    "Id": "304",
     "IgdbId": "164177",
     "Pub": "",
     "Runtime": "fnaify",
@@ -10170,6 +10611,7 @@
       "MMORPG"
     ],
     "Hints": "",
+    "Id": "307",
     "IgdbId": "5611",
     "Pub": "Jagex",
     "Runtime": "java-11",
@@ -10200,6 +10642,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "308",
     "IgdbId": "132552",
     "Pub": "Benjamin Soule",
     "Runtime": "hashlink",
@@ -10228,6 +10671,7 @@
     "Game": "SEGA Mega Drive and Genesis Classics",
     "Genre": [],
     "Hints": "",
+    "Id": "309",
     "IgdbId": "80185",
     "Pub": "",
     "Runtime": "mednafen",
@@ -10258,6 +10702,7 @@
       "Platformer"
     ],
     "Hints": "needs godot built with GodotSteam module",
+    "Id": "312",
     "IgdbId": "144112",
     "Pub": "Zertuk",
     "Runtime": "godot",
@@ -10288,6 +10733,7 @@
       "Action"
     ],
     "Hints": "needs luasteam and LUA_CPATH=/usr/local/lib/luasteam.so",
+    "Id": "313",
     "IgdbId": "148027",
     "Pub": "a327ex",
     "Runtime": "love-11",
@@ -10319,6 +10765,7 @@
       "Puzzle"
     ],
     "Hints": "mojoshader >= 1214",
+    "Id": "318",
     "IgdbId": "34952",
     "Pub": "",
     "Runtime": "",
@@ -10347,6 +10794,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "319",
     "IgdbId": "7709",
     "Pub": "Ska Studios",
     "Runtime": "",
@@ -10377,6 +10825,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "320",
     "IgdbId": "202",
     "Pub": "",
     "Runtime": "scummvm",
@@ -10405,6 +10854,7 @@
     "Game": "Session Seven",
     "Genre": [],
     "Hints": "bug on saving reported",
+    "Id": "322",
     "IgdbId": "115395",
     "Pub": "",
     "Runtime": "",
@@ -10432,6 +10882,7 @@
       "Strategy"
     ],
     "Hints": "cd usr/bin; love-11 settlers.love",
+    "Id": "323",
     "IgdbId": "121607",
     "Pub": "giann",
     "Runtime": "love-11",
@@ -10463,6 +10914,7 @@
       "RTS"
     ],
     "Hints": "",
+    "Id": "326",
     "IgdbId": "33303",
     "Pub": "Interactive Magic",
     "Runtime": "7kaa",
@@ -10492,6 +10944,7 @@
       "FPS"
     ],
     "Hints": "needs eduke32 built with voidsw (see eduke32 port update 2021-08-20)",
+    "Id": "327",
     "IgdbId": "30156",
     "Pub": "3D Realms (Apogee Software)",
     "Runtime": "",
@@ -10520,6 +10973,7 @@
       "Action"
     ],
     "Hints": "extract .AppImage with 7z x; then love-11 bin/love",
+    "Id": "310",
     "IgdbId": "148437",
     "Pub": "manadream",
     "Runtime": "love-11",
@@ -10552,6 +11006,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "311",
     "IgdbId": "25084",
     "Pub": "Zachtronics",
     "Runtime": "mono",
@@ -10584,6 +11039,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "328",
     "IgdbId": "55307",
     "Pub": "Super Legit Games",
     "Runtime": "renpy",
@@ -10615,6 +11071,7 @@
       "Action RPG"
     ],
     "Hints": "",
+    "Id": "329",
     "IgdbId": "176573",
     "Pub": "",
     "Runtime": "",
@@ -10645,6 +11102,7 @@
       "FPS"
     ],
     "Hints": "FREE!",
+    "Id": "331",
     "IgdbId": "132241",
     "Pub": "Scumhead",
     "Runtime": "gzdoom",
@@ -10676,6 +11134,7 @@
       "FPS"
     ],
     "Hints": "FREE!",
+    "Id": "332",
     "IgdbId": "135474",
     "Pub": "Scumhead",
     "Runtime": "gzdoom",
@@ -10705,6 +11164,7 @@
     "Game": "Signs of Life",
     "Genre": [],
     "Hints": "",
+    "Id": "333",
     "IgdbId": "16839",
     "Pub": "",
     "Runtime": "fnaify",
@@ -10732,6 +11192,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "334",
     "IgdbId": "146360",
     "Pub": "Team Simona",
     "Runtime": "godot",
@@ -10761,6 +11222,7 @@
       "Roguelite"
     ],
     "Hints": "",
+    "Id": "335",
     "IgdbId": "96201",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -10785,6 +11247,38 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "Centi Games",
+    "Engine": "Godot",
+    "Game": "Sisypush",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "497",
+    "IgdbId": "236358",
+    "Pub": "Centi Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2219240/Sisypush/"
+    ],
+    "Tags": [
+      "2bit",
+      "indie",
+      "sokoban-like"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "1.4.3",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "17-BIT",
     "Engine": "FNA",
@@ -10793,6 +11287,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "336",
     "IgdbId": "9023",
     "Pub": "",
     "Runtime": "",
@@ -10823,6 +11318,7 @@
       "Action Roguelike"
     ],
     "Hints": "",
+    "Id": "458",
     "IgdbId": "190727",
     "Pub": "Radiant Sloth",
     "Runtime": "godot",
@@ -10854,6 +11350,7 @@
       "Deckbuilder"
     ],
     "Hints": "If running fails with OpenGLException Invalid enum (1280), can workaround by setting MESA_NO_ERROR=1",
+    "Id": "337",
     "IgdbId": "40477",
     "Pub": "Mega Crit Games",
     "Runtime": "java",
@@ -10886,6 +11383,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "338",
     "IgdbId": "132783",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -10918,6 +11416,7 @@
       "Puzzle"
     ],
     "Hints": "run with `godot --main-pack Sokobos.pck`",
+    "Id": "315",
     "IgdbId": "201496",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -10945,6 +11444,7 @@
       "Puzzle"
     ],
     "Hints": "run with IndieRunner or `godot --main-pack *.pck`",
+    "Id": "316",
     "IgdbId": "232960",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -10972,6 +11472,7 @@
       "Puzzle"
     ],
     "Hints": "on Intel GPU at least, need to run with '--video-driver GLES2' to avoid shader artifacts",
+    "Id": "317",
     "IgdbId": "244669",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -10999,6 +11500,7 @@
       "Puzzle"
     ],
     "Hints": "run with `godot --main-pack Sokobos.pck`",
+    "Id": "314",
     "IgdbId": "189863",
     "Pub": "Daisy Games",
     "Runtime": "godot",
@@ -11026,6 +11528,7 @@
       "Roguelite"
     ],
     "Hints": "",
+    "Id": "339",
     "IgdbId": "133421",
     "Pub": "Ombarus Dev",
     "Runtime": "godot",
@@ -11055,6 +11558,7 @@
       "Action"
     ],
     "Hints": "only demo/trial version because game uses DRM not addressed by Steamworks.NET.dll stub",
+    "Id": "340",
     "IgdbId": "29314",
     "Pub": "",
     "Runtime": "",
@@ -11080,6 +11584,7 @@
     "Game": "Soulcaster I & II",
     "Genre": [],
     "Hints": "",
+    "Id": "341",
     "IgdbId": "33074",
     "Pub": "",
     "Runtime": "",
@@ -11110,6 +11615,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "342",
     "IgdbId": "25119",
     "Pub": "Midipixel",
     "Runtime": "love-0.10",
@@ -11141,6 +11647,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "344",
     "IgdbId": "35224",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -11172,6 +11679,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "345",
     "IgdbId": "121004",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -11203,6 +11711,7 @@
       "Colony Sim"
     ],
     "Hints": "needs lwjgl3 jars in class path and JDK 17 (2022-12-31)",
+    "Id": "346",
     "IgdbId": "103246",
     "Pub": "Bugbyte Ltd.",
     "Runtime": "java",
@@ -11236,6 +11745,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "343",
     "IgdbId": "8390",
     "Pub": "",
     "Runtime": "fnaify",
@@ -11268,6 +11778,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "347",
     "IgdbId": "34639",
     "Pub": "team BitClub, Sunken Treasure Games",
     "Runtime": "java",
@@ -11298,6 +11809,7 @@
       "Platformer"
     ],
     "Hints": "update from 2023-03-25 switched to FNA, which fixed gamepad support",
+    "Id": "348",
     "IgdbId": "9527",
     "Pub": "tinyBuild",
     "Runtime": "mono",
@@ -11326,6 +11838,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "349",
     "IgdbId": "209740",
     "Pub": "Xendra, Erabit",
     "Runtime": "godot",
@@ -11357,6 +11870,7 @@
       "Shooter"
     ],
     "Hints": "free! launch with love-0.10 Spellrazor.exe",
+    "Id": "350",
     "IgdbId": "177340",
     "Pub": "",
     "Runtime": "love-0.10",
@@ -11388,6 +11902,7 @@
       "3D Platformer"
     ],
     "Hints": "",
+    "Id": "488",
     "IgdbId": "216723",
     "Pub": "Dillon Steyl",
     "Runtime": "godot4",
@@ -11420,6 +11935,7 @@
       "Farming Simulator"
     ],
     "Hints": "",
+    "Id": "351",
     "IgdbId": "198626",
     "Pub": "RedDeer.Games",
     "Runtime": "godot",
@@ -11452,6 +11968,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "352",
     "IgdbId": "153",
     "Pub": "LucasArts",
     "Runtime": "openjk",
@@ -11483,6 +12000,7 @@
       "Strategy"
     ],
     "Hints": "",
+    "Id": "356",
     "IgdbId": "30800",
     "Pub": "SPARSE//GameDev",
     "Runtime": "fnaify",
@@ -11514,6 +12032,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "355",
     "IgdbId": "143027",
     "Pub": "Narayana Walters",
     "Runtime": "godot",
@@ -11543,6 +12062,7 @@
       "Platformer"
     ],
     "Hints": "sorely missing gamecontroller support as of 2022-12-31",
+    "Id": "353",
     "IgdbId": "147628",
     "Pub": "Orangepixel",
     "Runtime": "java",
@@ -11572,6 +12092,7 @@
       "Farming Simulation"
     ],
     "Hints": "starting with version 1.5.5, use MAC 32bit build which uses mono",
+    "Id": "354",
     "IgdbId": "17000",
     "Pub": "ConcernedApe",
     "Runtime": "mono",
@@ -11603,6 +12124,7 @@
       "Action"
     ],
     "Hints": "libtheorafile-20210403 needed",
+    "Id": "357",
     "IgdbId": "56668",
     "Pub": "Tribute Games Inc.",
     "Runtime": "fnaify",
@@ -11634,6 +12156,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "358",
     "IgdbId": "261434",
     "Pub": "Balthazar",
     "Runtime": "love-11",
@@ -11667,6 +12190,7 @@
       "RTS"
     ],
     "Hints": "free and open-source",
+    "Id": "359",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "love-11",
@@ -11696,6 +12220,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "360",
     "IgdbId": "103219",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -11726,6 +12251,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "361",
     "IgdbId": "24603",
     "Pub": "Velocity Inc.",
     "Runtime": "gzdoom, crispy-doom",
@@ -11754,6 +12280,7 @@
       "Action RPG"
     ],
     "Hints": "needs godot with mono/C# support",
+    "Id": "362",
     "IgdbId": "159919",
     "Pub": "Igniting Spark Games",
     "Runtime": "godot",
@@ -11787,6 +12314,7 @@
       "Puzzler"
     ],
     "Hints": "",
+    "Id": "436",
     "IgdbId": "193466",
     "Pub": "Devcats",
     "Runtime": "godot",
@@ -11819,6 +12347,7 @@
     "Game": "Suits: A Business RPG",
     "Genre": [],
     "Hints": "https://videos.pair2jeux.tube/videos/watch/3f7ea7f3-c031-480a-9c82-13c2da552928 Video https://www.reddit.com/r/openbsd_gaming/comments/himu89/suits_a_business_rpg_playonbsd/ Reddit post https://gist.github.com/reivyr/3c4ff37ace8135c84c6f7897f5751652 Setup instructions",
+    "Id": "363",
     "IgdbId": "16135",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -11847,6 +12376,7 @@
       "Point & Click Adventure"
     ],
     "Hints": "",
+    "Id": "472",
     "IgdbId": "110416",
     "Pub": "Cloak and Dagger Games",
     "Runtime": "scummvm",
@@ -11881,6 +12411,7 @@
       "Visual Novel"
     ],
     "Hints": "",
+    "Id": "364",
     "IgdbId": "17639",
     "Pub": "Sekai Project",
     "Runtime": "renpy",
@@ -11907,6 +12438,7 @@
     "Game": "Super Amazing Wagon Adventure",
     "Genre": [],
     "Hints": "",
+    "Id": "365",
     "IgdbId": "13100",
     "Pub": "",
     "Runtime": "",
@@ -11937,6 +12469,7 @@
       "Platformer"
     ],
     "Hints": "force using FNA 19.3; easiest with IndieRunner rather than fnaify",
+    "Id": "366",
     "IgdbId": "132574",
     "Pub": "Kitsune Games",
     "Runtime": "IndieRunner",
@@ -11967,6 +12500,7 @@
       "Sports"
     ],
     "Hints": "",
+    "Id": "367",
     "IgdbId": "31160",
     "Pub": "",
     "Runtime": "",
@@ -11995,6 +12529,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "368",
     "IgdbId": "3251",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -12022,6 +12557,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "369",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "",
@@ -12049,6 +12585,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "370",
     "IgdbId": "25695",
     "Pub": "Rooster Teeth Games",
     "Runtime": "",
@@ -12080,6 +12617,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "371",
     "IgdbId": "264196",
     "Pub": "Slain Mascot LLC",
     "Runtime": "godot",
@@ -12111,6 +12649,7 @@
       "FPS"
     ],
     "Hints": "needs gzdoom >= 4.10",
+    "Id": "372",
     "IgdbId": "165070",
     "Pub": "Hyperstrange",
     "Runtime": "gzdoom",
@@ -12145,6 +12684,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "373",
     "IgdbId": "19868",
     "Pub": "",
     "Runtime": "",
@@ -12177,6 +12717,7 @@
       "Immersive Sim"
     ],
     "Hints": "only works with the Classic Edition; Enhanced Edition is not supported",
+    "Id": "374",
     "IgdbId": "23",
     "Pub": "Origin Systems",
     "Runtime": "shockolate",
@@ -12204,6 +12745,7 @@
       "Tower Defense"
     ],
     "Hints": "",
+    "Id": "378",
     "IgdbId": "168619",
     "Pub": "MAKSIM VOLKAU",
     "Runtime": "godot",
@@ -12233,6 +12775,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "375",
     "IgdbId": "194401",
     "Pub": "Post Mortem Pixels",
     "Runtime": "godot",
@@ -12265,6 +12808,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "376",
     "IgdbId": "8796",
     "Pub": "Netcore",
     "Runtime": "tome4",
@@ -12298,6 +12842,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "377",
     "IgdbId": "104602",
     "Pub": "",
     "Runtime": "mednafen",
@@ -12329,6 +12874,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "379",
     "IgdbId": "13232",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -12359,6 +12905,7 @@
       "puzzle platformer"
     ],
     "Hints": "",
+    "Id": "428",
     "IgdbId": "156997",
     "Pub": "Jasonsumm Games",
     "Runtime": "godot",
@@ -12390,6 +12937,7 @@
       "roguelike deckbuilder"
     ],
     "Hints": "needs libgodotsteam.so in addons/godotsteam/x11/",
+    "Id": "426",
     "IgdbId": "211232",
     "Pub": "Brute Farce",
     "Runtime": "godot",
@@ -12420,6 +12968,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "380",
     "IgdbId": "115499",
     "Pub": "Lost Robots",
     "Runtime": "love-11",
@@ -12450,6 +12999,7 @@
       "Sandbox"
     ],
     "Hints": "fnaify 3.0p0 and steamworks-nosteam 0.4.1p0 install Steamworks.NET.dll stub which interferes",
+    "Id": "381",
     "IgdbId": "1879",
     "Pub": "",
     "Runtime": "",
@@ -12481,10 +13031,11 @@
       "Simulation"
     ],
     "Hints": "",
-    "IgdbId": "",
+    "Id": "463",
+    "IgdbId": "288935",
     "Pub": "Nacho Sama",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-08-08T00:00:00.000Z",
@@ -12500,7 +13051,7 @@
       "spooky",
       "working simulator"
     ],
-    "Updated": "2024-08-08T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "1.1.0.2",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -12513,6 +13064,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "3",
     "IgdbId": "191822",
     "Pub": "Fun Quarter",
     "Runtime": "godot",
@@ -12542,6 +13094,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "4",
     "IgdbId": "11084",
     "Pub": "",
     "Runtime": "",
@@ -12570,6 +13123,7 @@
     "Game": "The Average Everyday Adventures of Samantha Browne",
     "Genre": [],
     "Hints": "https://videos.pair2jeux.tube/videos/watch/f8a323da-29b0-4997-b2ea-af30d95cf058 Video https://www.reddit.com/r/openbsd_gaming/comments/hjctm2/the_average_everyday_adventures_of_samantha/ Reddit post",
+    "Id": "22",
     "IgdbId": "16984",
     "Pub": "",
     "Runtime": "renpy",
@@ -12597,6 +13151,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "35",
     "IgdbId": "8511",
     "Pub": "",
     "Runtime": "scummvm",
@@ -12625,6 +13180,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "58",
     "IgdbId": "166722",
     "Pub": "Playstack",
     "Runtime": "godot",
@@ -12657,6 +13213,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "63",
     "IgdbId": "11270",
     "Pub": "Screen 7",
     "Runtime": "scummvm",
@@ -12685,6 +13242,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "466",
     "IgdbId": "119214",
     "Pub": "Julia Minamata",
     "Runtime": "scummvm",
@@ -12715,6 +13273,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "443",
     "IgdbId": "9737",
     "Pub": "Sierra",
     "Runtime": "scummvm",
@@ -12745,6 +13304,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "102",
     "IgdbId": "207",
     "Pub": "",
     "Runtime": "scummvm",
@@ -12775,6 +13335,7 @@
       "Brawler"
     ],
     "Hints": "",
+    "Id": "104",
     "IgdbId": "20582",
     "Pub": "",
     "Runtime": "fnaify",
@@ -12806,6 +13367,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "121",
     "IgdbId": "56",
     "Pub": "Bethesda Softworks",
     "Runtime": "openmw",
@@ -12836,6 +13398,7 @@
       "Adventure"
     ],
     "Hints": "scummvm >= 2.7.0 display text correctly",
+    "Id": "130",
     "IgdbId": "210665",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -12866,6 +13429,7 @@
       "Visual Novel"
     ],
     "Hints": "if voices get interrupted, try out Interrupt voices during playback toggle; untested",
+    "Id": "132",
     "IgdbId": "119580",
     "Pub": "MangaGamer",
     "Runtime": "renpy",
@@ -12894,6 +13458,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "145",
     "IgdbId": "102875",
     "Pub": "Yorzh Aleksey",
     "Runtime": "gzdoom",
@@ -12924,6 +13489,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "158",
     "IgdbId": "",
     "Pub": "",
     "Runtime": "fnaify",
@@ -12951,6 +13517,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "159",
     "IgdbId": "149158",
     "Pub": "Priory Games",
     "Runtime": "godot",
@@ -12978,6 +13545,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "198",
     "IgdbId": "253594",
     "Pub": "Tossu",
     "Runtime": "godot",
@@ -13008,6 +13576,7 @@
       "Life Simulator"
     ],
     "Hints": "",
+    "Id": "476",
     "IgdbId": "229937",
     "Pub": "AuraTummyache",
     "Runtime": "godot",
@@ -13041,6 +13610,7 @@
       "Point & Click Adventure"
     ],
     "Hints": "",
+    "Id": "470",
     "IgdbId": "239802",
     "Pub": "Point & Pixel Adventures",
     "Runtime": "scummvm",
@@ -13072,6 +13642,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "220",
     "IgdbId": "895",
     "Pub": "",
     "Runtime": "residualvm",
@@ -13092,6 +13663,38 @@
     "Year": "1999-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-09-27T00:00:00.000Z",
+    "Dev": "Madnukin, Miroko, Yeramia",
+    "Engine": "Godot",
+    "Game": "The Pulse of Evil",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "498",
+    "IgdbId": "252261",
+    "Pub": "Mads Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-09-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2437890/The_Pulse_of_Evil/"
+    ],
+    "Tags": [
+      "action",
+      "indie",
+      "shooter"
+    ],
+    "Updated": "2024-09-27T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-03-30T00:00:00.000Z",
     "Dev": "Hero Game Co LLC",
     "Engine": "Love2D",
@@ -13100,6 +13703,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "285",
     "IgdbId": "",
     "Pub": "Hero Game Co LLC",
     "Runtime": "love-11",
@@ -13131,6 +13735,7 @@
       "RTS"
     ],
     "Hints": "hard to find the game",
+    "Id": "325",
     "IgdbId": "124562",
     "Pub": "",
     "Runtime": "freeserf",
@@ -13156,6 +13761,7 @@
       "RTS"
     ],
     "Hints": "",
+    "Id": "324",
     "IgdbId": "2617",
     "Pub": "",
     "Runtime": "returntotheroots",
@@ -13183,6 +13789,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "330",
     "IgdbId": "7418",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -13211,6 +13818,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "402",
     "IgdbId": "62830",
     "Pub": "",
     "Runtime": "",
@@ -13238,6 +13846,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "422",
     "IgdbId": "214973",
     "Pub": "Zachtronics",
     "Runtime": "fnaify",
@@ -13268,6 +13877,7 @@
       "RPG"
     ],
     "Hints": "https://www.reddit.com/r/openbsd_gaming/comments/g8ng68/free_40_hour_scifi_jrpg_works_on_openbsd_with/",
+    "Id": "382",
     "IgdbId": "135949",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -13297,6 +13907,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "383",
     "IgdbId": "1624",
     "Pub": "Electronic Arts",
     "Runtime": "corsixth",
@@ -13326,6 +13937,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "384",
     "IgdbId": "212094",
     "Pub": "Missing Middle Games",
     "Runtime": "godot",
@@ -13356,6 +13968,7 @@
       "Tower Defense"
     ],
     "Hints": "https://github.com/rfht/pck-extract",
+    "Id": "385",
     "IgdbId": "159855",
     "Pub": "DjokaGames",
     "Runtime": "godot",
@@ -13385,6 +13998,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "491",
     "IgdbId": "6253",
     "Pub": "Size Five Games",
     "Runtime": "scummvm",
@@ -13416,6 +14030,7 @@
       "City Builder"
     ],
     "Hints": "",
+    "Id": "387",
     "IgdbId": "190471",
     "Pub": "6 Toad Games",
     "Runtime": "godot",
@@ -13445,6 +14060,7 @@
       "Metroidvania"
     ],
     "Hints": "",
+    "Id": "386",
     "IgdbId": "28952",
     "Pub": "Chucklefish Games",
     "Runtime": "",
@@ -13477,6 +14093,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "388",
     "IgdbId": "11460",
     "Pub": "",
     "Runtime": "java",
@@ -13504,6 +14121,7 @@
       "Adventure"
     ],
     "Hints": "untested",
+    "Id": "389",
     "IgdbId": "916",
     "Pub": "Virgin Interactive",
     "Runtime": "scummvm",
@@ -13534,6 +14152,7 @@
       "Action Platformer"
     ],
     "Hints": "",
+    "Id": "390",
     "IgdbId": "9567",
     "Pub": "",
     "Runtime": "",
@@ -13566,6 +14185,7 @@
       "City Builder"
     ],
     "Hints": "",
+    "Id": "479",
     "IgdbId": "316863",
     "Pub": "Napas Torteeka",
     "Runtime": "godot",
@@ -13598,6 +14218,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "391",
     "IgdbId": "103036",
     "Pub": "Odyssey Entertainment",
     "Runtime": "godot",
@@ -13628,6 +14249,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "392",
     "IgdbId": "267294",
     "Pub": "albertnez",
     "Runtime": "godot",
@@ -13662,6 +14284,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "460",
     "IgdbId": "260400",
     "Pub": "Sigyaad Team",
     "Runtime": "gzdoom",
@@ -13694,6 +14317,7 @@
       "Shoot'em Up"
     ],
     "Hints": "",
+    "Id": "393",
     "IgdbId": "14432",
     "Pub": "Epic MegaGames",
     "Runtime": "opentyrian",
@@ -13724,6 +14348,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "394",
     "IgdbId": "204321",
     "Pub": "Spacewalkers",
     "Runtime": "godot",
@@ -13753,6 +14378,7 @@
     "Game": "Ultra Hat Dimension",
     "Genre": [],
     "Hints": "",
+    "Id": "395",
     "IgdbId": "59472",
     "Pub": "",
     "Runtime": "fnaify",
@@ -13781,6 +14407,7 @@
       "Action"
     ],
     "Hints": "copy /usr/local/share/lwjgl/liblwjgl64.so into game directory, fix the launch script to use system java",
+    "Id": "396",
     "IgdbId": "14327",
     "Pub": "",
     "Runtime": "java-1.8.0",
@@ -13808,6 +14435,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "397",
     "IgdbId": "27867",
     "Pub": "Wadjet Eye Games",
     "Runtime": "scummvm",
@@ -13836,6 +14464,7 @@
       "Simulation"
     ],
     "Hints": "",
+    "Id": "456",
     "IgdbId": "268939",
     "Pub": "Priory Games",
     "Runtime": "godot",
@@ -13867,6 +14496,7 @@
       "Survival"
     ],
     "Hints": "",
+    "Id": "398",
     "IgdbId": "138892",
     "Pub": "One Man Games",
     "Runtime": "godot",
@@ -13896,6 +14526,7 @@
       "Action"
     ],
     "Hints": "mojoshader >= 1214",
+    "Id": "399",
     "IgdbId": "27373",
     "Pub": "",
     "Runtime": "",
@@ -13923,6 +14554,7 @@
     "Game": "Unholy Heights",
     "Genre": [],
     "Hints": "audio supported since FNA 21.04 (XMA2)",
+    "Id": "400",
     "IgdbId": "16648",
     "Pub": "AGM PLAYISM",
     "Runtime": "",
@@ -13953,6 +14585,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "needs steamworks4j port, at least for the Steam version",
+    "Id": "401",
     "IgdbId": "98073",
     "Pub": "David Kaleta",
     "Runtime": "IndieRunner",
@@ -13986,6 +14619,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "409",
     "IgdbId": "238714",
     "Pub": "Yatch Studios",
     "Runtime": "godot",
@@ -14015,6 +14649,7 @@
       "JRPG"
     ],
     "Hints": "",
+    "Id": "452",
     "IgdbId": "304287",
     "Pub": "SoMoGa Inc.",
     "Runtime": "mono",
@@ -14047,6 +14682,7 @@
       "Card Game"
     ],
     "Hints": "",
+    "Id": "403",
     "IgdbId": "211982",
     "Pub": "Nachtvlam",
     "Runtime": "godot",
@@ -14078,6 +14714,7 @@
       "Idler"
     ],
     "Hints": "",
+    "Id": "404",
     "IgdbId": "144577",
     "Pub": "DU&I",
     "Runtime": "godot",
@@ -14108,10 +14745,11 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "449",
     "IgdbId": "280133",
     "Pub": "Antique Gear Games",
     "Runtime": "godot4",
-    "Setup": "",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-07-13T00:00:00.000Z",
@@ -14128,7 +14766,7 @@
       "roguelike",
       "wizard"
     ],
-    "Updated": "2024-07-13T00:00:00.000Z",
+    "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
@@ -14141,6 +14779,7 @@
       "Action"
     ],
     "Hints": "",
+    "Id": "406",
     "IgdbId": "116267",
     "Pub": "Benjamin Soule",
     "Runtime": "hashlink",
@@ -14169,6 +14808,7 @@
       "FPS"
     ],
     "Hints": "cd Vomitoreum && gzdoom gzdoom.ipk3 # Vomitoreum subdirectory in the game's files",
+    "Id": "407",
     "IgdbId": "142271",
     "Pub": "Scumhead",
     "Runtime": "gzdoom",
@@ -14200,6 +14840,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "408",
     "IgdbId": "157088",
     "Pub": "MostlyMadProductions",
     "Runtime": "godot",
@@ -14230,6 +14871,7 @@
       "Platformer"
     ],
     "Hints": "",
+    "Id": "410",
     "IgdbId": "23028",
     "Pub": "",
     "Runtime": "",
@@ -14257,6 +14899,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "411",
     "IgdbId": "27278",
     "Pub": "Raw Fury",
     "Runtime": "scummvm",
@@ -14289,6 +14932,7 @@
       "Shoot'em Up"
     ],
     "Hints": "",
+    "Id": "412",
     "IgdbId": "35307",
     "Pub": "Andrew Willman",
     "Runtime": "fnaify",
@@ -14316,6 +14960,7 @@
       "RPG"
     ],
     "Hints": "",
+    "Id": "413",
     "IgdbId": "1364",
     "Pub": "",
     "Runtime": "",
@@ -14346,6 +14991,7 @@
       "God Game"
     ],
     "Hints": "",
+    "Id": "414",
     "IgdbId": "158242",
     "Pub": "Obvlong Games",
     "Runtime": "godot",
@@ -14374,6 +15020,7 @@
     "Game": "Word Game: Episode 0",
     "Genre": [],
     "Hints": "Chinese languages only (traditional zh and modern cn available)",
+    "Id": "415",
     "IgdbId": "174067",
     "Pub": "Team9",
     "Runtime": "godot",
@@ -14403,6 +15050,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "416",
     "IgdbId": "115873",
     "Pub": "3D Realms, Fulqrum Publishing",
     "Runtime": "wrath",
@@ -14435,6 +15083,7 @@
       "FPS"
     ],
     "Hints": "",
+    "Id": "417",
     "IgdbId": "184780",
     "Pub": "Deep Root Interactive",
     "Runtime": "godot",
@@ -14466,6 +15115,7 @@
       "Puzzle Platformer"
     ],
     "Hints": "",
+    "Id": "418",
     "IgdbId": "16847",
     "Pub": "",
     "Runtime": "",
@@ -14496,6 +15146,7 @@
       "Turn-Based Tactics"
     ],
     "Hints": "",
+    "Id": "419",
     "IgdbId": "24",
     "Pub": "MicroProse",
     "Runtime": "openxcom",
@@ -14527,6 +15178,7 @@
       "Action RPG"
     ],
     "Hints": "solarus-run *.solarus",
+    "Id": "420",
     "IgdbId": "135927",
     "Pub": "",
     "Runtime": "solarus-run",
@@ -14558,6 +15210,7 @@
       "Life Sim"
     ],
     "Hints": "",
+    "Id": "433",
     "IgdbId": "250985",
     "Pub": "14 Hours Productions, Astrolabe Games",
     "Runtime": "godot",
@@ -14587,6 +15240,7 @@
     "Game": "Yume Nikki",
     "Genre": [],
     "Hints": "https://videos.pair2jeux.tube/videos/watch/b1e46c5d-aba7-46a4-b81e-1bf6ddee18ac",
+    "Id": "421",
     "IgdbId": "18689",
     "Pub": "",
     "Runtime": "easyrpg",
@@ -14615,6 +15269,7 @@
       "Adventure"
     ],
     "Hints": "",
+    "Id": "423",
     "IgdbId": "2280",
     "Pub": "",
     "Runtime": "scummvm",
@@ -14642,6 +15297,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "424",
     "IgdbId": "15063",
     "Pub": "",
     "Runtime": "HumblePlay",
@@ -14669,6 +15325,7 @@
       "Puzzle"
     ],
     "Hints": "",
+    "Id": "70",
     "IgdbId": "86747",
     "Pub": "",
     "Runtime": "love-0.10",
@@ -14698,6 +15355,7 @@
       "Twin-Stick Shooter"
     ],
     "Hints": "extract linux binary with pck-extract",
+    "Id": "321",
     "IgdbId": "186106",
     "Pub": "maybell",
     "Runtime": "godot",

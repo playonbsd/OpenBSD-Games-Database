@@ -46,7 +46,7 @@ use constant {
 # hints to process the different fields
 my %hints = (
 	Game	=> UNIQUE,
-	Cover	=> SKIP,
+	Id	=> SKIP,
 	Engine 	=> COUNT,
 	Setup	=> COUNT,
 	Runtime	=> SKIP,

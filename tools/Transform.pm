@@ -37,7 +37,7 @@ use constant {
 # hints to process the different fields
 my %hints = (
 	Game	=> STRING,
-	Cover	=> SKIP,
+	Id	=> NUMERIC,
 	Engine 	=> STRING,
 	Setup	=> STRING,
 	Runtime	=> STRING,
