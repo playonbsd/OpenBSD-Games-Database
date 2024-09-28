@@ -8281,7 +8281,7 @@ IgdbId	260400
 Game	Knight Runner: Blade and Bolt
 Id	461
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2942430/Knight_Runner_Blade_and_Bolt/
 Hints
@@ -8293,7 +8293,7 @@ Pub	Barkitect
 Version
 Status	1 (2024-08-06)
 Added	2024-08-06
-Updated	2024-08-06
+Updated	2024-09-28
 IgdbId	301888
 
 Game	20 Small Mazes
@@ -8389,7 +8389,7 @@ IgdbId	119214
 Game	Gourdlets
 Id	467
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2013730/Gourdlets/
 Hints
@@ -8401,13 +8401,13 @@ Pub	Future Friends Games, AuntyGames
 Version
 Status	1 (2024-08-15)
 Added	2024-08-15
-Updated	2024-08-15
+Updated	2024-09-28
 IgdbId	226469
 
 Game	Knights of the Road
 Id	468
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://store.steampowered.com/app/2324390/Knights_of_the_Road/
 Hints
@@ -8419,7 +8419,7 @@ Pub	Shiny Byte Studio
 Version
 Status	1 (2024-08-17)
 Added	2024-08-17
-Updated	2024-08-17
+Updated	2024-09-28
 IgdbId	243213
 
 Game	Descent 3
@@ -8731,7 +8731,7 @@ IgdbId	148471
 Game	Arctic Eggs
 Id	486
 Engine	Godot
-Setup
+Setup	IndieRunner
 Runtime	godot4
 Store	https://the-water-museum.itch.io/arctic-eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 Hints
@@ -8743,7 +8743,7 @@ Pub	CRITICAL REFLEX
 Version
 Status	2 (2024-09-24) after tutorial endless fall through floor
 Added	2024-09-24
-Updated	2024-09-24
+Updated	2024-09-28
 IgdbId	280931
 
 Game	A Solitaire Mystery
