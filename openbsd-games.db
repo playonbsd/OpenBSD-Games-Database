@@ -1,5 +1,5 @@
 Game	AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
-Cover	AaaaaA_for_the_Awesome_Cover.jpg
+Id	1
 Engine
 Setup
 Runtime	HumblePlay
@@ -17,7 +17,7 @@ Updated	1970-01-01
 IgdbId	3240
 
 Game	Abscission
-Cover
+Id	2
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -35,7 +35,7 @@ Updated	2024-05-04
 IgdbId	247159
 
 Game	The Adventures of Mr. Hat
-Cover
+Id	3
 Engine	Godot
 Setup
 Runtime	godot
@@ -53,7 +53,7 @@ Updated	2023-05-04
 IgdbId	191822
 
 Game	The Adventures of Shuggy
-Cover	Adventures_of_Shuggy_The_-_cover.png
+Id	4
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -71,7 +71,7 @@ Updated	1970-01-01
 IgdbId	11084
 
 Game	Aedemphia
-Cover	aedemphia.png
+Id	5
 Engine	RPG Maker
 Setup
 Runtime	easyrpg
@@ -89,7 +89,7 @@ Updated	1970-01-01
 IgdbId	125943
 
 Game	Aeternum
-Cover
+Id	6
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -107,7 +107,7 @@ Updated	2023-05-04
 IgdbId	50223
 
 Game	Airships: Conquer the Skies
-Cover	Airships_ConquerTheSkies_logo.jpg
+Id	7
 Engine	LWJGL2
 Setup	IndieRunner
 Runtime	java-1.8.0
@@ -125,7 +125,7 @@ Updated	2023-09-26
 IgdbId	35934
 
 Game	Akane the Kunoichi
-Cover	Akane_the_Kunoichi_cover.jpg
+Id	8
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -143,7 +143,7 @@ Updated	1970-01-01
 IgdbId	8376
 
 Game	Alien Shepherd
-Cover
+Id	9
 Engine	HashLink
 Setup
 Runtime	HashLink
@@ -161,7 +161,7 @@ Updated	2023-05-04
 IgdbId	190200
 
 Game	Always Sometimes Monsters
-Cover	Always_Sometimes_Monsters.jpg
+Id	10
 Engine	NW.js
 Setup
 Runtime	HTML5
@@ -179,7 +179,7 @@ Updated	2023-05-04
 IgdbId	7289
 
 Game	Amazing Princess Sarah
-Cover	Amazing_Princess_Sarah_cover.jpg
+Id	11
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -197,7 +197,7 @@ Updated	1970-01-01
 IgdbId	20968
 
 Game	Amnesia: The Dark Descent
-Cover
+Id	12
 Engine	amnesia-tdd
 Setup
 Runtime	amnesia-tdd
@@ -215,7 +215,7 @@ Updated	2023-05-04
 IgdbId	111
 
 Game	Anagrams
-Cover
+Id	13
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -233,7 +233,7 @@ Updated	2023-10-09
 IgdbId	169360
 
 Game	Anodyne
-Cover
+Id	14
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -251,7 +251,7 @@ Updated	2023-10-23
 IgdbId	11092
 
 Game	Apocalyptic Vibes
-Cover
+Id	15
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -269,7 +269,7 @@ Updated	2023-05-04
 IgdbId	189189
 
 Game	Apotheon
-Cover	Apotheon_-_cover.jpg
+Id	16
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -287,7 +287,7 @@ Updated	2023-05-04
 IgdbId	9016
 
 Game	Apple Jack 1&2
-Cover	Apple_Jack_cover.jpg
+Id	17
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -305,7 +305,7 @@ Updated	1970-01-01
 IgdbId	35716
 
 Game	Aquaria
-Cover	Aquaria_-_cover.jpg
+Id	18
 Engine
 Setup
 Runtime	AquariaOSE
@@ -323,7 +323,7 @@ Updated	2023-05-04
 IgdbId	7406
 
 Game	Arx Fatalis
-Cover	Arx_Fatalis_Cover.jpg
+Id	19
 Engine
 Setup
 Runtime	arx-libertatis
@@ -341,7 +341,7 @@ Updated	1970-01-01
 IgdbId	602
 
 Game	Ashworld
-Cover
+Id	20
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -359,7 +359,7 @@ Updated	2023-05-04
 IgdbId	43120
 
 Game	Atom Zombie Smasher
-Cover	AZS.jpg
+Id	21
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -377,7 +377,7 @@ Updated	1970-01-01
 IgdbId	8388
 
 Game	The Average Everyday Adventures of Samantha Browne
-Cover	The_Average_Everyday_Adventures_of_Samantha_Browne_cover.jpg
+Id	22
 Engine	Ren'Py
 Setup	renpyify
 Runtime	renpy
@@ -395,7 +395,7 @@ Updated	1970-01-01
 IgdbId	16984
 
 Game	Axiom Verge
-Cover	Axiom_Verge_-_cover.jpg
+Id	23
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -413,7 +413,7 @@ Updated	2023-05-04
 IgdbId	8652
 
 Game	Balatro
-Cover
+Id	24
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -431,7 +431,7 @@ Updated	2024-02-21
 IgdbId	251833
 
 Game	Baldur's Gate
-Cover	Baldurs_Gate_cover.jpg
+Id	25
 Engine	Infinity Engine
 Setup
 Runtime	gemrb
@@ -449,7 +449,7 @@ Updated	2023-05-07
 IgdbId	5
 
 Game	Baldur's Gate 2
-Cover	Baldurs_Gate_II_Shadows_of_Amn_cover.jpg
+Id	26
 Engine	Infinity Engine
 Setup
 Runtime	gemrb
@@ -467,7 +467,7 @@ Updated	2023-05-04
 IgdbId	82
 
 Game	Balrum
-Cover
+Id	27
 Engine	LWJGL3
 Setup	IndieRunner
 Runtime	java-11
@@ -485,7 +485,7 @@ Updated	2023-07-23
 IgdbId	18135
 
 Game	Banana Hell
-Cover
+Id	28
 Engine	Godot
 Setup
 Runtime	godot
@@ -503,7 +503,7 @@ Updated	2023-05-04
 IgdbId	140861
 
 Game	Barony
-Cover	Barony_cover.jpg
+Id	29
 Engine
 Setup
 Runtime	barony
@@ -521,7 +521,7 @@ Updated	1970-01-01
 IgdbId	35189
 
 Game	Beholder's Lair
-Cover
+Id	30
 Engine	Godot
 Setup
 Runtime	godot
@@ -539,7 +539,7 @@ Updated	2023-05-04
 IgdbId	143525
 
 Game	Beneath a Steel Sky
-Cover	Beneath_a_Steel_Sky_Box.png
+Id	31
 Engine	ScummVM
 Setup
 Runtime	scummvm
@@ -557,7 +557,7 @@ Updated	1970-01-01
 IgdbId	612
 
 Game	Beyond Sunset
-Cover
+Id	32
 Engine	GZDoom
 Setup	IndieRunner
 Runtime	gzdoom
@@ -575,7 +575,7 @@ Updated	2023-05-04
 IgdbId	164206
 
 Game	Bird Assassin
-Cover	Bird_Assassin_cover.png
+Id	33
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -593,7 +593,7 @@ Updated	2023-05-04
 IgdbId	17596
 
 Game	Blacken Slash
-Cover
+Id	34
 Engine	Godot
 Setup
 Runtime	godot
@@ -611,7 +611,7 @@ Updated	2023-05-04
 IgdbId	188723
 
 Game	The Blackwell Epiphany
-Cover	The_Blackwell_Epiphany_cover.png
+Id	35
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -629,7 +629,7 @@ Updated	2023-05-04
 IgdbId	8511
 
 Game	Blastronaut
-Cover
+Id	36
 Engine	Godot
 Setup
 Runtime	godot
@@ -647,7 +647,7 @@ Updated	2023-05-04
 IgdbId	145877
 
 Game	Bleed
-Cover	Bleed_boxart.JPG
+Id	37
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -665,7 +665,7 @@ Updated	2023-05-04
 IgdbId	9706
 
 Game	Bleed 2
-Cover	Bleed_2_cover.jpg
+Id	38
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -683,7 +683,7 @@ Updated	2023-05-04
 IgdbId	26725
 
 Game	Blood
-Cover
+Id	39
 Engine	NBlood
 Setup
 Runtime	nblood
@@ -701,7 +701,7 @@ Updated	2023-12-13
 IgdbId	7644
 
 Game	Blossom Tales II: The Minotaur Prince
-Cover
+Id	40
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -719,7 +719,7 @@ Updated	2023-05-04
 IgdbId	172489
 
 Game	BLUE REVOLVER
-Cover
+Id	41
 Engine	Love2D
 Setup
 Runtime	love-0.10
@@ -737,7 +737,7 @@ Updated	2023-05-04
 IgdbId	24928
 
 Game	Bottomless
-Cover
+Id	42
 Engine	Godot
 Setup
 Runtime	godot
@@ -755,7 +755,7 @@ Updated	2023-05-04
 IgdbId	183596
 
 Game	Breath of Death VII
-Cover	Breath_of_death_vii.jpg
+Id	43
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -773,7 +773,7 @@ Updated	1970-01-01
 IgdbId	16259
 
 Game	BRiTEBOT
-Cover
+Id	44
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-0.10
@@ -791,7 +791,7 @@ Updated	2023-10-09
 IgdbId	178651
 
 Game	Broken Sword II: The Smoking Mirror
-Cover	Broken_Sword_II_The_Smoking_Mirror_Coverart.png
+Id	45
 Engine	Virtual Theatre
 Setup
 Runtime	scummvm
@@ -809,7 +809,7 @@ Updated	1970-01-01
 IgdbId	1150
 
 Game	Broken Sword: The Shadow of the Templars
-Cover	Broken_Sword_Shadow_of_the_Templars_Coverart.png
+Id	46
 Engine	Virtual Theatre
 Setup
 Runtime	scummvm
@@ -827,7 +827,7 @@ Updated	1970-01-01
 IgdbId	206502
 
 Game	Brotato
-Cover
+Id	47
 Engine	Godot
 Setup
 Runtime
@@ -845,7 +845,7 @@ Updated	2023-05-04
 IgdbId	199116
 
 Game	Brushwood Buddies
-Cover	Brushwood_Buddies_cover.jpg
+Id	48
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -863,7 +863,7 @@ Updated	1970-01-01
 IgdbId	33692
 
 Game	Bugscraper
-Cover
+Id	49
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -881,7 +881,7 @@ Updated	2023-10-20
 IgdbId	230797
 
 Game	Burning Knight
-Cover	Burning_Knight_cover.jpg
+Id	50
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
@@ -899,7 +899,7 @@ Updated	2023-05-04
 IgdbId	117702
 
 Game	Burrito Bear
-Cover
+Id	51
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -917,7 +917,7 @@ Updated	2024-02-05
 IgdbId	216634
 
 Game	Caesar 3
-Cover	Caesar_III_Cover.png
+Id	52
 Engine
 Setup
 Runtime	julius
@@ -935,7 +935,7 @@ Updated	1970-01-01
 IgdbId	6332
 
 Game	Cannon Fodder
-Cover	Cannon_Fodder_Coverart.jpg
+Id	53
 Engine
 Setup
 Runtime	openfodder
@@ -953,7 +953,7 @@ Updated	1970-01-01
 IgdbId	5519
 
 Game	Cannon Fodder 2
-Cover	Cannon_Fodder_2_-_cover.png
+Id	54
 Engine
 Setup
 Runtime	openfodder
@@ -971,7 +971,7 @@ Updated	1970-01-01
 IgdbId	11986
 
 Game	Capsized
-Cover	Capsized_-_cover.png
+Id	55
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -989,7 +989,7 @@ Updated	1970-01-01
 IgdbId	3050
 
 Game	Capsule Force
-Cover
+Id	56
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1007,7 +1007,7 @@ Updated	2023-05-04
 IgdbId	11184
 
 Game	Capsule Wars
-Cover
+Id	57
 Engine	Godot
 Setup
 Runtime	godot
@@ -1025,7 +1025,7 @@ Updated	2023-05-04
 IgdbId
 
 Game	The Case of the Golden Idol
-Cover
+Id	58
 Engine	Godot
 Setup
 Runtime	godot
@@ -1043,7 +1043,7 @@ Updated	2023-05-04
 IgdbId	166722
 
 Game	Cards with Personalities
-Cover
+Id	59
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -1061,7 +1061,7 @@ Updated	2023-10-12
 IgdbId	182661
 
 Game	Cassette Beasts
-Cover
+Id	60
 Engine	Godot
 Setup
 Runtime	godot
@@ -1079,7 +1079,7 @@ Updated	2023-05-04
 IgdbId	133866
 
 Game	Cat Box Paradox
-Cover
+Id	61
 Engine	Godot
 Setup
 Runtime	godot
@@ -1097,7 +1097,7 @@ Updated	2023-05-04
 IgdbId	185679
 
 Game	Cat Cafe Manager
-Cover
+Id	62
 Engine	Godot
 Setup
 Runtime	godot
@@ -1115,7 +1115,7 @@ Updated	2023-05-04
 IgdbId	140827
 
 Game	The Cat Lady
-Cover	The_Cat_Lady_-_cover.jpg
+Id	63
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -1133,7 +1133,7 @@ Updated	1970-01-01
 IgdbId	11270
 
 Game	Cave - Legend of the Forge
-Cover
+Id	64
 Engine	Godot
 Setup
 Runtime	godot
@@ -1151,7 +1151,7 @@ Updated	2023-05-04
 IgdbId	141816
 
 Game	Celeste
-Cover	345px-Celeste_cover.png
+Id	65
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -1169,7 +1169,7 @@ Updated	2023-05-04
 IgdbId	26226
 
 Game	Chaos Heart
-Cover	Chaos_Heart_cover.png
+Id	66
 Engine
 Setup	fnaify
 Runtime
@@ -1187,7 +1187,7 @@ Updated	1970-01-01
 IgdbId
 
 Game	Charlie Murder
-Cover	Charlie_Murder_cover.jpg
+Id	67
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1205,7 +1205,7 @@ Updated	1970-01-01
 IgdbId	19914
 
 Game	Chasm
-Cover	Chasm_cover.jpg
+Id	68
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1223,7 +1223,7 @@ Updated	2023-05-04
 IgdbId	3222
 
 Game	Chess Survivors
-Cover
+Id	69
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -1241,7 +1241,7 @@ Updated	2023-08-10
 IgdbId	211384
 
 Game	cityglitch
-Cover
+Id	70
 Engine	Love2D
 Setup
 Runtime	love-0.10
@@ -1259,7 +1259,7 @@ Updated	2023-07-22
 IgdbId	86747
 
 Game	CometStriker
-Cover	CometStriker_cover.jpg
+Id	71
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1277,7 +1277,7 @@ Updated	2023-05-04
 IgdbId	55766
 
 Game	Command & Conquer
-Cover	Command__Conquer_cover.jpg
+Id	72
 Engine
 Setup
 Runtime	openra
@@ -1295,7 +1295,7 @@ Updated	1970-01-01
 IgdbId	647
 
 Game	Command & Conquer: Red Alert
-Cover	Command__Conquer_Red_Alert_cover.jpg
+Id	73
 Engine
 Setup
 Runtime	openra
@@ -1313,7 +1313,7 @@ Updated	1970-01-01
 IgdbId	295
 
 Game	Crawlers and Brawlers
-Cover
+Id	74
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -1331,7 +1331,7 @@ Updated	2023-05-04
 IgdbId	32996
 
 Game	Crop Rotation
-Cover
+Id	75
 Engine	HashLink
 Setup	IndieRunner
 Runtime	hashlink
@@ -1349,7 +1349,7 @@ Updated	2023-09-24
 IgdbId	241883
 
 Game	CrossCode
-Cover	CrossCode_cover.jpg
+Id	76
 Engine	NW.js
 Setup
 Runtime	HTML5
@@ -1367,7 +1367,7 @@ Updated	2023-05-04
 IgdbId	35282
 
 Game	Cruelty Squad
-Cover
+Id	77
 Engine	Godot
 Setup
 Runtime	godot
@@ -1385,7 +1385,7 @@ Updated	2023-05-04
 IgdbId	142076
 
 Game	Cryptark
-Cover	CRYPTARK_Cover.jpg
+Id	78
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1403,7 +1403,7 @@ Updated	2023-05-04
 IgdbId	13365
 
 Game	Crystal Project
-Cover
+Id	79
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1421,7 +1421,7 @@ Updated	2023-05-04
 IgdbId	181444
 
 Game	Cthulhu Saves the World
-Cover	CthulhuSavestheWorld.png
+Id	80
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -1439,7 +1439,7 @@ Updated	1970-01-01
 IgdbId	8427
 
 Game	Curse of the Arrow
-Cover
+Id	81
 Engine	Love2D
 Setup
 Runtime	love-11
@@ -1457,7 +1457,7 @@ Updated	2023-07-22
 IgdbId	184410
 
 Game	Curse of the Crescent Isle DX
-Cover	Curse_of_the_Crescent_Isle_DX_cover.jpg
+Id	82
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1475,7 +1475,7 @@ Updated	1970-01-01
 IgdbId	35398
 
 Game	Cursed Gem
-Cover
+Id	83
 Engine	Godot
 Setup
 Runtime	godot
@@ -1493,7 +1493,7 @@ Updated	2023-05-04
 IgdbId	129411
 
 Game	Cute Cats
-Cover
+Id	84
 Engine	Godot
 Setup
 Runtime	godot
@@ -1511,7 +1511,7 @@ Updated	2023-05-07
 IgdbId	163399
 
 Game	Cyber-doge 2077: Meme runner
-Cover
+Id	85
 Engine	Godot
 Setup
 Runtime	godot
@@ -1529,7 +1529,7 @@ Updated	2023-05-07
 IgdbId	167422
 
 Game	Dad Quest
-Cover	Dad_Quest_cover.jpg
+Id	86
 Engine	MonoGame
 Setup	fnaify
 Runtime
@@ -1547,7 +1547,7 @@ Updated	2023-05-07
 IgdbId	27145
 
 Game	Dark Crypt
-Cover
+Id	87
 Engine	Godot
 Setup
 Runtime	godot
@@ -1565,7 +1565,7 @@ Updated	2023-05-07
 IgdbId	164215
 
 Game	Dark Sheep
-Cover
+Id	88
 Engine	Godot
 Setup
 Runtime	godot
@@ -1583,7 +1583,7 @@ Updated	2023-05-07
 IgdbId	150884
 
 Game	Dead Cells
-Cover	Dead_Cells_cover.jpg
+Id	89
 Engine	HashLink
 Setup	IndieRunner (unless using rigg)
 Runtime	hl
@@ -1601,7 +1601,7 @@ Updated	2023-05-07
 IgdbId	26855
 
 Game	Dead Pixels
-Cover	Dead_Pixels_cover.jpg
+Id	90
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -1619,7 +1619,7 @@ Updated	2023-05-07
 IgdbId	5448
 
 Game	Dead Pixels II
-Cover	Dead_Pixels_II_cover.jpg
+Id	91
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -1637,7 +1637,7 @@ Updated	1970-01-01
 IgdbId	18362
 
 Game	Deepest Chamber: Resurrection
-Cover
+Id	92
 Engine	LWJGL3
 Setup	IndieRunner
 Runtime	java-17
@@ -1655,7 +1655,7 @@ Updated	2023-09-24
 IgdbId	144450
 
 Game	Delta-V: Rings of Saturn
-Cover
+Id	93
 Engine	Godot
 Setup
 Runtime	godot
@@ -1673,7 +1673,7 @@ Updated	2023-05-07
 IgdbId	108324
 
 Game	Delver
-Cover
+Id	94
 Engine	LibGDX
 Setup
 Runtime	IndieRunner
@@ -1691,7 +1691,7 @@ Updated	2023-05-07
 IgdbId	3236
 
 Game	Democracy 3
-Cover	Democracy_3_-_cover.png
+Id	95
 Engine	Irrlicht Engine
 Setup
 Runtime	HumblePlay
@@ -1709,7 +1709,7 @@ Updated	2023-05-07
 IgdbId	5506
 
 Game	Descent
-Cover	Descent_cover.jpg
+Id	96
 Engine	Descent Engine
 Setup
 Runtime	dxx-rebirth
@@ -1727,7 +1727,7 @@ Updated	1970-01-01
 IgdbId	1872
 
 Game	Descent II
-Cover	Descent_II_-_cover.jpg
+Id	97
 Engine	Descent Engine
 Setup
 Runtime	dxx-rebirth
@@ -1745,7 +1745,7 @@ Updated	1970-01-01
 IgdbId	668
 
 Game	Diablo
-Cover	Diablo_cover.jpg
+Id	98
 Engine
 Setup
 Runtime	devilutionx
@@ -1763,7 +1763,7 @@ Updated	2023-05-07
 IgdbId	125
 
 Game	Dice Tribes: Ambitions
-Cover
+Id	99
 Engine	HashLink
 Setup
 Runtime	HashLink
@@ -1781,7 +1781,7 @@ Updated	2023-05-07
 IgdbId	200871
 
 Game	Diefrosty
-Cover
+Id	100
 Engine	Godot
 Setup
 Runtime	godot
@@ -1799,7 +1799,7 @@ Updated	2023-05-07
 IgdbId	189364
 
 Game	Diehard Dungeon
-Cover	Diehard_Dungeon_cover.jpg
+Id	101
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -1817,7 +1817,7 @@ Updated	2023-05-07
 IgdbId	17064
 
 Game	The Dig
-Cover	The_Dig_Cover.jpg
+Id	102
 Engine	SCUMM
 Setup
 Runtime	scummvm
@@ -1835,7 +1835,7 @@ Updated	2023-05-07
 IgdbId	207
 
 Game	Dino Eggs: Rebirth
-Cover
+Id	103
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -1853,7 +1853,7 @@ Updated	2023-05-07
 IgdbId	33336
 
 Game	The Dishwasher: Vampire Smile
-Cover	The_Dishwasher_Vampire_Smile_cover.jpg
+Id	104
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -1871,7 +1871,7 @@ Updated	1970-01-01
 IgdbId	20582
 
 Game	Doki Doki Literature Club!
-Cover	DDLC_cover.jpg
+Id	105
 Engine	Ren'Py 6
 Setup	renpyify
 Runtime	renpy
@@ -1889,7 +1889,7 @@ Updated	1970-01-01
 IgdbId	55935
 
 Game	Dome Keeper (formerly Dome Romantik)
-Cover
+Id	106
 Engine	Godot
 Setup
 Runtime	godot
@@ -1907,7 +1907,7 @@ Updated	2023-05-07
 IgdbId	200611
 
 Game	Doom
-Cover	Doom_Ultimate.jpg
+Id	107
 Engine	id Tech 1
 Setup
 Runtime	chocolate-doom, gzdoom, odamex, prboom-plus, crispy-doom
@@ -1925,7 +1925,7 @@ Updated	2022-11-04
 IgdbId	673
 
 Game	Doom & Destiny Advanced
-Cover
+Id	108
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -1943,7 +1943,7 @@ Updated	2023-05-07
 IgdbId	25944
 
 Game	Doppelganger
-Cover
+Id	109
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -1961,7 +1961,7 @@ Updated	1970-01-01
 IgdbId	13606
 
 Game	Downfall
-Cover	Downfall_cover.jpg
+Id	110
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -1979,7 +1979,7 @@ Updated	2024-06-23
 IgdbId	18189
 
 Game	Draw A Stickman: EPIC
-Cover	Draw_a_Stickman_EPIC_logo.png
+Id	111
 Engine	MonoGame
 Setup	fnaify
 Runtime	mono
@@ -1997,7 +1997,7 @@ Updated	1970-01-01
 IgdbId	5032
 
 Game	Dreams in the Witch House
-Cover
+Id	112
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -2015,7 +2015,7 @@ Updated	2023-05-07
 IgdbId	197158
 
 Game	Droid Assault
-Cover
+Id	113
 Engine	LWJGL2
 Setup	IndieRunner
 Runtime	java
@@ -2033,7 +2033,7 @@ Updated	2023-05-07
 IgdbId	9704
 
 Game	Duke Nukem 3D
-Cover
+Id	114
 Engine	eduke32
 Setup
 Runtime	eduke32
@@ -2051,7 +2051,7 @@ Updated	2023-12-13
 IgdbId	342
 
 Game	Dune 2000
-Cover	Dune_2000_cover.jpg
+Id	115
 Engine
 Setup
 Runtime	openra
@@ -2069,7 +2069,7 @@ Updated	1970-01-01
 IgdbId	87
 
 Game	Dust: An Elysian Tail
-Cover	Dust_An_Elysian_Tail_-_cover.png
+Id	116
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2087,7 +2087,7 @@ Updated	1970-01-01
 IgdbId	2130
 
 Game	Dustforce DX
-Cover	Dustforce_cover.jpg
+Id	117
 Engine
 Setup
 Runtime	HumblePlay
@@ -2105,7 +2105,7 @@ Updated	2023-05-07
 IgdbId	1340
 
 Game	DwarfCorp
-Cover
+Id	118
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2123,7 +2123,7 @@ Updated	2023-05-07
 IgdbId	59133
 
 Game	EXAPUNKS
-Cover	EXAPUNKS_cover.jpg
+Id	119
 Engine	Mono
 Setup	fnaify
 Runtime	fnaify
@@ -2141,7 +2141,7 @@ Updated	2023-05-07
 IgdbId	106122
 
 Game	Eagle Island
-Cover	Eagle_Island_cover.jpg
+Id	120
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
@@ -2159,7 +2159,7 @@ Updated	2023-05-07
 IgdbId	150781
 
 Game	The Elder Scrolls III: Morrowind
-Cover	The_Elder_Scrolls_III_Morrowind_cover.jpg
+Id	121
 Engine	NetImmerse
 Setup
 Runtime	openmw
@@ -2177,7 +2177,7 @@ Updated	2023-05-07
 IgdbId	56
 
 Game	Eliza
-Cover	Eliza_-_cover.jpg
+Id	122
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -2195,7 +2195,7 @@ Updated	2023-05-07
 IgdbId	92919
 
 Game	Elliot Quest
-Cover	Elliot_Quest_cover.jpg
+Id	123
 Engine	NW.js
 Setup
 Runtime	HTML5
@@ -2213,7 +2213,7 @@ Updated	2023-05-07
 IgdbId	8596
 
 Game	Endoparasitic
-Cover
+Id	124
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -2231,7 +2231,7 @@ Updated	2023-08-25
 IgdbId	177401
 
 Game	Escape Goat
-Cover	Escape_Goat_-_cover.jpg
+Id	125
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2249,7 +2249,7 @@ Updated	1970-01-01
 IgdbId	7590
 
 Game	Escape Goat 2
-Cover	Escape_Goat_2_-_cover.png
+Id	126
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2267,7 +2267,7 @@ Updated	1970-01-01
 IgdbId	8252
 
 Game	Escape from Monkey Island
-Cover	Escape_from_Monkey_Island_artwork.jpg
+Id	127
 Engine	GrimE
 Setup
 Runtime	residualvm
@@ -2285,7 +2285,7 @@ Updated	1970-01-01
 IgdbId	63
 
 Game	Evoland Legendary Edition
-Cover	Evoland-LE_cover.jpg
+Id	128
 Engine	HashLink
 Setup	IndieRunner (unless using rigg)
 Runtime	hl
@@ -2303,7 +2303,7 @@ Updated	2023-05-07
 IgdbId	114910
 
 Game	Ex-Zodiac
-Cover
+Id	129
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -2321,7 +2321,7 @@ Updated	2023-11-09
 IgdbId	133089
 
 Game	The Excavation of Hob's Barrow
-Cover
+Id	130
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -2339,7 +2339,7 @@ Updated	2023-05-07
 IgdbId	210665
 
 Game	Explosionade
-Cover	Explosionade_cover.jpg
+Id	131
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -2357,7 +2357,7 @@ Updated	1970-01-01
 IgdbId	35176
 
 Game	The Expression Amrilato
-Cover	The_Expression_Amrilato_cover.jpg
+Id	132
 Engine	Ren'Py
 Setup	renpyify
 Runtime	renpy
@@ -2375,7 +2375,7 @@ Updated	1970-01-01
 IgdbId	119580
 
 Game	Fenimore Fillmore: 3 Skulls of the Toltecs
-Cover
+Id	133
 Engine
 Setup
 Runtime	scummvm
@@ -2393,7 +2393,7 @@ Updated	1970-01-01
 IgdbId	111882
 
 Game	FEZ
-Cover	450px-Fez_-_cover.png
+Id	134
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2411,7 +2411,7 @@ Updated	2023-05-07
 IgdbId	1991
 
 Game	Fracture Hell
-Cover
+Id	135
 Engine	Godot
 Setup
 Runtime	godot
@@ -2429,7 +2429,7 @@ Updated	2023-05-07
 IgdbId	165088
 
 Game	FRANZ FURY
-Cover
+Id	136
 Engine	Godot
 Setup
 Runtime	godot
@@ -2447,7 +2447,7 @@ Updated	2023-05-07
 IgdbId	157923
 
 Game	Fraymakers
-Cover
+Id	137
 Engine	HashLink
 Setup	IndieRunner
 Runtime	hashlink
@@ -2465,7 +2465,7 @@ Updated	2023-05-07
 IgdbId	141090
 
 Game	FTL
-Cover	FTL_-_Faster_Than_Light_-_cover.jpg
+Id	138
 Engine
 Setup
 Runtime	HumblePlay
@@ -2483,7 +2483,7 @@ Updated	2023-05-07
 IgdbId	3075
 
 Game	Farm Keeper
-Cover
+Id	139
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -2501,7 +2501,7 @@ Updated	2023-08-28
 IgdbId	247034
 
 Game	Fatal Twelve
-Cover	Fatal_Twelve_cover.jpg
+Id	140
 Engine	Ren'Py
 Setup	renpyify
 Runtime	renpy
@@ -2519,7 +2519,7 @@ Updated	1970-01-01
 IgdbId	28801
 
 Game	Fist Puncher
-Cover	Fist_Puncher_-_cover.png
+Id	141
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2537,7 +2537,7 @@ Updated	1970-01-01
 IgdbId	9088
 
 Game	Flinthook
-Cover	Flinthook_cover.jpg
+Id	142
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2555,7 +2555,7 @@ Updated	2023-05-07
 IgdbId	20330
 
 Game	Flotilla
-Cover	Flotilla.jpg
+Id	143
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2573,7 +2573,7 @@ Updated	1970-01-01
 IgdbId	8396
 
 Game	Forest's Secret: Mystery of the Frost
-Cover	forests_secret_cover.png
+Id	144
 Engine	LibGDX
 Setup
 Runtime
@@ -2591,7 +2591,7 @@ Updated	2024-07-06
 IgdbId	138716
 
 Game	The Forestale
-Cover
+Id	145
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -2609,7 +2609,7 @@ Updated	2023-05-07
 IgdbId	102875
 
 Game	Freespace 2
-Cover	FreeSpace_2.jpg
+Id	146
 Engine
 Setup	need to compile from ports tree
 Runtime	fs2open
@@ -2627,7 +2627,7 @@ Updated	2023-05-07
 IgdbId	722
 
 Game	Fury's Sky
-Cover
+Id	147
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -2645,7 +2645,7 @@ Updated	2023-05-07
 IgdbId	121334
 
 Game	Gabriel Knight: Sins of the Fathers
-Cover	Gabriel_Knight_Sins_of_the_Fathers_Cover.png
+Id	148
 Engine	SCI2
 Setup
 Runtime	scummvm
@@ -2663,7 +2663,7 @@ Updated	2023-05-07
 IgdbId	1250
 
 Game	Game Type
-Cover	Game_Type_cover.jpg
+Id	149
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -2681,7 +2681,7 @@ Updated	1970-01-01
 IgdbId	35177
 
 Game	Gateways
-Cover	Gateways_-_cover.png
+Id	150
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2699,7 +2699,7 @@ Updated	1970-01-01
 IgdbId	13662
 
 Game	Gemini Rue
-Cover
+Id	151
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -2717,7 +2717,7 @@ Updated	2023-03-11
 IgdbId	6325
 
 Game	Glitchangels
-Cover	Glitchangels_cover.jpg
+Id	152
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2735,7 +2735,7 @@ Updated	2023-05-07
 IgdbId	127543
 
 Game	A Golden Wake
-Cover
+Id	153
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -2753,7 +2753,7 @@ Updated	2023-05-07
 IgdbId	8819
 
 Game	Goop Loop
-Cover
+Id	154
 Engine	Godot
 Setup
 Runtime	godot
@@ -2771,7 +2771,7 @@ Updated	2023-05-07
 IgdbId	141073
 
 Game	Grand Class Melee 2
-Cover	Grand_Class_Melee_2_cover.jpg
+Id	155
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -2789,7 +2789,7 @@ Updated	1970-01-01
 IgdbId	36014
 
 Game	Gravity Ace
-Cover
+Id	156
 Engine	Godot
 Setup
 Runtime	godot
@@ -2807,7 +2807,7 @@ Updated	2023-05-07
 IgdbId	114912
 
 Game	Gravity Circuit
-Cover
+Id	157
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -2825,7 +2825,7 @@ Updated	2023-07-16
 IgdbId	106534
 
 Game	The Great Adventurer
-Cover
+Id	158
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -2843,7 +2843,7 @@ Updated	1970-01-01
 IgdbId
 
 Game	The Great Plague Exodus
-Cover
+Id	159
 Engine	Godot
 Setup
 Runtime	godot
@@ -2861,7 +2861,7 @@ Updated	2023-05-07
 IgdbId	149158
 
 Game	Grimm's Hollow
-Cover	Grimms_Hollow_cover.jpg
+Id	160
 Engine
 Setup
 Runtime	easyrpg
@@ -2879,7 +2879,7 @@ Updated	2023-05-07
 IgdbId	125110
 
 Game	Groov
-Cover
+Id	161
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2897,7 +2897,7 @@ Updated	1970-01-01
 IgdbId	69161
 
 Game	Groundskeeper 2
-Cover
+Id	162
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -2915,7 +2915,7 @@ Updated	2023-05-07
 IgdbId	22101
 
 Game	Growing Pains
-Cover	Growing_Pains_cover.jpg
+Id	163
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -2933,7 +2933,7 @@ Updated	1970-01-01
 IgdbId	17203
 
 Game	Gunslugs
-Cover
+Id	164
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -2951,7 +2951,7 @@ Updated	2023-05-07
 IgdbId	35187
 
 Game	Gunslugs 3: Rogue Tactics
-Cover
+Id	165
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -2969,7 +2969,7 @@ Updated	2023-05-07
 IgdbId	114017
 
 Game	Hack Grid
-Cover
+Id	166
 Engine	Godot
 Setup
 Runtime	godot
@@ -2987,7 +2987,7 @@ Updated	2023-05-07
 IgdbId	169852
 
 Game	HackNet
-Cover	Hacknet_Logo.jpg
+Id	167
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3005,7 +3005,7 @@ Updated	2023-05-07
 IgdbId	11707
 
 Game	Haiki
-Cover
+Id	168
 Engine	Godot
 Setup
 Runtime	godot
@@ -3023,7 +3023,7 @@ Updated	2023-05-07
 IgdbId	141134
 
 Game	Hallow's Eve
-Cover
+Id	169
 Engine	Solarus
 Setup
 Runtime	solarus-run
@@ -3041,7 +3041,7 @@ Updated	2023-05-07
 IgdbId
 
 Game	Hands of Necromancy
-Cover
+Id	170
 Engine	id Tech
 Setup
 Runtime	gzdoom
@@ -3059,7 +3059,7 @@ Updated	2023-05-07
 IgdbId	203249
 
 Game	Hashi: Light
-Cover
+Id	171
 Engine	Godot
 Setup
 Runtime	godot
@@ -3077,7 +3077,7 @@ Updated	2023-05-07
 IgdbId	168485
 
 Game	Her Name Was Fire
-Cover
+Id	172
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -3095,7 +3095,7 @@ Updated	2023-11-09
 IgdbId	209779
 
 Game	Hedon
-Cover	Hedon_cover.png
+Id	173
 Engine
 Setup
 Runtime	gzdoom
@@ -3113,7 +3113,7 @@ Updated	1970-01-01
 IgdbId	183074
 
 Game	Heretic: Shadow of the Serpent Riders
-Cover	Heretic_cover.jpg
+Id	174
 Engine	id Tech 1
 Setup
 Runtime	gzdoom, crispy-doom
@@ -3131,7 +3131,7 @@ Updated	1970-01-01
 IgdbId	8419
 
 Game	Heroes of Loot
-Cover
+Id	175
 Engine	LibGDX
 Setup
 Runtime	java
@@ -3149,7 +3149,7 @@ Updated	2023-05-07
 IgdbId	13624
 
 Game	Heroes of Might and Magic 2
-Cover	Heroes_of_Might_and_Magic_II_cover.jpg
+Id	176
 Engine
 Setup
 Runtime	fheroes2
@@ -3167,7 +3167,7 @@ Updated	2023-05-07
 IgdbId	51821
 
 Game	Heroine's Quest: The Herald of Ragnarok
-Cover	Heroines_Quest.png
+Id	177
 Engine	Adventure Game Studio
 Setup
 Runtime
@@ -3185,7 +3185,7 @@ Updated	1970-01-01
 IgdbId	36441
 
 Game	HeXen: Beyond Heretic
-Cover	Hexen_Beyond_Heretic_cover.jpg
+Id	178
 Engine	id Tech 1
 Setup
 Runtime	gzdoom
@@ -3203,7 +3203,7 @@ Updated	1970-01-01
 IgdbId	3512
 
 Game	HeXen II
-Cover	Hexen_II_cover.jpg
+Id	179
 Engine	Quake Engine
 Setup
 Runtime	uhexen2
@@ -3221,7 +3221,7 @@ Updated	1970-01-01
 IgdbId	6637
 
 Game	Hexes
-Cover
+Id	180
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -3239,7 +3239,7 @@ Updated	2023-08-13
 IgdbId	243780
 
 Game	Highway Blossoms
-Cover	Highway_Blossoms_Remastered.jpg
+Id	181
 Engine	Ren'Py
 Setup
 Runtime	renpy
@@ -3257,7 +3257,7 @@ Updated	1970-01-01
 IgdbId	20688
 
 Game	Hive
-Cover	Hive_cover.jpg
+Id	182
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3275,7 +3275,7 @@ Updated	1970-01-01
 IgdbId	5604
 
 Game	Hiveswap Friendsim
-Cover	Hiveswap_Friendsim_cover.jpg
+Id	183
 Engine	Ren'Py
 Setup	renpyify
 Runtime	renpy
@@ -3293,7 +3293,7 @@ Updated	1970-01-01
 IgdbId	97012
 
 Game	Hoarder's Horrible House of Stuff
-Cover
+Id	184
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -3311,7 +3311,7 @@ Updated	2023-10-09
 IgdbId	185059
 
 Game	Human Diaspora
-Cover
+Id	185
 Engine	Godot
 Setup
 Runtime	godot
@@ -3329,7 +3329,7 @@ Updated	2023-05-07
 IgdbId	142253
 
 Game	Hyphen
-Cover	Hyphen_cover.jpg
+Id	186
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3347,7 +3347,7 @@ Updated	1970-01-01
 IgdbId	24566
 
 Game	I am Sakuya: Touhou FPS Game
-Cover
+Id	187
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -3365,7 +3365,7 @@ Updated	2023-05-07
 IgdbId	199475
 
 Game	I Have No Mouth And I Must Scream
-Cover	I_Have_No_Mouth_and_I_Must_Scream_Cover.jpg
+Id	188
 Engine	SAGA
 Setup
 Runtime	scummvm
@@ -3383,7 +3383,7 @@ Updated	1970-01-01
 IgdbId	7578
 
 Game	I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1
-Cover
+Id	189
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -3401,7 +3401,7 @@ Updated	2023-05-07
 IgdbId	181112
 
 Game	Ib
-Cover	IbBanner.png
+Id	190
 Engine
 Setup
 Runtime	easyrpg
@@ -3419,7 +3419,7 @@ Updated	2023-05-07
 IgdbId	195732
 
 Game	Icewind Dale
-Cover	Icewind_Dale_Box.jpg
+Id	191
 Engine	Infinity Engine
 Setup
 Runtime	gemrb
@@ -3437,7 +3437,7 @@ Updated	2023-05-07
 IgdbId	753
 
 Game	INC: The Beginning
-Cover
+Id	192
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -3455,7 +3455,7 @@ Updated	2023-05-07
 IgdbId
 
 Game	Indiana Jones and the Fate of Atlantis
-Cover	Indiana_Jones_and_the_Fate_of_Atlantis_cover.jpg
+Id	193
 Engine	SCUMM
 Setup
 Runtime	scummvm
@@ -3473,7 +3473,7 @@ Updated	1970-01-01
 IgdbId	184
 
 Game	Indirection
-Cover
+Id	194
 Engine	Godot
 Setup
 Runtime	godot
@@ -3491,7 +3491,7 @@ Updated	2023-05-07
 IgdbId	186000
 
 Game	In the House of Silence
-Cover
+Id	195
 Engine	Godot
 Setup
 Runtime	godot
@@ -3509,7 +3509,7 @@ Updated	2023-05-07
 IgdbId	139515
 
 Game	Into the Necrovale
-Cover
+Id	196
 Engine	HashLink
 Setup	IndieRunner
 Runtime	hl
@@ -3527,7 +3527,7 @@ Updated	2024-01-18
 IgdbId	234176
 
 Game	Ion Fury
-Cover	Ion_Fury_logo.jpg
+Id	197
 Engine	Build Engine
 Setup	compile eduke32 from ports tree
 Runtime	eduke32
@@ -3545,7 +3545,7 @@ Updated	2023-05-07
 IgdbId	54844
 
 Game	The Isolated Town
-Cover
+Id	198
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -3563,7 +3563,7 @@ Updated	2023-07-14
 IgdbId	253594
 
 Game	Jagged Alliance 2
-Cover	Jagged_Alliance_2_-_cover.jpg
+Id	199
 Engine
 Setup
 Runtime	ja2-stracciatella
@@ -3581,7 +3581,7 @@ Updated	2024-06-12
 IgdbId	9
 
 Game	Jam and the Mystery of the Mysteriously Spooky Mansion
-Cover	jam.png
+Id	200
 Engine	Ren'Py
 Setup
 Runtime	renpy
@@ -3599,7 +3599,7 @@ Updated	1970-01-01
 IgdbId	134098
 
 Game	Jazz Jackrabbit
-Cover	Jazz_Jackrabbit_cover.jpg
+Id	201
 Engine
 Setup
 Runtime	openjazz
@@ -3617,7 +3617,7 @@ Updated	2023-05-07
 IgdbId	3167
 
 Game	Jon Shafer's At the Gates
-Cover	At_the_Gates_cover.jpg
+Id	202
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3635,7 +3635,7 @@ Updated	1970-01-01
 IgdbId	8423
 
 Game	Joyspring
-Cover
+Id	203
 Engine	Godot
 Setup
 Runtime	godot
@@ -3653,7 +3653,7 @@ Updated	2023-05-07
 IgdbId	156046
 
 Game	Kathy Rain
-Cover
+Id	204
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -3671,7 +3671,7 @@ Updated	2023-05-07
 IgdbId	18997
 
 Game	KeeperRL
-Cover
+Id	205
 Engine	custom engine
 Setup
 Runtime	keeper
@@ -3689,7 +3689,7 @@ Updated	2024-03-01
 IgdbId	17968
 
 Game	Kitsune Zero
-Cover
+Id	206
 Engine	FNA
 Setup	IndieRunner
 Runtime	IndieRunner
@@ -3707,7 +3707,7 @@ Updated	2023-05-07
 IgdbId	213714
 
 Game	Kitty Tactics
-Cover
+Id	207
 Engine	Godot
 Setup
 Runtime	godot
@@ -3725,7 +3725,7 @@ Updated	2023-05-07
 IgdbId	149510
 
 Game	Kotel Ne Gori: A Friend of Lena Boots
-Cover
+Id	208
 Engine	Godot
 Setup
 Runtime	godot
@@ -3743,7 +3743,7 @@ Updated	2023-05-07
 IgdbId	158324
 
 Game	Labyrinth of Legendary Loot
-Cover
+Id	209
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -3761,7 +3761,7 @@ Updated	2023-10-09
 IgdbId	176520
 
 Game	Lamplight City
-Cover
+Id	210
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -3779,7 +3779,7 @@ Updated	2023-05-07
 IgdbId	79999
 
 Game	Landnama
-Cover
+Id	211
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -3797,7 +3797,7 @@ Updated	2023-08-02
 IgdbId	245366
 
 Game	Lands of Lore - The Throne of Chaos
-Cover	Lands_of_Lore_The_Throne_of_Chaos_Coverart.PNG
+Id	212
 Engine	Kyra
 Setup	7zip extract GAME.DAT
 Runtime	scummvm
@@ -3815,7 +3815,7 @@ Updated	2023-05-07
 IgdbId	2528
 
 Game	LaserCat
-Cover	LaserCat_cover.jpg
+Id	213
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -3833,7 +3833,7 @@ Updated	1970-01-01
 IgdbId	32271
 
 Game	Learn Japanese To Survive! Hiragana Battle
-Cover	Learn_Japanese_Cover.jpg
+Id	214
 Engine
 Setup
 Runtime
@@ -3851,7 +3851,7 @@ Updated	2023-05-07
 IgdbId	33622
 
 Game	Lila's Sky Ark
-Cover
+Id	215
 Engine	Godot
 Setup
 Runtime	godot
@@ -3869,7 +3869,7 @@ Updated	2023-05-07
 IgdbId	144552
 
 Game	Lingo
-Cover
+Id	216
 Engine	Godot
 Setup
 Runtime	godot
@@ -3887,7 +3887,7 @@ Updated	2023-05-07
 IgdbId	117955
 
 Game	Little Racers STREET
-Cover	Little_Racers_Street_-_cover.jpg
+Id	217
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3905,7 +3905,7 @@ Updated	1970-01-01
 IgdbId	10518
 
 Game	Lode Runner Online: The Mad Monks' Revenge
-Cover
+Id	218
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3923,7 +3923,7 @@ Updated	2023-05-07
 IgdbId
 
 Game	Long Live the Queen
-Cover	Long_Live_the_Queen.jpg
+Id	219
 Engine	Ren'Py 6
 Setup	renpyify
 Runtime	renpy
@@ -3941,7 +3941,7 @@ Updated	1970-01-01
 IgdbId	9722
 
 Game	The Longest Journey
-Cover	The_Longest_Journey_Box.jpg
+Id	220
 Engine	Stark
 Setup
 Runtime	residualvm
@@ -3959,7 +3959,7 @@ Updated	2023-05-07
 IgdbId	895
 
 Game	Loom
-Cover	Loom_Cover.jpg
+Id	221
 Engine	SCUMM
 Setup
 Runtime	scummvm
@@ -3977,7 +3977,7 @@ Updated	1970-01-01
 IgdbId	191
 
 Game	Lost Cities
-Cover
+Id	222
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -3995,7 +3995,7 @@ Updated	2023-05-07
 IgdbId	37376
 
 Game	Luck be a Landlord
-Cover
+Id	223
 Engine	Godot
 Setup
 Runtime	godot
@@ -4013,7 +4013,7 @@ Updated	2023-05-07
 IgdbId	142035
 
 Game	Lycanthorn II
-Cover
+Id	224
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -4031,7 +4031,7 @@ Updated	2023-05-07
 IgdbId	239592
 
 Game	Malice & Greed
-Cover
+Id	225
 Engine	Godot
 Setup
 Runtime	godot
@@ -4049,7 +4049,7 @@ Updated	2023-05-07
 IgdbId	143568
 
 Game	Marvellous Inc.
-Cover
+Id	226
 Engine	Love2D
 Setup
 Runtime	love-0.10
@@ -4067,7 +4067,7 @@ Updated	2023-07-22
 IgdbId	96638
 
 Game	Master of Orion
-Cover	Master_of_Orion_-_cover.jpg
+Id	227
 Engine
 Setup
 Runtime	1oom
@@ -4085,7 +4085,7 @@ Updated	1970-01-01
 IgdbId	155305
 
 Game	Mega Man Legacy Collection
-Cover	Mega_Man_Legacy_Collection.jpg
+Id	228
 Engine
 Setup	https://gitlab.com/rfht/romextract romextract
 Runtime	mednafen
@@ -4103,7 +4103,7 @@ Updated	1970-01-01
 IgdbId	19874
 
 Game	Meganoid
-Cover
+Id	229
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -4121,7 +4121,7 @@ Updated	2023-05-07
 IgdbId	29184
 
 Game	Meganoid: Grandpa's Chronicles
-Cover
+Id	230
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -4139,7 +4139,7 @@ Updated	2023-05-07
 IgdbId
 
 Game	Mercenary Kings: Reloaded Edition
-Cover	Mercenary_kings_boxart.jpg
+Id	231
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -4157,7 +4157,7 @@ Updated	2023-10-14
 IgdbId	6147
 
 Game	Metanet Hunter G4
-Cover
+Id	232
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -4175,7 +4175,7 @@ Updated	2023-10-20
 IgdbId
 
 Game	Mewnbase
-Cover
+Id	233
 Engine	LibGDX
 Setup	jar xvf the game's .jar, replace com/badlogic with libgdx 1.9.11 dir built with lwjgl3 backend, replace org/lwjgl with pertinent files from the lwjgl3 port (may need to extract from its .jar files), replace all .so files with files from ports, libgdx, and lwjgl3.
 Runtime	java-11
@@ -4193,7 +4193,7 @@ Updated	2023-05-07
 IgdbId	54984
 
 Game	Miasma: Citizens of Free Thought
-Cover
+Id	234
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -4211,7 +4211,7 @@ Updated	2023-05-07
 IgdbId	54204
 
 Game	Miasma 2: Freedom Uprising
-Cover
+Id	235
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -4229,7 +4229,7 @@ Updated	2023-05-07
 IgdbId	54205
 
 Game	Micro Mages
-Cover	Micro_Mages_cover.jpg
+Id	236
 Engine
 Setup
 Runtime	NES emulator
@@ -4247,7 +4247,7 @@ Updated	1970-01-01
 IgdbId	110882
 
 Game	MidBoss
-Cover	MidBoss_cover.jpg
+Id	237
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -4265,7 +4265,7 @@ Updated	1970-01-01
 IgdbId	30360
 
 Game	Minecraft
-Cover	Minecraft_cover.jpg
+Id	238
 Engine
 Setup	minecraft
 Runtime
@@ -4283,7 +4283,7 @@ Updated	1970-01-01
 IgdbId	121
 
 Game	Mirrorama
-Cover
+Id	239
 Engine	Godot
 Setup
 Runtime	godot
@@ -4301,7 +4301,7 @@ Updated	2023-05-07
 IgdbId	186824
 
 Game	Mobius Front 83
-Cover
+Id	240
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -4319,7 +4319,7 @@ Updated	2023-05-07
 IgdbId	140436
 
 Game	Molek-Syntez
-Cover	MOLEK-SYNTEZ_cover.jpg
+Id	241
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -4337,7 +4337,7 @@ Updated	2023-05-07
 IgdbId	125208
 
 Game	Monster Outbreak
-Cover
+Id	242
 Engine	Godot
 Setup
 Runtime	godot
@@ -4355,7 +4355,7 @@ Updated	2023-05-07
 IgdbId	154046
 
 Game	Moonring
-Cover
+Id	243
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -4373,7 +4373,7 @@ Updated	2023-10-05
 IgdbId	266774
 
 Game	Moonshot - The Great Espionage
-Cover
+Id	244
 Engine	Godot
 Setup
 Runtime	godot
@@ -4391,7 +4391,7 @@ Updated	2023-05-07
 IgdbId	159516
 
 Game	Mount Your Friends
-Cover	Mount_Your_Friends.jpg
+Id	245
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -4409,7 +4409,7 @@ Updated	1970-01-01
 IgdbId	15916
 
 Game	Mud River
-Cover
+Id	246
 Engine	Godot
 Setup
 Runtime	godot
@@ -4427,7 +4427,7 @@ Updated	2023-05-07
 IgdbId	171869
 
 Game	Murder Miners
-Cover
+Id	247
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -4445,7 +4445,7 @@ Updated	2023-05-07
 IgdbId	17035
 
 Game	Myst
-Cover	MystCover.png
+Id	248
 Engine	Mohawk Engine
 Setup
 Runtime	scummvm
@@ -4463,7 +4463,7 @@ Updated	2023-05-07
 IgdbId	16203
 
 Game	Myst III: Exile
-Cover	MYSTIIICOVER.jpg
+Id	249
 Engine	Sprint Engine
 Setup
 Runtime	residualvm
@@ -4481,7 +4481,7 @@ Updated	2023-05-07
 IgdbId	797
 
 Game	Neofeud
-Cover
+Id	250
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -4499,7 +4499,7 @@ Updated	2023-05-07
 IgdbId	55688
 
 Game	Neoteria
-Cover
+Id	251
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -4517,7 +4517,7 @@ Updated	2023-05-07
 IgdbId	61111
 
 Game	NeuroVoider
-Cover	NeuroVoider_cover.jpg
+Id	252
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
@@ -4535,7 +4535,7 @@ Updated	2023-05-07
 IgdbId	23581
 
 Game	Nightfall Hacker
-Cover
+Id	253
 Engine	Godot
 Setup
 Runtime	godot
@@ -4553,7 +4553,7 @@ Updated	2023-05-07
 IgdbId	127578
 
 Game	Northgard
-Cover	Northgard_cover.jpg
+Id	254
 Engine	HashLink
 Setup	IndieRunner (unless using rigg)
 Runtime	hashlink
@@ -4571,7 +4571,7 @@ Updated	2023-03-13
 IgdbId	18918
 
 Game	Nuclear Blaze
-Cover
+Id	255
 Engine	HashLink
 Setup	IndieRunner (unless using rigg)
 Runtime	hashlink
@@ -4589,7 +4589,7 @@ Updated	2023-05-07
 IgdbId	153876
 
 Game	Ocean's Heart
-Cover
+Id	256
 Engine	solarus
 Setup
 Runtime	solarus-run
@@ -4607,7 +4607,7 @@ Updated	2023-07-22
 IgdbId	142340
 
 Game	Of Blades & Tails
-Cover
+Id	257
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -4625,7 +4625,7 @@ Updated	2023-08-25
 IgdbId	187655
 
 Game	Omnigon
-Cover
+Id	258
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -4643,7 +4643,7 @@ Updated	2023-11-09
 IgdbId	245909
 
 Game	One Finger Death Punch
-Cover	OneFingerDeathPunchcover.jpg
+Id	259
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -4661,7 +4661,7 @@ Updated	2023-05-07
 IgdbId	8360
 
 Game	Open Sorcery
-Cover	Open_Sorcery_cover.jpg
+Id	260
 Engine
 Setup
 Runtime
@@ -4679,7 +4679,7 @@ Updated	2023-05-07
 IgdbId	27444
 
 Game	Operation STEEL
-Cover
+Id	261
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -4697,7 +4697,7 @@ Updated	2023-08-10
 IgdbId	151732
 
 Game	Opus Magnum
-Cover	Opus_Magnum_cover.jpg
+Id	262
 Engine
 Setup	fnaify
 Runtime	fnaify
@@ -4715,7 +4715,7 @@ Updated	2023-05-07
 IgdbId	74545
 
 Game	Osmos
-Cover	Osmos_Coverart.png
+Id	263
 Engine
 Setup
 Runtime	HumblePlay
@@ -4733,7 +4733,7 @@ Updated	2023-05-07
 IgdbId	14951
 
 Game	Overdriven Reloaded
-Cover	Overdriven_Reloaded_cover.jpg
+Id	264
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -4751,7 +4751,7 @@ Updated	1970-01-01
 IgdbId	32259
 
 Game	Owlboy
-Cover	Owlboy_-_Cover.png
+Id	265
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -4769,7 +4769,7 @@ Updated	2023-10-14
 IgdbId	12597
 
 Game	Paladin
-Cover	Paladin_cover.jpg
+Id	266
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -4787,7 +4787,7 @@ Updated	1970-01-01
 IgdbId	15333
 
 Game	Panzer General
-Cover
+Id	267
 Engine	LGeneral
 Setup
 Runtime	lgeneral
@@ -4805,7 +4805,7 @@ Updated	2022-11-21
 IgdbId	4268
 
 Game	Paralyzed
-Cover
+Id	268
 Engine	Godot
 Setup
 Runtime	godot
@@ -4823,7 +4823,7 @@ Updated	2023-05-07
 IgdbId	141787
 
 Game	Path of Achra
-Cover
+Id	269
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -4841,7 +4841,7 @@ Updated	2023-05-07
 IgdbId	222738
 
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
-Cover	Precipice_of_darkness_3.jpg
+Id	270
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -4859,7 +4859,7 @@ Updated	1970-01-01
 IgdbId	14980
 
 Game	Penny Arcade's On the Rain-Slick Precipice of Darkness 4
-Cover	On_the_Rain-Slick_Precipice_of_Darkness_4_-_cover.jpg
+Id	271
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -4877,7 +4877,7 @@ Updated	1970-01-01
 IgdbId	14981
 
 Game	Phoenix Force
-Cover	Phoenix_Force_cover.jpg
+Id	272
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -4895,7 +4895,7 @@ Updated	1970-01-01
 IgdbId	36181
 
 Game	Planescape: Torment
-Cover	Planescape_Torment_Box.jpg
+Id	273
 Engine	Infinity Engine
 Setup
 Runtime	gemrb
@@ -4913,7 +4913,7 @@ Updated	1970-01-01
 IgdbId	832
 
 Game	PlanetFriend
-Cover	PlanetFriend_cover.png
+Id	274
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -4931,7 +4931,7 @@ Updated	1970-01-01
 IgdbId	133879
 
 Game	Poems & Codes
-Cover
+Id	275
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -4949,7 +4949,7 @@ Updated	2023-10-09
 IgdbId	244281
 
 Game	Possession
-Cover
+Id	276
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -4967,7 +4967,7 @@ Updated	2023-10-20
 IgdbId	90649
 
 Game	Postal
-Cover	Postal_Cover.jpg
+Id	277
 Engine	RSPiX
 Setup
 Runtime	postal
@@ -4985,7 +4985,7 @@ Updated	2023-05-07
 IgdbId	2000
 
 Game	Press X to Not Die
-Cover	Press_X_to_Not_Die_cover.jpg
+Id	278
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5003,7 +5003,7 @@ Updated	1970-01-01
 IgdbId	13619
 
 Game	Primal Light
-Cover	Primal_Light_cover.jpg
+Id	279
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -5021,7 +5021,7 @@ Updated	2023-05-07
 IgdbId	122794
 
 Game	Primordia
-Cover	Primordia_cover.jpg
+Id	280
 Engine	Adventure Game Studio
 Setup
 Runtime	Adventure Game Studio
@@ -5039,7 +5039,7 @@ Updated	1970-01-01
 IgdbId	7635
 
 Game	Project Crypt
-Cover
+Id	281
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -5057,7 +5057,7 @@ Updated	2023-05-07
 IgdbId	201131
 
 Game	Project Heartbeat
-Cover
+Id	282
 Engine	Godot
 Setup
 Runtime	godot
@@ -5075,7 +5075,7 @@ Updated	2023-05-07
 IgdbId	130920
 
 Game	Prose & Codes
-Cover
+Id	283
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -5093,7 +5093,7 @@ Updated	2023-10-09
 IgdbId	191577
 
 Game	PUTRID SHOT ULTRA
-Cover
+Id	284
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -5111,7 +5111,7 @@ Updated	2023-11-09
 IgdbId	207273
 
 Game	The Puzzler's Revenge
-Cover
+Id	285
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -5129,7 +5129,7 @@ Updated	2024-03-30
 IgdbId
 
 Game	Quake
-Cover	Quake_Cover.jpg
+Id	286
 Engine	Quake Engine
 Setup
 Runtime	quakespasm | ezquake | vkquake
@@ -5147,7 +5147,7 @@ Updated	1970-01-01
 IgdbId	333
 
 Game	Quake II
-Cover	Quake_II_cover.jpg
+Id	287
 Engine	id Tech 2
 Setup
 Runtime	yquake2
@@ -5165,7 +5165,7 @@ Updated	1970-01-01
 IgdbId	286
 
 Game	Quake III Arena
-Cover	Quake_III_Arena_cover.jpg
+Id	288
 Engine	id Tech 3
 Setup
 Runtime	ioquake3
@@ -5183,7 +5183,7 @@ Updated	1970-01-01
 IgdbId	355
 
 Game	Quest for Infamy
-Cover	473px-Quest_for_Infamy_-_Cover.jpg
+Id	289
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -5201,7 +5201,7 @@ Updated	1970-01-01
 IgdbId	8250
 
 Game	Quest of Graal
-Cover
+Id	290
 Engine	Godot
 Setup
 Runtime	godot
@@ -5219,7 +5219,7 @@ Updated	2023-05-07
 IgdbId	182930
 
 Game	Retro City Rampage DX
-Cover	Retro_City_Rampage_cover.jpg
+Id	291
 Engine
 Setup
 Runtime	dosbox
@@ -5237,7 +5237,7 @@ Updated	2023-05-07
 IgdbId	8063
 
 Game	Return to Castle Wolfenstein
-Cover	Return_to_Castle_Wolfenstein_Cover.png
+Id	292
 Engine
 Setup
 Runtime	iorctw
@@ -5255,7 +5255,7 @@ Updated	2023-05-07
 IgdbId	281
 
 Game	Rex
-Cover
+Id	293
 Engine	Godot
 Setup
 Runtime	godot
@@ -5273,7 +5273,7 @@ Updated	2023-05-07
 IgdbId	45348
 
 Game	Rex Rocket
-Cover	Rex_Rocket_-_cover.jpg
+Id	294
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5291,7 +5291,7 @@ Updated	1970-01-01
 IgdbId	17191
 
 Game	Rise to Ruins
-Cover
+Id	295
 Engine	LWJGL2
 Setup	IndieRunner
 Runtime	java
@@ -5309,7 +5309,7 @@ Updated	2023-05-07
 IgdbId	36220
 
 Game	Riven
-Cover	Riven_Coverart.png
+Id	296
 Engine	Mohawk Engine
 Setup
 Runtime	scummvm
@@ -5327,7 +5327,7 @@ Updated	2023-05-07
 IgdbId	238
 
 Game	Robotherapy
-Cover
+Id	297
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -5345,7 +5345,7 @@ Updated	2023-08-07
 IgdbId	212058
 
 Game	Rodent and Plank: Secret Origin
-Cover
+Id	298
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -5363,7 +5363,7 @@ Updated	2023-05-07
 IgdbId	139588
 
 Game	Rogue Legacy
-Cover	Rogue_Legacy_-_cover.png
+Id	299
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5381,7 +5381,7 @@ Updated	2023-05-07
 IgdbId	3221
 
 Game	Rogue State Revolution
-Cover
+Id	300
 Engine	Godot
 Setup
 Runtime	godot
@@ -5399,7 +5399,7 @@ Updated	2023-05-07
 IgdbId	122070
 
 Game	RollerCoaster Tycoon
-Cover	RollerCoaster_Tycoon_cover.jpg
+Id	301
 Engine
 Setup
 Runtime	openrct2
@@ -5417,7 +5417,7 @@ Updated	2023-05-07
 IgdbId	36444
 
 Game	RollerCoaster Tycoon 2
-Cover	RollerCoaster_Tycoon_2_cover.jpg
+Id	302
 Engine
 Setup
 Runtime	openrct2
@@ -5435,7 +5435,7 @@ Updated	2023-05-07
 IgdbId	331
 
 Game	Roma Invicta
-Cover
+Id	303
 Engine	Godot
 Setup
 Runtime	godot
@@ -5453,7 +5453,7 @@ Updated	2023-05-07
 IgdbId	190269
 
 Game	Ruggnar
-Cover	Ruggnar_cover.png
+Id	304
 Engine	MonoGame
 Setup	fnaify
 Runtime	fnaify
@@ -5471,7 +5471,7 @@ Updated	2023-05-07
 IgdbId	164177
 
 Game	ROTA
-Cover
+Id	305
 Engine	Godot
 Setup
 Runtime	godot
@@ -5489,7 +5489,7 @@ Updated	2023-05-07
 IgdbId	201487
 
 Game	RUN: The world in-between
-Cover
+Id	306
 Engine	Godot
 Setup
 Runtime	godot
@@ -5507,7 +5507,7 @@ Updated	2023-05-07
 IgdbId	145400
 
 Game	RuneScape
-Cover
+Id	307
 Engine	Java
 Setup	https://old.reddit.com/r/openbsd_gaming/comments/lh2jts/runescape_on_openbsd/
 Runtime	java-11
@@ -5525,7 +5525,7 @@ Updated	2023-05-07
 IgdbId	5611
 
 Game	Rushberry Mercs
-Cover
+Id	308
 Engine	HashLink
 Setup
 Runtime	hashlink
@@ -5543,7 +5543,7 @@ Updated	2023-05-07
 IgdbId	132552
 
 Game	SEGA Mega Drive and Genesis Classics
-Cover	sega.jpg
+Id	309
 Engine
 Setup
 Runtime	mednafen
@@ -5561,7 +5561,7 @@ Updated	2023-05-07
 IgdbId	80185
 
 Game	Shell Out Showdown
-Cover
+Id	310
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -5579,7 +5579,7 @@ Updated	2023-10-09
 IgdbId	148437
 
 Game	Shenzhen I/O
-Cover
+Id	311
 Engine	Mono
 Setup	IndieRunner
 Runtime	mono
@@ -5597,7 +5597,7 @@ Updated	2023-05-07
 IgdbId	25084
 
 Game	SJ-19 Learns To Love!
-Cover
+Id	312
 Engine	Godot
 Setup
 Runtime	godot
@@ -5615,7 +5615,7 @@ Updated	2023-05-07
 IgdbId	144112
 
 Game	SNKRX
-Cover
+Id	313
 Engine	Love2D
 Setup
 Runtime	love-11
@@ -5633,7 +5633,7 @@ Updated	2023-07-22
 IgdbId	148027
 
 Game	Sokobos
-Cover
+Id	314
 Engine	Godot
 Setup
 Runtime	godot
@@ -5651,7 +5651,7 @@ Updated	2023-05-07
 IgdbId	189863
 
 Game	SokoChess
-Cover
+Id	315
 Engine	Godot
 Setup
 Runtime	godot
@@ -5669,7 +5669,7 @@ Updated	2023-05-07
 IgdbId	201496
 
 Game	SokoChess White
-Cover
+Id	316
 Engine	Godot
 Setup
 Runtime	godot
@@ -5687,7 +5687,7 @@ Updated	2023-05-07
 IgdbId	232960
 
 Game	SokoSolitaire
-Cover
+Id	317
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -5705,7 +5705,7 @@ Updated	2023-08-10
 IgdbId	244669
 
 Game	SUMICO - The Numbers Game
-Cover	sumico_cover.jpg
+Id	318
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5723,7 +5723,7 @@ Updated	1970-01-01
 IgdbId	34952
 
 Game	Salt and Sanctuary
-Cover	SaltAndSanctuary_header.jpg
+Id	319
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5741,7 +5741,7 @@ Updated	2023-07-28
 IgdbId	7709
 
 Game	Sam & Max Hit the Road
-Cover	Sam__Max_Hit_the_Road_-_Cover.jpg
+Id	320
 Engine	SCUMM
 Setup
 Runtime	scummvm
@@ -5759,7 +5759,7 @@ Updated	1970-01-01
 IgdbId	202
 
 Game	satryn deluxe
-Cover
+Id	321
 Engine	Godot
 Setup
 Runtime	godot
@@ -5777,7 +5777,7 @@ Updated	2023-05-07
 IgdbId	186106
 
 Game	Session Seven
-Cover	Session_Seven_cover.jpg
+Id	322
 Engine
 Setup	fnaify
 Runtime
@@ -5795,7 +5795,7 @@ Updated	1970-01-01
 IgdbId	115395
 
 Game	Settlers of the Deep
-Cover
+Id	323
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -5813,7 +5813,7 @@ Updated	2023-11-05
 IgdbId	121607
 
 Game	The Settlers II
-Cover	Settlers_2_cover.jpg
+Id	324
 Engine
 Setup
 Runtime	returntotheroots
@@ -5831,7 +5831,7 @@ Updated	2023-05-07
 IgdbId	2617
 
 Game	The Settlers
-Cover	The_Settlers_-_cover.jpg
+Id	325
 Engine
 Setup
 Runtime	freeserf
@@ -5849,7 +5849,7 @@ Updated	2023-05-07
 IgdbId	124562
 
 Game	Seven Kingdoms: Ancient Adversaries
-Cover	7kaacover.jpg
+Id	326
 Engine
 Setup
 Runtime	7kaa
@@ -5867,7 +5867,7 @@ Updated	2023-05-07
 IgdbId	33303
 
 Game	Shadow Warrior Classic Redux
-Cover
+Id	327
 Engine	eduke32
 Setup
 Runtime
@@ -5885,7 +5885,7 @@ Updated	2023-05-07
 IgdbId	30156
 
 Game	Shigatari
-Cover
+Id	328
 Engine	Ren'Py
 Setup
 Runtime	renpy
@@ -5903,7 +5903,7 @@ Updated	2023-05-07
 IgdbId	55307
 
 Game	Shipwreck
-Cover	Shipwreck_-_cover.png
+Id	329
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -5921,7 +5921,7 @@ Updated	1970-01-01
 IgdbId	176573
 
 Game	The Shivah
-Cover	Shivah-cover.jpg
+Id	330
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -5939,7 +5939,7 @@ Updated	2023-05-07
 IgdbId	7418
 
 Game	Shrine
-Cover
+Id	331
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -5957,7 +5957,7 @@ Updated	2023-05-07
 IgdbId	132241
 
 Game	Shrine II
-Cover
+Id	332
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -5975,7 +5975,7 @@ Updated	2023-05-07
 IgdbId	135474
 
 Game	Signs of Life
-Cover	Signs_of_Life_-_cover.png
+Id	333
 Engine	XNA
 Setup	fnaify
 Runtime	fnaify
@@ -5993,7 +5993,7 @@ Updated	2023-05-07
 IgdbId	16839
 
 Game	Simona's Requiem
-Cover
+Id	334
 Engine	Godot
 Setup
 Runtime	godot
@@ -6011,7 +6011,7 @@ Updated	2023-05-07
 IgdbId	146360
 
 Game	Sir Questionnaire
-Cover
+Id	335
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6029,7 +6029,7 @@ Updated	2023-05-07
 IgdbId	96201
 
 Game	Skulls of the Shogun
-Cover	Skulls_of_the_Shogun_-_cover.png
+Id	336
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6047,7 +6047,7 @@ Updated	2023-05-07
 IgdbId	9023
 
 Game	Slay the Spire
-Cover	Slay_the_Spire_cover.jpg
+Id	337
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6065,7 +6065,7 @@ Updated	2023-05-07
 IgdbId	40477
 
 Game	Snake Core
-Cover
+Id	338
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6083,7 +6083,7 @@ Updated	2023-05-07
 IgdbId	132783
 
 Game	Solar Rogue
-Cover
+Id	339
 Engine	Godot
 Setup
 Runtime	godot
@@ -6101,7 +6101,7 @@ Updated	2023-05-07
 IgdbId	133421
 
 Game	Solaroids: Prologue
-Cover	solaroids.png
+Id	340
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6119,7 +6119,7 @@ Updated	2023-05-07
 IgdbId	29314
 
 Game	Soulcaster I & II
-Cover	Soulcaster_cover.jpg
+Id	341
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6137,7 +6137,7 @@ Updated	2023-05-07
 IgdbId	33074
 
 Game	Soulstice
-Cover
+Id	342
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-0.10
@@ -6155,7 +6155,7 @@ Updated	2023-10-09
 IgdbId	25119
 
 Game	SpaceChem
-Cover	SpaceChem_-_cover.jpg
+Id	343
 Engine	FontEngine
 Setup	fnaify
 Runtime	fnaify
@@ -6173,7 +6173,7 @@ Updated	2023-05-07
 IgdbId	8390
 
 Game	Space Grunts
-Cover
+Id	344
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6191,7 +6191,7 @@ Updated	2023-05-07
 IgdbId	35224
 
 Game	Space Grunts 2
-Cover
+Id	345
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6209,7 +6209,7 @@ Updated	2023-05-07
 IgdbId	121004
 
 Game	Space Haven
-Cover
+Id	346
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6227,7 +6227,7 @@ Updated	2023-05-07
 IgdbId	103246
 
 Game	Spaceport Hope
-Cover
+Id	347
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6245,7 +6245,7 @@ Updated	2023-05-07
 IgdbId	34639
 
 Game	SpeedRunners
-Cover	Speedrunners_cover.jpg
+Id	348
 Engine	FNA
 Setup	fnaify
 Runtime	mono
@@ -6263,7 +6263,7 @@ Updated	2023-05-07
 IgdbId	9527
 
 Game	Spellbook Demonslayers
-Cover
+Id	349
 Engine	Godot
 Setup
 Runtime	godot
@@ -6281,7 +6281,7 @@ Updated	2023-05-07
 IgdbId	209740
 
 Game	Spellrazor
-Cover
+Id	350
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-0.10
@@ -6299,7 +6299,7 @@ Updated	2023-10-06
 IgdbId	177340
 
 Game	Sprout Valley
-Cover
+Id	351
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -6317,7 +6317,7 @@ Updated	2023-09-08
 IgdbId	198626
 
 Game	Star Wars: Jedi Knight - Jedi Academy
-Cover	Star_Wars_Jedi_Knight_Jedi_Academy_Cover.jpg
+Id	352
 Engine	id Tech 3
 Setup
 Runtime	openjk
@@ -6335,7 +6335,7 @@ Updated	1970-01-01
 IgdbId	153
 
 Game	Stardash
-Cover
+Id	353
 Engine	LibGDX
 Setup	IndieRunner
 Runtime	java
@@ -6353,7 +6353,7 @@ Updated	2023-05-07
 IgdbId	147628
 
 Game	Stardew Valley
-Cover	Stardew_Valley_cover.png
+Id	354
 Engine	MonoGame
 Setup	IndieRunner (unless using rigg)
 Runtime	mono
@@ -6371,7 +6371,7 @@ Updated	2023-05-07
 IgdbId	17000
 
 Game	StarPrey
-Cover
+Id	355
 Engine	Godot
 Setup
 Runtime	godot
@@ -6389,7 +6389,7 @@ Updated	2023-05-07
 IgdbId	143027
 
 Game	Star-Twine
-Cover
+Id	356
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -6407,7 +6407,7 @@ Updated	2023-05-07
 IgdbId	30800
 
 Game	Steel Assault
-Cover
+Id	357
 Engine	FNA
 Setup
 Runtime	fnaify
@@ -6425,7 +6425,7 @@ Updated	2023-05-07
 IgdbId	56668
 
 Game	Sternly Worded Adventures
-Cover
+Id	358
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -6443,7 +6443,7 @@ Updated	2024-01-03
 IgdbId	261434
 
 Game	Stone Kingdoms
-Cover
+Id	359
 Engine	Love2D
 Setup
 Runtime	love-11
@@ -6461,7 +6461,7 @@ Updated	2023-05-07
 IgdbId
 
 Game	Strangeland
-Cover
+Id	360
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -6479,7 +6479,7 @@ Updated	2023-05-07
 IgdbId	103219
 
 Game	Strife: Veteran Edition
-Cover	Strife_Veteran_Edition_cover.jpg
+Id	361
 Engine	id Tech 1
 Setup	IndieRunner
 Runtime	gzdoom, crispy-doom
@@ -6497,7 +6497,7 @@ Updated	2023-05-07
 IgdbId	24603
 
 Game	Striving for Light
-Cover
+Id	362
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -6515,7 +6515,7 @@ Updated	2023-10-14
 IgdbId	159919
 
 Game	Suits: A Business RPG
-Cover	Suits_A_Business_RPG_cover.jpg
+Id	363
 Engine
 Setup
 Runtime	easyrpg
@@ -6533,7 +6533,7 @@ Updated	1970-01-01
 IgdbId	16135
 
 Game	Sunrider: Mask of Arcadius
-Cover	Sunrider_Mask_of_Arcadius_cover.jpg
+Id	364
 Engine	Ren'Py 6
 Setup	renpyify
 Runtime	renpy
@@ -6551,7 +6551,7 @@ Updated	1970-01-01
 IgdbId	17639
 
 Game	Super Amazing Wagon Adventure
-Cover	Super_Amazing_Wagon_Adventure_cover.jpg
+Id	365
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -6569,7 +6569,7 @@ Updated	1970-01-01
 IgdbId	13100
 
 Game	Super Bernie World
-Cover	Super_Bernie_World_cover.jpg
+Id	366
 Engine	FNA
 Setup	IndieRunner
 Runtime	IndieRunner
@@ -6587,7 +6587,7 @@ Updated	2023-05-07
 IgdbId	132574
 
 Game	Super Blood Hockey
-Cover	Super_Blood_Hockey_cover.jpg
+Id	367
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -6605,7 +6605,7 @@ Updated	2023-05-07
 IgdbId	31160
 
 Game	Super Hexagon
-Cover	Super_Hexagon_cover.jpg
+Id	368
 Engine
 Setup
 Runtime	HumblePlay
@@ -6623,7 +6623,7 @@ Updated	2023-05-07
 IgdbId	3251
 
 Game	Super Ninja Warrior Extreme
-Cover	Super_Ninja_Warrior_Extreme.png
+Id	369
 Engine
 Setup	fnaify
 Runtime
@@ -6641,7 +6641,7 @@ Updated	1970-01-01
 IgdbId
 
 Game	Super Rad Raygun
-Cover	Super_Rad_Raygun_cover.jpg
+Id	370
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6659,7 +6659,7 @@ Updated	1970-01-01
 IgdbId	25695
 
 Game	Super Spy Raccoon
-Cover
+Id	371
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -6677,7 +6677,7 @@ Updated	2023-12-05
 IgdbId	264196
 
 Game	Supplice
-Cover
+Id	372
 Engine	GZDoom
 Setup	IndieRunner
 Runtime	gzdoom
@@ -6695,7 +6695,7 @@ Updated	2023-08-04
 IgdbId	165070
 
 Game	Sword of the Stars: The Pit
-Cover	Sword_of_the_Stars_-_The_Pit_-_cover.png
+Id	373
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -6713,7 +6713,7 @@ Updated	1970-01-01
 IgdbId	19868
 
 Game	System Shock
-Cover	System_Shock_cover.jpg
+Id	374
 Engine	System Shock engine
 Setup
 Runtime	shockolate
@@ -6731,7 +6731,7 @@ Updated	2023-05-07
 IgdbId	23
 
 Game	Takara Cards
-Cover
+Id	375
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -6749,7 +6749,7 @@ Updated	2023-05-07
 IgdbId	194401
 
 Game	Tales of Maj'Eyal
-Cover	tome.jpg
+Id	376
 Engine	T-Engine 4
 Setup
 Runtime	tome4
@@ -6767,7 +6767,7 @@ Updated	1970-01-01
 IgdbId	8796
 
 Game	Tanglewood
-Cover	TANGLEWOOD_cover.jpg
+Id	377
 Engine	megaEx
 Setup
 Runtime	mednafen
@@ -6785,7 +6785,7 @@ Updated	1970-01-01
 IgdbId	104602
 
 Game	TD Worlds
-Cover
+Id	378
 Engine	Godot
 Setup
 Runtime	godot
@@ -6803,7 +6803,7 @@ Updated	2023-05-07
 IgdbId	168619
 
 Game	Technobabylon
-Cover
+Id	379
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -6821,7 +6821,7 @@ Updated	2023-05-07
 IgdbId	13232
 
 Game	Terraforming Earth
-Cover
+Id	380
 Engine	Love2D
 Setup
 Runtime	love-11
@@ -6839,7 +6839,7 @@ Updated	2023-07-22
 IgdbId	115499
 
 Game	Terraria
-Cover	Terraria_cover.jpg
+Id	381
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6857,7 +6857,7 @@ Updated	2023-05-07
 IgdbId	1879
 
 Game	Theia: The Crimson Eclipse
-Cover	cropped-Title-LOGO_rid.png
+Id	382
 Engine	RPG Maker
 Setup
 Runtime	easyrpg
@@ -6875,7 +6875,7 @@ Updated	1970-01-01
 IgdbId	135949
 
 Game	Theme Hospital
-Cover	ThemeHospital.jpg
+Id	383
 Engine
 Setup
 Runtime	corsixth
@@ -6893,7 +6893,7 @@ Updated	1970-01-01
 IgdbId	1624
 
 Game	They Don't Sleep
-Cover
+Id	384
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -6911,7 +6911,7 @@ Updated	2023-10-12
 IgdbId	212094
 
 Game	Thukothea Defender
-Cover
+Id	385
 Engine	Godot
 Setup
 Runtime	godot
@@ -6929,7 +6929,7 @@ Updated	2023-05-07
 IgdbId	159855
 
 Game	Timespinner
-Cover	Timespinner_cover.jpg
+Id	386
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -6947,7 +6947,7 @@ Updated	1970-01-01
 IgdbId	28952
 
 Game	Time's Up in Tiny Town
-Cover
+Id	387
 Engine	Godot
 Setup
 Runtime	godot
@@ -6965,7 +6965,7 @@ Updated	2023-05-07
 IgdbId	190471
 
 Game	Titan Attacks!
-Cover	Titan_Attacks_-_cover.jpg
+Id	388
 Engine	lwjgl
 Setup	IndieRunner
 Runtime	java
@@ -6983,7 +6983,7 @@ Updated	2023-05-07
 IgdbId	11460
 
 Game	Toonstruck
-Cover	Toonstruck_-_Cover.jpg
+Id	389
 Engine	Toon
 Setup
 Runtime	scummvm
@@ -7001,7 +7001,7 @@ Updated	2023-05-07
 IgdbId	916
 
 Game	TowerFall: Ascension
-Cover	TowerFall_Ascension_-_cover.jpg
+Id	390
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -7019,7 +7019,7 @@ Updated	1970-01-01
 IgdbId	9567
 
 Game	Transmogrify
-Cover
+Id	391
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7037,7 +7037,7 @@ Updated	2023-07-15
 IgdbId	103036
 
 Game	Trolley Delayma
-Cover
+Id	392
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7055,7 +7055,7 @@ Updated	2023-11-04
 IgdbId	267294
 
 Game	Tyrian 2000
-Cover	Tyrian_2000.jpg
+Id	393
 Engine
 Setup
 Runtime	opentyrian
@@ -7073,7 +7073,7 @@ Updated	1970-01-01
 IgdbId	14432
 
 Game	Ukraine Defense Force Tactics
-Cover
+Id	394
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7091,7 +7091,7 @@ Updated	2023-10-10
 IgdbId	204321
 
 Game	Ultra Hat Dimension
-Cover	Ultra_Hat_Dimension_cover.jpg
+Id	395
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -7109,7 +7109,7 @@ Updated	2023-05-07
 IgdbId	59472
 
 Game	Ultratron
-Cover	Ultratron_-_cover.jpg
+Id	396
 Engine	lwjgl
 Setup	IndieRunner
 Runtime	java-1.8.0
@@ -7127,7 +7127,7 @@ Updated	2023-05-07
 IgdbId	14327
 
 Game	Unavowed
-Cover
+Id	397
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -7145,7 +7145,7 @@ Updated	2023-05-08
 IgdbId	27867
 
 Game	Underlings
-Cover
+Id	398
 Engine	Godot
 Setup
 Runtime	godot
@@ -7163,7 +7163,7 @@ Updated	2023-05-07
 IgdbId	138892
 
 Game	Unexplored
-Cover	Unexplored_cover.jpg
+Id	399
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -7181,7 +7181,7 @@ Updated	1970-01-01
 IgdbId	27373
 
 Game	Unholy Heights
-Cover	Unholy_Heights.jpg
+Id	400
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -7199,7 +7199,7 @@ Updated	2023-05-07
 IgdbId	16648
 
 Game	Urtuk: The Desolation
-Cover
+Id	401
 Engine	LibGDX
 Setup
 Runtime	IndieRunner
@@ -7217,7 +7217,7 @@ Updated	2023-05-07
 IgdbId	98073
 
 Game	The Useful Dead
-Cover	Useful_Dead.png
+Id	402
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -7235,7 +7235,7 @@ Updated	1970-01-01
 IgdbId	62830
 
 Game	Verses of Enchantment
-Cover
+Id	403
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7253,7 +7253,7 @@ Updated	2023-08-01
 IgdbId	211982
 
 Game	Virtual Cottage
-Cover
+Id	404
 Engine	Godot
 Setup
 Runtime	godot
@@ -7271,7 +7271,7 @@ Updated	2023-05-07
 IgdbId	144577
 
 Game	A Virus Named Tom
-Cover	A_Virus_Named_TOM_-_cover.jpg
+Id	405
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -7289,7 +7289,7 @@ Updated	2023-05-07
 IgdbId	3040
 
 Game	Voidrun
-Cover
+Id	406
 Engine	HashLink
 Setup
 Runtime	hashlink
@@ -7307,7 +7307,7 @@ Updated	2023-05-07
 IgdbId	116267
 
 Game	Vomitoreum
-Cover
+Id	407
 Engine	GZDoom
 Setup
 Runtime	gzdoom
@@ -7325,7 +7325,7 @@ Updated	2023-05-07
 IgdbId	142271
 
 Game	Vylan
-Cover
+Id	408
 Engine	Godot
 Setup
 Runtime	godot
@@ -7343,7 +7343,7 @@ Updated	2023-05-07
 IgdbId	157088
 
 Game	V-Hunter Puzzler Dx
-Cover
+Id	409
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7361,7 +7361,7 @@ Updated	2023-05-15
 IgdbId	238714
 
 Game	Weapon of Choice
-Cover	Weapon_of_Choice_cover.jpg
+Id	410
 Engine	XNA
 Setup	fnaify
 Runtime
@@ -7379,7 +7379,7 @@ Updated	2023-05-07
 IgdbId	23028
 
 Game	Whispers of a Machine
-Cover
+Id	411
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -7397,7 +7397,7 @@ Updated	2023-05-07
 IgdbId	27278
 
 Game	Wish Project
-Cover
+Id	412
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
@@ -7415,7 +7415,7 @@ Updated	2023-05-07
 IgdbId	35307
 
 Game	WizOrb
-Cover	Wizorb_game_cover.jpg
+Id	413
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -7433,7 +7433,7 @@ Updated	2024-06-28
 IgdbId	1364
 
 Game	Woodland Empire
-Cover
+Id	414
 Engine	Godot
 Setup
 Runtime	godot
@@ -7451,7 +7451,7 @@ Updated	2023-05-07
 IgdbId	158242
 
 Game	Word Game: Episode 0
-Cover
+Id	415
 Engine	Godot
 Setup
 Runtime	godot
@@ -7469,7 +7469,7 @@ Updated	2023-05-07
 IgdbId	174067
 
 Game	Wrath: Aeon of Ruin
-Cover	Wrath_-_Aeon_of_Ruin_cover.jpg
+Id	416
 Engine	Darkplaces
 Setup
 Runtime	wrath
@@ -7487,7 +7487,7 @@ Updated	2024-03-01
 IgdbId	115873
 
 Game	Wrought Flesh
-Cover
+Id	417
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7505,7 +7505,7 @@ Updated	2023-08-13
 IgdbId	184780
 
 Game	Wyv and Keep
-Cover	wyv_and_keep.png
+Id	418
 Engine	FNA
 Setup	fnaify
 Runtime
@@ -7523,7 +7523,7 @@ Updated	1970-01-01
 IgdbId	16847
 
 Game	X-Com: UFO Defense (aka UFO: Enemy Unknown)
-Cover	X-Com_UFO_Defense_Box.jpg
+Id	419
 Engine
 Setup
 Runtime	openxcom
@@ -7541,7 +7541,7 @@ Updated	1970-01-01
 IgdbId	24
 
 Game	Yarntown
-Cover
+Id	420
 Engine	solarus
 Setup
 Runtime	solarus-run
@@ -7559,7 +7559,7 @@ Updated	2023-05-07
 IgdbId	135927
 
 Game	Yume Nikki
-Cover	Nikki.jpg
+Id	421
 Engine
 Setup
 Runtime	easyrpg
@@ -7577,7 +7577,7 @@ Updated	1970-01-01
 IgdbId	18689
 
 Game	The Zachtronics Solitaire Collection
-Cover
+Id	422
 Engine	Mono
 Setup	fnaify
 Runtime	fnaify
@@ -7595,7 +7595,7 @@ Updated	2023-05-07
 IgdbId	214973
 
 Game	Zak McKracken and the Alien Mindbenders
-Cover	Zak_McKracken_and_the_Alien_Mindbenders_-_Cover.jpg
+Id	423
 Engine	SCUMM
 Setup
 Runtime	scummvm
@@ -7613,7 +7613,7 @@ Updated	2023-05-07
 IgdbId	2280
 
 Game	Zen Bound 2
-Cover	Zen_Bound_2_cover.jpg
+Id	424
 Engine
 Setup
 Runtime	HumblePlay
@@ -7631,7 +7631,7 @@ Updated	2023-05-07
 IgdbId	15063
 
 Game	Buckshot Roulette
-Cover
+Id	425
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -7649,7 +7649,7 @@ Updated	2024-09-27
 IgdbId	281275
 
 Game	Tendryll
-Cover
+Id	426
 Engine	Godot
 Setup
 Runtime	godot
@@ -7667,7 +7667,7 @@ Updated	2024-05-01
 IgdbId	211232
 
 Game	Dashpong
-Cover
+Id	427
 Engine	Godot
 Setup
 Runtime	godot
@@ -7685,7 +7685,7 @@ Updated	2024-05-02
 IgdbId	192855
 
 Game	Tempus Bound
-Cover
+Id	428
 Engine	Godot
 Setup
 Runtime	godot
@@ -7703,7 +7703,7 @@ Updated	2024-05-04
 IgdbId	156997
 
 Game	If On A Winter's Night, Four Travelers
-Cover
+Id	429
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -7721,7 +7721,7 @@ Updated	2024-05-11
 IgdbId	144554
 
 Game	Aether
-Cover
+Id	430
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7739,7 +7739,7 @@ Updated	2024-05-14
 IgdbId	254916
 
 Game	100 Steps
-Cover
+Id	431
 Engine	Godot
 Setup
 Runtime	godot
@@ -7757,7 +7757,7 @@ Updated	2024-05-14
 IgdbId	265505
 
 Game	Lair of goblins
-Cover
+Id	432
 Engine	Godot
 Setup
 Runtime	godot
@@ -7775,7 +7775,7 @@ Updated	2024-05-15
 IgdbId	233029
 
 Game	Yolk Heroes: A Long Tamago
-Cover
+Id	433
 Engine	Godot
 Setup
 Runtime	godot
@@ -7793,7 +7793,7 @@ Updated	2024-05-20
 IgdbId	250985
 
 Game	An English Haunting
-Cover
+Id	434
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -7811,7 +7811,7 @@ Updated	2024-05-22
 IgdbId	258723
 
 Game	Cat Warrior
-Cover
+Id	435
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -7829,7 +7829,7 @@ Updated	2024-05-23
 IgdbId	281983
 
 Game	Sudocats
-Cover
+Id	436
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7847,7 +7847,7 @@ Updated	2024-05-24
 IgdbId	193466
 
 Game	Immortals Must Die
-Cover
+Id	437
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7865,7 +7865,7 @@ Updated	2024-06-18
 IgdbId	287880
 
 Game	DreamCell: Lost in Nightmares
-Cover
+Id	438
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7883,7 +7883,7 @@ Updated	2024-06-18
 IgdbId	211601
 
 Game	Nightmare Frames
-Cover
+Id	439
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -7901,7 +7901,7 @@ Updated	2024-06-18
 IgdbId	152450
 
 Game	Endless Dark
-Cover
+Id	440
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -7919,7 +7919,7 @@ Updated	2024-06-19
 IgdbId	236912
 
 Game	Defendor
-Cover
+Id	441
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7937,7 +7937,7 @@ Updated	2024-06-23
 IgdbId	267733
 
 Game	Downfall: Redux
-Cover
+Id	442
 Engine	Adventure Game Studio
 Setup
 Runtime	scummvm
@@ -7955,7 +7955,7 @@ Updated	2024-06-23
 IgdbId	51750
 
 Game	The Dagger of Amon Ra
-Cover
+Id	443
 Engine	ScummVM
 Setup
 Runtime	scummvm
@@ -7973,7 +7973,7 @@ Updated	2024-06-26
 IgdbId	9737
 
 Game	Lil Baby Poop's NIGHTMARE
-Cover
+Id	444
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -7991,7 +7991,7 @@ Updated	2024-06-30
 IgdbId	231185
 
 Game	Legendary Creatures
-Cover
+Id	445
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8009,7 +8009,7 @@ Updated	2024-06-30
 IgdbId	128256
 
 Game	Bananaguy 2
-Cover
+Id	446
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8027,7 +8027,7 @@ Updated	2024-06-30
 IgdbId	247604
 
 Game	A Castle Full of Cats
-Cover
+Id	447
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8045,7 +8045,7 @@ Updated	2024-07-13
 IgdbId	210901
 
 Game	Hexpire
-Cover
+Id	448
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8063,7 +8063,7 @@ Updated	2024-09-27
 IgdbId	292944
 
 Game	Void Wizard
-Cover
+Id	449
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8081,7 +8081,7 @@ Updated	2024-09-27
 IgdbId	280133
 
 Game	Beyond All Reason
-Cover
+Id	450
 Engine	Recoil
 Setup
 Runtime	spring
@@ -8099,7 +8099,7 @@ Updated	2024-07-14
 IgdbId	133655
 
 Game	Battle for Wesnoth
-Cover
+Id	451
 Engine
 Setup
 Runtime	wesnoth
@@ -8117,7 +8117,7 @@ Updated	2024-07-14
 IgdbId	2365
 
 Game	Vay
-Cover
+Id	452
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -8135,7 +8135,7 @@ Updated	2024-07-14
 IgdbId	304287
 
 Game	Hexis
-Cover
+Id	453
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8153,7 +8153,7 @@ Updated	2024-07-27
 IgdbId	291582
 
 Game	Kitsune Tails
-Cover
+Id	454
 Engine	FNA
 Setup	IndieRunner
 Runtime	mono
@@ -8171,7 +8171,7 @@ Updated	2024-08-01
 IgdbId	142469
 
 Game	Frood Robotics
-Cover
+Id	455
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8189,7 +8189,7 @@ Updated	2024-09-27
 IgdbId	294121
 
 Game	Under the Yoke
-Cover
+Id	456
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8207,7 +8207,7 @@ Updated	2024-08-05
 IgdbId	268939
 
 Game	ALL IN THE GAME: Crime Strategy
-Cover
+Id	457
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -8225,7 +8225,7 @@ Updated	2024-08-05
 IgdbId
 
 Game	Skycliffs
-Cover
+Id	458
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8243,7 +8243,7 @@ Updated	2024-08-06
 IgdbId	190727
 
 Game	Destroy The Monoliths
-Cover
+Id	459
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8261,7 +8261,7 @@ Updated	2024-08-06
 IgdbId	244644
 
 Game	Twilight Town: A Cyberpunk FPS
-Cover
+Id	460
 Engine	GZDoom
 Setup	IndieRunner
 Runtime	gzdoom
@@ -8279,7 +8279,7 @@ Updated	2024-08-06
 IgdbId	260400
 
 Game	Knight Runner: Blade and Bolt
-Cover
+Id	461
 Engine	Godot
 Setup
 Runtime	godot4
@@ -8297,7 +8297,7 @@ Updated	2024-08-06
 IgdbId	301888
 
 Game	20 Small Mazes
-Cover
+Id	462
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8315,7 +8315,7 @@ Updated	2024-08-07
 IgdbId	272249
 
 Game	That's not my Neighbor
-Cover
+Id	463
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8333,7 +8333,7 @@ Updated	2024-09-27
 IgdbId	288935
 
 Game	Colored Effects
-Cover
+Id	464
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8351,7 +8351,7 @@ Updated	2024-08-12
 IgdbId	211339
 
 Game	Arco
-Cover
+Id	465
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -8369,7 +8369,7 @@ Updated	2024-08-15
 IgdbId	263903
 
 Game	The Crimson Diamond
-Cover
+Id	466
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8387,7 +8387,7 @@ Updated	2024-08-15
 IgdbId	119214
 
 Game	Gourdlets
-Cover
+Id	467
 Engine	Godot
 Setup
 Runtime	godot4
@@ -8405,7 +8405,7 @@ Updated	2024-08-15
 IgdbId	226469
 
 Game	Knights of the Road
-Cover
+Id	468
 Engine	Godot
 Setup
 Runtime	godot4
@@ -8423,7 +8423,7 @@ Updated	2024-08-17
 IgdbId	243213
 
 Game	Descent 3
-Cover
+Id	469
 Engine	Descent 3 open source engine
 Setup
 Runtime	Descent3
@@ -8441,7 +8441,7 @@ Updated	2024-08-20
 IgdbId	667
 
 Game	The Legend of Skye
-Cover
+Id	470
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8459,7 +8459,7 @@ Updated	2024-08-23
 IgdbId	239802
 
 Game	FoxTail
-Cover
+Id	471
 Engine	Wintermute
 Setup	IndieRunner
 Runtime	scummvm
@@ -8477,7 +8477,7 @@ Updated	2024-08-24
 IgdbId	86383
 
 Game	Sumatra: Fate of Yandi
-Cover
+Id	472
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8495,7 +8495,7 @@ Updated	2024-08-24
 IgdbId	110416
 
 Game	Bring the Chickens Home
-Cover
+Id	473
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8513,7 +8513,7 @@ Updated	2024-08-28
 IgdbId	260520
 
 Game	Iridion II
-Cover
+Id	474
 Engine
 Setup
 Runtime	mgba, mednafen
@@ -8531,7 +8531,7 @@ Updated	2024-09-02
 IgdbId	6450
 
 Game	Iridion 3D
-Cover
+Id	475
 Engine
 Setup
 Runtime	mgba, mednafen
@@ -8549,7 +8549,7 @@ Updated	2024-09-02
 IgdbId	6449
 
 Game	The Last Craftsman
-Cover
+Id	476
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8567,7 +8567,7 @@ Updated	2024-09-02
 IgdbId	229937
 
 Game	Goliath Depot
-Cover
+Id	477
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8585,7 +8585,7 @@ Updated	2024-09-07
 IgdbId	260432
 
 Game	Oh My Git!
-Cover
+Id	478
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8603,7 +8603,7 @@ Updated	2024-09-10
 IgdbId
 
 Game	Town Keeper
-Cover
+Id	479
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8621,7 +8621,7 @@ Updated	2024-09-21
 IgdbId	316863
 
 Game	Game of Squares
-Cover
+Id	480
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8639,7 +8639,7 @@ Updated	2024-09-27
 IgdbId	309946
 
 Game	Dungeons & Keyboards
-Cover
+Id	481
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8657,7 +8657,7 @@ Updated	2024-09-22
 IgdbId	250953
 
 Game	Brawn, Scorn and Ammo
-Cover
+Id	482
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8675,7 +8675,7 @@ Updated	2024-09-22
 IgdbId
 
 Game	Monster Bullets
-Cover
+Id	483
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8693,7 +8693,7 @@ Updated	2024-09-22
 IgdbId	217093
 
 Game	Daisy Dangerous
-Cover
+Id	484
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8711,7 +8711,7 @@ Updated	2024-09-23
 IgdbId	303832
 
 Game	Cloaks and Capes
-Cover
+Id	485
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8729,7 +8729,7 @@ Updated	2024-09-23
 IgdbId	148471
 
 Game	Arctic Eggs
-Cover
+Id	486
 Engine	Godot
 Setup
 Runtime	godot4
@@ -8747,7 +8747,7 @@ Updated	2024-09-24
 IgdbId	280931
 
 Game	A Solitaire Mystery
-Cover
+Id	487
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
@@ -8765,7 +8765,7 @@ Updated	2024-09-25
 IgdbId	297992
 
 Game	Spring Dash
-Cover
+Id	488
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8783,7 +8783,7 @@ Updated	2024-09-25
 IgdbId	216723
 
 Game	Crossroad OS
-Cover
+Id	489
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8801,7 +8801,7 @@ Updated	2024-09-25
 IgdbId	259007
 
 Game	Ben There, Dan That!
-Cover
+Id	490
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8819,7 +8819,7 @@ Updated	2024-09-25
 IgdbId	9541
 
 Game	Time Gentlemen, Please!
-Cover
+Id	491
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8837,7 +8837,7 @@ Updated	2024-09-25
 IgdbId	6253
 
 Game	Beyond the Edge of Owlsgard
-Cover
+Id	492
 Engine	Adventure Game Studio
 Setup	IndieRunner
 Runtime	scummvm
@@ -8855,7 +8855,7 @@ Updated	2024-09-25
 IgdbId	173915
 
 Game	Retro Kart Rush
-Cover
+Id	493
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot
@@ -8873,7 +8873,7 @@ Updated	2024-09-27
 IgdbId	192544
 
 Game	8 Colors Star Guardians+
-Cover
+Id	494
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8891,7 +8891,7 @@ Updated	2024-09-27
 IgdbId	258599
 
 Game	Cozy Space Survivors
-Cover
+Id	495
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8909,7 +8909,7 @@ Updated	2024-09-27
 IgdbId	275087
 
 Game	Interstellar Plunderer
-Cover
+Id	496
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8927,7 +8927,7 @@ Updated	2024-09-27
 IgdbId	287003
 
 Game	Sisypush
-Cover
+Id	497
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
@@ -8945,7 +8945,7 @@ Updated	2024-09-27
 IgdbId	236358
 
 Game	The Pulse of Evil
-Cover
+Id	498
 Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
