@@ -1,6 +1,11 @@
 all: csv json stats
 
-.PHONY: csv print-csv json stats print-json print-stats diff
+.PHONY: check csv print-csv json stats print-json print-stats diff
+
+check:
+	echo "Checking if all Id's are unique..."
+	grep -E "^Id[[:blank:]]" *.db | wc -l
+	grep -E "^Id[[:blank:]]" *.db | sort | uniq | wc -l
 
 csv:
 	tools/gen_csv.pl openbsd-games.db > openbsd-games.csv
