@@ -14737,6 +14737,38 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-02T00:00:00.000Z",
+    "Dev": "Lost Minds",
+    "Engine": "Godot",
+    "Game": "Vlobs",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "499",
+    "IgdbId": "235536",
+    "Pub": "Lost Minds",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://lostminds-sw.itch.io/vlobs",
+      "https://store.steampowered.com/app/2253080/Vlobs/"
+    ],
+    "Tags": [
+      "arcade",
+      "indie"
+    ],
+    "Updated": "2024-10-02T00:00:00.000Z",
+    "Version": "1.1.1",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-13T00:00:00.000Z",
     "Dev": "Antique Gear Games",
     "Engine": "Godot",

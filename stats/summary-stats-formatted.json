@@ -123,14 +123,15 @@
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
       "2024-09-25T00:00:00.000Z": 6,
-      "2024-09-27T00:00:00.000Z": 6
+      "2024-09-27T00:00:00.000Z": 6,
+      "2024-10-02T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 80
+      "2024-01-01T00:00:00.000Z": 81
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -164,7 +165,8 @@
       "2024-06-01T00:00:00.000Z": 10,
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
-      "2024-09-01T00:00:00.000Z": 25
+      "2024-09-01T00:00:00.000Z": 25,
+      "2024-10-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -176,7 +178,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 146,
+    "Godot": 147,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -722,7 +724,8 @@
     "Cozy Space Survivors",
     "Interstellar Plunderer",
     "Sisypush",
-    "The Pulse of Evil"
+    "The Pulse of Evil",
+    "Vlobs"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -771,7 +774,7 @@
     "Puzzle": 43,
     "Puzzle Game": 2,
     "Puzzle Platformer": 15,
-    "Puzzler": 4,
+    "Puzzler": 5,
     "RPG": 32,
     "RTS": 12,
     "Racing": 2,
@@ -808,7 +811,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 143,
+    "IndieRunner": 144,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -970,19 +973,20 @@
       "2024-09-23T00:00:00.000Z": 2,
       "2024-09-24T00:00:00.000Z": 1,
       "2024-09-25T00:00:00.000Z": 6,
-      "2024-09-27T00:00:00.000Z": 6
+      "2024-09-27T00:00:00.000Z": 6,
+      "2024-10-02T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 318,
+      "launches": 319,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 318,
+      "1": 319,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -996,11 +1000,11 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 120,
+    "https://itch.io/": 121,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 422,
+    "https://store.steampowered.com/": 423,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1039,7 +1043,7 @@
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 7,
+    "arcade": 8,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1109,7 +1113,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 220,
+    "indie": 221,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1298,13 +1302,13 @@
       "2024-09-25T00:00:00.000Z": 6,
       "2024-09-27T00:00:00.000Z": 11,
       "2024-09-28T00:00:00.000Z": 4,
-      "2024-10-02T00:00:00.000Z": 1
+      "2024-10-02T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 86
+      "2024-01-01T00:00:00.000Z": 87
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1325,7 +1329,7 @@
       "2024-07-01T00:00:00.000Z": 6,
       "2024-08-01T00:00:00.000Z": 15,
       "2024-09-01T00:00:00.000Z": 32,
-      "2024-10-01T00:00:00.000Z": 1
+      "2024-10-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1361,7 +1365,7 @@
     "2020": 28,
     "2021": 47,
     "2022": 40,
-    "2023": 35,
+    "2023": 36,
     "2024": 35
   }
 }

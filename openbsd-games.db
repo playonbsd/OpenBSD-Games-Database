@@ -8961,3 +8961,21 @@ Status	1 (2024-09-27)
 Added	2024-09-27
 Updated	2024-09-27
 IgdbId	252261
+
+Game	Vlobs
+Id	499
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://lostminds-sw.itch.io/vlobs https://store.steampowered.com/app/2253080/Vlobs/
+Hints
+Genre	Puzzler
+Tags	indie, arcade
+Year	2023
+Dev	Lost Minds
+Pub	Lost Minds
+Version	1.1.1
+Status	1 (2024-10-02)
+Added	2024-10-02
+Updated	2024-10-02
+IgdbId	235536
