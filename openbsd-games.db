@@ -8878,7 +8878,7 @@ Engine	Godot
 Setup	IndieRunner
 Runtime	godot4
 Store	https://dermondhase.itch.io/8-colors-sentai https://store.steampowered.com/app/2483150/8Colors_Star_Guardians/
-Hints
+Hints	Steam version needs Godot 4 built with GodotSteam support
 Genre	RPG
 Tags	indie, retro, LGBTQ, female protagonist, turn-based
 Year	2023
@@ -8887,7 +8887,7 @@ Pub	Andrea Demetrio
 Version
 Status	1 (2024-09-27)
 Added	2024-09-27
-Updated	2024-09-27
+Updated	2024-10-02
 IgdbId	258599
 
 Game	Cozy Space Survivors

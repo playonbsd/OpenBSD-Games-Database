@@ -72,7 +72,7 @@
     "Genre": [
       "RPG"
     ],
-    "Hints": "",
+    "Hints": "Steam version needs Godot 4 built with GodotSteam support",
     "Id": "494",
     "IgdbId": "258599",
     "Pub": "Andrea Demetrio",
@@ -95,7 +95,7 @@
       "retro",
       "turn-based"
     ],
-    "Updated": "2024-09-27T00:00:00.000Z",
+    "Updated": "2024-10-02T00:00:00.000Z",
     "Version": "",
     "Year": "2023-01-01T00:00:00.000Z"
   },
