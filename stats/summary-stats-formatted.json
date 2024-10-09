@@ -125,14 +125,15 @@
       "2024-09-25T00:00:00.000Z": 6,
       "2024-09-27T00:00:00.000Z": 6,
       "2024-10-02T00:00:00.000Z": 1,
-      "2024-10-08T00:00:00.000Z": 2
+      "2024-10-08T00:00:00.000Z": 2,
+      "2024-10-09T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 83
+      "2024-01-01T00:00:00.000Z": 87
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -167,7 +168,7 @@
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
       "2024-09-01T00:00:00.000Z": 25,
-      "2024-10-01T00:00:00.000Z": 3
+      "2024-10-01T00:00:00.000Z": 7
     }
   },
   "Engine": {
@@ -179,7 +180,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 148,
+    "Godot": 152,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -728,17 +729,21 @@
     "The Pulse of Evil",
     "Vlobs",
     "Blade Runner",
-    "Endless waves survival"
+    "Endless waves survival",
+    "WHATEVER",
+    "Spin Hero",
+    "Champy the Useless Vampire",
+    "Toziuha Night: Order of the Alchemists"
   ],
   "Genre": {
     "3D Platformer": 1,
     "6DOF Shooter": 1,
-    "Action": 41,
+    "Action": 42,
     "Action Adventure": 3,
     "Action Platformer": 12,
     "Action RPG": 9,
     "Action Roguelike": 9,
-    "Adventure": 48,
+    "Adventure": 49,
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Boardgame": 1,
@@ -768,7 +773,7 @@
     "Life Simulator": 1,
     "MMORPG": 1,
     "Management Simulator": 1,
-    "Metroidvania": 8,
+    "Metroidvania": 9,
     "Mining": 1,
     "Physics": 1,
     "Platformer": 57,
@@ -782,7 +787,7 @@
     "RTS": 12,
     "Racing": 2,
     "Rhythm Game": 1,
-    "Roguelike": 1,
+    "Roguelike": 2,
     "Roguelite": 5,
     "Sandbox": 2,
     "Shoot'Em Up": 2,
@@ -814,7 +819,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 146,
+    "IndieRunner": 150,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -978,19 +983,20 @@
       "2024-09-25T00:00:00.000Z": 6,
       "2024-09-27T00:00:00.000Z": 6,
       "2024-10-02T00:00:00.000Z": 1,
-      "2024-10-08T00:00:00.000Z": 2
+      "2024-10-08T00:00:00.000Z": 2,
+      "2024-10-09T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 321,
+      "launches": 325,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 321,
+      "1": 325,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1008,7 +1014,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 424,
+    "https://store.steampowered.com/": 428,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1051,12 +1057,13 @@
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
-    "autobattler": 1,
+    "autobattler": 2,
     "award-winning": 2,
     "base-building": 2,
     "bears": 1,
     "bloodborne-like": 1,
     "boardgame": 1,
+    "boat": 1,
     "body horror": 2,
     "boomer shooter": 1,
     "bullet hell": 7,
@@ -1069,9 +1076,9 @@
     "classic": 20,
     "co-op": 1,
     "collection": 1,
-    "colorful": 2,
+    "colorful": 3,
     "colors": 1,
-    "comedy": 5,
+    "comedy": 6,
     "conspiracy": 1,
     "cozy": 1,
     "crafting": 2,
@@ -1088,7 +1095,7 @@
     "dungeoncrawler": 4,
     "dystopia": 1,
     "dystopian": 1,
-    "early access": 24,
+    "early access": 25,
     "educational": 1,
     "exploration": 2,
     "fantasy": 12,
@@ -1100,10 +1107,10 @@
     "first-person": 7,
     "free": 31,
     "furry": 2,
-    "gambling": 1,
+    "gambling": 2,
     "genre-defining": 2,
     "gore": 8,
-    "gothic": 1,
+    "gothic": 2,
     "graphical violence": 1,
     "hack and slash": 1,
     "hack'n'slash": 2,
@@ -1118,7 +1125,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 223,
+    "indie": 227,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1144,6 +1151,7 @@
     "nerd culture": 1,
     "noir": 1,
     "nordic": 1,
+    "nostalgia": 1,
     "online multiplayer": 1,
     "open source": 1,
     "open-source": 3,
@@ -1152,18 +1160,19 @@
     "over-the-top": 1,
     "parkour": 1,
     "philosophical": 1,
-    "physics": 2,
+    "physics": 3,
     "pixel": 1,
     "pixel art": 23,
     "pixel graphics": 2,
-    "pixelart": 8,
+    "pixelart": 10,
     "pixels": 3,
-    "platformer": 5,
+    "platformer": 6,
     "point & click": 2,
     "poker": 1,
     "political": 3,
     "polygons": 1,
     "post-apocalypse": 2,
+    "precision": 1,
     "productivity": 1,
     "programming": 1,
     "prototype": 1,
@@ -1186,8 +1195,9 @@
     "shooter": 2,
     "short": 1,
     "simulation": 1,
+    "slot machine": 1,
     "sokoban-like": 1,
-    "souls-like": 1,
+    "souls-like": 2,
     "space": 12,
     "splitscreen": 1,
     "spooky": 1,
@@ -1204,6 +1214,7 @@
     "top-down": 1,
     "touhou": 1,
     "turn-based": 9,
+    "vampires": 1,
     "vehicle": 1,
     "vertigo": 1,
     "viking": 1,
@@ -1308,13 +1319,14 @@
       "2024-09-27T00:00:00.000Z": 11,
       "2024-09-28T00:00:00.000Z": 4,
       "2024-10-02T00:00:00.000Z": 2,
-      "2024-10-08T00:00:00.000Z": 2
+      "2024-10-08T00:00:00.000Z": 2,
+      "2024-10-09T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 89
+      "2024-01-01T00:00:00.000Z": 93
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1335,7 +1347,7 @@
       "2024-07-01T00:00:00.000Z": 6,
       "2024-08-01T00:00:00.000Z": 15,
       "2024-09-01T00:00:00.000Z": 32,
-      "2024-10-01T00:00:00.000Z": 4
+      "2024-10-01T00:00:00.000Z": 8
     }
   },
   "Year": {
@@ -1370,8 +1382,8 @@
     "2019": 25,
     "2020": 28,
     "2021": 47,
-    "2022": 40,
+    "2022": 41,
     "2023": 36,
-    "2024": 35
+    "2024": 37
   }
 }

@@ -9015,3 +9015,75 @@ Status	1 (2024-10-08)
 Added	2024-10-08
 Updated	2024-10-08
 IgdbId
+
+Game	WHATEVER
+Id	502
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1734230/WHATEVER/
+Hints
+Genre	Action
+Tags	indie, precision, colorful, boat, physics
+Year	2022
+Dev	Napas Torteeka
+Pub	Napas Torteeka
+Version	1.0.5
+Status	1 (2024-10-09)
+Added	2024-10-09
+Updated	2024-10-09
+IgdbId	199711
+
+Game	Spin Hero
+Id	503
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2917350/Spin_Hero/
+Hints
+Genre	Roguelike
+Tags	indie, gambling, slot machine, autobattler
+Year	2024
+Dev	Sphere Studios
+Pub	Goblinz Publishing, Maple Whispering Limited
+Version
+Status	1 (2024-10-09)
+Added	2024-10-09
+Updated	2024-10-09
+IgdbId	298130
+
+Game	Champy the Useless Vampire
+Id	504
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2426350/Champy_the_Useless_Vampire/
+Hints
+Genre	Adventure
+Tags	indie, pixelart, comedy, vampires, nostalgia
+Year	2024
+Dev	True Ascension
+Pub	True Ascension
+Version
+Status	1 (2024-10-09)
+Added	2024-10-09
+Updated	2024-10-09
+IgdbId	291271
+
+Game	Toziuha Night: Order of the Alchemists
+Id	505
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/
+Hints
+Genre	Metroidvania
+Tags	indie, pixelart, early access, souls-like, platformer, gothic
+Year
+Dev	Danny Garay
+Pub	Danny Garay
+Version
+Status	1 (2024-10-09)
+Added	2024-10-09
+Updated	2024-10-09
+IgdbId	177207

@@ -2502,6 +2502,40 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-09T00:00:00.000Z",
+    "Dev": "True Ascension",
+    "Engine": "Godot",
+    "Game": "Champy the Useless Vampire",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "504",
+    "IgdbId": "291271",
+    "Pub": "True Ascension",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-09T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2426350/Champy_the_Useless_Vampire/"
+    ],
+    "Tags": [
+      "comedy",
+      "indie",
+      "nostalgia",
+      "pixelart",
+      "vampires"
+    ],
+    "Updated": "2024-10-09T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -11960,6 +11994,39 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-09T00:00:00.000Z",
+    "Dev": "Sphere Studios",
+    "Engine": "Godot",
+    "Game": "Spin Hero",
+    "Genre": [
+      "Roguelike"
+    ],
+    "Hints": "",
+    "Id": "503",
+    "IgdbId": "298130",
+    "Pub": "Goblinz Publishing, Maple Whispering Limited",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-09T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2917350/Spin_Hero/"
+    ],
+    "Tags": [
+      "autobattler",
+      "gambling",
+      "indie",
+      "slot machine"
+    ],
+    "Updated": "2024-10-09T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-25T00:00:00.000Z",
     "Dev": "Dillon Steyl",
     "Engine": "Godot",
@@ -14276,6 +14343,41 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-09T00:00:00.000Z",
+    "Dev": "Danny Garay",
+    "Engine": "Godot",
+    "Game": "Toziuha Night: Order of the Alchemists",
+    "Genre": [
+      "Metroidvania"
+    ],
+    "Hints": "",
+    "Id": "505",
+    "IgdbId": "177207",
+    "Pub": "Danny Garay",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-09T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/"
+    ],
+    "Tags": [
+      "early access",
+      "gothic",
+      "indie",
+      "pixelart",
+      "platformer",
+      "souls-like"
+    ],
+    "Updated": "2024-10-09T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "2023-07-15T00:00:00.000Z",
     "Dev": "Odyssey Entertainment",
     "Engine": "Godot",
@@ -14959,6 +15061,40 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-10-09T00:00:00.000Z",
+    "Dev": "Napas Torteeka",
+    "Engine": "Godot",
+    "Game": "WHATEVER",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "Id": "502",
+    "IgdbId": "199711",
+    "Pub": "Napas Torteeka",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-09T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1734230/WHATEVER/"
+    ],
+    "Tags": [
+      "boat",
+      "colorful",
+      "indie",
+      "physics",
+      "precision"
+    ],
+    "Updated": "2024-10-09T00:00:00.000Z",
+    "Version": "1.0.5",
+    "Year": "2022-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
