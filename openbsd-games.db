@@ -8979,3 +8979,39 @@ Status	1 (2024-10-02)
 Added	2024-10-02
 Updated	2024-10-02
 IgdbId	235536
+
+Game	Blade Runner
+Id	500
+Engine
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/blade_runner_enhanced_edition
+Hints	likely only works with original version which is included with GOG Enhanced Edition
+Genre	Adventure
+Tags	indie, classic, scifi, cyberpunk
+Year	1997
+Dev	Westwood
+Pub
+Version
+Status	1 (2024-10-08)
+Added	2024-10-08
+Updated	2024-10-08
+IgdbId	322
+
+Game	Endless waves survival
+Id	501
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1989560/Endless_waves_survival/
+Hints
+Genre	Action Roguelike
+Tags	indie, casual, autobattler, early access
+Year
+Dev	Jeferson Belmiro
+Pub	Jeferson Belmiro
+Version	0.23.1
+Status	1 (2024-10-08)
+Added	2024-10-08
+Updated	2024-10-08
+IgdbId

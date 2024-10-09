@@ -1561,6 +1561,39 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-08T00:00:00.000Z",
+    "Dev": "Westwood",
+    "Engine": "",
+    "Game": "Blade Runner",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "likely only works with original version which is included with GOG Enhanced Edition",
+    "Id": "500",
+    "IgdbId": "322",
+    "Pub": "",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-08T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/blade_runner_enhanced_edition"
+    ],
+    "Tags": [
+      "classic",
+      "cyberpunk",
+      "indie",
+      "scifi"
+    ],
+    "Updated": "2024-10-08T00:00:00.000Z",
+    "Version": "",
+    "Year": "1997-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-04-03T00:00:00.000Z",
     "Dev": "Perfoon",
     "Engine": "Godot",
@@ -4546,6 +4579,39 @@
     ],
     "Updated": "2024-06-19T00:00:00.000Z",
     "Version": "0.9.26",
+    "Year": ""
+  },
+  {
+    "Added": "2024-10-08T00:00:00.000Z",
+    "Dev": "Jeferson Belmiro",
+    "Engine": "Godot",
+    "Game": "Endless waves survival",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "Id": "501",
+    "IgdbId": "",
+    "Pub": "Jeferson Belmiro",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-08T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1989560/Endless_waves_survival/"
+    ],
+    "Tags": [
+      "autobattler",
+      "casual",
+      "early access",
+      "indie"
+    ],
+    "Updated": "2024-10-08T00:00:00.000Z",
+    "Version": "0.23.1",
     "Year": ""
   },
   {
