@@ -126,14 +126,15 @@
       "2024-09-27T00:00:00.000Z": 6,
       "2024-10-02T00:00:00.000Z": 1,
       "2024-10-08T00:00:00.000Z": 2,
-      "2024-10-09T00:00:00.000Z": 4
+      "2024-10-09T00:00:00.000Z": 4,
+      "2024-10-14T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 87
+      "2024-01-01T00:00:00.000Z": 88
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -168,7 +169,7 @@
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
       "2024-09-01T00:00:00.000Z": 25,
-      "2024-10-01T00:00:00.000Z": 7
+      "2024-10-01T00:00:00.000Z": 8
     }
   },
   "Engine": {
@@ -180,7 +181,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 152,
+    "Godot": 153,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -733,12 +734,13 @@
     "WHATEVER",
     "Spin Hero",
     "Champy the Useless Vampire",
-    "Toziuha Night: Order of the Alchemists"
+    "Toziuha Night: Order of the Alchemists",
+    "Calm Skies: The Wingsuit Flying Experience"
   ],
   "Genre": {
     "3D Platformer": 1,
     "6DOF Shooter": 1,
-    "Action": 42,
+    "Action": 43,
     "Action Adventure": 3,
     "Action Platformer": 12,
     "Action RPG": 9,
@@ -819,7 +821,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 150,
+    "IndieRunner": 151,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -984,19 +986,20 @@
       "2024-09-27T00:00:00.000Z": 6,
       "2024-10-02T00:00:00.000Z": 1,
       "2024-10-08T00:00:00.000Z": 2,
-      "2024-10-09T00:00:00.000Z": 4
+      "2024-10-09T00:00:00.000Z": 4,
+      "2024-10-14T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 325,
+      "launches": 326,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 325,
+      "1": 326,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1014,7 +1017,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 428,
+    "https://store.steampowered.com/": 429,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1053,7 +1056,7 @@
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 8,
+    "arcade": 9,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1071,6 +1074,7 @@
     "cartoon": 2,
     "casual": 8,
     "cats": 5,
+    "cellshade": 1,
     "charity": 1,
     "chess": 1,
     "classic": 20,
@@ -1105,6 +1109,7 @@
     "female protagonist": 3,
     "first person": 1,
     "first-person": 7,
+    "flying": 1,
     "free": 31,
     "furry": 2,
     "gambling": 2,
@@ -1125,7 +1130,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 227,
+    "indie": 228,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1201,6 +1206,7 @@
     "space": 12,
     "splitscreen": 1,
     "spooky": 1,
+    "sports": 1,
     "stealth": 3,
     "steampunk": 1,
     "story-rich": 1,
@@ -1320,13 +1326,14 @@
       "2024-09-28T00:00:00.000Z": 4,
       "2024-10-02T00:00:00.000Z": 2,
       "2024-10-08T00:00:00.000Z": 2,
-      "2024-10-09T00:00:00.000Z": 4
+      "2024-10-09T00:00:00.000Z": 4,
+      "2024-10-14T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 300,
-      "2024-01-01T00:00:00.000Z": 93
+      "2024-01-01T00:00:00.000Z": 94
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1347,7 +1354,7 @@
       "2024-07-01T00:00:00.000Z": 6,
       "2024-08-01T00:00:00.000Z": 15,
       "2024-09-01T00:00:00.000Z": 32,
-      "2024-10-01T00:00:00.000Z": 8
+      "2024-10-01T00:00:00.000Z": 9
     }
   },
   "Year": {
@@ -1384,6 +1391,6 @@
     "2021": 47,
     "2022": 41,
     "2023": 36,
-    "2024": 37
+    "2024": 38
   }
 }

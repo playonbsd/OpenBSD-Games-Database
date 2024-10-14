@@ -9087,3 +9087,21 @@ Status	1 (2024-10-09)
 Added	2024-10-09
 Updated	2024-10-09
 IgdbId	177207
+
+Game	Calm Skies: The Wingsuit Flying Experience
+Id	506
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/3056110/Calm_Skies_The_Wingsuit_Flying_Experience/
+Hints
+Genre	Action
+Tags	indie, cellshade, flying, arcade, sports
+Year	2024
+Dev	Flashblack Games
+Pub	Flashblack Games
+Version
+Status	1 (2024-10-14)
+Added	2024-10-14
+Updated	2024-10-14
+IgdbId	318295

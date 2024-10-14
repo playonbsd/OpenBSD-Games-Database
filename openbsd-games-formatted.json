@@ -2137,6 +2137,40 @@
     "Year": "1998-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-14T00:00:00.000Z",
+    "Dev": "Flashblack Games",
+    "Engine": "Godot",
+    "Game": "Calm Skies: The Wingsuit Flying Experience",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "Id": "506",
+    "IgdbId": "318295",
+    "Pub": "Flashblack Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3056110/Calm_Skies_The_Wingsuit_Flying_Experience/"
+    ],
+    "Tags": [
+      "arcade",
+      "cellshade",
+      "flying",
+      "indie",
+      "sports"
+    ],
+    "Updated": "2024-10-14T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Sensible Software",
     "Engine": "",
