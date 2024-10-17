@@ -3785,6 +3785,38 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-10-17T00:00:00.000Z",
+    "Dev": "Markus Fink",
+    "Engine": "Godot",
+    "Game": "Desert Kingdoms",
+    "Genre": [
+      "RTS"
+    ],
+    "Hints": "",
+    "Id": "507",
+    "IgdbId": "279497",
+    "Pub": "Markus Fink",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2707610/Desert_Kingdoms/"
+    ],
+    "Tags": [
+      "indie",
+      "minimalist",
+      "strategy"
+    ],
+    "Updated": "2024-10-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-06T00:00:00.000Z",
     "Dev": "Radiant Sloth",
     "Engine": "Godot",
@@ -9230,6 +9262,38 @@
     "Updated": "2024-09-10T00:00:00.000Z",
     "Version": "0.6.5",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-10-17T00:00:00.000Z",
+    "Dev": "Clan Games",
+    "Engine": "Godot",
+    "Game": "Omega Warp",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "508",
+    "IgdbId": "218403",
+    "Pub": "Clan Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2083320/Omega_Warp/"
+    ],
+    "Tags": [
+      "exploration",
+      "indie",
+      "metroidvania"
+    ],
+    "Updated": "2024-10-17T00:00:00.000Z",
+    "Version": "1.01",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-11-09T00:00:00.000Z",

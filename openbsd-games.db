@@ -9105,3 +9105,39 @@ Status	1 (2024-10-14)
 Added	2024-10-14
 Updated	2024-10-14
 IgdbId	318295
+
+Game	Desert Kingdoms
+Id	507
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2707610/Desert_Kingdoms/
+Hints
+Genre	RTS
+Tags	indie, minimalist, strategy
+Year	2024
+Dev	Markus Fink
+Pub	Markus Fink
+Version
+Status	1 (2024-10-17)
+Added	2024-10-17
+Updated	2024-10-17
+IgdbId	279497
+
+Game	Omega Warp
+Id	508
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2083320/Omega_Warp/
+Hints
+Genre	Action Adventure
+Tags	indie, metroidvania, exploration
+Year	2024
+Dev	Clan Games
+Pub	Clan Games
+Version	1.01
+Status	1 (2024-10-17)
+Added	2024-10-17
+Updated	2024-10-17
+IgdbId	218403
