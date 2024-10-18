@@ -9141,3 +9141,21 @@ Status	1 (2024-10-17)
 Added	2024-10-17
 Updated	2024-10-17
 IgdbId	218403
+
+Game	Melt Them All
+Id	509
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/3252500/Melt_Them_All/
+Hints
+Genre	Action Roguelike
+Tags	indie, factory building, survival, space
+Year	2024
+Dev	coderKillo
+Pub	coderKillo
+Version
+Status	1 (2024-10-17)
+Added	2024-10-17
+Updated	2024-10-17
+IgdbId
