@@ -1930,7 +1930,7 @@
     "Engine": "Godot",
     "Game": "Brotato",
     "Genre": [],
-    "Hints": "",
+    "Hints": "DLC Abyssal Terrors works, copy BrotatoAbyssalTerrors.pck into game's directory. steamctl depot download -a 1942280 -d 2868390 -m 8743804879875762247",
     "Id": "47",
     "IgdbId": "199116",
     "Pub": "Blobfish",
@@ -1938,7 +1938,7 @@
     "Setup": "",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2022-06-07T00:00:00.000Z",
+      "StatusDate": "2024-10-25T00:00:00.000Z",
       "StatusNumber": "1",
       "StatusText": "launches"
     },
@@ -1948,8 +1948,8 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2023-05-04T00:00:00.000Z",
-    "Version": "demo (2022-06-07)",
+    "Updated": "2024-10-25T00:00:00.000Z",
+    "Version": "1.1",
     "Year": ""
   },
   {

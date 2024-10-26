@@ -832,16 +832,16 @@ Engine	Godot
 Setup
 Runtime
 Store	https://store.steampowered.com/app/1942280/Brotato/
-Hints
+Hints	DLC Abyssal Terrors works, copy BrotatoAbyssalTerrors.pck into game's directory. steamctl depot download -a 1942280 -d 2868390 -m 8743804879875762247
 Genre
 Tags	indie
 Year
 Dev	Blobfish
 Pub	Blobfish
-Version	demo (2022-06-07)
-Status	1 (2022-06-07)
+Version	1.1
+Status	1 (2024-10-25)
 Added	2022-06-07
-Updated	2023-05-04
+Updated	2024-10-25
 IgdbId	199116
 
 Game	Brushwood Buddies
