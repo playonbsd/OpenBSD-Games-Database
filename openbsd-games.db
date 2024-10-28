@@ -9159,3 +9159,21 @@ Status	1 (2024-10-17)
 Added	2024-10-17
 Updated	2024-10-17
 IgdbId
+
+Game	Sonar Shock
+Id	510
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2673660/Sonar_Shock/
+Hints
+Genre	Immersive Sim
+Tags	indie, FPS, retro, action RPG, soviet
+Year	2024
+Dev	Raphael Bossniak
+Pub	Raphael Bossniak
+Version	1.5
+Status	1 (2024-10-28)
+Added	2024-10-28
+Updated	2024-10-28
+IgdbId	280376

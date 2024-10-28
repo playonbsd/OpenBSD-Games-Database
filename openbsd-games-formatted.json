@@ -11809,6 +11809,40 @@
     "Year": ""
   },
   {
+    "Added": "2024-10-28T00:00:00.000Z",
+    "Dev": "Raphael Bossniak",
+    "Engine": "Godot",
+    "Game": "Sonar Shock",
+    "Genre": [
+      "Immersive Sim"
+    ],
+    "Hints": "",
+    "Id": "510",
+    "IgdbId": "280376",
+    "Pub": "Raphael Bossniak",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-10-28T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2673660/Sonar_Shock/"
+    ],
+    "Tags": [
+      "FPS",
+      "action RPG",
+      "indie",
+      "retro",
+      "soviet"
+    ],
+    "Updated": "2024-10-28T00:00:00.000Z",
+    "Version": "1.5",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Magical Time Bean",
     "Engine": "FNA",
