@@ -9177,3 +9177,21 @@ Status	1 (2024-10-28)
 Added	2024-10-28
 Updated	2024-10-28
 IgdbId	280376
+
+Game	Tanks of Freedom II
+Id	511
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/3071660/Tanks_of_Freedom_II/
+Hints
+Genre	Turn-Based Strategy
+Tags	indie, retro, strategy, tactics
+Year	2024
+Dev	P1X
+Pub	P1X
+Version
+Status	1 (2024-11-01)
+Added	2024-11-01
+Updated	2024-11-01
+IgdbId	309548

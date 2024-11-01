@@ -129,14 +129,15 @@
       "2024-10-09T00:00:00.000Z": 4,
       "2024-10-14T00:00:00.000Z": 1,
       "2024-10-17T00:00:00.000Z": 3,
-      "2024-10-28T00:00:00.000Z": 1
+      "2024-10-28T00:00:00.000Z": 1,
+      "2024-11-01T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 92
+      "2024-01-01T00:00:00.000Z": 93
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -171,7 +172,8 @@
       "2024-07-01T00:00:00.000Z": 7,
       "2024-08-01T00:00:00.000Z": 20,
       "2024-09-01T00:00:00.000Z": 25,
-      "2024-10-01T00:00:00.000Z": 12
+      "2024-10-01T00:00:00.000Z": 12,
+      "2024-11-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -183,7 +185,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 157,
+    "Godot": 158,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -741,7 +743,8 @@
     "Desert Kingdoms",
     "Omega Warp",
     "Melt Them All",
-    "Sonar Shock"
+    "Sonar Shock",
+    "Tanks of Freedom II"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -813,7 +816,7 @@
     "TBS": 1,
     "Top-Down Shooter": 1,
     "Tower Defense": 3,
-    "Turn-Based Strategy": 2,
+    "Turn-Based Strategy": 3,
     "Turn-Based Tactics": 16,
     "Twin-Stick Shooter": 5,
     "Typing Game": 1,
@@ -827,7 +830,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 155,
+    "IndieRunner": 156,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -996,19 +999,20 @@
       "2024-10-14T00:00:00.000Z": 1,
       "2024-10-17T00:00:00.000Z": 3,
       "2024-10-25T00:00:00.000Z": 1,
-      "2024-10-28T00:00:00.000Z": 1
+      "2024-10-28T00:00:00.000Z": 1,
+      "2024-11-01T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 330,
+      "launches": 331,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 330,
+      "1": 331,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1026,7 +1030,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 433,
+    "https://store.steampowered.com/": 434,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1142,7 +1146,7 @@
     "horror": 9,
     "humor": 13,
     "idler": 1,
-    "indie": 232,
+    "indie": 233,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1201,7 +1205,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 54,
+    "retro": 55,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 25,
@@ -1223,10 +1227,11 @@
     "stealth": 3,
     "steampunk": 1,
     "story-rich": 1,
-    "strategy": 2,
+    "strategy": 3,
     "surreal": 2,
     "survival": 4,
     "survivors-like": 1,
+    "tactics": 1,
     "tank controls": 1,
     "third-person": 1,
     "tiles": 1,
@@ -1343,13 +1348,14 @@
       "2024-10-14T00:00:00.000Z": 1,
       "2024-10-17T00:00:00.000Z": 3,
       "2024-10-25T00:00:00.000Z": 1,
-      "2024-10-28T00:00:00.000Z": 1
+      "2024-10-28T00:00:00.000Z": 1,
+      "2024-11-01T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 299,
-      "2024-01-01T00:00:00.000Z": 99
+      "2024-01-01T00:00:00.000Z": 100
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1370,7 +1376,8 @@
       "2024-07-01T00:00:00.000Z": 6,
       "2024-08-01T00:00:00.000Z": 15,
       "2024-09-01T00:00:00.000Z": 32,
-      "2024-10-01T00:00:00.000Z": 14
+      "2024-10-01T00:00:00.000Z": 14,
+      "2024-11-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1407,6 +1414,6 @@
     "2021": 47,
     "2022": 41,
     "2023": 36,
-    "2024": 42
+    "2024": 43
   }
 }

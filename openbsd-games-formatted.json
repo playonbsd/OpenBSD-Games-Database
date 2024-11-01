@@ -13164,6 +13164,39 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2024-11-01T00:00:00.000Z",
+    "Dev": "P1X",
+    "Engine": "Godot",
+    "Game": "Tanks of Freedom II",
+    "Genre": [
+      "Turn-Based Strategy"
+    ],
+    "Hints": "",
+    "Id": "511",
+    "IgdbId": "309548",
+    "Pub": "P1X",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-11-01T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3071660/Tanks_of_Freedom_II/"
+    ],
+    "Tags": [
+      "indie",
+      "retro",
+      "strategy",
+      "tactics"
+    ],
+    "Updated": "2024-11-01T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Technocrat",
     "Engine": "Adventure Game Studio",
