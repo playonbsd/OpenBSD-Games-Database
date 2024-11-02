@@ -3312,6 +3312,70 @@
     "Year": ""
   },
   {
+    "Added": "2024-11-02T00:00:00.000Z",
+    "Dev": "Tim Krief",
+    "Engine": "Godot",
+    "Game": "Daedalus Demise",
+    "Genre": [
+      "Dungeon Crawler"
+    ],
+    "Hints": "download Windows version and unzip it",
+    "Id": "512",
+    "IgdbId": "144081",
+    "Pub": "Tim Krief",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-11-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://timkrief.itch.io/daedalus-demise"
+    ],
+    "Tags": [
+      "indie",
+      "puzzle",
+      "timer"
+    ],
+    "Updated": "2024-11-02T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2024-11-02T00:00:00.000Z",
+    "Dev": "Tim Krief",
+    "Engine": "Godot",
+    "Game": "Daedalus Demise - The Haunted Pyramid",
+    "Genre": [
+      "Dungeon Crawler"
+    ],
+    "Hints": "download Windows version and unzip it",
+    "Id": "513",
+    "IgdbId": "",
+    "Pub": "Tim Krief",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2024-11-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://timkrief.itch.io/daedalus-demise-the-haunted-pyramid"
+    ],
+    "Tags": [
+      "indie",
+      "puzzle",
+      "timer"
+    ],
+    "Updated": "2024-11-02T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-23T00:00:00.000Z",
     "Dev": "Securas",
     "Engine": "Godot",

@@ -9195,3 +9195,39 @@ Status	1 (2024-11-01)
 Added	2024-11-01
 Updated	2024-11-01
 IgdbId	309548
+
+Game	Daedalus Demise
+Id	512
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://timkrief.itch.io/daedalus-demise
+Hints	download Windows version and unzip it
+Genre	Dungeon Crawler
+Tags	indie, puzzle, timer
+Year	2021
+Dev	Tim Krief
+Pub	Tim Krief
+Version	1.1
+Status	1 (2024-11-02)
+Added	2024-11-02
+Updated	2024-11-02
+IgdbId	144081
+
+Game	Daedalus Demise - The Haunted Pyramid
+Id	513
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://timkrief.itch.io/daedalus-demise-the-haunted-pyramid
+Hints	download Windows version and unzip it
+Genre	Dungeon Crawler
+Tags	indie, puzzle, timer
+Year	2023
+Dev	Tim Krief
+Pub	Tim Krief
+Version
+Status	1 (2024-11-02)
+Added	2024-11-02
+Updated	2024-11-02
+IgdbId
