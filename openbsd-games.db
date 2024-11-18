@@ -724,7 +724,7 @@ Engine	Love2D
 Setup
 Runtime	love-0.10
 Store	https://stellarcircle.itch.io/blue-revolver https://store.steampowered.com/app/439490/BLUE_REVOLVER/
-Hints	for Steam version: unzip bluerevolver.love, edit conf.lua with `STEAM_BUILD = false' and zip it back up.
+Hints	for Steam version: unzip bluerevolver.love (or blue-revolver), edit conf.lua with `STEAM_BUILD = false' and zip it back up.
 Genre	Shoot'em Up
 Tags
 Year	2016
@@ -733,7 +733,7 @@ Pub	Stellar Circle
 Version
 Status	1 (2023-01-01)
 Added	2023-01-01
-Updated	2023-05-04
+Updated	2024-11-18
 IgdbId	24928
 
 Game	Bottomless

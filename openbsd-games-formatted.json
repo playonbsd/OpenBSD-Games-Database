@@ -1014,7 +1014,7 @@
     "Genre": [
       "Shoot'em Up"
     ],
-    "Hints": "for Steam version: unzip bluerevolver.love, edit conf.lua with `STEAM_BUILD = false' and zip it back up.",
+    "Hints": "for Steam version: unzip bluerevolver.love (or blue-revolver), edit conf.lua with `STEAM_BUILD = false' and zip it back up.",
     "Id": "41",
     "IgdbId": "24928",
     "Pub": "Stellar Circle",
@@ -1031,7 +1031,7 @@
       "https://store.steampowered.com/app/439490/BLUE_REVOLVER/"
     ],
     "Tags": [],
-    "Updated": "2023-05-04T00:00:00.000Z",
+    "Updated": "2024-11-18T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
   },
