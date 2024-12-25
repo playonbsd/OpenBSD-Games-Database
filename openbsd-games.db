@@ -9231,3 +9231,21 @@ Status	1 (2024-11-02)
 Added	2024-11-02
 Updated	2024-11-02
 IgdbId
+
+Game	Thimbleweed Park
+Id	514
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/thimbleweed_park https://store.epicgames.com/en-US/p/thimbleweed-park https://store.steampowered.com/app/569860/Thimbleweed_Park/
+Hints	ScummVM >= 2.9.0
+Genre	Point & Click Adventure
+Tags	1980s, retro, pixelart, spooky
+Year	2017
+Dev	Terrible Toybox
+Pub	Terrible Toybox
+Version
+Status	1 (2024-12-25)
+Added	2024-12-25
+Updated	2024-12-25
+IgdbId	10232

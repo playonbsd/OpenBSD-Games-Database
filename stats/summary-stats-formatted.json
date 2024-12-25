@@ -131,14 +131,15 @@
       "2024-10-17T00:00:00.000Z": 3,
       "2024-10-28T00:00:00.000Z": 1,
       "2024-11-01T00:00:00.000Z": 1,
-      "2024-11-02T00:00:00.000Z": 2
+      "2024-11-02T00:00:00.000Z": 2,
+      "2024-12-25T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
       "2021-01-01T00:00:00.000Z": 9,
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
-      "2024-01-01T00:00:00.000Z": 95
+      "2024-01-01T00:00:00.000Z": 96
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -174,7 +175,8 @@
       "2024-08-01T00:00:00.000Z": 20,
       "2024-09-01T00:00:00.000Z": 25,
       "2024-10-01T00:00:00.000Z": 12,
-      "2024-11-01T00:00:00.000Z": 3
+      "2024-11-01T00:00:00.000Z": 3,
+      "2024-12-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -213,7 +215,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 2,
+    "ScummVM": 3,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -747,7 +749,8 @@
     "Sonar Shock",
     "Tanks of Freedom II",
     "Daedalus Demise",
-    "Daedalus Demise - The Haunted Pyramid"
+    "Daedalus Demise - The Haunted Pyramid",
+    "Thimbleweed Park"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -791,7 +794,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 57,
-    "Point & Click Adventure": 5,
+    "Point & Click Adventure": 6,
     "Programming Puzzle": 1,
     "Puzzle": 43,
     "Puzzle Game": 2,
@@ -833,7 +836,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 158,
+    "IndieRunner": 159,
     "IndieRunner (unless using rigg)": 5,
     "compile eduke32 from ports tree": 1,
     "fnaify": 109,
@@ -1005,19 +1008,20 @@
       "2024-10-28T00:00:00.000Z": 1,
       "2024-11-01T00:00:00.000Z": 1,
       "2024-11-02T00:00:00.000Z": 2,
-      "2024-11-18T00:00:00.000Z": 1
+      "2024-11-18T00:00:00.000Z": 1,
+      "2024-12-25T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 333,
+      "launches": 334,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 333,
+      "1": 334,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1035,20 +1039,22 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.steampowered.com/": 434,
+    "https://store.epicgames.com/": 1,
+    "https://store.steampowered.com/": 435,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 150,
+    "https://www.gog.com/": 151,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
     "https://www.solarus-games.org/": 1
   },
   "Tags": {
+    "1980s": 1,
     "2D": 6,
     "2bit": 1,
     "2d": 1,
@@ -1190,7 +1196,7 @@
     "pixel": 1,
     "pixel art": 23,
     "pixel graphics": 2,
-    "pixelart": 10,
+    "pixelart": 11,
     "pixels": 3,
     "platformer": 6,
     "point & click": 2,
@@ -1210,7 +1216,7 @@
     "racing": 1,
     "relaxing": 4,
     "remake": 1,
-    "retro": 55,
+    "retro": 56,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 25,
@@ -1227,7 +1233,7 @@
     "soviet": 1,
     "space": 13,
     "splitscreen": 1,
-    "spooky": 1,
+    "spooky": 2,
     "sports": 1,
     "stealth": 3,
     "steampunk": 1,
@@ -1357,13 +1363,14 @@
       "2024-10-28T00:00:00.000Z": 1,
       "2024-11-01T00:00:00.000Z": 1,
       "2024-11-02T00:00:00.000Z": 2,
-      "2024-11-18T00:00:00.000Z": 1
+      "2024-11-18T00:00:00.000Z": 1,
+      "2024-12-25T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 298,
-      "2024-01-01T00:00:00.000Z": 103
+      "2024-01-01T00:00:00.000Z": 104
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1385,7 +1392,8 @@
       "2024-08-01T00:00:00.000Z": 15,
       "2024-09-01T00:00:00.000Z": 32,
       "2024-10-01T00:00:00.000Z": 14,
-      "2024-11-01T00:00:00.000Z": 4
+      "2024-11-01T00:00:00.000Z": 4,
+      "2024-12-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1415,7 +1423,7 @@
     "2014": 18,
     "2015": 17,
     "2016": 25,
-    "2017": 21,
+    "2017": 22,
     "2018": 27,
     "2019": 25,
     "2020": 28,
