@@ -4813,6 +4813,41 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "Deep Root Interactive",
+    "Engine": "Godot",
+    "Game": "Endoparasitic 2",
+    "Genre": [
+      "Survival Horror"
+    ],
+    "Hints": "",
+    "Id": "515",
+    "IgdbId": "314438",
+    "Pub": "Deep Root Interactive",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://nartier.itch.io/endoparasitic-2",
+      "https://store.steampowered.com/app/2990640/Endoparasitic_2/"
+    ],
+    "Tags": [
+      "diegetic",
+      "gore",
+      "horror",
+      "indie",
+      "space"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "3",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Magical Time Bean",
     "Engine": "FNA",
@@ -5677,6 +5712,39 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "Ninesliced",
+    "Engine": "Godot",
+    "Game": "Globs",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "516",
+    "IgdbId": "322758",
+    "Pub": "Ninesliced",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://yolwoocle.itch.io/globs",
+      "https://store.steampowered.com/app/3219110/Globs/"
+    ],
+    "Tags": [
+      "casual",
+      "colorful",
+      "indie"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "2.0.1",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-07T00:00:00.000Z",
     "Dev": "Vidvad Games",
     "Engine": "Godot",
@@ -5736,6 +5804,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "Whiskeybarrel Studios",
+    "Engine": "Godot",
+    "Game": "Gorgon Shield",
+    "Genre": [
+      "Roguelite RPG"
+    ],
+    "Hints": "",
+    "Id": "517",
+    "IgdbId": "259018",
+    "Pub": "2 Left Thumbs, Gamersky Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2446920/Gorgon_Shield/"
+    ],
+    "Tags": [
+      "indie",
+      "real-time tactics"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-08-15T00:00:00.000Z",
@@ -11081,6 +11180,40 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "CCadori",
+    "Engine": "Godot",
+    "Game": "Sailing in the Dark",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "519",
+    "IgdbId": "",
+    "Pub": "CCadori",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://ccadori.itch.io/sailing-in-the-dark"
+    ],
+    "Tags": [
+      "Lovecraftian",
+      "horror",
+      "indie",
+      "open world",
+      "underwater"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Ska Studios",
     "Engine": "FNA",
@@ -13876,6 +14009,39 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "carrotcake",
+    "Engine": "Godot",
+    "Game": "The Garden Path",
+    "Genre": [
+      "Exploration"
+    ],
+    "Hints": "",
+    "Id": "520",
+    "IgdbId": "145482",
+    "Pub": "Mooncat Games",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://carrotcakestudio.itch.io/thegardenpath",
+      "https://store.steampowered.com/app/1638500/The_Garden_Path/"
+    ],
+    "Tags": [
+      "hand-drawn",
+      "indie",
+      "relaxing"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "1.0.0.14",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -15876,6 +16042,40 @@
     "Updated": "2023-07-22T00:00:00.000Z",
     "Version": "1.5",
     "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2025-01-04T00:00:00.000Z",
+    "Dev": "raffomania",
+    "Engine": "Godot",
+    "Game": "knakk",
+    "Genre": [
+      "Card Game"
+    ],
+    "Hints": "",
+    "Id": "518",
+    "IgdbId": "",
+    "Pub": "raffomania",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-01-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://raffomania.itch.io/knakk"
+    ],
+    "Tags": [
+      "free",
+      "indie",
+      "minimalist",
+      "open source",
+      "short"
+    ],
+    "Updated": "2025-01-04T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

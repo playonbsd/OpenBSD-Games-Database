@@ -9249,3 +9249,111 @@ Status	1 (2024-12-25)
 Added	2024-12-25
 Updated	2024-12-25
 IgdbId	10232
+
+Game	Endoparasitic 2
+Id	515
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://nartier.itch.io/endoparasitic-2 https://store.steampowered.com/app/2990640/Endoparasitic_2/
+Hints
+Genre	Survival Horror
+Tags	space, indie, diegetic, horror, gore
+Year	2024
+Dev	Deep Root Interactive
+Pub	Deep Root Interactive
+Version	3
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId	314438
+
+Game	Globs
+Id	516
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://yolwoocle.itch.io/globs https://store.steampowered.com/app/3219110/Globs/
+Hints
+Genre	Puzzler
+Tags	indie, casual, colorful
+Year	2024
+Dev	Ninesliced
+Pub	Ninesliced
+Version	2.0.1
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId	322758
+
+Game	Gorgon Shield
+Id	517
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/2446920/Gorgon_Shield/
+Hints
+Genre	Roguelite RPG
+Tags	indie, real-time tactics
+Year	2024
+Dev	Whiskeybarrel Studios
+Pub	2 Left Thumbs, Gamersky Games
+Version
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId	259018
+
+Game	knakk
+Id	518
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://raffomania.itch.io/knakk
+Hints
+Genre	Card Game
+Tags	indie, free, minimalist, short, open source
+Year	2023
+Dev	raffomania
+Pub	raffomania
+Version
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId
+
+Game	Sailing in the Dark
+Id	519
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://ccadori.itch.io/sailing-in-the-dark
+Hints
+Genre	Adventure
+Tags	indie, horror, Lovecraftian, underwater, open world
+Year	2024
+Dev	CCadori
+Pub	CCadori
+Version
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId
+
+Game	The Garden Path
+Id	520
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://carrotcakestudio.itch.io/thegardenpath https://store.steampowered.com/app/1638500/The_Garden_Path/
+Hints
+Genre	Exploration
+Tags	indie, relaxing, hand-drawn
+Year	2024
+Dev	carrotcake
+Pub	Mooncat Games
+Version	1.0.0.14
+Status	1 (2025-01-04)
+Added	2025-01-04
+Updated	2025-01-04
+IgdbId	145482
