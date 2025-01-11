@@ -3508,15 +3508,15 @@
     "Genre": [
       "Metroidvania"
     ],
-    "Hints": "",
+    "Hints": "Steam version may not run due to missing Steam API in steam.hdll",
     "Id": "89",
     "IgdbId": "26855",
     "Pub": "",
     "Runtime": "hl",
-    "Setup": "IndieRunner (unless using rigg)",
+    "Setup": "IndieRunner, rigg",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2021-01-12T00:00:00.000Z",
+      "StatusDate": "2025-01-11T00:00:00.000Z",
       "StatusNumber": "5",
       "StatusText": "completable"
     },
@@ -3532,8 +3532,8 @@
       "platformer",
       "roguelite"
     ],
-    "Updated": "2023-05-07T00:00:00.000Z",
-    "Version": "",
+    "Updated": "2025-01-11T00:00:00.000Z",
+    "Version": "1.26.0",
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {

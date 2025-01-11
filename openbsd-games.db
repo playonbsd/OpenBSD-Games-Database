@@ -1585,19 +1585,19 @@ IgdbId	150884
 Game	Dead Cells
 Id	89
 Engine	HashLink
-Setup	IndieRunner (unless using rigg)
+Setup	IndieRunner, rigg
 Runtime	hl
 Store	https://www.gog.com/game/dead_cells https://plug-in-digital.itch.io/dead-cells https://www.humblebundle.com/store/dead-cells https://store.steampowered.com/app/588650/Dead_Cells/
-Hints
+Hints	Steam version may not run due to missing Steam API in steam.hdll
 Genre	Metroidvania
 Tags	indie, award-winning, roguelite, platformer
 Year	2018
 Dev	Motion Twin
 Pub
-Version
-Status	5 (2021-01-12)
+Version	1.26.0
+Status	5 (2025-01-11)
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2025-01-11
 IgdbId	26855
 
 Game	Dead Pixels
