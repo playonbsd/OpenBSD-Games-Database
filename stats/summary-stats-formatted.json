@@ -133,7 +133,8 @@
       "2024-11-01T00:00:00.000Z": 1,
       "2024-11-02T00:00:00.000Z": 2,
       "2024-12-25T00:00:00.000Z": 1,
-      "2025-01-04T00:00:00.000Z": 6
+      "2025-01-04T00:00:00.000Z": 6,
+      "2025-01-25T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -141,7 +142,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 6
+      "2025-01-01T00:00:00.000Z": 7
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -179,7 +180,7 @@
       "2024-10-01T00:00:00.000Z": 12,
       "2024-11-01T00:00:00.000Z": 3,
       "2024-12-01T00:00:00.000Z": 1,
-      "2025-01-01T00:00:00.000Z": 6
+      "2025-01-01T00:00:00.000Z": 7
     }
   },
   "Engine": {
@@ -191,7 +192,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 166,
+    "Godot": 167,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -759,7 +760,8 @@
     "Gorgon Shield",
     "knakk",
     "Sailing in the Dark",
-    "The Garden Path"
+    "The Garden Path",
+    "The Legend of Lumina"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -807,7 +809,7 @@
     "Point & Click Adventure": 6,
     "Programming Puzzle": 1,
     "Puzzle": 43,
-    "Puzzle Game": 2,
+    "Puzzle Game": 3,
     "Puzzle Platformer": 15,
     "Puzzler": 6,
     "RPG": 32,
@@ -848,7 +850,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 165,
+    "IndieRunner": 166,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1024,19 +1026,20 @@
       "2024-11-18T00:00:00.000Z": 1,
       "2024-12-25T00:00:00.000Z": 1,
       "2025-01-04T00:00:00.000Z": 6,
-      "2025-01-11T00:00:00.000Z": 1
+      "2025-01-11T00:00:00.000Z": 1,
+      "2025-01-25T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 340,
+      "launches": 341,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 340,
+      "1": 341,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1050,12 +1053,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 128,
+    "https://itch.io/": 129,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 439,
+    "https://store.steampowered.com/": 440,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1153,7 +1156,7 @@
     "first person": 1,
     "first-person": 7,
     "flying": 1,
-    "free": 32,
+    "free": 33,
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
@@ -1173,7 +1176,7 @@
     "horror": 11,
     "humor": 13,
     "idler": 1,
-    "indie": 241,
+    "indie": 242,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1247,6 +1250,7 @@
     "simulation": 1,
     "slot machine": 1,
     "sokoban-like": 1,
+    "sokoban-style": 1,
     "souls-like": 2,
     "soviet": 1,
     "space": 14,
@@ -1385,14 +1389,15 @@
       "2024-11-18T00:00:00.000Z": 1,
       "2024-12-25T00:00:00.000Z": 1,
       "2025-01-04T00:00:00.000Z": 6,
-      "2025-01-11T00:00:00.000Z": 1
+      "2025-01-11T00:00:00.000Z": 1,
+      "2025-01-25T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 297,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 7
+      "2025-01-01T00:00:00.000Z": 8
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1416,7 +1421,7 @@
       "2024-10-01T00:00:00.000Z": 14,
       "2024-11-01T00:00:00.000Z": 4,
       "2024-12-01T00:00:00.000Z": 1,
-      "2025-01-01T00:00:00.000Z": 7
+      "2025-01-01T00:00:00.000Z": 8
     }
   },
   "Year": {
@@ -1451,7 +1456,7 @@
     "2019": 25,
     "2020": 28,
     "2021": 48,
-    "2022": 41,
+    "2022": 42,
     "2023": 38,
     "2024": 48
   }
