@@ -134,7 +134,8 @@
       "2024-11-02T00:00:00.000Z": 2,
       "2024-12-25T00:00:00.000Z": 1,
       "2025-01-04T00:00:00.000Z": 6,
-      "2025-01-25T00:00:00.000Z": 1
+      "2025-01-25T00:00:00.000Z": 1,
+      "2025-02-19T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -142,7 +143,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 7
+      "2025-01-01T00:00:00.000Z": 8
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -180,7 +181,8 @@
       "2024-10-01T00:00:00.000Z": 12,
       "2024-11-01T00:00:00.000Z": 3,
       "2024-12-01T00:00:00.000Z": 1,
-      "2025-01-01T00:00:00.000Z": 7
+      "2025-01-01T00:00:00.000Z": 7,
+      "2025-02-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -192,7 +194,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 12,
-    "Godot": 167,
+    "Godot": 168,
     "GrimE": 1,
     "HashLink": 11,
     "Infinity Engine": 4,
@@ -761,7 +763,8 @@
     "knakk",
     "Sailing in the Dark",
     "The Garden Path",
-    "The Legend of Lumina"
+    "The Legend of Lumina",
+    "Tiny Pasture"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -787,7 +790,7 @@
     "FPS": 35,
     "Farming Sim": 1,
     "Farming Simulation": 1,
-    "Farming Simulator": 1,
+    "Farming Simulator": 2,
     "Fighting Game": 1,
     "First Person Shooter": 1,
     "Flightsim": 1,
@@ -850,7 +853,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 166,
+    "IndieRunner": 167,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1027,19 +1030,20 @@
       "2024-12-25T00:00:00.000Z": 1,
       "2025-01-04T00:00:00.000Z": 6,
       "2025-01-11T00:00:00.000Z": 1,
-      "2025-01-25T00:00:00.000Z": 1
+      "2025-01-25T00:00:00.000Z": 1,
+      "2025-02-19T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 15,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 341,
+      "launches": 342,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 341,
+      "1": 342,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1058,7 +1062,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 440,
+    "https://store.steampowered.com/": 441,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1113,10 +1117,11 @@
     "boat": 1,
     "body horror": 2,
     "boomer shooter": 1,
+    "bottom-of-screen": 1,
     "bullet hell": 7,
     "cards": 1,
     "cartoon": 2,
-    "casual": 9,
+    "casual": 10,
     "cats": 5,
     "cellshade": 1,
     "charity": 1,
@@ -1175,8 +1180,8 @@
     "historical": 1,
     "horror": 11,
     "humor": 13,
-    "idler": 1,
-    "indie": 242,
+    "idler": 2,
+    "indie": 243,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1390,14 +1395,15 @@
       "2024-12-25T00:00:00.000Z": 1,
       "2025-01-04T00:00:00.000Z": 6,
       "2025-01-11T00:00:00.000Z": 1,
-      "2025-01-25T00:00:00.000Z": 1
+      "2025-01-25T00:00:00.000Z": 1,
+      "2025-02-19T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 297,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 8
+      "2025-01-01T00:00:00.000Z": 9
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1421,7 +1427,8 @@
       "2024-10-01T00:00:00.000Z": 14,
       "2024-11-01T00:00:00.000Z": 4,
       "2024-12-01T00:00:00.000Z": 1,
-      "2025-01-01T00:00:00.000Z": 8
+      "2025-01-01T00:00:00.000Z": 8,
+      "2025-02-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1458,6 +1465,7 @@
     "2021": 48,
     "2022": 42,
     "2023": 38,
-    "2024": 48
+    "2024": 48,
+    "2025": 1
   }
 }
