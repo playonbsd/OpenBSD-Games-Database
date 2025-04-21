@@ -3544,7 +3544,7 @@
     "Genre": [
       "Action"
     ],
-    "Hints": "As of 2020-01-03 recent Steam versions fail to run with API_RunCallback in backtrace",
+    "Hints": "version 1.4 runs with FNA 25.04 and SDL3. Use SDL_PLATFORM=Linux",
     "Id": "90",
     "IgdbId": "5448",
     "Pub": "",
@@ -3552,9 +3552,9 @@
     "Setup": "fnaify",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "",
-      "StatusNumber": "0",
-      "StatusText": "doesn't launch"
+      "StatusDate": "2025-04-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
     },
     "Store": [
       "https://store.steampowered.com/app/222980/Dead_Pixels"
@@ -3562,7 +3562,7 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2023-05-07T00:00:00.000Z",
+    "Updated": "2025-04-25T00:00:00.000Z",
     "Version": "",
     "Year": "2012-01-01T00:00:00.000Z"
   },
