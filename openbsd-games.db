@@ -1372,16 +1372,16 @@ Engine	Godot
 Setup
 Runtime	godot
 Store	https://store.steampowered.com/app/1388770/
-Hints	needs godot built with GodotSteam module
+Hints
 Genre	FPS, Immersive Sim
 Tags	indie, surreal, gore
 Year	2021
 Dev	Consumer Softproducts
 Pub	Consumer Softproducts
 Version
-Status	1 (2021-09-06)
+Status	0 (2021-09-06) latest version known to run is the download from 2021-08-06
 Added	1970-01-01
-Updated	2023-05-04
+Updated	2025-04-30
 IgdbId	142076
 
 Game	Cryptark

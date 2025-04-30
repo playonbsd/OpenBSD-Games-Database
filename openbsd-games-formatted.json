@@ -3013,17 +3013,17 @@
       "FPS",
       "Immersive Sim"
     ],
-    "Hints": "needs godot built with GodotSteam module",
+    "Hints": "",
     "Id": "77",
     "IgdbId": "142076",
     "Pub": "Consumer Softproducts",
     "Runtime": "godot",
     "Setup": "",
     "Status": {
-      "StatusComment": "",
+      "StatusComment": "latest version known to run is the download from 2021-08-06",
       "StatusDate": "2021-09-06T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusNumber": "0",
+      "StatusText": "doesn't launch"
     },
     "Store": [
       "https://store.steampowered.com/app/1388770/"
@@ -3033,7 +3033,7 @@
       "indie",
       "surreal"
     ],
-    "Updated": "2023-05-04T00:00:00.000Z",
+    "Updated": "2025-04-30T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
   },
