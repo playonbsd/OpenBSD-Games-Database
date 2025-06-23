@@ -5704,10 +5704,11 @@
       "StatusText": "launches"
     },
     "Store": [
+      "https://pumpkingames.itch.io/glitchangels",
       "https://store.steampowered.com/app/1170300/Glitchangels/"
     ],
     "Tags": [],
-    "Updated": "2023-05-07T00:00:00.000Z",
+    "Updated": "2025-06-23T00:00:00.000Z",
     "Version": "1.2.2",
     "Year": "2020-01-01T00:00:00.000Z"
   },

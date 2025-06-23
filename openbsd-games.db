@@ -2721,7 +2721,7 @@ Id	152
 Engine	FNA
 Setup	fnaify
 Runtime	fnaify
-Store	https://store.steampowered.com/app/1170300/Glitchangels/
+Store	https://pumpkingames.itch.io/glitchangels https://store.steampowered.com/app/1170300/Glitchangels/
 Hints
 Genre	Action
 Tags
@@ -2731,7 +2731,7 @@ Pub	Puppygames
 Version	1.2.2
 Status	1 (2023-05-07)
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2025-06-23
 IgdbId	127543
 
 Game	A Golden Wake
