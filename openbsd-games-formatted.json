@@ -3501,6 +3501,35 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-07-09T00:00:00.000Z",
+    "Dev": "LucasArts",
+    "Engine": "ScummVM",
+    "Game": "Day of the Tentacle",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "523",
+    "IgdbId": "193",
+    "Pub": "LucasArts",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-07-09T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [],
+    "Tags": [
+      "classic",
+      "pixelart"
+    ],
+    "Updated": "2025-07-09T00:00:00.000Z",
+    "Version": "",
+    "Year": "1993-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Motion Twin",
     "Engine": "HashLink",

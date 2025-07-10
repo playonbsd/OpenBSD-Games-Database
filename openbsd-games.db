@@ -9393,3 +9393,21 @@ Status	1 (2025-02-19)
 Added	2025-02-19
 Updated	2025-02-19
 IgdbId	322923
+
+Game	Day of the Tentacle
+Id	523
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store
+Hints
+Genre	Adventure
+Tags	classic, pixelart
+Year	1993
+Dev	LucasArts
+Pub	LucasArts
+Version
+Status	5 (2025-07-09)
+Added	2025-07-09
+Updated	2025-07-09
+IgdbId	193
