@@ -9411,3 +9411,21 @@ Status	5 (2025-07-09)
 Added	2025-07-09
 Updated	2025-07-09
 IgdbId	193
+
+Game	Tetromino
+Id	524
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://offekt.itch.io/tetromino
+Hints
+Genre	Puzzler
+Tags	indie
+Year	2025
+Dev	OFFEKT
+Pub	OFFEKT
+Version
+Status	1 (2025-08-25)
+Added	2025-08-25
+Updated	2025-08-25
+IgdbId

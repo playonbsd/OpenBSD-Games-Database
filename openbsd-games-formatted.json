@@ -13581,6 +13581,36 @@
     "Year": "2011-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-08-25T00:00:00.000Z",
+    "Dev": "OFFEKT",
+    "Engine": "Love2D",
+    "Game": "Tetromino",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "524",
+    "IgdbId": "",
+    "Pub": "OFFEKT",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-08-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://offekt.itch.io/tetromino"
+    ],
+    "Tags": [
+      "indie"
+    ],
+    "Updated": "2025-08-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-08T00:00:00.000Z",
     "Dev": "Nacho Sama",
     "Engine": "Godot",
