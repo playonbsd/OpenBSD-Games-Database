@@ -9425,7 +9425,25 @@ Year	2025
 Dev	OFFEKT
 Pub	OFFEKT
 Version
-Status	1 (2025-08-25)
-Added	2025-08-25
-Updated	2025-08-25
+Status	1 (2025-08-15)
+Added	2025-08-15
+Updated	2025-08-15
 IgdbId
+
+Game	Cursemark
+Id	525
+Engine	HashLink
+Setup	IndieRunner
+Runtime	hl
+Store	https://clydegames.itch.io/cursemark
+Hints	currently needs --norigg, or hl(1) directly
+Genre	action RPG
+Tags	indie, demo
+Year
+Dev	CLYDE games
+Pub	CLYDE games
+Version
+Status	1 (2025-08-21)
+Added	2025-08-21
+Updated	2025-08-21
+IgdbId	348494

@@ -3223,6 +3223,37 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-08-21T00:00:00.000Z",
+    "Dev": "CLYDE games",
+    "Engine": "HashLink",
+    "Game": "Cursemark",
+    "Genre": [
+      "action RPG"
+    ],
+    "Hints": "currently needs --norigg, or hl(1) directly",
+    "Id": "525",
+    "IgdbId": "348494",
+    "Pub": "CLYDE games",
+    "Runtime": "hl",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-08-21T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://clydegames.itch.io/cursemark"
+    ],
+    "Tags": [
+      "demo",
+      "indie"
+    ],
+    "Updated": "2025-08-21T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "KnKo",
     "Engine": "Godot",
@@ -13581,7 +13612,7 @@
     "Year": "2011-01-01T00:00:00.000Z"
   },
   {
-    "Added": "2025-08-25T00:00:00.000Z",
+    "Added": "2025-08-15T00:00:00.000Z",
     "Dev": "OFFEKT",
     "Engine": "Love2D",
     "Game": "Tetromino",
@@ -13596,7 +13627,7 @@
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2025-08-25T00:00:00.000Z",
+      "StatusDate": "2025-08-15T00:00:00.000Z",
       "StatusNumber": "1",
       "StatusText": "launches"
     },
@@ -13606,7 +13637,7 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2025-08-25T00:00:00.000Z",
+    "Updated": "2025-08-15T00:00:00.000Z",
     "Version": "",
     "Year": "2025-01-01T00:00:00.000Z"
   },

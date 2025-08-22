@@ -137,7 +137,8 @@
       "2025-01-25T00:00:00.000Z": 1,
       "2025-02-19T00:00:00.000Z": 1,
       "2025-07-09T00:00:00.000Z": 1,
-      "2025-08-25T00:00:00.000Z": 1
+      "2025-08-15T00:00:00.000Z": 1,
+      "2025-08-21T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -145,7 +146,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 10
+      "2025-01-01T00:00:00.000Z": 11
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -186,7 +187,7 @@
       "2025-01-01T00:00:00.000Z": 7,
       "2025-02-01T00:00:00.000Z": 1,
       "2025-07-01T00:00:00.000Z": 1,
-      "2025-08-01T00:00:00.000Z": 1
+      "2025-08-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -200,7 +201,7 @@
     "GZDoom": 12,
     "Godot": 168,
     "GrimE": 1,
-    "HashLink": 11,
+    "HashLink": 12,
     "Infinity Engine": 4,
     "Irrlicht Engine": 1,
     "Java": 1,
@@ -770,7 +771,8 @@
     "The Legend of Lumina",
     "Tiny Pasture",
     "Day of the Tentacle",
-    "Tetromino"
+    "Tetromino",
+    "Cursemark"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -850,6 +852,7 @@
     "Twin-Stick Shooter": 5,
     "Typing Game": 1,
     "Visual Novel": 3,
+    "action RPG": 1,
     "arcade": 1,
     "dungeoncrawler": 2,
     "point & click adventure": 1,
@@ -859,7 +862,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 169,
+    "IndieRunner": 170,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1040,19 +1043,20 @@
       "2025-02-19T00:00:00.000Z": 1,
       "2025-04-25T00:00:00.000Z": 1,
       "2025-07-09T00:00:00.000Z": 1,
-      "2025-08-25T00:00:00.000Z": 1
+      "2025-08-15T00:00:00.000Z": 1,
+      "2025-08-21T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 343,
+      "launches": 344,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 343,
+      "1": 344,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1066,7 +1070,7 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 131,
+    "https://itch.io/": 132,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
@@ -1152,6 +1156,7 @@
     "dark fantasy": 2,
     "dark humor": 1,
     "deckbuilder": 3,
+    "demo": 1,
     "detective": 4,
     "dice": 1,
     "diegetic": 1,
@@ -1190,7 +1195,7 @@
     "horror": 11,
     "humor": 13,
     "idler": 2,
-    "indie": 244,
+    "indie": 245,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1410,14 +1415,15 @@
       "2025-04-30T00:00:00.000Z": 1,
       "2025-06-23T00:00:00.000Z": 1,
       "2025-07-09T00:00:00.000Z": 1,
-      "2025-08-25T00:00:00.000Z": 1
+      "2025-08-15T00:00:00.000Z": 1,
+      "2025-08-21T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 14
+      "2025-01-01T00:00:00.000Z": 15
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1446,7 +1452,7 @@
       "2025-04-01T00:00:00.000Z": 2,
       "2025-06-01T00:00:00.000Z": 1,
       "2025-07-01T00:00:00.000Z": 1,
-      "2025-08-01T00:00:00.000Z": 1
+      "2025-08-01T00:00:00.000Z": 2
     }
   },
   "Year": {
