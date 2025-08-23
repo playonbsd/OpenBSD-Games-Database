@@ -9400,7 +9400,7 @@ Engine	ScummVM
 Setup	IndieRunner
 Runtime	scummvm
 Store
-Hints
+Hints	extract classic DoTT and Maniac Mansion from DoTT Remastered with https://github.com/fleger/untangle
 Genre	Adventure
 Tags	classic, pixelart
 Year	1993
@@ -9409,7 +9409,7 @@ Pub	LucasArts
 Version
 Status	5 (2025-07-09)
 Added	2025-07-09
-Updated	2025-07-09
+Updated	2025-08-23
 IgdbId	193
 
 Game	Tetromino

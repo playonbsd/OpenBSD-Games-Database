@@ -3539,7 +3539,7 @@
     "Genre": [
       "Adventure"
     ],
-    "Hints": "",
+    "Hints": "extract classic DoTT and Maniac Mansion from DoTT Remastered with https://github.com/fleger/untangle",
     "Id": "523",
     "IgdbId": "193",
     "Pub": "LucasArts",
@@ -3556,7 +3556,7 @@
       "classic",
       "pixelart"
     ],
-    "Updated": "2025-07-09T00:00:00.000Z",
+    "Updated": "2025-08-23T00:00:00.000Z",
     "Version": "",
     "Year": "1993-01-01T00:00:00.000Z"
   },
