@@ -138,7 +138,8 @@
       "2025-02-19T00:00:00.000Z": 1,
       "2025-07-09T00:00:00.000Z": 1,
       "2025-08-15T00:00:00.000Z": 1,
-      "2025-08-21T00:00:00.000Z": 1
+      "2025-08-21T00:00:00.000Z": 1,
+      "2025-09-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -146,7 +147,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 11
+      "2025-01-01T00:00:00.000Z": 12
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -187,7 +188,8 @@
       "2025-01-01T00:00:00.000Z": 7,
       "2025-02-01T00:00:00.000Z": 1,
       "2025-07-01T00:00:00.000Z": 1,
-      "2025-08-01T00:00:00.000Z": 2
+      "2025-08-01T00:00:00.000Z": 2,
+      "2025-09-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -210,7 +212,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 32,
+    "Love2D": 33,
     "Mohawk Engine": 2,
     "Mono": 3,
     "MonoGame": 7,
@@ -772,7 +774,8 @@
     "Tiny Pasture",
     "Day of the Tentacle",
     "Tetromino",
-    "Cursemark"
+    "Cursemark",
+    "Descent from Arkov's Tower"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -857,12 +860,13 @@
     "dungeoncrawler": 2,
     "point & click adventure": 1,
     "puzzle platformer": 1,
+    "rogue-like": 1,
     "roguelike deckbuilder": 1,
     "visual novel": 1
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 170,
+    "IndieRunner": 171,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1044,19 +1048,20 @@
       "2025-04-25T00:00:00.000Z": 1,
       "2025-07-09T00:00:00.000Z": 1,
       "2025-08-15T00:00:00.000Z": 1,
-      "2025-08-21T00:00:00.000Z": 1
+      "2025-08-21T00:00:00.000Z": 1,
+      "2025-09-05T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 344,
+      "launches": 345,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 344,
+      "1": 345,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1075,7 +1080,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 441,
+    "https://store.steampowered.com/": 442,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1195,7 +1200,7 @@
     "horror": 11,
     "humor": 13,
     "idler": 2,
-    "indie": 245,
+    "indie": 246,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1222,6 +1227,7 @@
     "noir": 1,
     "nordic": 1,
     "nostalgia": 1,
+    "old-school": 1,
     "online multiplayer": 1,
     "open source": 2,
     "open world": 1,
@@ -1291,6 +1297,7 @@
     "top-down": 1,
     "touhou": 1,
     "turn-based": 9,
+    "turn-based tactics": 1,
     "underwater": 1,
     "vampires": 1,
     "vehicle": 1,
@@ -1416,14 +1423,15 @@
       "2025-06-23T00:00:00.000Z": 1,
       "2025-08-15T00:00:00.000Z": 1,
       "2025-08-21T00:00:00.000Z": 1,
-      "2025-08-23T00:00:00.000Z": 1
+      "2025-08-23T00:00:00.000Z": 1,
+      "2025-09-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 15
+      "2025-01-01T00:00:00.000Z": 16
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1451,7 +1459,8 @@
       "2025-02-01T00:00:00.000Z": 1,
       "2025-04-01T00:00:00.000Z": 2,
       "2025-06-01T00:00:00.000Z": 1,
-      "2025-08-01T00:00:00.000Z": 3
+      "2025-08-01T00:00:00.000Z": 3,
+      "2025-09-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1488,7 +1497,7 @@
     "2021": 48,
     "2022": 42,
     "2023": 38,
-    "2024": 48,
+    "2024": 49,
     "2025": 2
   }
 }

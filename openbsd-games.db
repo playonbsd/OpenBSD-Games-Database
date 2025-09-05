@@ -9447,3 +9447,21 @@ Status	1 (2025-08-21)
 Added	2025-08-21
 Updated	2025-08-21
 IgdbId	348494
+
+Game	Descent from Arkov's Tower
+Id	526
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2876720/Descent_from_Arkovs_Tower/
+Hints
+Genre	rogue-like
+Tags	indie, turn-based tactics, old-school
+Year	2024
+Dev	Saturn91
+Pub	DreamStudios
+Version	2.0.15
+Status	1 (2025-09-05)
+Added	2025-09-05
+Updated	2025-09-05
+IgdbId	277273

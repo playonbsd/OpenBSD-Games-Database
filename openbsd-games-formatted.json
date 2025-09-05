@@ -3909,6 +3909,38 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-09-05T00:00:00.000Z",
+    "Dev": "Saturn91",
+    "Engine": "Love2D",
+    "Game": "Descent from Arkov's Tower",
+    "Genre": [
+      "rogue-like"
+    ],
+    "Hints": "",
+    "Id": "526",
+    "IgdbId": "277273",
+    "Pub": "DreamStudios",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-09-05T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2876720/Descent_from_Arkovs_Tower/"
+    ],
+    "Tags": [
+      "indie",
+      "old-school",
+      "turn-based tactics"
+    ],
+    "Updated": "2025-09-05T00:00:00.000Z",
+    "Version": "2.0.15",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-10-17T00:00:00.000Z",
     "Dev": "Markus Fink",
     "Engine": "Godot",
