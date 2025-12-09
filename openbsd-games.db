@@ -9483,3 +9483,21 @@ Status	1 (2025-12-08)
 Added	2025-12-08
 Updated	2025-12-08
 IgdbId	243924
+
+Game	Order of the Thorne: The King's Challenge
+Id	528
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge https://infamousquests.itch.io/oott-the-kings-challenge https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/
+Hints
+Genre	point & click adventure
+Tags	indie, pixel-art, fantasy
+Year	2016
+Dev	Infamous Quests
+Pub	Infamous Quests
+Version	2.0.0.1
+Status	1 (2025-12-08)
+Added	2025-12-08
+Updated	2025-12-08
+IgdbId	51860

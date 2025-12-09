@@ -140,7 +140,7 @@
       "2025-08-15T00:00:00.000Z": 1,
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
-      "2025-12-08T00:00:00.000Z": 1
+      "2025-12-08T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -148,7 +148,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 13
+      "2025-01-01T00:00:00.000Z": 14
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -191,7 +191,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 1
+      "2025-12-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -230,7 +230,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 4,
+    "ScummVM": 5,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -778,7 +778,8 @@
     "Tetromino",
     "Cursemark",
     "Descent from Arkov's Tower",
-    "Primal Planet"
+    "Primal Planet",
+    "Order of the Thorne: The King's Challenge"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -862,7 +863,7 @@
     "arcade": 1,
     "dungeoncrawler": 2,
     "metroidvania": 1,
-    "point & click adventure": 1,
+    "point & click adventure": 2,
     "puzzle platformer": 1,
     "rogue-like": 1,
     "roguelike deckbuilder": 1,
@@ -870,7 +871,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 172,
+    "IndieRunner": 173,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1054,19 +1055,19 @@
       "2025-08-15T00:00:00.000Z": 1,
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
-      "2025-12-08T00:00:00.000Z": 1
+      "2025-12-08T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 346,
+      "launches": 347,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 346,
+      "1": 347,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1080,19 +1081,19 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 132,
+    "https://itch.io/": 133,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 443,
+    "https://store.steampowered.com/": 444,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 152,
+    "https://www.gog.com/": 153,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1177,7 +1178,7 @@
     "educational": 1,
     "exploration": 4,
     "factory building": 1,
-    "fantasy": 12,
+    "fantasy": 13,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1205,7 +1206,7 @@
     "horror": 11,
     "humor": 13,
     "idler": 2,
-    "indie": 247,
+    "indie": 248,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1246,7 +1247,7 @@
     "pixel": 1,
     "pixel art": 23,
     "pixel graphics": 2,
-    "pixel-art": 1,
+    "pixel-art": 2,
     "pixelart": 12,
     "pixels": 3,
     "platformer": 6,
@@ -1431,14 +1432,14 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-08-23T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
-      "2025-12-08T00:00:00.000Z": 1
+      "2025-12-08T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 17
+      "2025-01-01T00:00:00.000Z": 18
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1468,7 +1469,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 1
+      "2025-12-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1497,7 +1498,7 @@
     "2013": 18,
     "2014": 18,
     "2015": 17,
-    "2016": 25,
+    "2016": 26,
     "2017": 22,
     "2018": 27,
     "2019": 25,

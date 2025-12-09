@@ -9739,6 +9739,40 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-08T00:00:00.000Z",
+    "Dev": "Infamous Quests",
+    "Engine": "ScummVM",
+    "Game": "Order of the Thorne: The King's Challenge",
+    "Genre": [
+      "point & click adventure"
+    ],
+    "Hints": "",
+    "Id": "528",
+    "IgdbId": "51860",
+    "Pub": "Infamous Quests",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-08T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge",
+      "https://infamousquests.itch.io/oott-the-kings-challenge",
+      "https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/"
+    ],
+    "Tags": [
+      "fantasy",
+      "indie",
+      "pixel-art"
+    ],
+    "Updated": "2025-12-08T00:00:00.000Z",
+    "Version": "2.0.0.1",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Hemisphere Games",
     "Engine": "",
