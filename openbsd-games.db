@@ -9537,3 +9537,21 @@ Status	1 (2025-12-12)
 Added	2025-12-12
 Updated	2025-12-12
 IgdbId	141030
+
+Game	Just Ignore Them
+Id	531
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://stranga.itch.io/just-ignore-them https://store.steampowered.com/app/561770/Just_Ignore_Them/
+Hints
+Genre	Adventure
+Tags	indie, horror, gore
+Year	2017
+Dev	Stranga Games
+Pub	GrabTheGames
+Version
+Status	1 (2025-12-12)
+Added	2025-12-12
+Updated	2025-12-12
+IgdbId	30359

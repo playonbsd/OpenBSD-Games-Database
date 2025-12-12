@@ -7612,6 +7612,39 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-12T00:00:00.000Z",
+    "Dev": "Stranga Games",
+    "Engine": "ScummVM",
+    "Game": "Just Ignore Them",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "531",
+    "IgdbId": "30359",
+    "Pub": "GrabTheGames",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://stranga.itch.io/just-ignore-them",
+      "https://store.steampowered.com/app/561770/Just_Ignore_Them/"
+    ],
+    "Tags": [
+      "gore",
+      "horror",
+      "indie"
+    ],
+    "Updated": "2025-12-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Clifftop Games",
     "Engine": "Adventure Game Studio",
