@@ -141,7 +141,7 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 3
+      "2025-12-12T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -149,7 +149,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 17
+      "2025-01-01T00:00:00.000Z": 18
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -192,7 +192,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 5
+      "2025-12-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
@@ -203,7 +203,7 @@
     "Descent Engine": 2,
     "FNA": 80,
     "FontEngine": 1,
-    "GZDoom": 14,
+    "GZDoom": 15,
     "Godot": 169,
     "GrimE": 1,
     "HashLink": 12,
@@ -783,7 +783,8 @@
     "Order of the Thorne: The King's Challenge",
     "Project Osiris",
     "Castlevania: Simon's Destiny",
-    "Just Ignore Them"
+    "Just Ignore Them",
+    "REKKR: Sunken Land"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -806,7 +807,7 @@
     "Dungeon Crawler": 6,
     "Exploration": 1,
     "FMV": 1,
-    "FPS": 37,
+    "FPS": 38,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 2,
@@ -875,7 +876,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 176,
+    "IndieRunner": 177,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1060,19 +1061,19 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 3
+      "2025-12-12T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 350,
+      "launches": 351,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 350,
+      "1": 351,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1091,14 +1092,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 445,
+    "https://store.steampowered.com/": 446,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 153,
+    "https://www.gog.com/": 154,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1196,7 +1197,7 @@
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
-    "gore": 10,
+    "gore": 11,
     "gothic": 2,
     "graphical violence": 1,
     "hack and slash": 1,
@@ -1275,7 +1276,7 @@
     "real-time tactics": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 58,
+    "retro": 59,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 25,
@@ -1283,7 +1284,7 @@
     "sandbox": 1,
     "scifi": 12,
     "settlers": 1,
-    "shooter": 3,
+    "shooter": 4,
     "short": 2,
     "simulation": 1,
     "slot machine": 1,
@@ -1439,14 +1440,14 @@
       "2025-08-23T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 3
+      "2025-12-12T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 21
+      "2025-01-01T00:00:00.000Z": 22
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1476,7 +1477,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 5
+      "2025-12-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1510,7 +1511,7 @@
     "2018": 27,
     "2019": 25,
     "2020": 29,
-    "2021": 49,
+    "2021": 50,
     "2022": 42,
     "2023": 38,
     "2024": 49,

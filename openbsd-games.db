@@ -9555,3 +9555,21 @@ Status	1 (2025-12-12)
 Added	2025-12-12
 Updated	2025-12-12
 IgdbId	30359
+
+Game	REKKR: Sunken Land
+Id	532
+Engine	GZDoom
+Setup	IndieRunner
+Runtime	lzdoom
+Store	https://www.gog.com/en/game/rekkr_sunken_land https://store.steampowered.com/app/1715690/REKKR_Sunken_Land/
+Hints
+Genre	FPS
+Tags	retro, shooter, gore
+Year	2021
+Dev	Mockingbird Softworks
+Pub	Mockingbird Softworks
+Version	1.12
+Status	1 (2025-12-12)
+Added	2025-12-12
+Updated	2025-12-12
+IgdbId	167786
