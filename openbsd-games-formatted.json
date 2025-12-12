@@ -10446,6 +10446,38 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-12T00:00:00.000Z",
+    "Dev": "ArcturusDeluxe",
+    "Engine": "GZDoom",
+    "Game": "Project Osiris",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "Id": "529",
+    "IgdbId": "165467",
+    "Pub": "ArcturusDeluxe",
+    "Runtime": "lzdoom",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://arcturusdeluxe.itch.io/project-osiris"
+    ],
+    "Tags": [
+      "free",
+      "retro",
+      "shooter"
+    ],
+    "Updated": "2025-12-12T00:00:00.000Z",
+    "Version": "1.0.3",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-10-09T00:00:00.000Z",
     "Dev": "Hero Game Co LLC",
     "Engine": "Love2D",

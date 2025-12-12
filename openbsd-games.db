@@ -9501,3 +9501,21 @@ Status	1 (2025-12-08)
 Added	2025-12-08
 Updated	2025-12-08
 IgdbId	51860
+
+Game	Project Osiris
+Id	529
+Engine	GZDoom
+Setup	IndieRunner
+Runtime	lzdoom
+Store	https://arcturusdeluxe.itch.io/project-osiris
+Hints
+Genre	FPS
+Tags	retro, shooter, free
+Year	2021
+Dev	ArcturusDeluxe
+Pub	ArcturusDeluxe
+Version	1.0.3
+Status	1 (2025-12-12)
+Added	2025-12-12
+Updated	2025-12-12
+IgdbId	165467
