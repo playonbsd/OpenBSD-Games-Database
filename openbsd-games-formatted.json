@@ -2378,6 +2378,38 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-12T00:00:00.000Z",
+    "Dev": "Batandy",
+    "Engine": "GZDoom",
+    "Game": "Castlevania: Simon's Destiny",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "Id": "530",
+    "IgdbId": "141030",
+    "Pub": "Batandy",
+    "Runtime": "lzdoom",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://batandy.itch.io/simonsdestiny"
+    ],
+    "Tags": [
+      "fangame",
+      "free",
+      "retro"
+    ],
+    "Updated": "2025-12-12T00:00:00.000Z",
+    "Version": "1.4",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2021-12-10T00:00:00.000Z",
     "Dev": "BiscuitLocker",
     "Engine": "Godot",

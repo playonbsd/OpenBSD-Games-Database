@@ -9519,3 +9519,21 @@ Status	1 (2025-12-12)
 Added	2025-12-12
 Updated	2025-12-12
 IgdbId	165467
+
+Game	Castlevania: Simon's Destiny
+Id	530
+Engine	GZDoom
+Setup	IndieRunner
+Runtime	lzdoom
+Store	https://batandy.itch.io/simonsdestiny
+Hints
+Genre	FPS
+Tags	retro, free, fangame
+Year	2020
+Dev	Batandy
+Pub	Batandy
+Version	1.4
+Status	1 (2025-12-12)
+Added	2025-12-12
+Updated	2025-12-12
+IgdbId	141030

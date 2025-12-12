@@ -141,7 +141,7 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 1
+      "2025-12-12T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -149,7 +149,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 15
+      "2025-01-01T00:00:00.000Z": 16
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -192,7 +192,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 3
+      "2025-12-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -203,7 +203,7 @@
     "Descent Engine": 2,
     "FNA": 80,
     "FontEngine": 1,
-    "GZDoom": 13,
+    "GZDoom": 14,
     "Godot": 169,
     "GrimE": 1,
     "HashLink": 12,
@@ -781,7 +781,8 @@
     "Descent from Arkov's Tower",
     "Primal Planet",
     "Order of the Thorne: The King's Challenge",
-    "Project Osiris"
+    "Project Osiris",
+    "Castlevania: Simon's Destiny"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -804,7 +805,7 @@
     "Dungeon Crawler": 6,
     "Exploration": 1,
     "FMV": 1,
-    "FPS": 36,
+    "FPS": 37,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 2,
@@ -873,7 +874,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 174,
+    "IndieRunner": 175,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1058,19 +1059,19 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 1
+      "2025-12-12T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 348,
+      "launches": 349,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 348,
+      "1": 349,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1084,7 +1085,7 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 134,
+    "https://itch.io/": 135,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
@@ -1181,6 +1182,7 @@
     "educational": 1,
     "exploration": 4,
     "factory building": 1,
+    "fangame": 1,
     "fantasy": 13,
     "farming": 1,
     "fast": 1,
@@ -1189,7 +1191,7 @@
     "first person": 1,
     "first-person": 7,
     "flying": 1,
-    "free": 34,
+    "free": 35,
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
@@ -1272,7 +1274,7 @@
     "real-time tactics": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 57,
+    "retro": 58,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 25,
@@ -1436,14 +1438,14 @@
       "2025-08-23T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 1
+      "2025-12-12T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 19
+      "2025-01-01T00:00:00.000Z": 20
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1473,7 +1475,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 3
+      "2025-12-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1506,7 +1508,7 @@
     "2017": 22,
     "2018": 27,
     "2019": 25,
-    "2020": 28,
+    "2020": 29,
     "2021": 49,
     "2022": 42,
     "2023": 38,
