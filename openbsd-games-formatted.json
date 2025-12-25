@@ -1068,6 +1068,40 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-25T00:00:00.000Z",
+    "Dev": "pets club 2",
+    "Engine": "Godot",
+    "Game": "Babushka's Glitch Dungeon",
+    "Genre": [
+      "Puzzle Platformer"
+    ],
+    "Hints": "",
+    "Id": "535",
+    "IgdbId": "202482",
+    "Pub": "pets club 2",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://jakeonaut.itch.io/glitch-dungeon-crystal",
+      "https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/"
+    ],
+    "Tags": [
+      "exploration",
+      "female protagonist",
+      "indie",
+      "nonlinear"
+    ],
+    "Updated": "2025-12-25T00:00:00.000Z",
+    "Version": "3.1.0.1",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-02-21T00:00:00.000Z",
     "Dev": "LocalThunk",
     "Engine": "Love2D",
@@ -7645,6 +7679,39 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-25T00:00:00.000Z",
+    "Dev": "Coincidence",
+    "Engine": "Mono",
+    "Game": "Kaizen: A Factory Story",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "536",
+    "IgdbId": "333883",
+    "Pub": "Astra Logical",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://astralogicalgames.itch.io/kaizen-a-factory-story",
+      "https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/"
+    ],
+    "Tags": [
+      "automation",
+      "indie",
+      "zach-like"
+    ],
+    "Updated": "2025-12-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Clifftop Games",
     "Engine": "Adventure Game Studio",
@@ -9294,6 +9361,39 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2001-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2025-12-25T00:00:00.000Z",
+    "Dev": "Alasdair Beckett-King, Application Systems Heidelberg",
+    "Engine": "ScummVM",
+    "Game": "Nelly Cootalot: Spoonbeaks Ahoy! HD",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "537",
+    "IgdbId": "90001",
+    "Pub": "Application Systems Heidelberg",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/nelly_cootalot_spoonbeaks_ahoy_hd",
+      "https://store.steampowered.com/app/763030/Nelly_Cootalot_Spoonbeaks_Ahoy_HD/"
+    ],
+    "Tags": [
+      "cute",
+      "female protagonist",
+      "indie"
+    ],
+    "Updated": "2025-12-25T00:00:00.000Z",
+    "Version": "1.01",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

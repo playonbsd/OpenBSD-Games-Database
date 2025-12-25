@@ -14,7 +14,8 @@ print-csv:
 	tools/gen_csv.pl openbsd-games.db
 
 json:
-	tools/gen_json.pl openbsd-games.db > openbsd-games.json
+	#single-line openbsd-games.json updates blow up repo size
+	#tools/gen_json.pl openbsd-games.db > openbsd-games.json
 	tools/gen_json.pl openbsd-games.db | jq '.' \
 		> openbsd-games-formatted.json
 

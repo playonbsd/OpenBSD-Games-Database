@@ -142,7 +142,8 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 2
+      "2025-12-24T00:00:00.000Z": 2,
+      "2025-12-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -150,7 +151,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 20
+      "2025-01-01T00:00:00.000Z": 23
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -193,7 +194,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 8
+      "2025-12-01T00:00:00.000Z": 11
     }
   },
   "Engine": {
@@ -205,7 +206,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 169,
+    "Godot": 170,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -218,7 +219,7 @@
     "LibGDX": 21,
     "Love2D": 35,
     "Mohawk Engine": 2,
-    "Mono": 3,
+    "Mono": 4,
     "MonoGame": 7,
     "NBlood": 1,
     "NW.js": 3,
@@ -232,7 +233,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 6,
+    "ScummVM": 7,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -787,7 +788,10 @@
     "Just Ignore Them",
     "REKKR: Sunken Land",
     "Woodworm",
-    "Randotura"
+    "Randotura",
+    "Babushka's Glitch Dungeon",
+    "Kaizen: A Factory Story",
+    "Nelly Cootalot: Spoonbeaks Ahoy! HD"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -832,12 +836,12 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 57,
-    "Point & Click Adventure": 6,
+    "Point & Click Adventure": 7,
     "Programming Puzzle": 1,
     "Puzzle": 43,
     "Puzzle Game": 3,
-    "Puzzle Platformer": 15,
-    "Puzzler": 8,
+    "Puzzle Platformer": 16,
+    "Puzzler": 9,
     "RPG": 32,
     "RTS": 13,
     "Racing": 2,
@@ -879,7 +883,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 179,
+    "IndieRunner": 182,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1065,19 +1069,20 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 2
+      "2025-12-24T00:00:00.000Z": 2,
+      "2025-12-25T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 353,
+      "launches": 356,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 353,
+      "1": 356,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1091,19 +1096,19 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 137,
+    "https://itch.io/": 139,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 448,
+    "https://store.steampowered.com/": 451,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 154,
+    "https://www.gog.com/": 155,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1143,6 +1148,7 @@
     "artsy": 1,
     "ascii": 1,
     "autobattler": 2,
+    "automation": 1,
     "award-winning": 2,
     "base-building": 2,
     "bears": 1,
@@ -1171,7 +1177,7 @@
     "crafting": 3,
     "crazy": 1,
     "crime": 1,
-    "cute": 6,
+    "cute": 7,
     "cyberpunk": 5,
     "dark": 1,
     "dark fantasy": 2,
@@ -1186,14 +1192,14 @@
     "dystopian": 1,
     "early access": 25,
     "educational": 1,
-    "exploration": 4,
+    "exploration": 5,
     "factory building": 1,
     "fangame": 1,
     "fantasy": 13,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
-    "female protagonist": 3,
+    "female protagonist": 5,
     "first person": 1,
     "first-person": 7,
     "flying": 1,
@@ -1217,7 +1223,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 251,
+    "indie": 254,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1242,6 +1248,7 @@
     "nature": 1,
     "nerd culture": 1,
     "noir": 1,
+    "nonlinear": 1,
     "nordic": 1,
     "nostalgia": 1,
     "old-school": 1,
@@ -1330,7 +1337,7 @@
     "wizard": 1,
     "word game": 4,
     "working simulator": 1,
-    "zach-like": 5,
+    "zach-like": 6,
     "zelda-like": 2,
     "zombies": 4
   },
@@ -1445,14 +1452,15 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 2
+      "2025-12-24T00:00:00.000Z": 2,
+      "2025-12-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 24
+      "2025-01-01T00:00:00.000Z": 27
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1482,7 +1490,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 8
+      "2025-12-01T00:00:00.000Z": 11
     }
   },
   "Year": {
@@ -1514,12 +1522,12 @@
     "2016": 26,
     "2017": 23,
     "2018": 27,
-    "2019": 25,
+    "2019": 26,
     "2020": 29,
     "2021": 50,
     "2022": 42,
     "2023": 38,
     "2024": 50,
-    "2025": 4
+    "2025": 6
   }
 }

@@ -9609,3 +9609,57 @@ Status	1 (2025-12-24)
 Added	2025-12-24
 Updated	2025-12-24
 IgdbId	325694
+
+Game	Babushka's Glitch Dungeon
+Id	535
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://jakeonaut.itch.io/glitch-dungeon-crystal https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/
+Hints
+Genre	Puzzle Platformer
+Tags	indie, exploration, nonlinear, female protagonist
+Year	2025
+Dev	pets club 2
+Pub	pets club 2
+Version	3.1.0.1
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	202482
+
+Game	Kaizen: A Factory Story
+Id	536
+Engine	Mono
+Setup	IndieRunner
+Runtime	mono
+Store	https://astralogicalgames.itch.io/kaizen-a-factory-story https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/
+Hints
+Genre	Puzzler
+Tags	indie, automation, zach-like
+Year	2025
+Dev	Coincidence
+Pub	Astra Logical
+Version
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	333883
+
+Game	Nelly Cootalot: Spoonbeaks Ahoy! HD
+Id	537
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/nelly_cootalot_spoonbeaks_ahoy_hd https://store.steampowered.com/app/763030/Nelly_Cootalot_Spoonbeaks_Ahoy_HD/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, cute, female protagonist
+Year	2019
+Dev	Alasdair Beckett-King, Application Systems Heidelberg
+Pub	Application Systems Heidelberg
+Version	1.01
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	90001

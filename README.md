@@ -10,7 +10,7 @@ Games that run on OpenBSD and are commercial/proprietary in nature and/or qualit
 
 Note: This may be subject to change in the future, so be sure to check regularly for updates to this README.md before working on the repository.
 
-At this point, the primary database is a text file `openbsd-games.db`. See below for its required format. Other output like `openbsd-games.json` is created from `openbsd-games.db` using make(1).
+At this point, the primary database is a text file `openbsd-games.db`. See below for its required format. Other output like `openbsd-games-formatted.json` is created from `openbsd-games.db` using make(1).
 
 To update the generated files after editing `openbsd-games.db`:
 
