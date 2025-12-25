@@ -143,7 +143,7 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 3
+      "2025-12-25T00:00:00.000Z": 5
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -151,7 +151,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 23
+      "2025-01-01T00:00:00.000Z": 25
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -194,7 +194,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 11
+      "2025-12-01T00:00:00.000Z": 13
     }
   },
   "Engine": {
@@ -217,7 +217,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 35,
+    "Love2D": 36,
     "Mohawk Engine": 2,
     "Mono": 4,
     "MonoGame": 7,
@@ -233,7 +233,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 7,
+    "ScummVM": 8,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -791,7 +791,9 @@
     "Randotura",
     "Babushka's Glitch Dungeon",
     "Kaizen: A Factory Story",
-    "Nelly Cootalot: Spoonbeaks Ahoy! HD"
+    "Nelly Cootalot: Spoonbeaks Ahoy! HD",
+    "Alum",
+    "quadrant"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -836,7 +838,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 57,
-    "Point & Click Adventure": 7,
+    "Point & Click Adventure": 8,
     "Programming Puzzle": 1,
     "Puzzle": 43,
     "Puzzle Game": 3,
@@ -845,7 +847,7 @@
     "RPG": 32,
     "RTS": 13,
     "Racing": 2,
-    "Rhythm Game": 1,
+    "Rhythm Game": 2,
     "Roguelike": 2,
     "Roguelite": 5,
     "Roguelite RPG": 1,
@@ -883,7 +885,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 182,
+    "IndieRunner": 184,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1070,19 +1072,19 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 3
+      "2025-12-25T00:00:00.000Z": 5
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 356,
+      "launches": 358,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 356,
+      "1": 358,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1096,12 +1098,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 139,
+    "https://itch.io/": 140,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 451,
+    "https://store.steampowered.com/": 453,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1126,12 +1128,12 @@
     "80s": 1,
     "Castlevania-like": 1,
     "FPS": 1,
-    "JRPG": 2,
+    "JRPG": 3,
     "LGBTQ": 1,
     "Lovecraftian": 5,
     "NSFW": 1,
     "ROM": 4,
-    "RPG": 2,
+    "RPG": 3,
     "Sokoban-style": 1,
     "Tetris-like": 1,
     "WW2": 1,
@@ -1184,7 +1186,7 @@
     "dark humor": 1,
     "deckbuilder": 3,
     "demo": 1,
-    "detective": 4,
+    "detective": 5,
     "dice": 1,
     "diegetic": 1,
     "dungeoncrawler": 4,
@@ -1223,7 +1225,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 254,
+    "indie": 256,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1239,7 +1241,7 @@
     "metroidvania": 2,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 9,
+    "minimalist": 10,
     "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
@@ -1453,14 +1455,14 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 3
+      "2025-12-25T00:00:00.000Z": 5
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 27
+      "2025-01-01T00:00:00.000Z": 29
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1490,7 +1492,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 11
+      "2025-12-01T00:00:00.000Z": 13
     }
   },
   "Year": {
@@ -1518,7 +1520,7 @@
     "2012": 20,
     "2013": 18,
     "2014": 18,
-    "2015": 17,
+    "2015": 19,
     "2016": 26,
     "2017": 23,
     "2018": 27,

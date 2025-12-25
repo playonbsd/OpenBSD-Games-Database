@@ -9663,3 +9663,39 @@ Status	1 (2025-12-25)
 Added	2025-12-25
 Updated	2025-12-25
 IgdbId	90001
+
+Game	Alum
+Id	538
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://store.steampowered.com/app/338420/Alum/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, RPG, JRPG, detective
+Year	2015
+Dev	Crashable Studios
+Pub	Crashable Studios
+Version
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	26873
+
+Game	quadrant
+Id	539
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://undef.itch.io/quadrant https://store.steampowered.com/app/365500/quadrant/
+Hints
+Genre	Rhythm Game
+Tags	indie, minimalist
+Year	2015
+Dev	undef
+Pub	undef
+Version
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	35355
