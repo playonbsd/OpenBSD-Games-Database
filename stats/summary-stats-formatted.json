@@ -142,7 +142,7 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 1
+      "2025-12-24T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -150,7 +150,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 19
+      "2025-01-01T00:00:00.000Z": 20
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -193,7 +193,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 7
+      "2025-12-01T00:00:00.000Z": 8
     }
   },
   "Engine": {
@@ -216,7 +216,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 34,
+    "Love2D": 35,
     "Mohawk Engine": 2,
     "Mono": 3,
     "MonoGame": 7,
@@ -786,7 +786,8 @@
     "Castlevania: Simon's Destiny",
     "Just Ignore Them",
     "REKKR: Sunken Land",
-    "Woodworm"
+    "Woodworm",
+    "Randotura"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -795,7 +796,7 @@
     "Action Adventure": 4,
     "Action Platformer": 12,
     "Action RPG": 9,
-    "Action Roguelike": 10,
+    "Action Roguelike": 11,
     "Adventure": 52,
     "Arcade": 1,
     "Arcade Platformer": 1,
@@ -878,7 +879,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 178,
+    "IndieRunner": 179,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1064,19 +1065,19 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 1
+      "2025-12-24T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 352,
+      "launches": 353,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 352,
+      "1": 353,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1095,7 +1096,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 447,
+    "https://store.steampowered.com/": 448,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1151,7 +1152,7 @@
     "body horror": 2,
     "boomer shooter": 1,
     "bottom-of-screen": 1,
-    "bullet hell": 7,
+    "bullet hell": 8,
     "cards": 1,
     "cartoon": 2,
     "casual": 10,
@@ -1216,7 +1217,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 250,
+    "indie": 251,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1444,14 +1445,14 @@
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
-      "2025-12-24T00:00:00.000Z": 1
+      "2025-12-24T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 23
+      "2025-01-01T00:00:00.000Z": 24
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1481,7 +1482,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 7
+      "2025-12-01T00:00:00.000Z": 8
     }
   },
   "Year": {
@@ -1518,7 +1519,7 @@
     "2021": 50,
     "2022": 42,
     "2023": 38,
-    "2024": 49,
+    "2024": 50,
     "2025": 4
   }
 }

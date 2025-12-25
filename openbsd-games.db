@@ -9591,3 +9591,21 @@ Status	1 (2025-12-24)
 Added	2025-12-24
 Updated	2025-12-24
 IgdbId	381485
+
+Game	Randotura
+Id	534
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/3283230/Randotura/
+Hints
+Genre	Action Roguelike
+Tags	indie, bullet hell
+Year	2024
+Dev	blinyadebil
+Pub	blinyadebil
+Version
+Status	1 (2025-12-24)
+Added	2025-12-24
+Updated	2025-12-24
+IgdbId	325694
