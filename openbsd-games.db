@@ -9573,3 +9573,21 @@ Status	1 (2025-12-12)
 Added	2025-12-12
 Updated	2025-12-12
 IgdbId	167786
+
+Game	Woodworm
+Id	533
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://spratt.itch.io/woodworm https://store.steampowered.com/app/3404590/Woodworm/
+Hints
+Genre	Puzzler
+Tags	indie, cute
+Year	2025
+Dev	Samuel Pratt
+Pub	Samuel Pratt
+Version
+Status	1 (2025-12-24)
+Added	2025-12-24
+Updated	2025-12-24
+IgdbId	381485

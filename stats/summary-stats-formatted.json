@@ -141,7 +141,8 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 4
+      "2025-12-12T00:00:00.000Z": 4,
+      "2025-12-24T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -149,7 +150,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 18
+      "2025-01-01T00:00:00.000Z": 19
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -192,7 +193,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 6
+      "2025-12-01T00:00:00.000Z": 7
     }
   },
   "Engine": {
@@ -215,7 +216,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 33,
+    "Love2D": 34,
     "Mohawk Engine": 2,
     "Mono": 3,
     "MonoGame": 7,
@@ -784,7 +785,8 @@
     "Project Osiris",
     "Castlevania: Simon's Destiny",
     "Just Ignore Them",
-    "REKKR: Sunken Land"
+    "REKKR: Sunken Land",
+    "Woodworm"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -834,7 +836,7 @@
     "Puzzle": 43,
     "Puzzle Game": 3,
     "Puzzle Platformer": 15,
-    "Puzzler": 7,
+    "Puzzler": 8,
     "RPG": 32,
     "RTS": 13,
     "Racing": 2,
@@ -876,7 +878,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 177,
+    "IndieRunner": 178,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1061,19 +1063,20 @@
       "2025-08-21T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 4
+      "2025-12-12T00:00:00.000Z": 4,
+      "2025-12-24T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 351,
+      "launches": 352,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 351,
+      "1": 352,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1087,12 +1090,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 136,
+    "https://itch.io/": 137,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 446,
+    "https://store.steampowered.com/": 447,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1167,7 +1170,7 @@
     "crafting": 3,
     "crazy": 1,
     "crime": 1,
-    "cute": 5,
+    "cute": 6,
     "cyberpunk": 5,
     "dark": 1,
     "dark fantasy": 2,
@@ -1213,7 +1216,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 249,
+    "indie": 250,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1440,14 +1443,15 @@
       "2025-08-23T00:00:00.000Z": 1,
       "2025-09-05T00:00:00.000Z": 1,
       "2025-12-08T00:00:00.000Z": 2,
-      "2025-12-12T00:00:00.000Z": 4
+      "2025-12-12T00:00:00.000Z": 4,
+      "2025-12-24T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 22
+      "2025-01-01T00:00:00.000Z": 23
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1477,7 +1481,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 6
+      "2025-12-01T00:00:00.000Z": 7
     }
   },
   "Year": {
@@ -1515,6 +1519,6 @@
     "2022": 42,
     "2023": 38,
     "2024": 49,
-    "2025": 3
+    "2025": 4
   }
 }

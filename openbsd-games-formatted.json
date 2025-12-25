@@ -16099,6 +16099,38 @@
     "Year": ""
   },
   {
+    "Added": "2025-12-24T00:00:00.000Z",
+    "Dev": "Samuel Pratt",
+    "Engine": "Love2D",
+    "Game": "Woodworm",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "533",
+    "IgdbId": "381485",
+    "Pub": "Samuel Pratt",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://spratt.itch.io/woodworm",
+      "https://store.steampowered.com/app/3404590/Woodworm/"
+    ],
+    "Tags": [
+      "cute",
+      "indie"
+    ],
+    "Updated": "2025-12-24T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Team9",
     "Engine": "Godot",
