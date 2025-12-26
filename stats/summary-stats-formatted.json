@@ -143,7 +143,8 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 5
+      "2025-12-25T00:00:00.000Z": 7,
+      "2025-12-26T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -151,7 +152,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 25
+      "2025-01-01T00:00:00.000Z": 28
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -194,7 +195,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 13
+      "2025-12-01T00:00:00.000Z": 16
     }
   },
   "Engine": {
@@ -206,7 +207,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 170,
+    "Godot": 172,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -233,7 +234,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 8,
+    "ScummVM": 9,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -793,7 +794,10 @@
     "Kaizen: A Factory Story",
     "Nelly Cootalot: Spoonbeaks Ahoy! HD",
     "Alum",
-    "quadrant"
+    "quadrant",
+    "Snow Problem",
+    "Super Greedy Cat",
+    "Hungry Horrors"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -808,6 +812,7 @@
     "Arcade Platformer": 1,
     "Boardgame": 1,
     "Brawler": 4,
+    "Card Battler": 1,
     "Card Game": 8,
     "City Builder": 5,
     "Colony Sim": 2,
@@ -837,13 +842,13 @@
     "Metroidvania": 9,
     "Mining": 1,
     "Physics": 1,
-    "Platformer": 57,
+    "Platformer": 58,
     "Point & Click Adventure": 8,
     "Programming Puzzle": 1,
     "Puzzle": 43,
     "Puzzle Game": 3,
     "Puzzle Platformer": 16,
-    "Puzzler": 9,
+    "Puzzler": 10,
     "RPG": 32,
     "RTS": 13,
     "Racing": 2,
@@ -885,7 +890,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 184,
+    "IndieRunner": 187,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1072,19 +1077,20 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 5
+      "2025-12-25T00:00:00.000Z": 7,
+      "2025-12-26T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 358,
+      "launches": 361,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 358,
+      "1": 361,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1098,12 +1104,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 140,
+    "https://itch.io/": 141,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 453,
+    "https://store.steampowered.com/": 456,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1163,8 +1169,8 @@
     "bullet hell": 8,
     "cards": 1,
     "cartoon": 2,
-    "casual": 10,
-    "cats": 5,
+    "casual": 11,
+    "cats": 6,
     "cellshade": 1,
     "charity": 1,
     "chess": 1,
@@ -1192,10 +1198,11 @@
     "dungeoncrawler": 4,
     "dystopia": 1,
     "dystopian": 1,
-    "early access": 25,
+    "early access": 26,
     "educational": 1,
     "exploration": 5,
     "factory building": 1,
+    "family-friendly": 1,
     "fangame": 1,
     "fantasy": 13,
     "farming": 1,
@@ -1206,6 +1213,7 @@
     "first-person": 7,
     "flying": 1,
     "free": 35,
+    "funny": 1,
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
@@ -1225,7 +1233,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 256,
+    "indie": 259,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1266,9 +1274,9 @@
     "physics": 3,
     "pixel": 1,
     "pixel art": 23,
-    "pixel graphics": 2,
+    "pixel graphics": 3,
     "pixel-art": 2,
-    "pixelart": 12,
+    "pixelart": 13,
     "pixels": 3,
     "platformer": 6,
     "point & click": 2,
@@ -1289,10 +1297,10 @@
     "real-time tactics": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 59,
+    "retro": 60,
     "robots": 1,
     "roguelike": 5,
-    "roguelite": 25,
+    "roguelite": 26,
     "running": 1,
     "sandbox": 1,
     "scifi": 12,
@@ -1455,14 +1463,15 @@
       "2025-12-08T00:00:00.000Z": 2,
       "2025-12-12T00:00:00.000Z": 4,
       "2025-12-24T00:00:00.000Z": 2,
-      "2025-12-25T00:00:00.000Z": 5
+      "2025-12-25T00:00:00.000Z": 7,
+      "2025-12-26T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 29
+      "2025-01-01T00:00:00.000Z": 32
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1492,7 +1501,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 13
+      "2025-12-01T00:00:00.000Z": 16
     }
   },
   "Year": {
@@ -1527,8 +1536,8 @@
     "2019": 26,
     "2020": 29,
     "2021": 50,
-    "2022": 42,
-    "2023": 38,
+    "2022": 43,
+    "2023": 39,
     "2024": 50,
     "2025": 6
   }

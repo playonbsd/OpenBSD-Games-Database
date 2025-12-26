@@ -9699,3 +9699,57 @@ Status	1 (2025-12-25)
 Added	2025-12-25
 Updated	2025-12-25
 IgdbId	35355
+
+Game	Snow Problem
+Id	540
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://store.steampowered.com/app/2097090/Snow_Problem/
+Hints
+Genre	Puzzler
+Tags	indie, casual, pixel graphics, retro
+Year	2022
+Dev	Dave Seaman
+Pub	Team Disaster
+Version
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	211848
+
+Game	Super Greedy Cat
+Id	541
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2127920/Super_Greedy_Cat/
+Hints
+Genre	Platformer
+Tags	indie, cats, family-friendly
+Year	2023
+Dev	DjokaGames
+Pub	DjokaGames
+Version
+Status	1 (2025-12-25)
+Added	2025-12-25
+Updated	2025-12-25
+IgdbId	216746
+
+Game	Hungry Horrors
+Id	542
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://clumsy-bear-studio.itch.io/hungry-horrors https://store.steampowered.com/app/3048840/Hungry_Horrors/
+Hints
+Genre	Card Battler
+Tags	indie, roguelite, funny, pixelart, early access
+Year
+Dev	Clumsy Bear Studio
+Pub	Clumsy Bear Studio
+Version 0.0.103
+Status	1 (2025-12-26)
+Added	2025-12-26
+Updated	2025-12-26
+IgdbId	315343

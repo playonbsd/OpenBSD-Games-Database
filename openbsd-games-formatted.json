@@ -7002,6 +7002,40 @@
     "Year": ""
   },
   {
+    "Added": "2025-12-26T00:00:00.000Z",
+    "Dev": "Clumsy Bear Studio",
+    "Engine": "Godot",
+    "Game": "Hungry Horrors",
+    "Genre": [
+      "Card Battler"
+    ],
+    "Hints": "",
+    "Id": "542",
+    "IgdbId": "315343",
+    "Pub": "Clumsy Bear Studio",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://clumsy-bear-studio.itch.io/hungry-horrors",
+      "https://store.steampowered.com/app/3048840/Hungry_Horrors/"
+    ],
+    "Tags": [
+      "early access",
+      "funny",
+      "indie",
+      "pixelart",
+      "roguelite"
+    ],
+    "Updated": "2025-12-26T00:00:00.000Z",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "FarSpace Studios",
     "Engine": "FNA",
@@ -12292,6 +12326,39 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-25T00:00:00.000Z",
+    "Dev": "Dave Seaman",
+    "Engine": "ScummVM",
+    "Game": "Snow Problem",
+    "Genre": [
+      "Puzzler"
+    ],
+    "Hints": "",
+    "Id": "540",
+    "IgdbId": "211848",
+    "Pub": "Team Disaster",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2097090/Snow_Problem/"
+    ],
+    "Tags": [
+      "casual",
+      "indie",
+      "pixel graphics",
+      "retro"
+    ],
+    "Updated": "2025-12-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-06-07T00:00:00.000Z",
     "Dev": "Daisy Games",
     "Engine": "Godot",
@@ -13470,6 +13537,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2025-12-25T00:00:00.000Z",
+    "Dev": "DjokaGames",
+    "Engine": "Godot",
+    "Game": "Super Greedy Cat",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "Id": "541",
+    "IgdbId": "216746",
+    "Pub": "DjokaGames",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2127920/Super_Greedy_Cat/"
+    ],
+    "Tags": [
+      "cats",
+      "family-friendly",
+      "indie"
+    ],
+    "Updated": "2025-12-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
