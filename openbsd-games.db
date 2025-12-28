@@ -9789,3 +9789,21 @@ Status	1 (2025-12-27)
 Added	2025-12-27
 Updated	2025-12-27
 IgdbId	336896
+
+Game	Strange Jigsaws
+Id	545
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2702170/Strange_Jigsaws/
+Hints
+Genre	Puzzle
+Tags	indie, casual, colorful
+Year	2025
+Dev	FLEB
+Pub	FLEB
+Version	1.0.3.8
+Status	1 (2025-12-28)
+Added	2025-12-28
+Updated	2025-12-28
+IgdbId	337338
