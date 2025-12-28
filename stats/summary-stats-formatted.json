@@ -145,7 +145,7 @@
       "2025-12-24T00:00:00.000Z": 2,
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
-      "2025-12-27T00:00:00.000Z": 1
+      "2025-12-27T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -153,7 +153,7 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 29
+      "2025-01-01T00:00:00.000Z": 30
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -196,7 +196,7 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 17
+      "2025-12-01T00:00:00.000Z": 18
     }
   },
   "Engine": {
@@ -219,7 +219,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 36,
+    "Love2D": 37,
     "Mohawk Engine": 2,
     "Mono": 4,
     "MonoGame": 7,
@@ -799,7 +799,8 @@
     "Snow Problem",
     "Super Greedy Cat",
     "Hungry Horrors",
-    "Pathway"
+    "Pathway",
+    "Ascent DX"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -841,7 +842,7 @@
     "Life Simulator": 1,
     "MMORPG": 1,
     "Management Simulator": 1,
-    "Metroidvania": 9,
+    "Metroidvania": 10,
     "Mining": 1,
     "Physics": 1,
     "Platformer": 58,
@@ -892,7 +893,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 188,
+    "IndieRunner": 189,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1081,19 +1082,19 @@
       "2025-12-24T00:00:00.000Z": 2,
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
-      "2025-12-27T00:00:00.000Z": 1
+      "2025-12-27T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 362,
+      "launches": 363,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 362,
+      "1": 363,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1112,7 +1113,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 456,
+    "https://store.steampowered.com/": 457,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1158,6 +1159,7 @@
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
+    "atmospheric": 1,
     "autobattler": 2,
     "automation": 1,
     "award-winning": 2,
@@ -1203,7 +1205,7 @@
     "dystopian": 1,
     "early access": 26,
     "educational": 1,
-    "exploration": 5,
+    "exploration": 6,
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 1,
@@ -1215,7 +1217,7 @@
     "first person": 1,
     "first-person": 7,
     "flying": 1,
-    "free": 35,
+    "free": 36,
     "funny": 1,
     "furry": 2,
     "gambling": 2,
@@ -1236,7 +1238,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 260,
+    "indie": 261,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1306,7 +1308,7 @@
     "roguelite": 26,
     "running": 1,
     "sandbox": 1,
-    "scifi": 13,
+    "scifi": 14,
     "settlers": 1,
     "shooter": 4,
     "short": 2,
@@ -1470,14 +1472,14 @@
       "2025-12-24T00:00:00.000Z": 2,
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
-      "2025-12-27T00:00:00.000Z": 1
+      "2025-12-27T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 33
+      "2025-01-01T00:00:00.000Z": 34
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1507,7 +1509,7 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 17
+      "2025-12-01T00:00:00.000Z": 18
     }
   },
   "Year": {
@@ -1545,6 +1547,6 @@
     "2022": 43,
     "2023": 39,
     "2024": 50,
-    "2025": 6
+    "2025": 7
   }
 }

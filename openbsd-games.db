@@ -9771,3 +9771,21 @@ Status	1 (2025-12-27)
 Added	2025-12-27
 Updated	2025-12-27
 IgdbId	133975
+
+Game	Ascent DX
+Id	544
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/3384890/Ascent_DX/
+Hints
+Genre	Metroidvania
+Tags	indie, scifi, free, atmospheric, exploration
+Year	2025
+Dev	Johan Peitz, Vav
+Pub	Apskeppet
+Version
+Status	1 (2025-12-27)
+Added	2025-12-27
+Updated	2025-12-27
+IgdbId	336896

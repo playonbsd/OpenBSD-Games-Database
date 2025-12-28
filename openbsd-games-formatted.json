@@ -945,6 +945,40 @@
     "Year": "2002-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2025-12-27T00:00:00.000Z",
+    "Dev": "Johan Peitz, Vav",
+    "Engine": "Love2D",
+    "Game": "Ascent DX",
+    "Genre": [
+      "Metroidvania"
+    ],
+    "Hints": "",
+    "Id": "544",
+    "IgdbId": "336896",
+    "Pub": "Apskeppet",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2025-12-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3384890/Ascent_DX/"
+    ],
+    "Tags": [
+      "atmospheric",
+      "exploration",
+      "free",
+      "indie",
+      "scifi"
+    ],
+    "Updated": "2025-12-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-12-31T00:00:00.000Z",
     "Dev": "Orangepixel",
     "Engine": "LibGDX",
