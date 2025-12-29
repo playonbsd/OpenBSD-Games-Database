@@ -23,7 +23,8 @@ print-json:
 	@tools/gen_json.pl openbsd-games.db | jq -C '.'
 
 stats:
-	stats/gen_stats.pl openbsd-games.db > stats/summary-stats.json
+	#single-line summary-stats.json updates blow up repo size
+	#stats/gen_stats.pl openbsd-games.db > stats/summary-stats.json
 	stats/gen_stats.pl openbsd-games.db | jq '.' \
 		> stats/summary-stats-formatted.json
 
