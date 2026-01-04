@@ -146,7 +146,8 @@
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
       "2025-12-27T00:00:00.000Z": 2,
-      "2025-12-28T00:00:00.000Z": 1
+      "2025-12-28T00:00:00.000Z": 1,
+      "2026-01-03T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -154,7 +155,8 @@
       "2022-01-01T00:00:00.000Z": 50,
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
-      "2025-01-01T00:00:00.000Z": 31
+      "2025-01-01T00:00:00.000Z": 31,
+      "2026-01-01T00:00:00.000Z": 1
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -197,7 +199,8 @@
       "2025-07-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 19
+      "2025-12-01T00:00:00.000Z": 19,
+      "2026-01-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -245,7 +248,7 @@
     "Toon": 1,
     "Virtual Theatre": 2,
     "Wintermute": 1,
-    "XNA": 24,
+    "XNA": 25,
     "amnesia-tdd": 1,
     "custom engine": 1,
     "eduke32": 2,
@@ -802,7 +805,8 @@
     "Hungry Horrors",
     "Pathway",
     "Ascent DX",
-    "Strange Jigsaws"
+    "Strange Jigsaws",
+    "Spellatro"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -850,7 +854,7 @@
     "Platformer": 58,
     "Point & Click Adventure": 8,
     "Programming Puzzle": 1,
-    "Puzzle": 45,
+    "Puzzle": 46,
     "Puzzle Game": 3,
     "Puzzle Platformer": 16,
     "Puzzler": 10,
@@ -895,7 +899,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 190,
+    "IndieRunner": 191,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1085,19 +1089,20 @@
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
       "2025-12-27T00:00:00.000Z": 2,
-      "2025-12-28T00:00:00.000Z": 1
+      "2025-12-28T00:00:00.000Z": 1,
+      "2026-01-03T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 364,
+      "launches": 365,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 364,
+      "1": 365,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1111,12 +1116,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 142,
+    "https://itch.io/": 143,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 458,
+    "https://store.steampowered.com/": 459,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1198,6 +1203,7 @@
     "dark": 1,
     "dark fantasy": 2,
     "dark humor": 1,
+    "deck-building": 1,
     "deckbuilder": 3,
     "demo": 1,
     "detective": 5,
@@ -1241,7 +1247,7 @@
     "horror": 12,
     "humor": 13,
     "idler": 2,
-    "indie": 262,
+    "indie": 263,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1257,7 +1263,7 @@
     "metroidvania": 2,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 10,
+    "minimalist": 11,
     "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
@@ -1355,7 +1361,7 @@
     "weird": 1,
     "wholesome": 1,
     "wizard": 1,
-    "word game": 4,
+    "word game": 5,
     "working simulator": 1,
     "zach-like": 6,
     "zelda-like": 2,
@@ -1476,14 +1482,16 @@
       "2025-12-25T00:00:00.000Z": 7,
       "2025-12-26T00:00:00.000Z": 1,
       "2025-12-27T00:00:00.000Z": 2,
-      "2025-12-28T00:00:00.000Z": 1
+      "2025-12-28T00:00:00.000Z": 1,
+      "2026-01-03T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
       "2022-01-01T00:00:00.000Z": 2,
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
-      "2025-01-01T00:00:00.000Z": 35
+      "2025-01-01T00:00:00.000Z": 35,
+      "2026-01-01T00:00:00.000Z": 1
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1513,7 +1521,8 @@
       "2025-06-01T00:00:00.000Z": 1,
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
-      "2025-12-01T00:00:00.000Z": 19
+      "2025-12-01T00:00:00.000Z": 19,
+      "2026-01-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1551,6 +1560,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 50,
-    "2025": 8
+    "2025": 8,
+    "2026": 1
   }
 }

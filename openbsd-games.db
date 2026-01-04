@@ -9807,3 +9807,21 @@ Status	1 (2025-12-28)
 Added	2025-12-28
 Updated	2025-12-28
 IgdbId	337338
+
+Game	Spellatro
+Id	546
+Engine	XNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://bootdiskrevolution.itch.io/spellatro https://store.steampowered.com/app/3785350/Spellatro/
+Hints
+Genre	Puzzle
+Tags	indie, minimalist, deck-building, word game
+Year	2026
+Dev	BootdiskRevolution
+Pub	BootdiskRevolution
+Version
+Status	1 (2026-01-03)
+Added	2026-01-03
+Updated	2026-01-03
+IgdbId	373285

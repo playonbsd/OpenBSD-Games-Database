@@ -12882,6 +12882,40 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-03T00:00:00.000Z",
+    "Dev": "BootdiskRevolution",
+    "Engine": "XNA",
+    "Game": "Spellatro",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "546",
+    "IgdbId": "373285",
+    "Pub": "BootdiskRevolution",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-03T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://bootdiskrevolution.itch.io/spellatro",
+      "https://store.steampowered.com/app/3785350/Spellatro/"
+    ],
+    "Tags": [
+      "deck-building",
+      "indie",
+      "minimalist",
+      "word game"
+    ],
+    "Updated": "2026-01-03T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-12-10T00:00:00.000Z",
     "Dev": "Xendra",
     "Engine": "Godot",
