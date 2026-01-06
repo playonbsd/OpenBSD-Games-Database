@@ -9825,3 +9825,21 @@ Status	1 (2026-01-03)
 Added	2026-01-03
 Updated	2026-01-03
 IgdbId	373285
+
+Game	Hell Builder
+Id	547
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/3842300/Hell_Builder/
+Hints
+Genre	Strategy Roguelite
+Tags	indie, city builder
+Year	2025
+Dev	Cuddle Code
+Pub	Cuddle Code
+Version
+Status	1 (2026-01-05)
+Added	2026-01-05
+Updated	2026-01-05
+IgdbId	352221

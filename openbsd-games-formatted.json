@@ -6640,6 +6640,37 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-05T00:00:00.000Z",
+    "Dev": "Cuddle Code",
+    "Engine": "Godot",
+    "Game": "Hell Builder",
+    "Genre": [
+      "Strategy Roguelite"
+    ],
+    "Hints": "",
+    "Id": "547",
+    "IgdbId": "352221",
+    "Pub": "Cuddle Code",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-05T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3842300/Hell_Builder/"
+    ],
+    "Tags": [
+      "city builder",
+      "indie"
+    ],
+    "Updated": "2026-01-05T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-11-09T00:00:00.000Z",
     "Dev": "Tissue Inu",
     "Engine": "Godot",
