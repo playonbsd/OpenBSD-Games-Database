@@ -9843,3 +9843,21 @@ Status	1 (2026-01-05)
 Added	2026-01-05
 Updated	2026-01-05
 IgdbId	352221
+
+Game	House of Necrosis
+Id	548
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2005870/House_of_Necrosis/
+Hints	demo on itch.io
+Genre	RPG
+Tags	indie, retro, mystery dungeon, horror, 3d, 90s
+Year	2025
+Dev	Warkus
+Pub	Warkus
+Version
+Status	1 (2026-01-05)
+Added	2026-01-05
+Updated	2026-01-05
+IgdbId	206009

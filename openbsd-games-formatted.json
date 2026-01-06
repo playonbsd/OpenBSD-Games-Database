@@ -7037,6 +7037,41 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-05T00:00:00.000Z",
+    "Dev": "Warkus",
+    "Engine": "Godot",
+    "Game": "House of Necrosis",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "demo on itch.io",
+    "Id": "548",
+    "IgdbId": "206009",
+    "Pub": "Warkus",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-05T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2005870/House_of_Necrosis/"
+    ],
+    "Tags": [
+      "3d",
+      "90s",
+      "horror",
+      "indie",
+      "mystery dungeon",
+      "retro"
+    ],
+    "Updated": "2026-01-05T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Leocesar3D Productions",
     "Engine": "Godot",

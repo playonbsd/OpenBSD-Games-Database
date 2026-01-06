@@ -148,7 +148,7 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 1
+      "2026-01-05T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -157,7 +157,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 2
+      "2026-01-01T00:00:00.000Z": 3
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -201,7 +201,7 @@
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 2
+      "2026-01-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -213,7 +213,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 175,
+    "Godot": 176,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -808,7 +808,8 @@
     "Ascent DX",
     "Strange Jigsaws",
     "Spellatro",
-    "Hell Builder"
+    "Hell Builder",
+    "House of Necrosis"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -860,7 +861,7 @@
     "Puzzle Game": 3,
     "Puzzle Platformer": 16,
     "Puzzler": 10,
-    "RPG": 32,
+    "RPG": 33,
     "RTS": 13,
     "Racing": 2,
     "Rhythm Game": 2,
@@ -902,7 +903,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 192,
+    "IndieRunner": 193,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1094,19 +1095,19 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 1
+      "2026-01-05T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 366,
+      "launches": 367,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 366,
+      "1": 367,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1125,7 +1126,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 460,
+    "https://store.steampowered.com/": 461,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1144,10 +1145,11 @@
     "2bit": 1,
     "2d": 1,
     "3D": 3,
-    "3d": 3,
+    "3d": 4,
     "4X": 3,
     "6DOF": 2,
     "80s": 1,
+    "90s": 1,
     "Castlevania-like": 1,
     "FPS": 1,
     "JRPG": 3,
@@ -1249,10 +1251,10 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 12,
+    "horror": 13,
     "humor": 13,
     "idler": 2,
-    "indie": 264,
+    "indie": 265,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1273,6 +1275,7 @@
     "monochrome": 1,
     "multiplayer": 17,
     "mystery": 3,
+    "mystery dungeon": 1,
     "mythology": 1,
     "nature": 1,
     "nerd culture": 1,
@@ -1316,7 +1319,7 @@
     "real-time tactics": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 60,
+    "retro": 61,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 26,
@@ -1489,7 +1492,7 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 1
+      "2026-01-05T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1497,7 +1500,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 2
+      "2026-01-01T00:00:00.000Z": 3
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1528,7 +1531,7 @@
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 2
+      "2026-01-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -1566,7 +1569,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 50,
-    "2025": 9,
+    "2025": 10,
     "2026": 1
   }
 }
