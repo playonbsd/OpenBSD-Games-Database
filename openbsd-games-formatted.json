@@ -3447,6 +3447,41 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-07T00:00:00.000Z",
+    "Dev": "Blender Studio",
+    "Engine": "Godot",
+    "Game": "DOGWALK",
+    "Genre": [
+      "Interactive Story"
+    ],
+    "Hints": "",
+    "Id": "549",
+    "IgdbId": "348639",
+    "Pub": "Blender Studio",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-07T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://blenderstudio.itch.io/dogwalk",
+      "https://store.steampowered.com/app/3775050/DOGWALK/"
+    ],
+    "Tags": [
+      "casual",
+      "dog",
+      "free",
+      "indie",
+      "wholesome"
+    ],
+    "Updated": "2026-01-07T00:00:00.000Z",
+    "Version": "1.0.4",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Sundae Month",
     "Engine": "MonoGame",

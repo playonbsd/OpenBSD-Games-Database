@@ -9861,3 +9861,21 @@ Status	1 (2026-01-05)
 Added	2026-01-05
 Updated	2026-01-05
 IgdbId	206009
+
+Game	DOGWALK
+Id	549
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://blenderstudio.itch.io/dogwalk https://store.steampowered.com/app/3775050/DOGWALK/
+Hints
+Genre	Interactive Story
+Tags	indie, free, casual, wholesome, dog
+Year	2025
+Dev	Blender Studio
+Pub	Blender Studio
+Version	1.0.4
+Status	1 (2026-01-07)
+Added	2026-01-07
+Updated	2026-01-07
+IgdbId	348639

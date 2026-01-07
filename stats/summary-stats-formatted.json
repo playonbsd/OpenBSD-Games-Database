@@ -148,7 +148,8 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 2
+      "2026-01-05T00:00:00.000Z": 2,
+      "2026-01-07T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -157,7 +158,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 3
+      "2026-01-01T00:00:00.000Z": 4
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -201,7 +202,7 @@
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 3
+      "2026-01-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -213,7 +214,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 176,
+    "Godot": 177,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -809,7 +810,8 @@
     "Strange Jigsaws",
     "Spellatro",
     "Hell Builder",
-    "House of Necrosis"
+    "House of Necrosis",
+    "DOGWALK"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -846,6 +848,7 @@
     "Horror": 3,
     "Idler": 1,
     "Immersive Sim": 3,
+    "Interactive Story": 1,
     "JRPG": 2,
     "Life Sim": 1,
     "Life Simulator": 1,
@@ -903,7 +906,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 193,
+    "IndieRunner": 194,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1095,19 +1098,20 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 2
+      "2026-01-05T00:00:00.000Z": 2,
+      "2026-01-07T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 16,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 367,
+      "launches": 368,
       "major bugs": 17,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 367,
+      "1": 368,
       "2": 17,
       "3": 6,
       "4": 1,
@@ -1121,12 +1125,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 143,
+    "https://itch.io/": 144,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 461,
+    "https://store.steampowered.com/": 462,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1188,7 +1192,7 @@
     "bullet hell": 8,
     "cards": 1,
     "cartoon": 2,
-    "casual": 12,
+    "casual": 13,
     "cats": 6,
     "cellshade": 1,
     "charity": 1,
@@ -1216,6 +1220,7 @@
     "detective": 5,
     "dice": 1,
     "diegetic": 1,
+    "dog": 1,
     "dungeoncrawler": 4,
     "dystopia": 1,
     "dystopian": 1,
@@ -1233,7 +1238,7 @@
     "first person": 1,
     "first-person": 7,
     "flying": 1,
-    "free": 36,
+    "free": 37,
     "funny": 1,
     "furry": 2,
     "gambling": 2,
@@ -1254,7 +1259,7 @@
     "horror": 13,
     "humor": 13,
     "idler": 2,
-    "indie": 265,
+    "indie": 266,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1367,7 +1372,7 @@
     "voxel": 3,
     "wargame": 1,
     "weird": 1,
-    "wholesome": 1,
+    "wholesome": 2,
     "wizard": 1,
     "word game": 5,
     "working simulator": 1,
@@ -1492,7 +1497,8 @@
       "2025-12-27T00:00:00.000Z": 2,
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
-      "2026-01-05T00:00:00.000Z": 2
+      "2026-01-05T00:00:00.000Z": 2,
+      "2026-01-07T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1500,7 +1506,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 3
+      "2026-01-01T00:00:00.000Z": 4
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1531,7 +1537,7 @@
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 3
+      "2026-01-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1569,7 +1575,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 50,
-    "2025": 10,
+    "2025": 11,
     "2026": 1
   }
 }
