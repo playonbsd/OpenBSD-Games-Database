@@ -7079,7 +7079,7 @@
     "Genre": [
       "RPG"
     ],
-    "Hints": "demo on itch.io",
+    "Hints": "demo on itch.io; crashes to CLI after dying",
     "Id": "548",
     "IgdbId": "206009",
     "Pub": "Warkus",
@@ -7087,9 +7087,9 @@
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2026-01-05T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusDate": "2026-01-07T00:00:00.000Z",
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://store.steampowered.com/app/2005870/House_of_Necrosis/"
@@ -7102,7 +7102,7 @@
       "mystery dungeon",
       "retro"
     ],
-    "Updated": "2026-01-05T00:00:00.000Z",
+    "Updated": "2026-01-07T00:00:00.000Z",
     "Version": "",
     "Year": "2025-01-01T00:00:00.000Z"
   },

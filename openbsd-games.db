@@ -9850,16 +9850,16 @@ Engine	Godot
 Setup	IndieRunner
 Runtime	godot
 Store	https://store.steampowered.com/app/2005870/House_of_Necrosis/
-Hints	demo on itch.io
+Hints	demo on itch.io; crashes to CLI after dying
 Genre	RPG
 Tags	indie, retro, mystery dungeon, horror, 3d, 90s
 Year	2025
 Dev	Warkus
 Pub	Warkus
 Version
-Status	1 (2026-01-05)
+Status	2 (2026-01-07)
 Added	2026-01-05
-Updated	2026-01-05
+Updated	2026-01-07
 IgdbId	206009
 
 Game	DOGWALK
