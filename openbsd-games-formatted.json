@@ -6398,6 +6398,40 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-09T00:00:00.000Z",
+    "Dev": "RamoramaInteractive",
+    "Engine": "ScummVM",
+    "Game": "Gurk in Trouble - A Yip Quest Story",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "550",
+    "IgdbId": "318337",
+    "Pub": "RamoramaInteractive",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-09T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://ramoramainteractive.itch.io/gurk-in-trouble-a-yip-quest-story"
+    ],
+    "Tags": [
+      "cartoon",
+      "comedy",
+      "fantasy",
+      "free",
+      "indie"
+    ],
+    "Updated": "2026-01-09T00:00:00.000Z",
+    "Version": "1.0.0",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Daisy Games",
     "Engine": "Godot",
@@ -7168,6 +7202,7 @@
       "roguelite"
     ],
     "Updated": "2025-12-26T00:00:00.000Z",
+    "Version": "0.0.103",
     "Year": ""
   },
   {
@@ -10407,6 +10442,7 @@
       "text-based"
     ],
     "Updated": "2025-12-27T00:00:00.000Z",
+    "Version": "2.0.1",
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {

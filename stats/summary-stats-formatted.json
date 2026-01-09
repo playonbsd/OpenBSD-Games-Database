@@ -149,7 +149,8 @@
       "2025-12-28T00:00:00.000Z": 1,
       "2026-01-03T00:00:00.000Z": 1,
       "2026-01-05T00:00:00.000Z": 2,
-      "2026-01-07T00:00:00.000Z": 1
+      "2026-01-07T00:00:00.000Z": 1,
+      "2026-01-09T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -158,7 +159,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 4
+      "2026-01-01T00:00:00.000Z": 5
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -202,7 +203,7 @@
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 4
+      "2026-01-01T00:00:00.000Z": 5
     }
   },
   "Engine": {
@@ -241,7 +242,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 9,
+    "ScummVM": 10,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -811,7 +812,8 @@
     "Spellatro",
     "Hell Builder",
     "House of Necrosis",
-    "DOGWALK"
+    "DOGWALK",
+    "Gurk in Trouble - A Yip Quest Story"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -858,7 +860,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 58,
-    "Point & Click Adventure": 8,
+    "Point & Click Adventure": 9,
     "Programming Puzzle": 1,
     "Puzzle": 46,
     "Puzzle Game": 3,
@@ -906,7 +908,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 194,
+    "IndieRunner": 195,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1100,19 +1102,20 @@
       "2026-01-03T00:00:00.000Z": 1,
       "2026-01-05T00:00:00.000Z": 1,
       "2026-01-07T00:00:00.000Z": 2,
+      "2026-01-09T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 17,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 366,
+      "launches": 367,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 366,
+      "1": 367,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1126,7 +1129,7 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 144,
+    "https://itch.io/": 145,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
@@ -1192,7 +1195,7 @@
     "bottom-of-screen": 1,
     "bullet hell": 8,
     "cards": 1,
-    "cartoon": 2,
+    "cartoon": 3,
     "casual": 13,
     "cats": 6,
     "cellshade": 1,
@@ -1204,7 +1207,7 @@
     "collection": 1,
     "colorful": 5,
     "colors": 1,
-    "comedy": 6,
+    "comedy": 7,
     "conspiracy": 1,
     "cozy": 1,
     "crafting": 3,
@@ -1231,7 +1234,7 @@
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 1,
-    "fantasy": 14,
+    "fantasy": 15,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1239,7 +1242,7 @@
     "first person": 1,
     "first-person": 7,
     "flying": 1,
-    "free": 37,
+    "free": 38,
     "funny": 1,
     "furry": 2,
     "gambling": 2,
@@ -1260,7 +1263,7 @@
     "horror": 13,
     "humor": 13,
     "idler": 2,
-    "indie": 266,
+    "indie": 267,
     "indie classic": 1,
     "investigation": 2,
     "life sim": 1,
@@ -1500,6 +1503,7 @@
       "2026-01-03T00:00:00.000Z": 1,
       "2026-01-05T00:00:00.000Z": 1,
       "2026-01-07T00:00:00.000Z": 2,
+      "2026-01-09T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 1
     },
     "Year": {
@@ -1508,7 +1512,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 5
+      "2026-01-01T00:00:00.000Z": 6
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1539,7 +1543,7 @@
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
-      "2026-01-01T00:00:00.000Z": 5
+      "2026-01-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1576,7 +1580,7 @@
     "2021": 50,
     "2022": 43,
     "2023": 39,
-    "2024": 50,
+    "2024": 51,
     "2025": 11,
     "2026": 1
   }
