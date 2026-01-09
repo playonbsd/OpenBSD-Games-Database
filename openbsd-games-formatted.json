@@ -16611,9 +16611,9 @@
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2025-12-24T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusDate": "2026-01-18T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
     },
     "Store": [
       "https://spratt.itch.io/woodworm",
@@ -16623,7 +16623,7 @@
       "cute",
       "indie"
     ],
-    "Updated": "2025-12-24T00:00:00.000Z",
+    "Updated": "2026-01-18T00:00:00.000Z",
     "Version": "",
     "Year": "2025-01-01T00:00:00.000Z"
   },
