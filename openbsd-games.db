@@ -9897,3 +9897,21 @@ Status	1 (2026-01-09)
 Added	2026-01-09
 Updated	2026-01-09
 IgdbId	318337
+
+Game	A Case of Fraud
+Id	551
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4??
+Store	https://store.steampowered.com/app/3036350/A_Case_of_Fraud/
+Hints	needs a binary for Godot 4.5+; which is being planned to be added
+Genre	Detective Mystery
+Tags	indie, mystery, puzzle, deduction
+Year	2025
+Dev	Hesperus Games
+Pub	Hesperus Games
+Version
+Status	5 (2026-01-11)
+Added	2026-01-09
+Updated	2026-01-11
+IgdbId	325352

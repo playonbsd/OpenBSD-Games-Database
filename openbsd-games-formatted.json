@@ -100,6 +100,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-09T00:00:00.000Z",
+    "Dev": "Hesperus Games",
+    "Engine": "Godot",
+    "Game": "A Case of Fraud",
+    "Genre": [
+      "Detective Mystery"
+    ],
+    "Hints": "needs a binary for Godot 4.5+; which is being planned to be added",
+    "Id": "551",
+    "IgdbId": "325352",
+    "Pub": "Hesperus Games",
+    "Runtime": "godot4??",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-11T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3036350/A_Case_of_Fraud/"
+    ],
+    "Tags": [
+      "deduction",
+      "indie",
+      "mystery",
+      "puzzle"
+    ],
+    "Updated": "2026-01-11T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-13T00:00:00.000Z",
     "Dev": "Devcats",
     "Engine": "Godot",
