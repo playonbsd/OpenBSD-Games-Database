@@ -14120,6 +14120,36 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-18T00:00:00.000Z",
+    "Dev": "Noah Games",
+    "Engine": "Godot",
+    "Game": "Tabulo",
+    "Genre": [
+      "Roguelike Deckbuilder"
+    ],
+    "Hints": "needs Godot 4.5+ runtime",
+    "Id": "553",
+    "IgdbId": "337994",
+    "Pub": "Noah Games",
+    "Runtime": "godot4?!?!",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3538860/Tabulo/"
+    ],
+    "Tags": [
+      "indie"
+    ],
+    "Updated": "2026-01-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-04-28T00:00:00.000Z",
     "Dev": "Post Mortem Pixels",
     "Engine": "Godot",
@@ -16194,6 +16224,40 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "1.0.0+91b",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-01-17T00:00:00.000Z",
+    "Dev": "evilalbert",
+    "Engine": "Godot",
+    "Game": "Utter a Name",
+    "Genre": [
+      "Detective Mystery"
+    ],
+    "Hints": "",
+    "Id": "552",
+    "IgdbId": "326216",
+    "Pub": "evilalbert",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3213430/Utter_a_Name/"
+    ],
+    "Tags": [
+      "difficult",
+      "indie",
+      "investigation",
+      "mystery",
+      "puzzle"
+    ],
+    "Updated": "2026-01-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-05-15T00:00:00.000Z",

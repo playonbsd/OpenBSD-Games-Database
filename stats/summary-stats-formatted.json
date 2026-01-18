@@ -150,7 +150,9 @@
       "2026-01-03T00:00:00.000Z": 1,
       "2026-01-05T00:00:00.000Z": 2,
       "2026-01-07T00:00:00.000Z": 1,
-      "2026-01-09T00:00:00.000Z": 2
+      "2026-01-09T00:00:00.000Z": 2,
+      "2026-01-17T00:00:00.000Z": 1,
+      "2026-01-18T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -159,7 +161,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 6
+      "2026-01-01T00:00:00.000Z": 8
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -203,7 +205,7 @@
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 6
+      "2026-01-01T00:00:00.000Z": 8
     }
   },
   "Engine": {
@@ -215,7 +217,7 @@
     "FNA": 80,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 178,
+    "Godot": 180,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -814,7 +816,9 @@
     "House of Necrosis",
     "DOGWALK",
     "Gurk in Trouble - A Yip Quest Story",
-    "A Case of Fraud"
+    "A Case of Fraud",
+    "Utter a Name",
+    "Tabulo"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -835,7 +839,7 @@
     "Colony Sim": 2,
     "Cooking": 1,
     "Deckbuilder": 1,
-    "Detective Mystery": 1,
+    "Detective Mystery": 2,
     "Dungeon Crawler": 6,
     "Exploration": 1,
     "FMV": 1,
@@ -873,6 +877,7 @@
     "Racing": 2,
     "Rhythm Game": 2,
     "Roguelike": 2,
+    "Roguelike Deckbuilder": 1,
     "Roguelite": 5,
     "Roguelite RPG": 1,
     "Sandbox": 2,
@@ -910,7 +915,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 196,
+    "IndieRunner": 197,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1106,19 +1111,20 @@
       "2026-01-07T00:00:00.000Z": 2,
       "2026-01-09T00:00:00.000Z": 1,
       "2026-01-11T00:00:00.000Z": 1,
-      "2026-01-18T00:00:00.000Z": 1
+      "2026-01-17T00:00:00.000Z": 1,
+      "2026-01-18T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 18,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 367,
+      "launches": 369,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 367,
+      "1": 369,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1137,7 +1143,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 463,
+    "https://store.steampowered.com/": 465,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1228,6 +1234,7 @@
     "detective": 5,
     "dice": 1,
     "diegetic": 1,
+    "difficult": 1,
     "dog": 1,
     "dungeoncrawler": 4,
     "dystopia": 1,
@@ -1267,9 +1274,9 @@
     "horror": 13,
     "humor": 13,
     "idler": 2,
-    "indie": 268,
+    "indie": 270,
     "indie classic": 1,
-    "investigation": 2,
+    "investigation": 3,
     "life sim": 1,
     "local multiplayer": 1,
     "logic": 2,
@@ -1287,7 +1294,7 @@
     "mining": 1,
     "monochrome": 1,
     "multiplayer": 17,
-    "mystery": 4,
+    "mystery": 5,
     "mystery dungeon": 1,
     "mythology": 1,
     "nature": 1,
@@ -1325,7 +1332,7 @@
     "prototype": 1,
     "psychedelic": 1,
     "psychological horror": 1,
-    "puzzle": 8,
+    "puzzle": 9,
     "quicktime": 1,
     "quirky": 3,
     "racing": 1,
@@ -1509,7 +1516,8 @@
       "2026-01-07T00:00:00.000Z": 2,
       "2026-01-09T00:00:00.000Z": 1,
       "2026-01-11T00:00:00.000Z": 1,
-      "2026-01-18T00:00:00.000Z": 1
+      "2026-01-17T00:00:00.000Z": 1,
+      "2026-01-18T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1517,7 +1525,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 7
+      "2026-01-01T00:00:00.000Z": 9
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1548,7 +1556,7 @@
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
-      "2026-01-01T00:00:00.000Z": 7
+      "2026-01-01T00:00:00.000Z": 9
     }
   },
   "Year": {
@@ -1586,7 +1594,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 51,
-    "2025": 12,
-    "2026": 1
+    "2025": 13,
+    "2026": 2
   }
 }

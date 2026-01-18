@@ -9915,3 +9915,39 @@ Status	5 (2026-01-11)
 Added	2026-01-09
 Updated	2026-01-11
 IgdbId	325352
+
+Game	Utter a Name
+Id	552
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot4
+Store	https://store.steampowered.com/app/3213430/Utter_a_Name/
+Hints
+Genre	Detective Mystery
+Tags	indie, mystery, puzzle, difficult, investigation
+Year	2025
+Dev	evilalbert
+Pub	evilalbert
+Version
+Status	1 (2026-01-17)
+Added	2026-01-17
+Updated	2026-01-17
+IgdbId	326216
+
+Game	Tabulo
+Id	553
+Engine	Godot
+Setup
+Runtime	godot4?!?!
+Store	https://store.steampowered.com/app/3538860/Tabulo/
+Hints	needs Godot 4.5+ runtime
+Genre	Roguelike Deckbuilder
+Tags	indie
+Year	2026
+Dev	Noah Games
+Pub	Noah Games
+Version
+Status	1 (2026-01-18)
+Added	2026-01-18
+Updated	2026-01-18
+IgdbId	337994
