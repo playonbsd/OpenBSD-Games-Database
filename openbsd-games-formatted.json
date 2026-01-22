@@ -4664,6 +4664,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-01-21T00:00:00.000Z",
+    "Dev": "Sebastian Larsson et al.",
+    "Engine": "Godot",
+    "Game": "Drill Bird",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "Id": "554",
+    "IgdbId": "351078",
+    "Pub": "Perfect Random, Sebastian Larsson",
+    "Runtime": "godot4",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-01-21T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3809940/Drill_Bird/"
+    ],
+    "Tags": [
+      "2d",
+      "cute",
+      "indie",
+      "mining"
+    ],
+    "Updated": "2026-01-21T00:00:00.000Z",
+    "Version": "1.081",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-01-07T00:00:00.000Z",
     "Dev": "Puppygames",
     "Engine": "LWJGL2",
