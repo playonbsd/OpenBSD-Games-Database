@@ -9969,3 +9969,21 @@ Status	1 (2026-01-21)
 Added	2026-01-21
 Updated	2026-01-21
 IgdbId	351078
+
+Game	MOTHER: Encore
+Id	555
+Engine	Godot
+Setup	indierunner
+Runtime	godot
+Store	https://motherencore.com/
+Hints
+Genre	RPG
+Tags	indie, turn-based, modern, quirky, adventure
+Year	2025
+Dev	MOTHER: Encore Team
+Pub
+Version	0.3.3.2
+Status	1 (2026-01-24)
+Added	2026-01-24
+Updated	2026-01-24
+IgdbId	259272
