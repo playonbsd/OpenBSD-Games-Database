@@ -14775,6 +14775,42 @@
     "Year": "1992-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-02-15T00:00:00.000Z",
+    "Dev": "Postmodern Adventures",
+    "Engine": "Adventure Game Studio",
+    "Game": "The Dark Rites of Arkham",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "555",
+    "IgdbId": "338552",
+    "Pub": "enComplot",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-02-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://postmodernadventures.itch.io/the-dark-rites-of-arkham",
+      "https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/"
+    ],
+    "Tags": [
+      "gore",
+      "horror",
+      "indie",
+      "lovecraftian",
+      "pixelart",
+      "pulp"
+    ],
+    "Updated": "2026-02-15T00:00:00.000Z",
+    "Version": "1.0.1",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "LucasArts",
     "Engine": "SCUMM",

@@ -153,7 +153,8 @@
       "2026-01-09T00:00:00.000Z": 2,
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 1,
-      "2026-01-21T00:00:00.000Z": 1
+      "2026-01-21T00:00:00.000Z": 1,
+      "2026-02-15T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -162,7 +163,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 9
+      "2026-01-01T00:00:00.000Z": 10
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,11 +207,12 @@
       "2025-08-01T00:00:00.000Z": 2,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
-      "2026-01-01T00:00:00.000Z": 9
+      "2026-01-01T00:00:00.000Z": 9,
+      "2026-02-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
-    "Adventure Game Studio": 29,
+    "Adventure Game Studio": 30,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -820,7 +822,8 @@
     "A Case of Fraud",
     "Utter a Name",
     "Tabulo",
-    "Drill Bird"
+    "Drill Bird",
+    "The Dark Rites of Arkham"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -868,7 +871,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 9,
+    "Point & Click Adventure": 10,
     "Programming Puzzle": 1,
     "Puzzle": 46,
     "Puzzle Game": 3,
@@ -917,7 +920,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 198,
+    "IndieRunner": 199,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1115,19 +1118,20 @@
       "2026-01-11T00:00:00.000Z": 1,
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 2,
-      "2026-01-21T00:00:00.000Z": 1
+      "2026-01-21T00:00:00.000Z": 1,
+      "2026-02-15T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 18,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 370,
+      "launches": 371,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 370,
+      "1": 371,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1141,12 +1145,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 145,
+    "https://itch.io/": 146,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 466,
+    "https://store.steampowered.com/": 467,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1261,7 +1265,7 @@
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
-    "gore": 11,
+    "gore": 12,
     "gothic": 2,
     "graphical violence": 1,
     "hack and slash": 1,
@@ -1274,16 +1278,16 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 13,
+    "horror": 14,
     "humor": 13,
     "idler": 2,
-    "indie": 271,
+    "indie": 272,
     "indie classic": 1,
     "investigation": 3,
     "life sim": 1,
     "local multiplayer": 1,
     "logic": 2,
-    "lovecraftian": 2,
+    "lovecraftian": 3,
     "magic": 1,
     "manga": 1,
     "massive": 1,
@@ -1321,7 +1325,7 @@
     "pixel art": 23,
     "pixel graphics": 3,
     "pixel-art": 2,
-    "pixelart": 13,
+    "pixelart": 14,
     "pixels": 3,
     "platformer": 6,
     "point & click": 2,
@@ -1335,6 +1339,7 @@
     "prototype": 1,
     "psychedelic": 1,
     "psychological horror": 1,
+    "pulp": 1,
     "puzzle": 9,
     "quicktime": 1,
     "quirky": 3,
@@ -1521,7 +1526,8 @@
       "2026-01-11T00:00:00.000Z": 1,
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 2,
-      "2026-01-21T00:00:00.000Z": 1
+      "2026-01-21T00:00:00.000Z": 1,
+      "2026-02-15T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1529,7 +1535,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 10
+      "2026-01-01T00:00:00.000Z": 11
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1560,7 +1566,8 @@
       "2025-08-01T00:00:00.000Z": 3,
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
-      "2026-01-01T00:00:00.000Z": 10
+      "2026-01-01T00:00:00.000Z": 10,
+      "2026-02-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1599,6 +1606,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 14,
-    "2026": 2
+    "2026": 3
   }
 }

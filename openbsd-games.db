@@ -9969,3 +9969,21 @@ Status	1 (2026-01-21)
 Added	2026-01-21
 Updated	2026-01-21
 IgdbId	351078
+
+Game	The Dark Rites of Arkham
+Id	555
+Engine	Adventure Game Studio
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://postmodernadventures.itch.io/the-dark-rites-of-arkham https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pulp, lovecraftian, horror, gore, pixelart
+Year	2026
+Dev	Postmodern Adventures
+Pub	enComplot
+Version	1.0.1
+Status	1 (2026-02-15)
+Added	2026-02-15
+Updated	2026-02-15
+IgdbId	338552
