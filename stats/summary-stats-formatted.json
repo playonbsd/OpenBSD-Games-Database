@@ -154,7 +154,8 @@
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 1,
       "2026-01-21T00:00:00.000Z": 1,
-      "2026-02-15T00:00:00.000Z": 1
+      "2026-02-15T00:00:00.000Z": 1,
+      "2026-02-18T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -163,7 +164,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 10
+      "2026-01-01T00:00:00.000Z": 11
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -208,7 +209,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
       "2026-01-01T00:00:00.000Z": 9,
-      "2026-02-01T00:00:00.000Z": 1
+      "2026-02-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -217,7 +218,7 @@
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
     "Descent Engine": 2,
-    "FNA": 80,
+    "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
     "Godot": 181,
@@ -823,7 +824,8 @@
     "Utter a Name",
     "Tabulo",
     "Drill Bird",
-    "The Dark Rites of Arkham"
+    "The Dark Rites of Arkham",
+    "Cattle Country"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -851,7 +853,7 @@
     "FPS": 38,
     "Farming Sim": 1,
     "Farming Simulation": 1,
-    "Farming Simulator": 2,
+    "Farming Simulator": 3,
     "Fighting Game": 1,
     "First Person Shooter": 1,
     "Flightsim": 1,
@@ -920,7 +922,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 199,
+    "IndieRunner": 200,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1119,19 +1121,20 @@
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 2,
       "2026-01-21T00:00:00.000Z": 1,
-      "2026-02-15T00:00:00.000Z": 1
+      "2026-02-15T00:00:00.000Z": 1,
+      "2026-02-18T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 18,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 371,
+      "launches": 372,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 371,
+      "1": 372,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1150,7 +1153,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 467,
+    "https://store.steampowered.com/": 468,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1225,7 +1228,7 @@
     "colors": 1,
     "comedy": 7,
     "conspiracy": 1,
-    "cozy": 1,
+    "cozy": 2,
     "crafting": 3,
     "crazy": 1,
     "crime": 1,
@@ -1281,7 +1284,7 @@
     "horror": 14,
     "humor": 13,
     "idler": 2,
-    "indie": 272,
+    "indie": 273,
     "indie classic": 1,
     "investigation": 3,
     "life sim": 1,
@@ -1395,7 +1398,8 @@
     "voxel": 3,
     "wargame": 1,
     "weird": 1,
-    "wholesome": 2,
+    "western": 1,
+    "wholesome": 3,
     "wizard": 1,
     "word game": 5,
     "working simulator": 1,
@@ -1527,7 +1531,8 @@
       "2026-01-17T00:00:00.000Z": 1,
       "2026-01-18T00:00:00.000Z": 2,
       "2026-01-21T00:00:00.000Z": 1,
-      "2026-02-15T00:00:00.000Z": 1
+      "2026-02-15T00:00:00.000Z": 1,
+      "2026-02-18T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1535,7 +1540,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 11
+      "2026-01-01T00:00:00.000Z": 12
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1567,7 +1572,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
       "2026-01-01T00:00:00.000Z": 10,
-      "2026-02-01T00:00:00.000Z": 1
+      "2026-02-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1605,7 +1610,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 51,
-    "2025": 14,
+    "2025": 15,
     "2026": 3
   }
 }

@@ -9987,3 +9987,21 @@ Status	1 (2026-02-15)
 Added	2026-02-15
 Updated	2026-02-15
 IgdbId	338552
+
+Game	Cattle Country
+Id	556
+Engine	FNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://store.steampowered.com/app/2818150/Cattle_Country/
+Hints
+Genre	Farming Simulator
+Tags	indie, wholesome, western, cozy
+Year	2025
+Dev	Castle Pixel LLC.
+Pub	Playtonic Friends
+Version
+Status	1 (2026-02-18)
+Added	2026-02-18
+Updated	2026-02-18
+IgdbId	306909
