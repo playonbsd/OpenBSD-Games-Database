@@ -3766,6 +3766,40 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-02-20T00:00:00.000Z",
+    "Dev": "Darenn Keller",
+    "Engine": "Godot",
+    "Game": "Dawnfolk",
+    "Genre": [
+      "City Builder"
+    ],
+    "Hints": "",
+    "Id": "557",
+    "IgdbId": "245754",
+    "Pub": "Astra Logical",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-02-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://darenn.itch.io/dawnfolk",
+      "https://store.steampowered.com/app/2308630/Dawnfolk/"
+    ],
+    "Tags": [
+      "indie",
+      "pixel graphics",
+      "roguelite",
+      "strategy"
+    ],
+    "Updated": "2026-02-20T00:00:00.000Z",
+    "Version": "1.3.4",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2025-07-09T00:00:00.000Z",
     "Dev": "LucasArts",
     "Engine": "ScummVM",

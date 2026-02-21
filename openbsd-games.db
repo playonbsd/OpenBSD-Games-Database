@@ -10005,3 +10005,21 @@ Status	1 (2026-02-18)
 Added	2026-02-18
 Updated	2026-02-18
 IgdbId	306909
+
+Game	Dawnfolk
+Id	557
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://darenn.itch.io/dawnfolk https://store.steampowered.com/app/2308630/Dawnfolk/
+Hints
+Genre	City Builder
+Tags	indie, pixel graphics, roguelite, strategy
+Year	2025
+Dev	Darenn Keller
+Pub	Astra Logical
+Version	1.3.4
+Status	1 (2026-02-20)
+Added	2026-02-20
+Updated	2026-02-20
+IgdbId	245754

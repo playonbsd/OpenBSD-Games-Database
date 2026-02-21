@@ -155,7 +155,8 @@
       "2026-01-18T00:00:00.000Z": 1,
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
-      "2026-02-18T00:00:00.000Z": 1
+      "2026-02-18T00:00:00.000Z": 1,
+      "2026-02-20T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -164,7 +165,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 11
+      "2026-01-01T00:00:00.000Z": 12
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -209,7 +210,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
       "2026-01-01T00:00:00.000Z": 9,
-      "2026-02-01T00:00:00.000Z": 2
+      "2026-02-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -221,7 +222,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 181,
+    "Godot": 182,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -825,7 +826,8 @@
     "Tabulo",
     "Drill Bird",
     "The Dark Rites of Arkham",
-    "Cattle Country"
+    "Cattle Country",
+    "Dawnfolk"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -842,7 +844,7 @@
     "Brawler": 4,
     "Card Battler": 1,
     "Card Game": 8,
-    "City Builder": 5,
+    "City Builder": 6,
     "Colony Sim": 2,
     "Cooking": 1,
     "Deckbuilder": 1,
@@ -922,7 +924,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 200,
+    "IndieRunner": 201,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1122,19 +1124,20 @@
       "2026-01-18T00:00:00.000Z": 2,
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
-      "2026-02-18T00:00:00.000Z": 1
+      "2026-02-18T00:00:00.000Z": 1,
+      "2026-02-20T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 18,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 372,
+      "launches": 373,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 372,
+      "1": 373,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1148,12 +1151,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 146,
+    "https://itch.io/": 147,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 468,
+    "https://store.steampowered.com/": 469,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1284,7 +1287,7 @@
     "horror": 14,
     "humor": 13,
     "idler": 2,
-    "indie": 273,
+    "indie": 274,
     "indie classic": 1,
     "investigation": 3,
     "life sim": 1,
@@ -1326,7 +1329,7 @@
     "physics": 3,
     "pixel": 1,
     "pixel art": 23,
-    "pixel graphics": 3,
+    "pixel graphics": 4,
     "pixel-art": 2,
     "pixelart": 14,
     "pixels": 3,
@@ -1353,7 +1356,7 @@
     "retro": 61,
     "robots": 1,
     "roguelike": 5,
-    "roguelite": 26,
+    "roguelite": 27,
     "running": 1,
     "sandbox": 1,
     "scifi": 14,
@@ -1374,7 +1377,7 @@
     "stealth": 3,
     "steampunk": 1,
     "story-rich": 1,
-    "strategy": 3,
+    "strategy": 4,
     "surreal": 2,
     "survival": 4,
     "survivors-like": 1,
@@ -1532,7 +1535,8 @@
       "2026-01-18T00:00:00.000Z": 2,
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
-      "2026-02-18T00:00:00.000Z": 1
+      "2026-02-18T00:00:00.000Z": 1,
+      "2026-02-20T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1540,7 +1544,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 12
+      "2026-01-01T00:00:00.000Z": 13
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1572,7 +1576,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
       "2026-01-01T00:00:00.000Z": 10,
-      "2026-02-01T00:00:00.000Z": 2
+      "2026-02-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -1610,7 +1614,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 51,
-    "2025": 15,
+    "2025": 16,
     "2026": 3
   }
 }
