@@ -156,7 +156,8 @@
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
       "2026-02-18T00:00:00.000Z": 1,
-      "2026-02-20T00:00:00.000Z": 1
+      "2026-02-20T00:00:00.000Z": 1,
+      "2026-02-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -165,7 +166,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 12
+      "2026-01-01T00:00:00.000Z": 13
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -210,7 +211,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 19,
       "2026-01-01T00:00:00.000Z": 9,
-      "2026-02-01T00:00:00.000Z": 3
+      "2026-02-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -262,6 +263,7 @@
     "amnesia-tdd": 1,
     "custom engine": 1,
     "eduke32": 2,
+    "fallout1-ce": 1,
     "id Tech": 1,
     "id Tech 1": 4,
     "id Tech 2": 1,
@@ -827,7 +829,8 @@
     "Drill Bird",
     "The Dark Rites of Arkham",
     "Cattle Country",
-    "Dawnfolk"
+    "Dawnfolk",
+    "Fallout"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -920,6 +923,7 @@
     "puzzle platformer": 1,
     "rogue-like": 1,
     "roguelike deckbuilder": 1,
+    "rpg": 1,
     "visual novel": 1
   },
   "Setup": {
@@ -928,6 +932,7 @@
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
+    "fallout1-ce": 1,
     "fnaify": 109,
     "https://gitlab.com/rfht/romextract romextract": 1,
     "https://old.reddit.com/r/openbsd_gaming/comments/lh2jts/runescape_on_openbsd/": 1,
@@ -1125,10 +1130,11 @@
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
       "2026-02-18T00:00:00.000Z": 1,
-      "2026-02-20T00:00:00.000Z": 1
+      "2026-02-20T00:00:00.000Z": 1,
+      "2026-02-23T00:00:00.000Z": 1
     },
     "Rating": {
-      "completable": 18,
+      "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
       "launches": 373,
@@ -1141,7 +1147,7 @@
       "2": 18,
       "3": 6,
       "4": 1,
-      "5": 18
+      "5": 19
     }
   },
   "Store": {
@@ -1163,7 +1169,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 155,
+    "https://www.gog.com/": 156,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1338,7 +1344,7 @@
     "poker": 1,
     "political": 3,
     "polygons": 1,
-    "post-apocalypse": 2,
+    "post-apocalypse": 3,
     "precision": 1,
     "productivity": 1,
     "programming": 1,
@@ -1357,6 +1363,7 @@
     "robots": 1,
     "roguelike": 5,
     "roguelite": 27,
+    "rpg": 1,
     "running": 1,
     "sandbox": 1,
     "scifi": 14,
@@ -1377,7 +1384,7 @@
     "stealth": 3,
     "steampunk": 1,
     "story-rich": 1,
-    "strategy": 4,
+    "strategy": 5,
     "surreal": 2,
     "survival": 4,
     "survivors-like": 1,
@@ -1387,9 +1394,9 @@
     "third-person": 1,
     "tiles": 1,
     "timer": 2,
-    "top-down": 1,
+    "top-down": 2,
     "touhou": 1,
-    "turn-based": 9,
+    "turn-based": 10,
     "turn-based tactics": 1,
     "underwater": 1,
     "vampires": 1,
@@ -1536,7 +1543,8 @@
       "2026-01-21T00:00:00.000Z": 1,
       "2026-02-15T00:00:00.000Z": 1,
       "2026-02-18T00:00:00.000Z": 1,
-      "2026-02-20T00:00:00.000Z": 1
+      "2026-02-20T00:00:00.000Z": 1,
+      "2026-02-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1544,7 +1552,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 13
+      "2026-01-01T00:00:00.000Z": 14
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1576,7 +1584,7 @@
       "2025-09-01T00:00:00.000Z": 1,
       "2025-12-01T00:00:00.000Z": 18,
       "2026-01-01T00:00:00.000Z": 10,
-      "2026-02-01T00:00:00.000Z": 3
+      "2026-02-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1587,7 +1595,7 @@
     "1994": 10,
     "1995": 6,
     "1996": 9,
-    "1997": 10,
+    "1997": 11,
     "1998": 4,
     "1999": 7,
     "2000": 3,
