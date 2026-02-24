@@ -10023,3 +10023,21 @@ Status	1 (2026-02-20)
 Added	2026-02-20
 Updated	2026-02-20
 IgdbId	245754
+
+Game	Fallout
+Id	558
+Engine	fallout1-ce
+Setup	fallout1-ce
+Runtime	fallout1-ce
+Store	https://www.gog.com/en/game/fallout
+Hints
+Genre	rpg
+Tags	post-apocalypse, top-down, rpg, turn-based, strategy
+Year	1997
+Dev Interplay
+Pub	Interplay
+Version	1.2
+Status	5 (2026-02-23)
+Added	2026-02-23
+Updated	2026-02-23
+IgdbId	13

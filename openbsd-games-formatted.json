@@ -5520,6 +5520,39 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-02-23T00:00:00.000Z",
+    "Engine": "fallout1-ce",
+    "Game": "Fallout",
+    "Genre": [
+      "rpg"
+    ],
+    "Hints": "",
+    "Id": "558",
+    "IgdbId": "13",
+    "Pub": "Interplay",
+    "Runtime": "fallout1-ce",
+    "Setup": "fallout1-ce",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-02-23T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/fallout"
+    ],
+    "Tags": [
+      "post-apocalypse",
+      "rpg",
+      "strategy",
+      "top-down",
+      "turn-based"
+    ],
+    "Updated": "2026-02-23T00:00:00.000Z",
+    "Version": "1.2",
+    "Year": "1997-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-08-28T00:00:00.000Z",
     "Dev": "Napas Torteeka",
     "Engine": "Godot",
