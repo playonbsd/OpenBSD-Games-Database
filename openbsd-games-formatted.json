@@ -5530,8 +5530,8 @@
     "Id": "558",
     "IgdbId": "13",
     "Pub": "Interplay",
-    "Runtime": "fallout1-ce",
-    "Setup": "fallout1-ce",
+    "Runtime": "fallout-ce",
+    "Setup": "",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2026-02-23T00:00:00.000Z",

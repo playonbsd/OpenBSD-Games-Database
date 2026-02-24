@@ -10027,8 +10027,8 @@ IgdbId	245754
 Game	Fallout
 Id	558
 Engine	fallout1-ce
-Setup	fallout1-ce
-Runtime	fallout1-ce
+Setup
+Runtime	fallout-ce
 Store	https://www.gog.com/en/game/fallout
 Hints
 Genre	rpg
