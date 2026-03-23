@@ -10041,3 +10041,21 @@ Status	5 (2026-02-23)
 Added	2026-02-23
 Updated	2026-02-23
 IgdbId	13
+
+Game	Fallout 2
+Id	559
+Engine	fallout2-ce
+Setup
+Runtime	fallout2-ce
+Store	https://www.gog.com/en/game/fallout_2
+Hints
+Genre	rpg
+Tags	post-apocalypse, top-down, rpg, turn-based, strategy
+Year	1998
+Dev Interplay
+Pub	Interplay
+Version	1.2
+Status	1 (2026-04-23)
+Added	2026-03-23
+Updated	2026-03-23
+IgdbId	14
