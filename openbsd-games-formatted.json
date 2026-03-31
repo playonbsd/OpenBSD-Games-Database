@@ -5553,6 +5553,39 @@
     "Year": "1997-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-03-23T00:00:00.000Z",
+    "Engine": "fallout2-ce",
+    "Game": "Fallout 2",
+    "Genre": [
+      "rpg"
+    ],
+    "Hints": "",
+    "Id": "559",
+    "IgdbId": "14",
+    "Pub": "Interplay",
+    "Runtime": "fallout2-ce",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-23T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/fallout_2"
+    ],
+    "Tags": [
+      "post-apocalypse",
+      "rpg",
+      "strategy",
+      "top-down",
+      "turn-based"
+    ],
+    "Updated": "2026-03-23T00:00:00.000Z",
+    "Version": "1.2",
+    "Year": "1998-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-08-28T00:00:00.000Z",
     "Dev": "Napas Torteeka",
     "Engine": "Godot",
