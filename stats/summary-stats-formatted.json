@@ -158,7 +158,8 @@
       "2026-02-18T00:00:00.000Z": 1,
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
-      "2026-03-23T00:00:00.000Z": 1
+      "2026-03-23T00:00:00.000Z": 1,
+      "2026-03-31T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -167,7 +168,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 14
+      "2026-01-01T00:00:00.000Z": 15
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -213,7 +214,7 @@
       "2025-12-01T00:00:00.000Z": 19,
       "2026-01-01T00:00:00.000Z": 9,
       "2026-02-01T00:00:00.000Z": 4,
-      "2026-03-01T00:00:00.000Z": 1
+      "2026-03-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -273,7 +274,7 @@
     "id Tech 3": 2,
     "lwjgl": 2,
     "megaEx": 1,
-    "solarus": 2
+    "solarus": 3
   },
   "Game": [
     "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
@@ -834,7 +835,8 @@
     "Cattle Country",
     "Dawnfolk",
     "Fallout",
-    "Fallout 2"
+    "Fallout 2",
+    "Tombwater"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -842,7 +844,7 @@
     "Action": 43,
     "Action Adventure": 4,
     "Action Platformer": 12,
-    "Action RPG": 9,
+    "Action RPG": 10,
     "Action Roguelike": 11,
     "Adventure": 52,
     "Arcade": 1,
@@ -1135,19 +1137,20 @@
       "2026-02-18T00:00:00.000Z": 1,
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
-      "2026-04-23T00:00:00.000Z": 1
+      "2026-03-23T00:00:00.000Z": 1,
+      "2026-03-31T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 374,
+      "launches": 375,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 374,
+      "1": 375,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1166,7 +1169,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 469,
+    "https://store.steampowered.com/": 470,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1194,7 +1197,7 @@
     "FPS": 1,
     "JRPG": 3,
     "LGBTQ": 1,
-    "Lovecraftian": 5,
+    "Lovecraftian": 6,
     "NSFW": 1,
     "ROM": 4,
     "RPG": 3,
@@ -1202,7 +1205,7 @@
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
-    "action": 13,
+    "action": 14,
     "action RPG": 1,
     "action roguelike": 1,
     "adventure": 4,
@@ -1264,7 +1267,7 @@
     "dystopian": 1,
     "early access": 26,
     "educational": 1,
-    "exploration": 6,
+    "exploration": 7,
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 1,
@@ -1310,7 +1313,7 @@
     "match three": 1,
     "medieval": 2,
     "megaman-inspired": 1,
-    "metroidvania": 2,
+    "metroidvania": 3,
     "military": 2,
     "mind-bending": 1,
     "minimalist": 11,
@@ -1379,7 +1382,7 @@
     "slot machine": 1,
     "sokoban-like": 1,
     "sokoban-style": 1,
-    "souls-like": 2,
+    "souls-like": 3,
     "soviet": 1,
     "space": 14,
     "splitscreen": 1,
@@ -1549,7 +1552,8 @@
       "2026-02-18T00:00:00.000Z": 1,
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
-      "2026-03-23T00:00:00.000Z": 1
+      "2026-03-23T00:00:00.000Z": 1,
+      "2026-03-31T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1557,7 +1561,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 15
+      "2026-01-01T00:00:00.000Z": 16
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1590,7 +1594,7 @@
       "2025-12-01T00:00:00.000Z": 18,
       "2026-01-01T00:00:00.000Z": 10,
       "2026-02-01T00:00:00.000Z": 4,
-      "2026-03-01T00:00:00.000Z": 1
+      "2026-03-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1629,6 +1633,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 16,
-    "2026": 3
+    "2026": 4
   }
 }

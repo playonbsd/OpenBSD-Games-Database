@@ -10052,10 +10052,28 @@ Hints
 Genre	rpg
 Tags	post-apocalypse, top-down, rpg, turn-based, strategy
 Year	1998
-Dev Interplay
+Dev	Interplay
 Pub	Interplay
 Version	1.2
-Status	1 (2026-04-23)
+Status	1 (2026-03-23)
 Added	2026-03-23
 Updated	2026-03-23
 IgdbId	14
+
+Game	Tombwater
+Id	560
+Engine	solarus
+Setup
+Runtime	solarus-run
+Store	https://store.steampowered.com/app/3308200/Tombwater/
+Hints
+Genre	Action RPG
+Tags	souls-like, action, metroidvania, exploration, Lovecraftian
+Year	2026
+Dev	Moth Atlas
+Pub	Midwest Games
+Version
+Status	1 (2026-03-31)
+Added	2026-03-31
+Updated	2026-03-31
+IgdbId	324575
