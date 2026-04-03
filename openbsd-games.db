@@ -10077,3 +10077,21 @@ Status	1 (2026-03-31)
 Added	2026-03-31
 Updated	2026-03-31
 IgdbId	324575
+
+Game	Linovictus
+Id	561
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://transmutrix.itch.io/linovictus
+Hints
+Genre	Twin-Stick Shooter
+Tags	arcade, old-school, action, retro, roguelite
+Year	2026
+Dev	transmutrix
+Pub	transmutrix
+Version
+Status	1 (2026-04-02)
+Added	2026-04-02
+Updated	2026-04-02
+IgdbId

@@ -159,7 +159,8 @@
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
       "2026-03-23T00:00:00.000Z": 1,
-      "2026-03-31T00:00:00.000Z": 1
+      "2026-03-31T00:00:00.000Z": 1,
+      "2026-04-02T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -168,7 +169,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 15
+      "2026-01-01T00:00:00.000Z": 16
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -214,7 +215,8 @@
       "2025-12-01T00:00:00.000Z": 19,
       "2026-01-01T00:00:00.000Z": 9,
       "2026-02-01T00:00:00.000Z": 4,
-      "2026-03-01T00:00:00.000Z": 2
+      "2026-03-01T00:00:00.000Z": 2,
+      "2026-04-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -237,7 +239,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 37,
+    "Love2D": 38,
     "Mohawk Engine": 2,
     "Mono": 4,
     "MonoGame": 7,
@@ -836,7 +838,8 @@
     "Dawnfolk",
     "Fallout",
     "Fallout 2",
-    "Tombwater"
+    "Tombwater",
+    "Linovictus"
   ],
   "Genre": {
     "3D Platformer": 1,
@@ -918,7 +921,7 @@
     "Tower Defense": 3,
     "Turn-Based Strategy": 3,
     "Turn-Based Tactics": 16,
-    "Twin-Stick Shooter": 5,
+    "Twin-Stick Shooter": 6,
     "Typing Game": 1,
     "Visual Novel": 3,
     "action RPG": 1,
@@ -934,7 +937,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 201,
+    "IndieRunner": 202,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1138,19 +1141,20 @@
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
       "2026-03-23T00:00:00.000Z": 1,
-      "2026-03-31T00:00:00.000Z": 1
+      "2026-03-31T00:00:00.000Z": 1,
+      "2026-04-02T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 375,
+      "launches": 376,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 375,
+      "1": 376,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1164,7 +1168,7 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 147,
+    "https://itch.io/": 148,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
@@ -1205,14 +1209,14 @@
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
-    "action": 14,
+    "action": 15,
     "action RPG": 1,
     "action roguelike": 1,
     "adventure": 4,
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 9,
+    "arcade": 10,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1329,7 +1333,7 @@
     "nonlinear": 1,
     "nordic": 1,
     "nostalgia": 1,
-    "old-school": 1,
+    "old-school": 2,
     "online multiplayer": 1,
     "open source": 2,
     "open world": 1,
@@ -1366,10 +1370,10 @@
     "real-time tactics": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 61,
+    "retro": 62,
     "robots": 1,
     "roguelike": 5,
-    "roguelite": 27,
+    "roguelite": 28,
     "rpg": 2,
     "running": 1,
     "sandbox": 1,
@@ -1553,7 +1557,8 @@
       "2026-02-20T00:00:00.000Z": 1,
       "2026-02-23T00:00:00.000Z": 1,
       "2026-03-23T00:00:00.000Z": 1,
-      "2026-03-31T00:00:00.000Z": 1
+      "2026-03-31T00:00:00.000Z": 1,
+      "2026-04-02T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1561,7 +1566,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 16
+      "2026-01-01T00:00:00.000Z": 17
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1594,7 +1599,8 @@
       "2025-12-01T00:00:00.000Z": 18,
       "2026-01-01T00:00:00.000Z": 10,
       "2026-02-01T00:00:00.000Z": 4,
-      "2026-03-01T00:00:00.000Z": 2
+      "2026-03-01T00:00:00.000Z": 2,
+      "2026-04-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1633,6 +1639,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 16,
-    "2026": 4
+    "2026": 5
   }
 }
