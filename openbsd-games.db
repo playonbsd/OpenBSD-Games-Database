@@ -10095,3 +10095,21 @@ Status	1 (2026-04-02)
 Added	2026-04-02
 Updated	2026-04-02
 IgdbId
+
+Game	Road to Vostok
+Id	562
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1963610/Road_to_Vostok/
+Hints
+Genre	Survival FPS
+Tags	post-apocalpyse, realistic, survival, early access
+Year
+Dev	Road to Vostok Ltd.
+Pub	Road to Vostok Ltd.
+Version	0.1.0.0
+Status	1 (2026-04-17)
+Added	2026-04-17
+Updated	2026-04-17
+IgdbId	217304

@@ -11682,6 +11682,39 @@
     "Year": "1997-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-04-17T00:00:00.000Z",
+    "Dev": "Road to Vostok Ltd.",
+    "Engine": "Godot",
+    "Game": "Road to Vostok",
+    "Genre": [
+      "Survival FPS"
+    ],
+    "Hints": "",
+    "Id": "562",
+    "IgdbId": "217304",
+    "Pub": "Road to Vostok Ltd.",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1963610/Road_to_Vostok/"
+    ],
+    "Tags": [
+      "early access",
+      "post-apocalpyse",
+      "realistic",
+      "survival"
+    ],
+    "Updated": "2026-04-17T00:00:00.000Z",
+    "Version": "0.1.0.0",
+    "Year": ""
+  },
+  {
     "Added": "2023-08-07T00:00:00.000Z",
     "Dev": "Lucas Molina",
     "Engine": "Godot",
