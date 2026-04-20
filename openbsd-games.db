@@ -10113,3 +10113,21 @@ Status	1 (2026-04-17)
 Added	2026-04-17
 Updated	2026-04-17
 IgdbId	217304
+
+Game	Egg
+Id	563
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://terrycavanagh.itch.io/egg
+Hints
+Genre	3D Platformer
+Tags	retro, minimalist
+Year	2025
+Dev	Terry Cavanagh
+Pub	Terry Cavanagh
+Version	1.1
+Status	1 (2026-04-20)
+Added	2026-04-20
+Updated	2026-04-20
+IgdbId	375679

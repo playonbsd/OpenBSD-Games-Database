@@ -5045,6 +5045,37 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-04-20T00:00:00.000Z",
+    "Dev": "Terry Cavanagh",
+    "Engine": "Godot",
+    "Game": "Egg",
+    "Genre": [
+      "3D Platformer"
+    ],
+    "Hints": "",
+    "Id": "563",
+    "IgdbId": "375679",
+    "Pub": "Terry Cavanagh",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://terrycavanagh.itch.io/egg"
+    ],
+    "Tags": [
+      "minimalist",
+      "retro"
+    ],
+    "Updated": "2026-04-20T00:00:00.000Z",
+    "Version": "1.1",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Zachtronics",
     "Engine": "",
