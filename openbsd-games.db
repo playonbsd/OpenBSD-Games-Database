@@ -10131,3 +10131,39 @@ Status	1 (2026-04-20)
 Added	2026-04-20
 Updated	2026-04-20
 IgdbId	375679
+
+Game	Observa
+Id	564
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://store.steampowered.com/app/3104600/Observa/
+Hints
+Genre	3D Exploration
+Tags	first-person, space
+Year	2026
+Dev	NorthRest Games
+Pub	NorthRest Games
+Version	1.0.1
+Status	1 (2026-04-29)
+Added	2026-04-29
+Updated	2026-04-29
+IgdbId	386168
+
+Game	Sophie's Grids
+Id	565
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://sophieh.itch.io/sophies-grids https://store.steampowered.com/app/2310850/Sophies_Grids/
+Hints
+Genre	Puzzle
+Tags	dice, casual
+Year	2026
+Dev	Sophie Houlden
+Pub	Sophie Houlden
+Version	1.0
+Status	1 (2026-04-30)
+Added	2026-04-30
+Updated	2026-04-30
+IgdbId

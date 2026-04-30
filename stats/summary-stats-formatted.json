@@ -162,7 +162,9 @@
       "2026-03-31T00:00:00.000Z": 1,
       "2026-04-02T00:00:00.000Z": 1,
       "2026-04-17T00:00:00.000Z": 1,
-      "2026-04-20T00:00:00.000Z": 1
+      "2026-04-20T00:00:00.000Z": 1,
+      "2026-04-29T00:00:00.000Z": 1,
+      "2026-04-30T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -171,7 +173,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 18
+      "2026-01-01T00:00:00.000Z": 20
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -218,7 +220,7 @@
       "2026-01-01T00:00:00.000Z": 9,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 3
+      "2026-04-01T00:00:00.000Z": 5
     }
   },
   "Engine": {
@@ -230,7 +232,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 184,
+    "Godot": 186,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -843,9 +845,12 @@
     "Tombwater",
     "Linovictus",
     "Road to Vostok",
-    "Egg"
+    "Egg",
+    "Observa",
+    "Sophie's Grids"
   ],
   "Genre": {
+    "3D Exploration": 1,
     "3D Platformer": 2,
     "6DOF Shooter": 1,
     "Action": 43,
@@ -893,7 +898,7 @@
     "Platformer": 59,
     "Point & Click Adventure": 10,
     "Programming Puzzle": 1,
-    "Puzzle": 46,
+    "Puzzle": 47,
     "Puzzle Game": 3,
     "Puzzle Platformer": 16,
     "Puzzler": 10,
@@ -942,7 +947,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 204,
+    "IndieRunner": 206,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1149,19 +1154,21 @@
       "2026-03-31T00:00:00.000Z": 1,
       "2026-04-02T00:00:00.000Z": 1,
       "2026-04-17T00:00:00.000Z": 1,
-      "2026-04-20T00:00:00.000Z": 1
+      "2026-04-20T00:00:00.000Z": 1,
+      "2026-04-29T00:00:00.000Z": 1,
+      "2026-04-30T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 378,
+      "launches": 380,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 378,
+      "1": 380,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1175,12 +1182,12 @@
     "http://www.pumpkin-games.net/": 1,
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
-    "https://itch.io/": 149,
+    "https://itch.io/": 150,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 471,
+    "https://store.steampowered.com/": 473,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1242,7 +1249,7 @@
     "bullet hell": 8,
     "cards": 1,
     "cartoon": 3,
-    "casual": 13,
+    "casual": 14,
     "cats": 6,
     "cellshade": 1,
     "charity": 1,
@@ -1269,7 +1276,7 @@
     "deduction": 1,
     "demo": 1,
     "detective": 5,
-    "dice": 1,
+    "dice": 2,
     "diegetic": 1,
     "difficult": 1,
     "dog": 1,
@@ -1288,7 +1295,7 @@
     "fast-paced": 1,
     "female protagonist": 5,
     "first person": 1,
-    "first-person": 7,
+    "first-person": 8,
     "flying": 1,
     "free": 38,
     "funny": 1,
@@ -1397,7 +1404,7 @@
     "sokoban-style": 1,
     "souls-like": 3,
     "soviet": 1,
-    "space": 14,
+    "space": 15,
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
@@ -1569,7 +1576,9 @@
       "2026-03-31T00:00:00.000Z": 1,
       "2026-04-02T00:00:00.000Z": 1,
       "2026-04-17T00:00:00.000Z": 1,
-      "2026-04-20T00:00:00.000Z": 1
+      "2026-04-20T00:00:00.000Z": 1,
+      "2026-04-29T00:00:00.000Z": 1,
+      "2026-04-30T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1577,7 +1586,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 19
+      "2026-01-01T00:00:00.000Z": 21
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1611,7 +1620,7 @@
       "2026-01-01T00:00:00.000Z": 10,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 3
+      "2026-04-01T00:00:00.000Z": 5
     }
   },
   "Year": {
@@ -1650,6 +1659,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 17,
-    "2026": 5
+    "2026": 7
   }
 }

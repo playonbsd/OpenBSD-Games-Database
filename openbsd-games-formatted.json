@@ -10122,6 +10122,37 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-04-29T00:00:00.000Z",
+    "Dev": "NorthRest Games",
+    "Engine": "Godot",
+    "Game": "Observa",
+    "Genre": [
+      "3D Exploration"
+    ],
+    "Hints": "",
+    "Id": "564",
+    "IgdbId": "386168",
+    "Pub": "NorthRest Games",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-29T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3104600/Observa/"
+    ],
+    "Tags": [
+      "first-person",
+      "space"
+    ],
+    "Updated": "2026-04-29T00:00:00.000Z",
+    "Version": "1.0.1",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-07-22T00:00:00.000Z",
     "Dev": "Max Mraz",
     "Engine": "solarus",
@@ -13063,6 +13094,38 @@
     "Updated": "2024-10-28T00:00:00.000Z",
     "Version": "1.5",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-04-30T00:00:00.000Z",
+    "Dev": "Sophie Houlden",
+    "Engine": "Godot",
+    "Game": "Sophie's Grids",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "565",
+    "IgdbId": "",
+    "Pub": "Sophie Houlden",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://sophieh.itch.io/sophies-grids",
+      "https://store.steampowered.com/app/2310850/Sophies_Grids/"
+    ],
+    "Tags": [
+      "casual",
+      "dice"
+    ],
+    "Updated": "2026-04-30T00:00:00.000Z",
+    "Version": "1.0",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
