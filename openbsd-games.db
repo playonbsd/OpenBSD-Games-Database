@@ -10167,3 +10167,21 @@ Status	1 (2026-04-30)
 Added	2026-04-30
 Updated	2026-04-30
 IgdbId
+
+Game	Bab Is U
+Id	566
+Engine	Love2D
+Setup	
+Runtime	love-11
+Store	https://github.com/lilybeevee/bab-be-u
+Hints	Use git head, and point love-11 to the directory
+Genre	Puzzle
+Tags	logic, casual, clever
+Year	
+Dev	bab devs
+Pub	bab devs
+Version	HEAD
+Status	1 (2026-04-30)
+Added	2026-04-30
+Updated	2026-04-30
+IgdbId
