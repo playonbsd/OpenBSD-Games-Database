@@ -12,6 +12,16 @@ Note: This may be subject to change in the future, so be sure to check regularly
 
 At this point, the primary database is a text file `openbsd-games.db`. See below for its required format. Other output like `openbsd-games-formatted.json` is created from `openbsd-games.db` using make(1).
 
+Note that changes to openbsd-games.db **must pass the `make check` test** for PRs to be accepted:
+
+```
+$ make check
+Checking if all Id's are unique (compare that count is same)...
+Checking for trainling whitespace...
+Checking for proper tab separation between key and value...
+$
+```
+
 To update the generated files after editing `openbsd-games.db`:
 
 ```
