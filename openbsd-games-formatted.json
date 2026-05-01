@@ -1107,6 +1107,38 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-04-30T00:00:00.000Z",
+    "Dev": "bab devs",
+    "Engine": "Love2D",
+    "Game": "BAB BE YOU",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "Use git head, and point love-11 to the directory",
+    "Id": "566",
+    "IgdbId": "",
+    "Pub": "bab devs",
+    "Runtime": "love-11",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://github.com/lilybeevee/bab-be-u"
+    ],
+    "Tags": [
+      "casual",
+      "clever",
+      "logic"
+    ],
+    "Updated": "2026-04-30T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "2023-01-01T00:00:00.000Z",
     "Dev": "Stellar Circle",
     "Engine": "Love2D",
