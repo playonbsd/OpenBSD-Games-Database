@@ -3,9 +3,19 @@ all: csv json stats
 .PHONY: check csv print-csv json stats print-json print-stats diff
 
 check:
-	echo "Checking if all Id's are unique..."
-	grep -E "^Id[[:blank:]]" *.db | wc -l
-	grep -E "^Id[[:blank:]]" *.db | sort | uniq | wc -l
+	@echo "Checking if all Id's are unique (compare that count is same)..."
+	@if [[ $$(grep -E '^Id[[:blank:]]' openbsd-games.db | wc -l) -gt \
+		$$(grep -E '^Id[[:blank:]]' openbsd-games.db | sort | uniq | wc -l) ]] ; then \
+		echo "\tPlease fix: Non-unique Id lines identified."; \
+	fi
+	@echo "Checking for trainling whitespace..."
+	@if $$(grep -Eq '[[:space:]]$$' openbsd-games.db); then \
+		echo "\tPlease fix: trailing whitespace found in openbsd-games.db"; \
+	fi
+	@echo "Checking for proper tab separation between key and value..."
+	@if $$(grep -Eq "^[[:print:]]+\t* " openbsd-games.db); then \
+		echo "\tPlease fix: key-value separation must be only TAB, not space"; \
+	fi
 
 csv:
 	tools/gen_csv.pl openbsd-games.db > openbsd-games.csv
