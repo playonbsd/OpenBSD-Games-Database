@@ -8984,6 +8984,38 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-04-30T00:00:00.000Z",
+    "Dev": "yattytheman",
+    "Engine": "Godot",
+    "Game": "Lost Wiki: Kozlovka",
+    "Genre": [
+      "Detective Mystery"
+    ],
+    "Hints": "",
+    "Id": "567",
+    "IgdbId": "374721",
+    "Pub": "yattytheman",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-04-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/4018950/Lost_Wiki_Kozlovka/"
+    ],
+    "Tags": [
+      "conspiracy",
+      "investigation",
+      "retro"
+    ],
+    "Updated": "2026-04-30T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "TrampolineTales",
     "Engine": "Godot",

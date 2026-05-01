@@ -164,7 +164,7 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 2
+      "2026-04-30T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -173,7 +173,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 21
+      "2026-01-01T00:00:00.000Z": 22
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -220,7 +220,7 @@
       "2026-01-01T00:00:00.000Z": 9,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 6
+      "2026-04-01T00:00:00.000Z": 7
     }
   },
   "Engine": {
@@ -232,7 +232,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 186,
+    "Godot": 187,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -848,7 +848,8 @@
     "Egg",
     "Observa",
     "Sophie's Grids",
-    "BAB BE YOU"
+    "BAB BE YOU",
+    "Lost Wiki: Kozlovka"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -870,7 +871,7 @@
     "Colony Sim": 2,
     "Cooking": 1,
     "Deckbuilder": 1,
-    "Detective Mystery": 2,
+    "Detective Mystery": 3,
     "Dungeon Crawler": 6,
     "Exploration": 1,
     "FMV": 1,
@@ -948,7 +949,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 206,
+    "IndieRunner": 207,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1157,19 +1158,19 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 2
+      "2026-04-30T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 381,
+      "launches": 382,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 381,
+      "1": 382,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1189,7 +1190,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 473,
+    "https://store.steampowered.com/": 474,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1264,7 +1265,7 @@
     "colorful": 5,
     "colors": 1,
     "comedy": 7,
-    "conspiracy": 1,
+    "conspiracy": 2,
     "cozy": 2,
     "crafting": 3,
     "crazy": 1,
@@ -1323,7 +1324,7 @@
     "idler": 2,
     "indie": 274,
     "indie classic": 1,
-    "investigation": 3,
+    "investigation": 4,
     "life sim": 1,
     "local multiplayer": 1,
     "logic": 3,
@@ -1389,7 +1390,7 @@
     "realistic": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 63,
+    "retro": 64,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
@@ -1581,7 +1582,7 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 2
+      "2026-04-30T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1589,7 +1590,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 22
+      "2026-01-01T00:00:00.000Z": 23
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1623,11 +1624,10 @@
       "2026-01-01T00:00:00.000Z": 10,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 6
+      "2026-04-01T00:00:00.000Z": 7
     }
   },
   "Year": {
-    "": 1,
     "1988": 1,
     "1990": 1,
     "1992": 1,
@@ -1663,6 +1663,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 17,
-    "2026": 7
+    "2026": 8
   }
 }

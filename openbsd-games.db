@@ -10177,7 +10177,7 @@ Store	https://github.com/lilybeevee/bab-be-u
 Hints	Use git head, and point love-11 to the directory
 Genre	Puzzle
 Tags	logic, casual, clever
-Year	
+Year
 Dev	bab devs
 Pub	bab devs
 Version
@@ -10185,3 +10185,21 @@ Status	1 (2026-04-30)
 Added	2026-04-30
 Updated	2026-04-30
 IgdbId
+
+Game	Lost Wiki: Kozlovka
+Id	567
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://store.steampowered.com/app/4018950/Lost_Wiki_Kozlovka/
+Hints
+Genre	Detective Mystery
+Tags	investigation, conspiracy, retro
+Year	2026
+Dev	yattytheman
+Pub	yattytheman
+Version
+Status	1 (2026-04-30)
+Added	2026-04-30
+Updated	2026-04-30
+IgdbId	374721
