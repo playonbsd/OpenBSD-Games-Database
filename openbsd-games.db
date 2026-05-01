@@ -10171,7 +10171,7 @@ IgdbId
 Game	BAB BE YOU
 Id	566
 Engine	Love2D
-Setup	
+Setup
 Runtime	love-11
 Store	https://github.com/lilybeevee/bab-be-u
 Hints	Use git head, and point love-11 to the directory
@@ -10180,7 +10180,7 @@ Tags	logic, casual, clever
 Year	
 Dev	bab devs
 Pub	bab devs
-Version	
+Version
 Status	1 (2026-04-30)
 Added	2026-04-30
 Updated	2026-04-30
