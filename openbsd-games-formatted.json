@@ -4111,6 +4111,40 @@
     "Year": "2013-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-02T00:00:00.000Z",
+    "Dev": "gate",
+    "Engine": "Godot",
+    "Game": "Derelict Star",
+    "Genre": [
+      "Precision Platformer"
+    ],
+    "Hints": "",
+    "Id": "568",
+    "IgdbId": "376551",
+    "Pub": "Luminous Tree Games",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://gate.itch.io/derelict-star",
+      "https://store.steampowered.com/app/3641010/Derelict_Star/"
+    ],
+    "Tags": [
+      "exploration",
+      "metroidvania",
+      "retro",
+      "space"
+    ],
+    "Updated": "2026-05-02T00:00:00.000Z",
+    "Version": "1.0.8",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Parallax Software",
     "Engine": "Descent Engine",

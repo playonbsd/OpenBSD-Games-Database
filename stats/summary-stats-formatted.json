@@ -164,7 +164,8 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 3
+      "2026-04-30T00:00:00.000Z": 3,
+      "2026-05-02T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -173,7 +174,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 22
+      "2026-01-01T00:00:00.000Z": 23
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -220,7 +221,8 @@
       "2026-01-01T00:00:00.000Z": 9,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 7
+      "2026-04-01T00:00:00.000Z": 7,
+      "2026-05-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -232,7 +234,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 187,
+    "Godot": 188,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -849,7 +851,8 @@
     "Observa",
     "Sophie's Grids",
     "BAB BE YOU",
-    "Lost Wiki: Kozlovka"
+    "Lost Wiki: Kozlovka",
+    "Derelict Star"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -899,6 +902,7 @@
     "Physics": 1,
     "Platformer": 59,
     "Point & Click Adventure": 10,
+    "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 48,
     "Puzzle Game": 3,
@@ -949,7 +953,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 207,
+    "IndieRunner": 208,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1158,19 +1162,20 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 3
+      "2026-04-30T00:00:00.000Z": 3,
+      "2026-05-02T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 382,
+      "launches": 383,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 382,
+      "1": 383,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1185,12 +1190,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 150,
+    "https://itch.io/": 151,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 474,
+    "https://store.steampowered.com/": 475,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1289,7 +1294,7 @@
     "dystopian": 1,
     "early access": 27,
     "educational": 1,
-    "exploration": 7,
+    "exploration": 8,
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 1,
@@ -1335,7 +1340,7 @@
     "match three": 1,
     "medieval": 2,
     "megaman-inspired": 1,
-    "metroidvania": 3,
+    "metroidvania": 4,
     "military": 2,
     "mind-bending": 1,
     "minimalist": 12,
@@ -1390,7 +1395,7 @@
     "realistic": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 64,
+    "retro": 65,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
@@ -1408,7 +1413,7 @@
     "sokoban-style": 1,
     "souls-like": 3,
     "soviet": 1,
-    "space": 15,
+    "space": 16,
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
@@ -1582,7 +1587,8 @@
       "2026-04-17T00:00:00.000Z": 1,
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
-      "2026-04-30T00:00:00.000Z": 3
+      "2026-04-30T00:00:00.000Z": 3,
+      "2026-05-02T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1590,7 +1596,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 23
+      "2026-01-01T00:00:00.000Z": 24
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1624,7 +1630,8 @@
       "2026-01-01T00:00:00.000Z": 10,
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
-      "2026-04-01T00:00:00.000Z": 7
+      "2026-04-01T00:00:00.000Z": 7,
+      "2026-05-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1663,6 +1670,6 @@
     "2023": 39,
     "2024": 51,
     "2025": 17,
-    "2026": 8
+    "2026": 9
   }
 }

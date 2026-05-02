@@ -10203,3 +10203,21 @@ Status	1 (2026-04-30)
 Added	2026-04-30
 Updated	2026-04-30
 IgdbId	374721
+
+Game	Derelict Star
+Id	568
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://gate.itch.io/derelict-star https://store.steampowered.com/app/3641010/Derelict_Star/
+Hints
+Genre	Precision Platformer
+Tags	metroidvania, retro, exploration, space
+Year	2026
+Dev	gate
+Pub	Luminous Tree Games
+Version	1.0.8
+Status	1 (2026-05-02)
+Added	2026-05-02
+Updated	2026-05-02
+IgdbId	376551

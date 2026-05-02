@@ -8,7 +8,7 @@ check:
 		$$(grep -E '^Id[[:blank:]]' openbsd-games.db | sort | uniq | wc -l) ]] ; then \
 		echo "\tPlease fix: Non-unique Id lines identified."; \
 	fi
-	@echo "Checking for trainling whitespace..."
+	@echo "Checking for trailing whitespace..."
 	@if $$(grep -Eq '[[:space:]]$$' openbsd-games.db); then \
 		echo "\tPlease fix: trailing whitespace found in openbsd-games.db"; \
 	fi
