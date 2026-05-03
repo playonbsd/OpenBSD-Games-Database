@@ -165,7 +165,7 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 1
+      "2026-05-02T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -174,7 +174,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 23
+      "2026-01-01T00:00:00.000Z": 24
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -222,7 +222,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 1
+      "2026-05-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -234,7 +234,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 188,
+    "Godot": 189,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -852,7 +852,8 @@
     "Sophie's Grids",
     "BAB BE YOU",
     "Lost Wiki: Kozlovka",
-    "Derelict Star"
+    "Derelict Star",
+    "Upload Labs"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -922,7 +923,7 @@
     "Shoot'em Up": 7,
     "Shooter": 1,
     "Side-Scrolling Shooter": 1,
-    "Simulation": 9,
+    "Simulation": 10,
     "Slotmachine Game": 1,
     "Spacesim": 1,
     "Sports": 1,
@@ -953,7 +954,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 208,
+    "IndieRunner": 209,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1163,19 +1164,19 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 1
+      "2026-05-02T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 383,
+      "launches": 384,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 383,
+      "1": 384,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1195,7 +1196,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 475,
+    "https://store.steampowered.com/": 476,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1244,7 +1245,7 @@
     "ascii": 1,
     "atmospheric": 1,
     "autobattler": 2,
-    "automation": 1,
+    "automation": 2,
     "award-winning": 2,
     "base-building": 2,
     "bears": 1,
@@ -1306,7 +1307,7 @@
     "first person": 1,
     "first-person": 8,
     "flying": 1,
-    "free": 38,
+    "free": 39,
     "funny": 1,
     "furry": 2,
     "gambling": 2,
@@ -1326,7 +1327,7 @@
     "historical": 1,
     "horror": 14,
     "humor": 13,
-    "idler": 2,
+    "idler": 3,
     "indie": 274,
     "indie classic": 1,
     "investigation": 4,
@@ -1588,7 +1589,7 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 1
+      "2026-05-02T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1596,7 +1597,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 24
+      "2026-01-01T00:00:00.000Z": 25
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1631,7 +1632,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 1
+      "2026-05-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1669,7 +1670,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 51,
-    "2025": 17,
+    "2025": 18,
     "2026": 9
   }
 }

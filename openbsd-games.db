@@ -10221,3 +10221,21 @@ Status	1 (2026-05-02)
 Added	2026-05-02
 Updated	2026-05-02
 IgdbId	376551
+
+Game	Upload Labs
+Id	569
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3606890/Upload_Labs/
+Hints
+Genre	Simulation
+Tags	automation, idler, free
+Year	2025
+Dev	EnigmaDev Studios
+Pub	EnigmaDev Studios
+Version	2.2.8
+Status	1 (2026-05-02)
+Added	2026-05-02
+Updated	2026-05-02
+IgdbId	366875

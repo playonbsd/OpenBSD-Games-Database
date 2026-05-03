@@ -16689,6 +16689,38 @@
     "Year": "2013-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-02T00:00:00.000Z",
+    "Dev": "EnigmaDev Studios",
+    "Engine": "Godot",
+    "Game": "Upload Labs",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "569",
+    "IgdbId": "366875",
+    "Pub": "EnigmaDev Studios",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-02T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3606890/Upload_Labs/"
+    ],
+    "Tags": [
+      "automation",
+      "free",
+      "idler"
+    ],
+    "Updated": "2026-05-02T00:00:00.000Z",
+    "Version": "2.2.8",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-11-25T00:00:00.000Z",
     "Dev": "David Kaleta",
     "Engine": "LibGDX",
