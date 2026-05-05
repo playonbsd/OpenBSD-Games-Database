@@ -15016,6 +15016,40 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-05T00:00:00.000Z",
+    "Dev": "The Wonder Room",
+    "Engine": "ScummVM",
+    "Game": "The Beekeeper's Picnic",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "570",
+    "IgdbId": "235520",
+    "Pub": "The Wonder Room",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-05T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://jabbage.itch.io/the-beekeepers-picnic-poc",
+      "https://store.steampowered.com/app/2248890/The_Beekeepers_Picnic__A_Sherlockian_Adventure/"
+    ],
+    "Tags": [
+      "detective",
+      "point&click",
+      "retro",
+      "story-rich"
+    ],
+    "Updated": "2026-05-05T00:00:00.000Z",
+    "Version": "1.13.2",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Wadjet Eye Games",
     "Engine": "Adventure Game Studio",

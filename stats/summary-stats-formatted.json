@@ -165,7 +165,8 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 2
+      "2026-05-02T00:00:00.000Z": 2,
+      "2026-05-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -174,7 +175,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 24
+      "2026-01-01T00:00:00.000Z": 25
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -222,7 +223,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 2
+      "2026-05-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -261,7 +262,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 10,
+    "ScummVM": 11,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -853,7 +854,8 @@
     "BAB BE YOU",
     "Lost Wiki: Kozlovka",
     "Derelict Star",
-    "Upload Labs"
+    "Upload Labs",
+    "The Beekeeper's Picnic"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -864,7 +866,7 @@
     "Action Platformer": 12,
     "Action RPG": 10,
     "Action Roguelike": 11,
-    "Adventure": 52,
+    "Adventure": 53,
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Boardgame": 1,
@@ -954,7 +956,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 209,
+    "IndieRunner": 210,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1164,19 +1166,20 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 2
+      "2026-05-02T00:00:00.000Z": 2,
+      "2026-05-05T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 384,
+      "launches": 385,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 384,
+      "1": 385,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1191,12 +1194,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 151,
+    "https://itch.io/": 152,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 1,
-    "https://store.steampowered.com/": 476,
+    "https://store.steampowered.com/": 477,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1285,7 +1288,7 @@
     "deckbuilder": 3,
     "deduction": 1,
     "demo": 1,
-    "detective": 5,
+    "detective": 6,
     "dice": 2,
     "diegetic": 1,
     "difficult": 1,
@@ -1376,6 +1379,7 @@
     "pixels": 3,
     "platformer": 6,
     "point & click": 2,
+    "point&click": 1,
     "poker": 1,
     "political": 3,
     "polygons": 1,
@@ -1396,7 +1400,7 @@
     "realistic": 1,
     "relaxing": 5,
     "remake": 1,
-    "retro": 65,
+    "retro": 66,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
@@ -1420,7 +1424,7 @@
     "sports": 1,
     "stealth": 3,
     "steampunk": 1,
-    "story-rich": 1,
+    "story-rich": 2,
     "strategy": 6,
     "surreal": 2,
     "survival": 5,
@@ -1589,7 +1593,8 @@
       "2026-04-20T00:00:00.000Z": 1,
       "2026-04-29T00:00:00.000Z": 1,
       "2026-04-30T00:00:00.000Z": 3,
-      "2026-05-02T00:00:00.000Z": 2
+      "2026-05-02T00:00:00.000Z": 2,
+      "2026-05-05T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1597,7 +1602,7 @@
       "2023-01-01T00:00:00.000Z": 294,
       "2024-01-01T00:00:00.000Z": 104,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 25
+      "2026-01-01T00:00:00.000Z": 26
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1632,7 +1637,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 2
+      "2026-05-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -1670,7 +1675,7 @@
     "2022": 43,
     "2023": 39,
     "2024": 51,
-    "2025": 18,
+    "2025": 19,
     "2026": 9
   }
 }

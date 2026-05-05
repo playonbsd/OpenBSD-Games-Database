@@ -10239,3 +10239,21 @@ Status	1 (2026-05-02)
 Added	2026-05-02
 Updated	2026-05-02
 IgdbId	366875
+
+Game	The Beekeeper's Picnic
+Id	570
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://jabbage.itch.io/the-beekeepers-picnic-poc https://store.steampowered.com/app/2248890/The_Beekeepers_Picnic__A_Sherlockian_Adventure/
+Hints
+Genre	Adventure
+Tags	point&click, detective, retro, story-rich
+Year	2025
+Dev	The Wonder Room
+Pub	The Wonder Room
+Version	1.13.2
+Status	1 (2026-05-05)
+Added	2026-05-05
+Updated	2026-05-05
+IgdbId	235520
