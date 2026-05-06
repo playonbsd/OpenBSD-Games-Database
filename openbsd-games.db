@@ -10257,3 +10257,21 @@ Status	1 (2026-05-05)
 Added	2026-05-05
 Updated	2026-05-05
 IgdbId	235520
+
+Game	Ravage Road
+Id	571
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/2102240/Ravage_Road/
+Hints
+Genre	Tower Defense
+Tags	casual, card game
+Year	2022
+Dev	Triple Cerberus Studios
+Pub	Triple Cerberus Studios
+Version
+Status	1 (2026-05-06)
+Added	2026-05-06
+Updated	2026-05-06
+IgdbId	228458
