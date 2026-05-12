@@ -10275,3 +10275,21 @@ Status	1 (2026-05-06)
 Added	2026-05-06
 Updated	2026-05-06
 IgdbId	228458
+
+Game	U.V.S. Nirmana
+Id	572
+Engine	Mono
+Setup	IndieRunner
+Runtime	mono
+Store	https://store.steampowered.com/app/2536720/UVS_Nirmana/
+Hints
+Genre	Puzzle
+Tags	programming, zach-like, singleplayer, logic, space, engineering
+Year	2026
+Dev	Coincidence
+Pub	Klei Publishing
+Version
+Status	1 (2026-05-12)
+Added	2026-05-12
+Updated	2026-05-12
+IgdbId	400475

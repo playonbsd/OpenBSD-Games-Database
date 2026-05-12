@@ -16517,6 +16517,41 @@
     "Year": "1995-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-12T00:00:00.000Z",
+    "Dev": "Coincidence",
+    "Engine": "Mono",
+    "Game": "U.V.S. Nirmana",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "572",
+    "IgdbId": "400475",
+    "Pub": "Klei Publishing",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2536720/UVS_Nirmana/"
+    ],
+    "Tags": [
+      "engineering",
+      "logic",
+      "programming",
+      "singleplayer",
+      "space",
+      "zach-like"
+    ],
+    "Updated": "2026-05-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-10-10T00:00:00.000Z",
     "Dev": "Spacewalkers",
     "Engine": "Godot",
