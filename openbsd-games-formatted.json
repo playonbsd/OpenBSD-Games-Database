@@ -2095,13 +2095,15 @@
     "Dev": "Blobfish",
     "Engine": "Godot",
     "Game": "Brotato",
-    "Genre": [],
-    "Hints": "DLC Abyssal Terrors works, copy BrotatoAbyssalTerrors.pck into game's directory. steamctl depot download -a 1942280 -d 2868390 -m 8743804879875762247",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "DLC Abyssal Terrors: current workaround to run it: extract both Brotato.pck and BrotatoAbyssalTerrors.pck into the same directory. Then run `godot3 --path /path/to/extracted/game`.",
     "Id": "47",
     "IgdbId": "199116",
     "Pub": "Blobfish",
-    "Runtime": "",
-    "Setup": "",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
       "StatusDate": "2024-10-25T00:00:00.000Z",
@@ -2109,14 +2111,16 @@
       "StatusText": "launches"
     },
     "Store": [
-      "https://store.steampowered.com/app/1942280/Brotato/"
+      "https://store.steampowered.com/app/1942280/Brotato/",
+      "https://www.gog.com/en/game/brotato"
     ],
     "Tags": [
+      "bullet hell",
       "indie"
     ],
-    "Updated": "2024-10-25T00:00:00.000Z",
-    "Version": "1.1",
-    "Year": ""
+    "Updated": "2026-05-13T00:00:00.000Z",
+    "Version": "1.1.15.1",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

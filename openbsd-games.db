@@ -829,19 +829,19 @@ IgdbId	206502
 Game	Brotato
 Id	47
 Engine	Godot
-Setup
-Runtime
-Store	https://store.steampowered.com/app/1942280/Brotato/
-Hints	DLC Abyssal Terrors works, copy BrotatoAbyssalTerrors.pck into game's directory. steamctl depot download -a 1942280 -d 2868390 -m 8743804879875762247
-Genre
-Tags	indie
-Year
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/1942280/Brotato/ https://www.gog.com/en/game/brotato
+Hints	DLC Abyssal Terrors: current workaround to run it: extract both Brotato.pck and BrotatoAbyssalTerrors.pck into the same directory. Then run `godot3 --path /path/to/extracted/game`.
+Genre	Action Roguelike
+Tags	indie, bullet hell
+Year	2023
 Dev	Blobfish
 Pub	Blobfish
-Version	1.1
+Version	1.1.15.1
 Status	1 (2024-10-25)
 Added	2022-06-07
-Updated	2024-10-25
+Updated	2026-05-13
 IgdbId	199116
 
 Game	Brushwood Buddies
