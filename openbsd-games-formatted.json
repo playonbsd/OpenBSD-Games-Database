@@ -2186,6 +2186,38 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-25T00:00:00.000Z",
+    "Dev": "Neutronized",
+    "Engine": "Godot",
+    "Game": "Bufo Jump",
+    "Genre": [
+      "3D Platformer"
+    ],
+    "Hints": "",
+    "Id": "574",
+    "IgdbId": "388315",
+    "Pub": "Neutronized",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/4175980/Bufo_Jump/"
+    ],
+    "Tags": [
+      "adventure",
+      "casual",
+      "colourful"
+    ],
+    "Updated": "2026-05-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-10-20T00:00:00.000Z",
     "Dev": "Yolwoocle",
     "Engine": "Love2D",
@@ -5556,6 +5588,41 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2013-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-05-25T00:00:00.000Z",
+    "Dev": "John Pywell",
+    "Engine": "Godot",
+    "Game": "FOUNTAINS",
+    "Genre": [
+      "Action RPG"
+    ],
+    "Hints": "",
+    "Id": "575",
+    "IgdbId": "203752",
+    "Pub": "Crunching Koalas, John Pywell",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1841240/FOUNTAINS/",
+      "https://store.epicgames.com/p/fountains-87e36d"
+    ],
+    "Tags": [
+      "RPG",
+      "exploration",
+      "indie",
+      "metroidvania",
+      "souls-like"
+    ],
+    "Updated": "2026-05-25T00:00:00.000Z",
+    "Version": "1.4.8",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "2022-04-14T00:00:00.000Z",
@@ -12433,6 +12500,38 @@
     "Year": "1993-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-25T00:00:00.000Z",
+    "Dev": "Ruben S. Luis",
+    "Engine": "Godot",
+    "Game": "Sealed Bite: Extended",
+    "Genre": [
+      "Metroidvania"
+    ],
+    "Hints": "",
+    "Id": "576",
+    "IgdbId": "291228",
+    "Pub": "Pineapple Works",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2849650/Sealed_Bite_Extended/"
+    ],
+    "Tags": [
+      "indie",
+      "pixelart",
+      "platformer"
+    ],
+    "Updated": "2026-05-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -15546,6 +15645,40 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-05-25T00:00:00.000Z",
+    "Dev": "Megalithic Mainframe",
+    "Engine": "Wintermute",
+    "Game": "The Idiot's Tale",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "573",
+    "IgdbId": "87956",
+    "Pub": "Megalithic Mainframe",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://megalithic-mainframe.itch.io/the-idiots-tale",
+      "https://store.steampowered.com/app/810450/The_Idiots_Tale/"
+    ],
+    "Tags": [
+      "cartoony",
+      "comedy",
+      "medieval",
+      "retro"
+    ],
+    "Updated": "2026-05-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-07-14T00:00:00.000Z",

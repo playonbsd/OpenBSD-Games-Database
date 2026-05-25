@@ -10293,3 +10293,75 @@ Status	1 (2026-05-12)
 Added	2026-05-12
 Updated	2026-05-12
 IgdbId	400475
+
+Game	The Idiot's Tale
+Id	573
+Engine	Wintermute
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://megalithic-mainframe.itch.io/the-idiots-tale https://store.steampowered.com/app/810450/The_Idiots_Tale/
+Hints
+Genre	Point & Click Adventure
+Tags	cartoony, comedy, medieval, retro
+Year	2018
+Dev	Megalithic Mainframe
+Pub	Megalithic Mainframe
+Version
+Status	1 (2026-05-25)
+Added	2026-05-25
+Updated	2026-05-25
+IgdbId	87956
+
+Game	Bufo Jump
+Id	574
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://store.steampowered.com/app/4175980/Bufo_Jump/
+Hints
+Genre	3D Platformer
+Tags	casual, adventure, colourful
+Year	2026
+Dev	Neutronized
+Pub	Neutronized
+Version
+Status	1 (2026-05-25)
+Added	2026-05-25
+Updated	2026-05-25
+IgdbId	388315
+
+Game	FOUNTAINS
+Id	575
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/1841240/FOUNTAINS/ https://store.epicgames.com/p/fountains-87e36d
+Hints
+Genre	Action RPG
+Tags	souls-like, metroidvania, indie, exploration, RPG
+Year	2024
+Dev	John Pywell
+Pub	Crunching Koalas, John Pywell
+Version	1.4.8
+Status	1 (2026-05-25)
+Added	2026-05-25
+Updated	2026-05-25
+IgdbId	203752
+
+Game	Sealed Bite: Extended
+Id	576
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/2849650/Sealed_Bite_Extended/
+Hints
+Genre	Metroidvania
+Tags	platformer, pixelart, indie
+Year	2026
+Dev	Ruben S. Luis
+Pub	Pineapple Works
+Version
+Status	1 (2026-05-25)
+Added	2026-05-25
+Updated	2026-05-25
+IgdbId	291228
