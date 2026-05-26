@@ -1696,6 +1696,39 @@
     "Year": "2011-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-26T00:00:00.000Z",
+    "Dev": "Tibo, upint, Tim Krief",
+    "Engine": "Godot",
+    "Game": "Bird Society",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "577",
+    "IgdbId": "",
+    "Pub": "Tibo, upint, Tim Krief",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://gtibo.itch.io/bird-society"
+    ],
+    "Tags": [
+      "3d",
+      "flying",
+      "free",
+      "indie"
+    ],
+    "Updated": "2026-05-26T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-12-10T00:00:00.000Z",
     "Dev": "ehmprah",
     "Engine": "Godot",

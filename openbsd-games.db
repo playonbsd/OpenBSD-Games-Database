@@ -10365,3 +10365,21 @@ Status	1 (2026-05-25)
 Added	2026-05-25
 Updated	2026-05-25
 IgdbId	291228
+
+Game	Bird Society
+Id	577
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://gtibo.itch.io/bird-society
+Hints
+Genre	Simulation
+Tags	indie, 3d, flying, free
+Year	2025
+Dev	Tibo, upint, Tim Krief
+Pub	Tibo, upint, Tim Krief
+Version
+Status	1 (2026-05-26)
+Added	2026-05-26
+Updated	2026-05-26
+IgdbId
