@@ -3146,6 +3146,39 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-27T00:00:00.000Z",
+    "Dev": "carllacan",
+    "Engine": "Godot",
+    "Game": "Coreward",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "Id": "580",
+    "IgdbId": "344764",
+    "Pub": "carllacan",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3695440/Coreward/"
+    ],
+    "Tags": [
+      "bullet hell",
+      "incremental",
+      "indie",
+      "minimalist"
+    ],
+    "Updated": "2026-05-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-27T00:00:00.000Z",
     "Dev": "simonschreibt",
     "Engine": "Godot",
@@ -5719,6 +5752,40 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2012-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-05-27T00:00:00.000Z",
+    "Dev": "Bernie Wick",
+    "Engine": "Godot",
+    "Game": "Fading Serenades",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "579",
+    "IgdbId": "348512",
+    "Pub": "Bernie Wick",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3644970/Fading_Serenades/"
+    ],
+    "Tags": [
+      "casual",
+      "indie",
+      "inventory management",
+      "pixelart",
+      "retro"
+    ],
+    "Updated": "2026-05-27T00:00:00.000Z",
+    "Version": "1.0.7",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-02-23T00:00:00.000Z",
@@ -12563,6 +12630,38 @@
     "Updated": "2026-05-25T00:00:00.000Z",
     "Version": "",
     "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-05-27T00:00:00.000Z",
+    "Dev": "Bardsley Creative",
+    "Engine": "Godot",
+    "Game": "Seedlings",
+    "Genre": [
+      "Puzzle Platformer"
+    ],
+    "Hints": "",
+    "Id": "578",
+    "IgdbId": "192625",
+    "Pub": "Bardsley Creative",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-27T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1575510/Seedlings/"
+    ],
+    "Tags": [
+      "atmospheric",
+      "indie",
+      "relaxing"
+    ],
+    "Updated": "2026-05-27T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

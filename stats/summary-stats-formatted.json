@@ -170,7 +170,8 @@
       "2026-05-06T00:00:00.000Z": 1,
       "2026-05-12T00:00:00.000Z": 1,
       "2026-05-25T00:00:00.000Z": 4,
-      "2026-05-26T00:00:00.000Z": 1
+      "2026-05-26T00:00:00.000Z": 1,
+      "2026-05-27T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -179,7 +180,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 32
+      "2026-01-01T00:00:00.000Z": 35
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -227,7 +228,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 10
+      "2026-05-01T00:00:00.000Z": 13
     }
   },
   "Engine": {
@@ -239,7 +240,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 194,
+    "Godot": 197,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -866,14 +867,17 @@
     "Bufo Jump",
     "FOUNTAINS",
     "Sealed Bite: Extended",
-    "Bird Society"
+    "Bird Society",
+    "Seedlings",
+    "Fading Serenades",
+    "Coreward"
   ],
   "Genre": {
     "3D Exploration": 1,
     "3D Platformer": 3,
     "6DOF Shooter": 1,
-    "Action": 43,
-    "Action Adventure": 4,
+    "Action": 44,
+    "Action Adventure": 5,
     "Action Platformer": 12,
     "Action RPG": 11,
     "Action Roguelike": 12,
@@ -920,7 +924,7 @@
     "Programming Puzzle": 1,
     "Puzzle": 49,
     "Puzzle Game": 3,
-    "Puzzle Platformer": 16,
+    "Puzzle Platformer": 17,
     "Puzzler": 10,
     "RPG": 33,
     "RTS": 13,
@@ -967,7 +971,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 218,
+    "IndieRunner": 221,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1182,19 +1186,20 @@
       "2026-05-06T00:00:00.000Z": 1,
       "2026-05-12T00:00:00.000Z": 1,
       "2026-05-25T00:00:00.000Z": 4,
-      "2026-05-26T00:00:00.000Z": 1
+      "2026-05-26T00:00:00.000Z": 1,
+      "2026-05-27T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 392,
+      "launches": 395,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 392,
+      "1": 395,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1214,7 +1219,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 2,
-    "https://store.steampowered.com/": 483,
+    "https://store.steampowered.com/": 486,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1261,7 +1266,7 @@
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
-    "atmospheric": 1,
+    "atmospheric": 2,
     "autobattler": 2,
     "automation": 2,
     "award-winning": 2,
@@ -1273,12 +1278,12 @@
     "body horror": 2,
     "boomer shooter": 1,
     "bottom-of-screen": 1,
-    "bullet hell": 9,
+    "bullet hell": 10,
     "card game": 1,
     "cards": 1,
     "cartoon": 3,
     "cartoony": 1,
-    "casual": 17,
+    "casual": 18,
     "cats": 6,
     "cellshade": 1,
     "charity": 1,
@@ -1350,8 +1355,10 @@
     "horror": 14,
     "humor": 13,
     "idler": 3,
-    "indie": 277,
+    "incremental": 1,
+    "indie": 280,
     "indie classic": 1,
+    "inventory management": 1,
     "investigation": 4,
     "life sim": 1,
     "local multiplayer": 1,
@@ -1366,7 +1373,7 @@
     "metroidvania": 5,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 12,
+    "minimalist": 13,
     "mining": 2,
     "monochrome": 1,
     "multiplayer": 17,
@@ -1394,7 +1401,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 15,
+    "pixelart": 16,
     "pixels": 3,
     "platformer": 7,
     "point & click": 2,
@@ -1417,9 +1424,9 @@
     "racing": 1,
     "real-time tactics": 1,
     "realistic": 1,
-    "relaxing": 5,
+    "relaxing": 6,
     "remake": 1,
-    "retro": 67,
+    "retro": 68,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
@@ -1617,7 +1624,8 @@
       "2026-05-12T00:00:00.000Z": 1,
       "2026-05-13T00:00:00.000Z": 2,
       "2026-05-25T00:00:00.000Z": 4,
-      "2026-05-26T00:00:00.000Z": 1
+      "2026-05-26T00:00:00.000Z": 1,
+      "2026-05-27T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1625,7 +1633,7 @@
       "2023-01-01T00:00:00.000Z": 293,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 35
+      "2026-01-01T00:00:00.000Z": 38
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1660,7 +1668,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 12
+      "2026-05-01T00:00:00.000Z": 15
     }
   },
   "Year": {
@@ -1696,9 +1704,9 @@
     "2020": 30,
     "2021": 50,
     "2022": 45,
-    "2023": 40,
+    "2023": 41,
     "2024": 52,
-    "2025": 20,
-    "2026": 12
+    "2025": 21,
+    "2026": 13
   }
 }

@@ -10383,3 +10383,57 @@ Status	1 (2026-05-26)
 Added	2026-05-26
 Updated	2026-05-26
 IgdbId
+
+Game	Seedlings
+Id	578
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/1575510/Seedlings/
+Hints
+Genre	Puzzle Platformer
+Tags	indie, atmospheric, relaxing
+Year	2023
+Dev	Bardsley Creative
+Pub	Bardsley Creative
+Version
+Status	1 (2026-05-27)
+Added	2026-05-27
+Updated	2026-05-27
+IgdbId	192625
+
+Game	Fading Serenades
+Id	579
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3644970/Fading_Serenades/
+Hints
+Genre	Action Adventure
+Tags	indie, inventory management, casual, retro, pixelart
+Year	2025
+Dev	Bernie Wick
+Pub	Bernie Wick
+Version	1.0.7
+Status	1 (2026-05-27)
+Added	2026-05-27
+Updated	2026-05-27
+IgdbId	348512
+
+Game	Coreward
+Id	580
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3695440/Coreward/
+Hints
+Genre	Action
+Tags	indie, minimalist, bullet hell, incremental
+Year	2026
+Dev	carllacan
+Pub	carllacan
+Version
+Status	1 (2026-05-27)
+Added	2026-05-27
+Updated	2026-05-27
+IgdbId	344764
