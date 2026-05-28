@@ -1046,6 +1046,38 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-28T00:00:00.000Z",
+    "Dev": "Null Vector Studios",
+    "Engine": "Godot",
+    "Game": "Astro Protocol",
+    "Genre": [
+      "Turn-based Strategy"
+    ],
+    "Hints": "",
+    "Id": "581",
+    "IgdbId": "350085",
+    "Pub": "Null Vector Studios",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-28T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3727420/Astro_Protocol/"
+    ],
+    "Tags": [
+      "4X",
+      "indie",
+      "space"
+    ],
+    "Updated": "2026-05-28T00:00:00.000Z",
+    "Version": "1.1.16",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Blendo Games",
     "Engine": "",

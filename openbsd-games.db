@@ -10437,3 +10437,21 @@ Status	1 (2026-05-27)
 Added	2026-05-27
 Updated	2026-05-27
 IgdbId	344764
+
+Game	Astro Protocol
+Id	581
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://store.steampowered.com/app/3727420/Astro_Protocol/
+Hints
+Genre	Turn-based Strategy
+Tags	indie, space, 4X
+Year	2026
+Dev	Null Vector Studios
+Pub	Null Vector Studios
+Version	1.1.16
+Status	1 (2026-05-28)
+Added	2026-05-28
+Updated	2026-05-28
+IgdbId	350085
