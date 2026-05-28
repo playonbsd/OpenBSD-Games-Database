@@ -10455,3 +10455,21 @@ Status	1 (2026-05-28)
 Added	2026-05-28
 Updated	2026-05-28
 IgdbId	350085
+
+Game	Understand
+Id	582
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/1299400/Understand/
+Hints
+Genre	Puzzle Game
+Tags	indie, minimalist, abstract, logic, deduction
+Year	2020
+Dev	Artless Games
+Pub	Artless Games
+Version
+Status	1 (2026-05-28)
+Added	2026-05-28
+Updated	2026-05-28
+IgdbId	154873

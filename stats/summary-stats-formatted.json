@@ -172,7 +172,7 @@
       "2026-05-25T00:00:00.000Z": 4,
       "2026-05-26T00:00:00.000Z": 1,
       "2026-05-27T00:00:00.000Z": 3,
-      "2026-05-28T00:00:00.000Z": 1
+      "2026-05-28T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -181,7 +181,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 36
+      "2026-01-01T00:00:00.000Z": 37
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -229,7 +229,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 14
+      "2026-05-01T00:00:00.000Z": 15
     }
   },
   "Engine": {
@@ -252,7 +252,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 39,
+    "Love2D": 40,
     "Mohawk Engine": 2,
     "Mono": 5,
     "MonoGame": 7,
@@ -872,7 +872,8 @@
     "Seedlings",
     "Fading Serenades",
     "Coreward",
-    "Astro Protocol"
+    "Astro Protocol",
+    "Understand"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -925,7 +926,7 @@
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
-    "Puzzle Game": 3,
+    "Puzzle Game": 4,
     "Puzzle Platformer": 17,
     "Puzzler": 10,
     "RPG": 33,
@@ -974,7 +975,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 222,
+    "IndieRunner": 223,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1191,19 +1192,19 @@
       "2026-05-25T00:00:00.000Z": 4,
       "2026-05-26T00:00:00.000Z": 1,
       "2026-05-27T00:00:00.000Z": 3,
-      "2026-05-28T00:00:00.000Z": 1
+      "2026-05-28T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 396,
+      "launches": 397,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 396,
+      "1": 397,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1223,7 +1224,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 2,
-    "https://store.steampowered.com/": 487,
+    "https://store.steampowered.com/": 488,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1259,6 +1260,7 @@
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
+    "abstract": 1,
     "action": 15,
     "action RPG": 1,
     "action roguelike": 1,
@@ -1313,7 +1315,7 @@
     "dark humor": 1,
     "deck-building": 1,
     "deckbuilder": 3,
-    "deduction": 1,
+    "deduction": 2,
     "demo": 1,
     "detective": 6,
     "dice": 2,
@@ -1360,13 +1362,13 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 281,
+    "indie": 282,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 4,
     "life sim": 1,
     "local multiplayer": 1,
-    "logic": 4,
+    "logic": 5,
     "lovecraftian": 3,
     "magic": 1,
     "manga": 1,
@@ -1377,7 +1379,7 @@
     "metroidvania": 5,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 13,
+    "minimalist": 14,
     "mining": 2,
     "monochrome": 1,
     "multiplayer": 17,
@@ -1630,7 +1632,7 @@
       "2026-05-25T00:00:00.000Z": 4,
       "2026-05-26T00:00:00.000Z": 1,
       "2026-05-27T00:00:00.000Z": 3,
-      "2026-05-28T00:00:00.000Z": 1
+      "2026-05-28T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1638,7 +1640,7 @@
       "2023-01-01T00:00:00.000Z": 293,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 34,
-      "2026-01-01T00:00:00.000Z": 39
+      "2026-01-01T00:00:00.000Z": 40
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1673,7 +1675,7 @@
       "2026-02-01T00:00:00.000Z": 4,
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
-      "2026-05-01T00:00:00.000Z": 16
+      "2026-05-01T00:00:00.000Z": 17
     }
   },
   "Year": {
@@ -1706,7 +1708,7 @@
     "2017": 23,
     "2018": 28,
     "2019": 26,
-    "2020": 30,
+    "2020": 31,
     "2021": 50,
     "2022": 45,
     "2023": 41,
