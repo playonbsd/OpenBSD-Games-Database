@@ -17570,6 +17570,42 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-05-30T00:00:00.000Z",
+    "Dev": "TrampolineTales",
+    "Engine": "Godot",
+    "Game": "What's the Password?",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "583",
+    "IgdbId": "379637",
+    "Pub": "TrampolineTales",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-05-30T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://trampolinetales.itch.io/whats-the-password"
+    ],
+    "Tags": [
+      "abstract",
+      "detective",
+      "indie",
+      "linear",
+      "logic",
+      "minimalist",
+      "relaxing"
+    ],
+    "Updated": "2026-05-30T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-01-21T00:00:00.000Z",
     "Dev": "Clifftop Games, Faravid Interactive",
     "Engine": "Adventure Game Studio",

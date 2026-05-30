@@ -10473,3 +10473,21 @@ Status	1 (2026-05-28)
 Added	2026-05-28
 Updated	2026-05-28
 IgdbId	154873
+
+Game	What's the Password?
+Id	583
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://trampolinetales.itch.io/whats-the-password
+Hints
+Genre	Puzzle Game
+Tags	indie, minimalist, abstract, logic, linear, relaxing, detective
+Year	2026
+Dev	TrampolineTales
+Pub	TrampolineTales
+Version
+Status	1 (2026-05-30)
+Added	2026-05-30
+Updated	2026-05-30
+IgdbId	379637
