@@ -2811,7 +2811,7 @@ Id	157
 Engine	Love2D
 Setup	IndieRunner
 Runtime	love-11
-Store	https://www.gog.com/en/game/gravity_circuit https://store.steampowered.com/app/858710/Gravity_Circuit/
+Store	https://www.gog.com/en/game/gravity_circuit https://store.steampowered.com/app/858710/Gravity_Circuit/ https://store.epicgames.com/p/gravity-circuit-489baa
 Hints	extract AppImage with 7zip, run with love-11, need to have package luasteam installed
 Genre	Platformer
 Tags	indie, retro, megaman-inspired
