@@ -6707,6 +6707,7 @@
       "StatusText": "launches"
     },
     "Store": [
+      "https://www.gog.com/en/game/gravity_circuit",
       "https://store.steampowered.com/app/858710/Gravity_Circuit/"
     ],
     "Tags": [
@@ -6714,8 +6715,8 @@
       "megaman-inspired",
       "retro"
     ],
-    "Updated": "2023-07-16T00:00:00.000Z",
-    "Version": "1.0.4",
+    "Updated": "2025-06-01T00:00:00.000Z",
+    "Version": "1.2.2",
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
