@@ -15633,6 +15633,38 @@
     "Year": "2002-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-06-07T00:00:00.000Z",
+    "Dev": "TheEndlessNight",
+    "Engine": "Love2D",
+    "Game": "The Endless Night",
+    "Genre": [
+      "Roguelite Deckbuilder"
+    ],
+    "Hints": "",
+    "Id": "584",
+    "IgdbId": "",
+    "Pub": "TheEndlessNight",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-07T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://theendlessnight.itch.io/the-endless-night"
+    ],
+    "Tags": [
+      "cardgame",
+      "indie",
+      "urban fantasy"
+    ],
+    "Updated": "2026-06-07T00:00:00.000Z",
+    "Version": "0.1.4",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-09-28T00:00:00.000Z",
     "Dev": "Cloak and Dagger Games",
     "Engine": "Adventure Game Studio",

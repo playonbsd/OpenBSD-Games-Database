@@ -10491,3 +10491,21 @@ Status	1 (2026-05-30)
 Added	2026-05-30
 Updated	2026-05-30
 IgdbId	379637
+
+Game	The Endless Night
+Id	584
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://theendlessnight.itch.io/the-endless-night
+Hints
+Genre	Roguelite Deckbuilder
+Tags	indie, urban fantasy, cardgame
+Year	2026
+Dev	TheEndlessNight
+Pub	TheEndlessNight
+Version	0.1.4
+Status	1 (2026-06-07)
+Added	2026-06-07
+Updated	2026-06-07
+IgdbId
