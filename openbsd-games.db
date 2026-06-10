@@ -10509,3 +10509,21 @@ Status	1 (2026-06-07)
 Added	2026-06-07
 Updated	2026-06-07
 IgdbId	405133
+
+Game	Chronicle of Innsmouth
+Id	585
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, lovecraftian
+Year	2017
+Dev	PsychoDev
+Pub	AtomicHorde
+Version
+Status	1 (2026-06-10)
+Added	2026-06-10
+Updated	2026-06-10
+IgdbId	28527

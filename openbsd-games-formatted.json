@@ -3023,6 +3023,38 @@
     "Year": ""
   },
   {
+    "Added": "2026-06-10T00:00:00.000Z",
+    "Dev": "PsychoDev",
+    "Engine": "ScummVM",
+    "Game": "Chronicle of Innsmouth",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "585",
+    "IgdbId": "28527",
+    "Pub": "AtomicHorde",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/"
+    ],
+    "Tags": [
+      "indie",
+      "lovecraftian",
+      "pixelart"
+    ],
+    "Updated": "2026-06-10T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-23T00:00:00.000Z",
     "Dev": "Destrakz Games",
     "Engine": "Godot",

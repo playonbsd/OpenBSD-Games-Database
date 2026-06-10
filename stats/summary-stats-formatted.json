@@ -174,7 +174,8 @@
       "2026-05-27T00:00:00.000Z": 3,
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
-      "2026-06-07T00:00:00.000Z": 1
+      "2026-06-07T00:00:00.000Z": 1,
+      "2026-06-10T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -183,7 +184,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 39
+      "2026-01-01T00:00:00.000Z": 40
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -232,7 +233,7 @@
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
-      "2026-06-01T00:00:00.000Z": 1
+      "2026-06-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -271,7 +272,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 11,
+    "ScummVM": 12,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -878,7 +879,8 @@
     "Astro Protocol",
     "Understand",
     "What's the Password?",
-    "The Endless Night"
+    "The Endless Night",
+    "Chronicle of Innsmouth"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -927,7 +929,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 11,
+    "Point & Click Adventure": 12,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
@@ -981,7 +983,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 225,
+    "IndieRunner": 226,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1200,19 +1202,20 @@
       "2026-05-27T00:00:00.000Z": 3,
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
-      "2026-06-07T00:00:00.000Z": 1
+      "2026-06-07T00:00:00.000Z": 1,
+      "2026-06-10T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 399,
+      "launches": 400,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 399,
+      "1": 400,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1232,7 +1235,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 488,
+    "https://store.steampowered.com/": 489,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1371,7 +1374,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 284,
+    "indie": 285,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 4,
@@ -1379,7 +1382,7 @@
     "linear": 1,
     "local multiplayer": 1,
     "logic": 6,
-    "lovecraftian": 3,
+    "lovecraftian": 4,
     "magic": 1,
     "manga": 1,
     "massive": 1,
@@ -1417,7 +1420,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 16,
+    "pixelart": 17,
     "pixels": 3,
     "platformer": 7,
     "point & click": 2,
@@ -1645,7 +1648,8 @@
       "2026-05-27T00:00:00.000Z": 3,
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
-      "2026-06-07T00:00:00.000Z": 1
+      "2026-06-07T00:00:00.000Z": 1,
+      "2026-06-10T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1653,7 +1657,7 @@
       "2023-01-01T00:00:00.000Z": 292,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 42
+      "2026-01-01T00:00:00.000Z": 43
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1689,7 +1693,7 @@
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
-      "2026-06-01T00:00:00.000Z": 1
+      "2026-06-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1719,7 +1723,7 @@
     "2014": 18,
     "2015": 19,
     "2016": 26,
-    "2017": 23,
+    "2017": 24,
     "2018": 28,
     "2019": 26,
     "2020": 31,
