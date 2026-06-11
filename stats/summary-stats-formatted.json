@@ -175,7 +175,7 @@
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
       "2026-06-07T00:00:00.000Z": 1,
-      "2026-06-10T00:00:00.000Z": 1
+      "2026-06-10T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -184,7 +184,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 40
+      "2026-01-01T00:00:00.000Z": 43
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -233,7 +233,7 @@
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
-      "2026-06-01T00:00:00.000Z": 2
+      "2026-06-01T00:00:00.000Z": 5
     }
   },
   "Engine": {
@@ -245,7 +245,7 @@
     "FNA": 81,
     "FontEngine": 1,
     "GZDoom": 15,
-    "Godot": 199,
+    "Godot": 200,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -256,7 +256,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 41,
+    "Love2D": 42,
     "Mohawk Engine": 2,
     "Mono": 5,
     "MonoGame": 7,
@@ -272,7 +272,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 12,
+    "ScummVM": 13,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -880,7 +880,10 @@
     "Understand",
     "What's the Password?",
     "The Endless Night",
-    "Chronicle of Innsmouth"
+    "Chronicle of Innsmouth",
+    "Maze Mice",
+    "Chronicle of Innsmouth: Mountains of Madness",
+    "Rootin' Tootin' Lootin' & Shootin'"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -896,6 +899,7 @@
     "Arcade Platformer": 1,
     "Boardgame": 1,
     "Brawler": 4,
+    "Bullet Heaven": 1,
     "Card Battler": 1,
     "Card Game": 8,
     "City Builder": 6,
@@ -929,7 +933,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 12,
+    "Point & Click Adventure": 13,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
@@ -979,11 +983,12 @@
     "rogue-like": 1,
     "roguelike deckbuilder": 1,
     "rpg": 2,
+    "turn-based tactics": 1,
     "visual novel": 1
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 226,
+    "IndieRunner": 229,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1203,19 +1208,19 @@
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
       "2026-06-07T00:00:00.000Z": 1,
-      "2026-06-10T00:00:00.000Z": 1
+      "2026-06-10T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 400,
+      "launches": 403,
       "major bugs": 18,
       "minor bugs": 1
     },
     "RatingNum": {
       "0": 6,
-      "1": 400,
+      "1": 403,
       "2": 18,
       "3": 6,
       "4": 1,
@@ -1230,12 +1235,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 156,
+    "https://itch.io/": 157,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 489,
+    "https://store.steampowered.com/": 492,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1252,7 +1257,7 @@
     "1980s": 1,
     "2D": 6,
     "2bit": 1,
-    "2d": 2,
+    "2d": 3,
     "3D": 3,
     "3d": 5,
     "4X": 4,
@@ -1274,7 +1279,7 @@
     "abstract": 2,
     "action": 15,
     "action RPG": 1,
-    "action roguelike": 1,
+    "action roguelike": 2,
     "adventure": 5,
     "aliens": 1,
     "animals": 3,
@@ -1283,7 +1288,7 @@
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
-    "atmospheric": 2,
+    "atmospheric": 3,
     "autobattler": 2,
     "automation": 2,
     "award-winning": 2,
@@ -1374,7 +1379,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 285,
+    "indie": 288,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 4,
@@ -1382,7 +1387,7 @@
     "linear": 1,
     "local multiplayer": 1,
     "logic": 6,
-    "lovecraftian": 4,
+    "lovecraftian": 5,
     "magic": 1,
     "manga": 1,
     "massive": 1,
@@ -1420,7 +1425,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 17,
+    "pixelart": 19,
     "pixels": 3,
     "platformer": 7,
     "point & click": 2,
@@ -1495,7 +1500,7 @@
     "voxel": 3,
     "wargame": 1,
     "weird": 1,
-    "western": 1,
+    "western": 2,
     "wholesome": 3,
     "wizard": 1,
     "word game": 5,
@@ -1649,7 +1654,7 @@
       "2026-05-28T00:00:00.000Z": 2,
       "2026-05-30T00:00:00.000Z": 1,
       "2026-06-07T00:00:00.000Z": 1,
-      "2026-06-10T00:00:00.000Z": 1
+      "2026-06-10T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1657,7 +1662,7 @@
       "2023-01-01T00:00:00.000Z": 292,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 43
+      "2026-01-01T00:00:00.000Z": 46
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1693,7 +1698,7 @@
       "2026-03-01T00:00:00.000Z": 2,
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
-      "2026-06-01T00:00:00.000Z": 2
+      "2026-06-01T00:00:00.000Z": 5
     }
   },
   "Year": {
@@ -1727,11 +1732,11 @@
     "2018": 28,
     "2019": 26,
     "2020": 31,
-    "2021": 50,
+    "2021": 51,
     "2022": 45,
     "2023": 41,
     "2024": 52,
-    "2025": 21,
+    "2025": 23,
     "2026": 16
   }
 }

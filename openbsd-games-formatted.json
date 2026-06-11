@@ -3055,6 +3055,39 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-06-10T00:00:00.000Z",
+    "Dev": "PsychoDev",
+    "Engine": "ScummVM",
+    "Game": "Chronicle of Innsmouth: Mountains of Madness",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "587",
+    "IgdbId": "111277",
+    "Pub": "AtomicHorde",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/962700/Chronicle_of_Innsmouth_Mountains_of_Madness/"
+    ],
+    "Tags": [
+      "atmospheric",
+      "indie",
+      "lovecraftian",
+      "pixelart"
+    ],
+    "Updated": "2026-06-10T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-23T00:00:00.000Z",
     "Dev": "Destrakz Games",
     "Engine": "Godot",
@@ -9448,6 +9481,39 @@
     "Year": "1993-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-06-10T00:00:00.000Z",
+    "Dev": "TrampolineTales",
+    "Engine": "Godot",
+    "Game": "Maze Mice",
+    "Genre": [
+      "Bullet Heaven"
+    ],
+    "Hints": "",
+    "Id": "586",
+    "IgdbId": "327735",
+    "Pub": "TrampolineTales",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://trampolinetales.itch.io/maze-mice",
+      "https://store.steampowered.com/app/3385370/Maze_Mice/"
+    ],
+    "Tags": [
+      "2d",
+      "action roguelike",
+      "indie"
+    ],
+    "Updated": "2026-06-10T00:00:00.000Z",
+    "Version": "1.0.22",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Capcom",
     "Engine": "",
@@ -12357,6 +12423,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-06-10T00:00:00.000Z",
+    "Dev": "Raspberry Jam",
+    "Engine": "Love2D",
+    "Game": "Rootin' Tootin' Lootin' & Shootin'",
+    "Genre": [
+      "turn-based tactics"
+    ],
+    "Hints": "",
+    "Id": "588",
+    "IgdbId": "246709",
+    "Pub": "Raspberry Jam",
+    "Runtime": "love-11",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2372450/Rootin_Tootin_Lootin__Shootin/"
+    ],
+    "Tags": [
+      "indie",
+      "pixelart",
+      "western"
+    ],
+    "Updated": "2026-06-10T00:00:00.000Z",
+    "Version": "1.6",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

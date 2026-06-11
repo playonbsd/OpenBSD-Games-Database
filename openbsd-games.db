@@ -10527,3 +10527,57 @@ Status	1 (2026-06-10)
 Added	2026-06-10
 Updated	2026-06-10
 IgdbId	28527
+
+Game	Maze Mice
+Id	586
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://trampolinetales.itch.io/maze-mice https://store.steampowered.com/app/3385370/Maze_Mice/
+Hints
+Genre	Bullet Heaven
+Tags	indie, action roguelike, 2d
+Year	2025
+Dev	TrampolineTales
+Pub	TrampolineTales
+Version	1.0.22
+Status	1 (2026-06-10)
+Added	2026-06-10
+Updated	2026-06-10
+IgdbId	327735
+
+Game	Chronicle of Innsmouth: Mountains of Madness
+Id	587
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://store.steampowered.com/app/962700/Chronicle_of_Innsmouth_Mountains_of_Madness/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, lovecraftian, atmospheric
+Year	2021
+Dev	PsychoDev
+Pub	AtomicHorde
+Version
+Status	1 (2026-06-10)
+Added	2026-06-10
+Updated	2026-06-10
+IgdbId	111277
+
+Game	Rootin' Tootin' Lootin' & Shootin'
+Id	588
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-11
+Store	https://store.steampowered.com/app/2372450/Rootin_Tootin_Lootin__Shootin/
+Hints
+Genre	turn-based tactics
+Tags	indie, pixelart, western
+Year	2025
+Dev	Raspberry Jam
+Pub	Raspberry Jam
+Version	1.6
+Status	1 (2026-06-10)
+Added	2026-06-10
+Updated	2026-06-10
+IgdbId	246709
