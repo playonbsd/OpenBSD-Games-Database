@@ -10581,3 +10581,39 @@ Status	1 (2026-06-10)
 Added	2026-06-10
 Updated	2026-06-10
 IgdbId	246709
+
+Game	no signal
+Id	589
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot44
+Store	https://exodrifter.itch.io/no-signal https://store.steampowered.com/app/2840590/no_signal/
+Hints
+Genre	puzzle
+Tags	indie, exploration, scifi, mystery
+Year	2025
+Dev	exodrifter
+Pub	exodrifter
+Version
+Status	1 (2026-06-24)
+Added	2026-06-24
+Updated	2026-06-24
+IgdbId	290895
+
+Game	Alphaman
+Id	590
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://yomic.itch.io/alphaman https://store.steampowered.com/app/1068800/Alphaman/
+Hints
+Genre	Action Platformer
+Tags	indie, megaman-like, retro
+Year	2019
+Dev	Heartfelt Games LLC
+Pub	Heartfelt Games LLC
+Version	1.0.9
+Status	1 (2026-06-25)
+Added	2026-06-25
+Updated	2026-06-25
+IgdbId	100109

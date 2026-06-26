@@ -535,6 +535,39 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-06-25T00:00:00.000Z",
+    "Dev": "Heartfelt Games LLC",
+    "Engine": "Godot",
+    "Game": "Alphaman",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "Id": "590",
+    "IgdbId": "100109",
+    "Pub": "Heartfelt Games LLC",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://yomic.itch.io/alphaman",
+      "https://store.steampowered.com/app/1068800/Alphaman/"
+    ],
+    "Tags": [
+      "indie",
+      "megaman-like",
+      "retro"
+    ],
+    "Updated": "2026-06-25T00:00:00.000Z",
+    "Version": "1.0.9",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2025-12-25T00:00:00.000Z",
     "Dev": "Crashable Studios",
     "Engine": "ScummVM",
@@ -18290,6 +18323,40 @@
     "Updated": "2025-01-04T00:00:00.000Z",
     "Version": "",
     "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-06-24T00:00:00.000Z",
+    "Dev": "exodrifter",
+    "Engine": "Godot",
+    "Game": "no signal",
+    "Genre": [
+      "puzzle"
+    ],
+    "Hints": "",
+    "Id": "589",
+    "IgdbId": "290895",
+    "Pub": "exodrifter",
+    "Runtime": "godot44",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-06-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://exodrifter.itch.io/no-signal",
+      "https://store.steampowered.com/app/2840590/no_signal/"
+    ],
+    "Tags": [
+      "exploration",
+      "indie",
+      "mystery",
+      "scifi"
+    ],
+    "Updated": "2026-06-24T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2025-12-25T00:00:00.000Z",
