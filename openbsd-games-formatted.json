@@ -1671,34 +1671,34 @@
   {
     "Added": "2023-01-23T00:00:00.000Z",
     "Dev": "Metacorp",
-    "Engine": "GZDoom",
+    "Engine": "idTech1",
     "Game": "Beyond Sunset",
     "Genre": [
       "FPS"
     ],
-    "Hints": "",
+    "Hints": "auto save feature during transitions like cyberspace break; workaround: Settings -> Gameplay -> Enable Autosaves -> set to Never",
     "Id": "32",
     "IgdbId": "164206",
     "Pub": "Movie Games S.A.",
-    "Runtime": "gzdoom",
+    "Runtime": "lzdoom",
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2023-01-23T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusDate": "2026-07-12T00:00:00.000Z",
+      "StatusNumber": "3",
+      "StatusText": "intermediate bugs"
     },
     "Store": [
-      "https://metacorp.itch.io/beyond-sunset",
+      "https://www.gog.com/en/game/beyond_sunset",
       "https://store.steampowered.com/app/1665260/Beyond_Sunset/"
     ],
     "Tags": [
       "cyberpunk",
       "retro"
     ],
-    "Updated": "2023-05-04T00:00:00.000Z",
-    "Version": "Demo",
-    "Year": ""
+    "Updated": "2026-07-12T00:00:00.000Z",
+    "Version": "1.0.2",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-09-25T00:00:00.000Z",
