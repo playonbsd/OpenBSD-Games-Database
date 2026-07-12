@@ -248,7 +248,6 @@
     "Descent Engine": 2,
     "FNA": 81,
     "FontEngine": 1,
-    "GZDoom": 14,
     "Godot": 202,
     "GrimE": 1,
     "HashLink": 12,
@@ -295,7 +294,7 @@
     "id Tech 1": 4,
     "id Tech 2": 1,
     "id Tech 3": 2,
-    "idTech1": 1,
+    "idTech1": 15,
     "lwjgl": 2,
     "megaEx": 1,
     "solarus": 3

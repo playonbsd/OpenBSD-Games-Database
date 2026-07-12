@@ -252,7 +252,7 @@ IgdbId	11092
 
 Game	Apocalyptic Vibes
 Id	15
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1840610/Apocalyptic_Vibes/
@@ -2592,7 +2592,7 @@ IgdbId	138716
 
 Game	The Forestale
 Id	145
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/817220/The_Forestale/
@@ -2628,7 +2628,7 @@ IgdbId	722
 
 Game	Fury's Sky
 Id	147
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1118550/Furys_Sky/
@@ -3348,7 +3348,7 @@ IgdbId	24566
 
 Game	I am Sakuya: Touhou FPS Game
 Id	187
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1960590/I_Am_Sakuya_Touhou_FPS_Game/
@@ -4014,7 +4014,7 @@ IgdbId	142035
 
 Game	Lycanthorn II
 Id	224
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1546440/
@@ -5040,7 +5040,7 @@ IgdbId	7635
 
 Game	Project Crypt
 Id	281
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1988750/Project_Crypt/
@@ -5940,7 +5940,7 @@ IgdbId	7418
 
 Game	Shrine
 Id	331
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1271050/Shrine/
@@ -5958,7 +5958,7 @@ IgdbId	132241
 
 Game	Shrine II
 Id	332
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1417010/Shrine_II/
@@ -6678,7 +6678,7 @@ IgdbId	264196
 
 Game	Supplice
 Id	372
-Engine	GZDoom
+Engine	idTech1
 Setup	IndieRunner
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1693280/Supplice/
@@ -7308,7 +7308,7 @@ IgdbId	116267
 
 Game	Vomitoreum
 Id	407
-Engine	GZDoom
+Engine	idTech1
 Setup
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/1549750/Vomitoreum/ https://scumhead.itch.io/vomitoreumgame
@@ -8262,7 +8262,7 @@ IgdbId	244644
 
 Game	Twilight Town: A Cyberpunk FPS
 Id	460
-Engine	GZDoom
+Engine	idTech1
 Setup	IndieRunner
 Runtime	gzdoom
 Store	https://store.steampowered.com/app/2477140/Twilight_Town_A_Cyberpunk_FPS/
@@ -9504,7 +9504,7 @@ IgdbId	51860
 
 Game	Project Osiris
 Id	529
-Engine	GZDoom
+Engine	idTech1
 Setup	IndieRunner
 Runtime	lzdoom
 Store	https://arcturusdeluxe.itch.io/project-osiris
@@ -9522,7 +9522,7 @@ IgdbId	165467
 
 Game	Castlevania: Simon's Destiny
 Id	530
-Engine	GZDoom
+Engine	idTech1
 Setup	IndieRunner
 Runtime	lzdoom
 Store	https://batandy.itch.io/simonsdestiny
@@ -9558,7 +9558,7 @@ IgdbId	30359
 
 Game	REKKR: Sunken Land
 Id	532
-Engine	GZDoom
+Engine	idTech1
 Setup	IndieRunner
 Runtime	lzdoom
 Store	https://www.gog.com/en/game/rekkr_sunken_land https://store.steampowered.com/app/1715690/REKKR_Sunken_Land/
