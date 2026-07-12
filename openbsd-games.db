@@ -6473,9 +6473,9 @@ Year	2021
 Dev	Wormwood Studios
 Pub	Wadjet Eye Games
 Version
-Status	1 (2021-10-28)
+Status	2 (2026-07-11; AGS error about missing sprite)
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2026-07-11
 IgdbId	103219
 
 Game	Strife: Veteran Edition
@@ -7139,9 +7139,9 @@ Year	2018
 Dev	Wadjet Eye Games
 Pub	Wadjet Eye Games
 Version
-Status	5 (2023-05-08)
+Status	4 (2026-07-11)
 Added	1970-01-01
-Updated	2023-05-08
+Updated	2026-07-11
 IgdbId	27867
 
 Game	Underlings
@@ -10617,3 +10617,21 @@ Status	1 (2026-06-25)
 Added	2026-06-25
 Updated	2026-06-25
 IgdbId	100109
+
+Game	The Blackwell Legacy
+Id	591
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/blackwell_bundle https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, urban fantasy, mystery
+Year	2006
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version	5.0
+Status	5 (2026-07-11)
+Added	2026-07-11
+Updated	2026-07-11
+IgdbId	9043

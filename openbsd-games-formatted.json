@@ -14437,10 +14437,10 @@
     "Runtime": "scummvm",
     "Setup": "",
     "Status": {
-      "StatusComment": "",
-      "StatusDate": "2021-10-28T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusComment": "; AGS error about missing sprite)",
+      "StatusDate": "2026-07-11T00:00:00.000Z",
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://www.gog.com/game/strangeland",
@@ -14449,7 +14449,7 @@
     "Tags": [
       "indie"
     ],
-    "Updated": "2023-05-07T00:00:00.000Z",
+    "Updated": "2026-07-11T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
   },
@@ -15540,6 +15540,40 @@
     "Updated": "2023-05-04T00:00:00.000Z",
     "Version": "",
     "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-07-11T00:00:00.000Z",
+    "Dev": "Wadjet Eye Games",
+    "Engine": "ScummVM",
+    "Game": "The Blackwell Legacy",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "591",
+    "IgdbId": "9043",
+    "Pub": "Wadjet Eye Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-11T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/blackwell_bundle",
+      "https://store.steampowered.com/app/80330/The_Blackwell_Legacy/"
+    ],
+    "Tags": [
+      "indie",
+      "mystery",
+      "pixelart",
+      "urban fantasy"
+    ],
+    "Updated": "2026-07-11T00:00:00.000Z",
+    "Version": "5.0",
+    "Year": "2006-01-01T00:00:00.000Z"
   },
   {
     "Added": "2022-11-17T00:00:00.000Z",
@@ -17152,16 +17186,16 @@
     "Setup": "",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2023-05-08T00:00:00.000Z",
-      "StatusNumber": "5",
-      "StatusText": "completable"
+      "StatusDate": "2026-07-11T00:00:00.000Z",
+      "StatusNumber": "4",
+      "StatusText": "minor bugs"
     },
     "Store": [
       "https://www.gog.com/game/unavowed",
       "https://store.steampowered.com/app/336140"
     ],
     "Tags": [],
-    "Updated": "2023-05-08T00:00:00.000Z",
+    "Updated": "2026-07-11T00:00:00.000Z",
     "Version": "",
     "Year": "2018-01-01T00:00:00.000Z"
   },
