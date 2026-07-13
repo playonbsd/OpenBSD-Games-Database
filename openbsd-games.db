@@ -562,14 +562,14 @@ Engine	idTech1
 Setup	IndieRunner
 Runtime	lzdoom
 Store	https://www.gog.com/en/game/beyond_sunset https://store.steampowered.com/app/1665260/Beyond_Sunset/
-Hints	auto save feature during transitions like cyberspace break; workaround: Settings -> Gameplay -> Enable Autosaves -> set to Never
+Hints
 Genre	FPS
 Tags	retro, cyberpunk
 Year	2025
 Dev	Metacorp
 Pub	Movie Games S.A.
 Version	1.0.2
-Status	3 (2026-07-12)
+Status	2 - crashes on saving/autosaving (2026-07-12)
 Added	2023-01-23
 Updated	2026-07-12
 IgdbId	164206

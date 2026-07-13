@@ -1676,17 +1676,17 @@
     "Genre": [
       "FPS"
     ],
-    "Hints": "auto save feature during transitions like cyberspace break; workaround: Settings -> Gameplay -> Enable Autosaves -> set to Never",
+    "Hints": "",
     "Id": "32",
     "IgdbId": "164206",
     "Pub": "Movie Games S.A.",
     "Runtime": "lzdoom",
     "Setup": "IndieRunner",
     "Status": {
-      "StatusComment": "",
+      "StatusComment": "- crashes on saving/autosaving ",
       "StatusDate": "2026-07-12T00:00:00.000Z",
-      "StatusNumber": "3",
-      "StatusText": "intermediate bugs"
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://www.gog.com/en/game/beyond_sunset",

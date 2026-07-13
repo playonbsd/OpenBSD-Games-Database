@@ -1223,16 +1223,16 @@
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
-      "intermediate bugs": 7,
+      "intermediate bugs": 6,
       "launches": 403,
-      "major bugs": 19,
+      "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
       "1": 403,
-      "2": 19,
-      "3": 7,
+      "2": 20,
+      "3": 6,
       "4": 2,
       "5": 19
     }
