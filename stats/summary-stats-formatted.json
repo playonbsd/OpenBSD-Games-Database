@@ -179,7 +179,8 @@
       "2026-06-24T00:00:00.000Z": 1,
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 1,
-      "2026-07-22T00:00:00.000Z": 1
+      "2026-07-22T00:00:00.000Z": 1,
+      "2026-07-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -188,7 +189,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 47
+      "2026-01-01T00:00:00.000Z": 48
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -238,7 +239,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 2
+      "2026-07-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -276,7 +277,7 @@
     "SAGA": 1,
     "SCI2": 1,
     "SCUMM": 5,
-    "ScummVM": 14,
+    "ScummVM": 15,
     "Solarus": 1,
     "Sprint Engine": 1,
     "Stark": 1,
@@ -892,7 +893,8 @@
     "no signal",
     "Alphaman",
     "The Blackwell Legacy",
-    "[Redacted] The Safehouse"
+    "[Redacted] The Safehouse",
+    "Blackwell Unbound"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -943,7 +945,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 14,
+    "Point & Click Adventure": 15,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
@@ -999,7 +1001,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 233,
+    "IndieRunner": 234,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1222,10 +1224,11 @@
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 3,
       "2026-07-12T00:00:00.000Z": 1,
-      "2026-07-22T00:00:00.000Z": 1
+      "2026-07-22T00:00:00.000Z": 1,
+      "2026-07-23T00:00:00.000Z": 1
     },
     "Rating": {
-      "completable": 19,
+      "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
       "launches": 404,
@@ -1238,7 +1241,7 @@
       "2": 20,
       "3": 6,
       "4": 2,
-      "5": 19
+      "5": 20
     }
   },
   "Store": {
@@ -1254,14 +1257,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 496,
+    "https://store.steampowered.com/": 497,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 161,
+    "https://www.gog.com/": 162,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1393,7 +1396,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 292,
+    "indie": 293,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 5,
@@ -1417,7 +1420,7 @@
     "monochrome": 1,
     "multiplayer": 17,
     "murder mystery": 1,
-    "mystery": 7,
+    "mystery": 8,
     "mystery dungeon": 1,
     "mythology": 1,
     "nature": 1,
@@ -1441,7 +1444,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 20,
+    "pixelart": 21,
     "pixels": 3,
     "platformer": 7,
     "point & click": 2,
@@ -1506,7 +1509,7 @@
     "turn-based": 11,
     "turn-based tactics": 1,
     "underwater": 1,
-    "urban fantasy": 2,
+    "urban fantasy": 3,
     "vampires": 1,
     "vehicle": 1,
     "vertigo": 1,
@@ -1674,7 +1677,8 @@
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 3,
       "2026-07-12T00:00:00.000Z": 1,
-      "2026-07-22T00:00:00.000Z": 1
+      "2026-07-22T00:00:00.000Z": 1,
+      "2026-07-23T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1682,7 +1686,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 53
+      "2026-01-01T00:00:00.000Z": 54
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1719,7 +1723,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 5
+      "2026-07-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1740,7 +1744,7 @@
     "2004": 1,
     "2005": 1,
     "2006": 2,
-    "2007": 1,
+    "2007": 2,
     "2009": 4,
     "2010": 4,
     "2011": 12,

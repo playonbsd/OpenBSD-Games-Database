@@ -10653,3 +10653,21 @@ Status	1 (2026-07-22)
 Added	2026-07-22
 Updated	2026-07-22
 IgdbId	398337
+
+Game	Blackwell Unbound
+Id	593
+Engine	ScummVM
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/blackwell_bundle https://store.steampowered.com/app/80340/Blackwell_Unbound/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, urban fantasy, mystery
+Year	2007
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version	5.2
+Status	5 (2026-07-23)
+Added	2026-07-23
+Updated	2026-07-23
+IgdbId	9041
