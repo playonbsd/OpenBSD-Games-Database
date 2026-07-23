@@ -10635,3 +10635,21 @@ Status	5 (2026-07-11)
 Added	2026-07-11
 Updated	2026-07-11
 IgdbId	9043
+
+Game	[Redacted] The Safehouse
+Id	592
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://uheartbeast.itch.io/redacted-the-safehouse https://store.steampowered.com/app/403620/Redacted_The_Safehouse/
+Hints
+Genre	Detective Game
+Tags	indie, murder mystery, investigation, 3d, story-rich
+Year	2026
+Dev	Heartbeast
+Pub	Heartbeast
+Version
+Status	1 (2026-07-22)
+Added	2026-07-22
+Updated	2026-07-22
+IgdbId	398337

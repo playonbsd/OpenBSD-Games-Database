@@ -18295,6 +18295,41 @@
     "Year": "2010-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-07-22T00:00:00.000Z",
+    "Dev": "Heartbeast",
+    "Engine": "Godot",
+    "Game": "[Redacted] The Safehouse",
+    "Genre": [
+      "Detective Game"
+    ],
+    "Hints": "",
+    "Id": "592",
+    "IgdbId": "398337",
+    "Pub": "Heartbeast",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://uheartbeast.itch.io/redacted-the-safehouse",
+      "https://store.steampowered.com/app/403620/Redacted_The_Safehouse/"
+    ],
+    "Tags": [
+      "3d",
+      "indie",
+      "investigation",
+      "murder mystery",
+      "story-rich"
+    ],
+    "Updated": "2026-07-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-07-22T00:00:00.000Z",
     "Dev": "mindfungus",
     "Engine": "Love2D",

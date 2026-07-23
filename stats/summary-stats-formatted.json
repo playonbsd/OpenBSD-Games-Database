@@ -178,7 +178,8 @@
       "2026-06-10T00:00:00.000Z": 4,
       "2026-06-24T00:00:00.000Z": 1,
       "2026-06-25T00:00:00.000Z": 1,
-      "2026-07-11T00:00:00.000Z": 1
+      "2026-07-11T00:00:00.000Z": 1,
+      "2026-07-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -187,7 +188,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 46
+      "2026-01-01T00:00:00.000Z": 47
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -237,7 +238,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 1
+      "2026-07-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -248,7 +249,7 @@
     "Descent Engine": 2,
     "FNA": 81,
     "FontEngine": 1,
-    "Godot": 202,
+    "Godot": 203,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -890,7 +891,8 @@
     "Rootin' Tootin' Lootin' & Shootin'",
     "no signal",
     "Alphaman",
-    "The Blackwell Legacy"
+    "The Blackwell Legacy",
+    "[Redacted] The Safehouse"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -913,6 +915,7 @@
     "Colony Sim": 2,
     "Cooking": 1,
     "Deckbuilder": 1,
+    "Detective Game": 1,
     "Detective Mystery": 3,
     "Dungeon Crawler": 6,
     "Exploration": 1,
@@ -996,7 +999,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 232,
+    "IndieRunner": 233,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1218,19 +1221,20 @@
       "2026-06-24T00:00:00.000Z": 1,
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 3,
-      "2026-07-12T00:00:00.000Z": 1
+      "2026-07-12T00:00:00.000Z": 1,
+      "2026-07-22T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 19,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 403,
+      "launches": 404,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 403,
+      "1": 404,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1245,12 +1249,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 158,
+    "https://itch.io/": 159,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 495,
+    "https://store.steampowered.com/": 496,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1269,7 +1273,7 @@
     "2bit": 1,
     "2d": 3,
     "3D": 3,
-    "3d": 5,
+    "3d": 6,
     "4X": 4,
     "6DOF": 2,
     "80s": 1,
@@ -1389,10 +1393,10 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 291,
+    "indie": 292,
     "indie classic": 1,
     "inventory management": 1,
-    "investigation": 4,
+    "investigation": 5,
     "life sim": 1,
     "linear": 1,
     "local multiplayer": 1,
@@ -1412,6 +1416,7 @@
     "mining": 2,
     "monochrome": 1,
     "multiplayer": 17,
+    "murder mystery": 1,
     "mystery": 7,
     "mystery dungeon": 1,
     "mythology": 1,
@@ -1485,7 +1490,7 @@
     "sports": 1,
     "stealth": 3,
     "steampunk": 1,
-    "story-rich": 2,
+    "story-rich": 3,
     "strategy": 6,
     "surreal": 2,
     "survival": 5,
@@ -1668,7 +1673,8 @@
       "2026-06-24T00:00:00.000Z": 1,
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 3,
-      "2026-07-12T00:00:00.000Z": 1
+      "2026-07-12T00:00:00.000Z": 1,
+      "2026-07-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1676,7 +1682,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 52
+      "2026-01-01T00:00:00.000Z": 53
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1713,7 +1719,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 4
+      "2026-07-01T00:00:00.000Z": 5
     }
   },
   "Year": {
@@ -1752,6 +1758,6 @@
     "2023": 41,
     "2024": 52,
     "2025": 25,
-    "2026": 16
+    "2026": 17
   }
 }
