@@ -1482,6 +1482,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-07-26T00:00:00.000Z",
+    "Dev": "Raised By Screens",
+    "Engine": "Godot",
+    "Game": "Bare Knuckle Sandwich",
+    "Genre": [
+      "Beat'em'up"
+    ],
+    "Hints": "",
+    "Id": "595",
+    "IgdbId": "259046",
+    "Pub": "Raised By Screens",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2486370/Bare_Knuckle_Sandwich/"
+    ],
+    "Tags": [
+      "indie",
+      "pixelart",
+      "side scroller",
+      "story-rich"
+    ],
+    "Updated": "2026-07-26T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Turning Wheel LLC",
     "Engine": "",
@@ -15074,6 +15107,41 @@
     "Year": "2026-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-07-26T00:00:00.000Z",
+    "Dev": "HungryDingo",
+    "Engine": "Godot",
+    "Game": "TactiCats",
+    "Genre": [
+      "Arena Fighting"
+    ],
+    "Hints": "",
+    "Id": "594",
+    "IgdbId": "197511",
+    "Pub": "Pineapple Works",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1918320/TactiCats/"
+    ],
+    "Tags": [
+      "action",
+      "arcade",
+      "cats",
+      "indie",
+      "local multiplayer",
+      "pixelart"
+    ],
+    "Updated": "2026-07-26T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-04-28T00:00:00.000Z",
     "Dev": "Post Mortem Pixels",
     "Engine": "Godot",
@@ -16108,6 +16176,41 @@
     "Updated": "2026-05-25T00:00:00.000Z",
     "Version": "",
     "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-07-31T00:00:00.000Z",
+    "Dev": "William Rous, Evil Trout Inc.",
+    "Engine": "Godot",
+    "Game": "The Incident at Galley House",
+    "Genre": [
+      "Detective Mystery"
+    ],
+    "Hints": "",
+    "Id": "597",
+    "IgdbId": "350434",
+    "Pub": "Evil Trout Inc.",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/"
+    ],
+    "Tags": [
+      "detective",
+      "indie",
+      "mystery",
+      "puzzle",
+      "story-rich",
+      "visual novel"
+    ],
+    "Updated": "2026-07-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-07-14T00:00:00.000Z",
@@ -18212,6 +18315,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "1.0.6",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-07-31T00:00:00.000Z",
+    "Dev": "RivalThird",
+    "Engine": "Godot",
+    "Game": "Yokai Hunter Shintaro",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "Id": "596",
+    "IgdbId": "197022",
+    "Pub": "RivalThird",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-07-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1916960/Yokai_Hunter_Shintaro/"
+    ],
+    "Tags": [
+      "indie",
+      "platformer",
+      "retro"
+    ],
+    "Updated": "2026-07-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-05-20T00:00:00.000Z",

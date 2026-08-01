@@ -180,7 +180,9 @@
       "2026-06-25T00:00:00.000Z": 1,
       "2026-07-11T00:00:00.000Z": 1,
       "2026-07-22T00:00:00.000Z": 1,
-      "2026-07-23T00:00:00.000Z": 1
+      "2026-07-23T00:00:00.000Z": 1,
+      "2026-07-26T00:00:00.000Z": 2,
+      "2026-07-31T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -189,7 +191,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 48
+      "2026-01-01T00:00:00.000Z": 52
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -239,7 +241,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 3
+      "2026-07-01T00:00:00.000Z": 7
     }
   },
   "Engine": {
@@ -250,7 +252,7 @@
     "Descent Engine": 2,
     "FNA": 81,
     "FontEngine": 1,
-    "Godot": 203,
+    "Godot": 207,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -894,7 +896,11 @@
     "Alphaman",
     "The Blackwell Legacy",
     "[Redacted] The Safehouse",
-    "Blackwell Unbound"
+    "Blackwell Unbound",
+    "TactiCats",
+    "Bare Knuckle Sandwich",
+    "Yokai Hunter Shintaro",
+    "The Incident at Galley House"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -902,12 +908,14 @@
     "6DOF Shooter": 1,
     "Action": 44,
     "Action Adventure": 5,
-    "Action Platformer": 13,
+    "Action Platformer": 14,
     "Action RPG": 11,
     "Action Roguelike": 12,
     "Adventure": 53,
     "Arcade": 1,
     "Arcade Platformer": 1,
+    "Arena Fighting": 1,
+    "Beat'em'up": 1,
     "Boardgame": 1,
     "Brawler": 4,
     "Bullet Heaven": 1,
@@ -918,7 +926,7 @@
     "Cooking": 1,
     "Deckbuilder": 1,
     "Detective Game": 1,
-    "Detective Mystery": 3,
+    "Detective Mystery": 4,
     "Dungeon Crawler": 6,
     "Exploration": 1,
     "FMV": 1,
@@ -1001,7 +1009,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 234,
+    "IndieRunner": 238,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1225,19 +1233,21 @@
       "2026-07-11T00:00:00.000Z": 3,
       "2026-07-12T00:00:00.000Z": 1,
       "2026-07-22T00:00:00.000Z": 1,
-      "2026-07-23T00:00:00.000Z": 1
+      "2026-07-23T00:00:00.000Z": 1,
+      "2026-07-26T00:00:00.000Z": 2,
+      "2026-07-31T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 404,
+      "launches": 408,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 404,
+      "1": 408,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1257,7 +1267,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 497,
+    "https://store.steampowered.com/": 501,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1294,14 +1304,14 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 2,
-    "action": 15,
+    "action": 16,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 5,
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 10,
+    "arcade": 11,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1324,7 +1334,7 @@
     "cartoon": 3,
     "cartoony": 1,
     "casual": 18,
-    "cats": 6,
+    "cats": 7,
     "cellshade": 1,
     "charity": 1,
     "chess": 1,
@@ -1351,7 +1361,7 @@
     "deckbuilder": 3,
     "deduction": 2,
     "demo": 1,
-    "detective": 7,
+    "detective": 8,
     "dice": 2,
     "diegetic": 1,
     "difficult": 1,
@@ -1396,13 +1406,13 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 293,
+    "indie": 297,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 5,
     "life sim": 1,
     "linear": 1,
-    "local multiplayer": 1,
+    "local multiplayer": 2,
     "logic": 6,
     "lovecraftian": 5,
     "magic": 1,
@@ -1420,7 +1430,7 @@
     "monochrome": 1,
     "multiplayer": 17,
     "murder mystery": 1,
-    "mystery": 8,
+    "mystery": 9,
     "mystery dungeon": 1,
     "mythology": 1,
     "nature": 1,
@@ -1444,9 +1454,9 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 21,
+    "pixelart": 23,
     "pixels": 3,
-    "platformer": 7,
+    "platformer": 8,
     "point & click": 2,
     "point&click": 1,
     "poker": 1,
@@ -1461,7 +1471,7 @@
     "psychedelic": 1,
     "psychological horror": 1,
     "pulp": 1,
-    "puzzle": 9,
+    "puzzle": 10,
     "quicktime": 1,
     "quirky": 3,
     "racing": 1,
@@ -1469,7 +1479,7 @@
     "realistic": 1,
     "relaxing": 7,
     "remake": 1,
-    "retro": 69,
+    "retro": 70,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
@@ -1480,6 +1490,7 @@
     "settlers": 1,
     "shooter": 4,
     "short": 2,
+    "side scroller": 1,
     "simulation": 1,
     "singleplayer": 2,
     "slot machine": 1,
@@ -1493,7 +1504,7 @@
     "sports": 1,
     "stealth": 3,
     "steampunk": 1,
-    "story-rich": 3,
+    "story-rich": 5,
     "strategy": 6,
     "surreal": 2,
     "survival": 5,
@@ -1516,6 +1527,7 @@
     "viking": 1,
     "villain protagonist": 1,
     "violence": 1,
+    "visual novel": 1,
     "voxel": 3,
     "wargame": 1,
     "weird": 1,
@@ -1678,7 +1690,9 @@
       "2026-07-11T00:00:00.000Z": 3,
       "2026-07-12T00:00:00.000Z": 1,
       "2026-07-22T00:00:00.000Z": 1,
-      "2026-07-23T00:00:00.000Z": 1
+      "2026-07-23T00:00:00.000Z": 1,
+      "2026-07-26T00:00:00.000Z": 2,
+      "2026-07-31T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1686,7 +1700,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 54
+      "2026-01-01T00:00:00.000Z": 58
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1723,7 +1737,7 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 6
+      "2026-07-01T00:00:00.000Z": 10
     }
   },
   "Year": {
@@ -1758,10 +1772,10 @@
     "2019": 27,
     "2020": 31,
     "2021": 51,
-    "2022": 45,
+    "2022": 46,
     "2023": 41,
     "2024": 52,
-    "2025": 25,
-    "2026": 17
+    "2025": 27,
+    "2026": 18
   }
 }

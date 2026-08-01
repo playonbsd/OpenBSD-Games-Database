@@ -10671,3 +10671,75 @@ Status	5 (2026-07-23)
 Added	2026-07-23
 Updated	2026-07-23
 IgdbId	9041
+
+Game	TactiCats
+Id	594
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/1918320/TactiCats/
+Hints
+Genre	Arena Fighting
+Tags	indie, pixelart, cats, action, arcade, local multiplayer
+Year	2025
+Dev	HungryDingo
+Pub	Pineapple Works
+Version
+Status	1 (2026-07-26)
+Added	2026-07-26
+Updated	2026-07-26
+IgdbId	197511
+
+Game	Bare Knuckle Sandwich
+Id	595
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/2486370/Bare_Knuckle_Sandwich/
+Hints
+Genre	Beat'em'up
+Tags	indie, pixelart, side scroller, story-rich
+Year	2025
+Dev	Raised By Screens
+Pub	Raised By Screens
+Version
+Status	1 (2026-07-26)
+Added	2026-07-26
+Updated	2026-07-26
+IgdbId	259046
+
+Game	Yokai Hunter Shintaro
+Id	596
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/1916960/Yokai_Hunter_Shintaro/
+Hints
+Genre	Action Platformer
+Tags	indie, retro, platformer
+Year	2022
+Dev	RivalThird
+Pub	RivalThird
+Version
+Status	1 (2026-07-31)
+Added	2026-07-31
+Updated	2026-07-31
+IgdbId	197022
+
+Game	The Incident at Galley House
+Id	597
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/
+Hints
+Genre	Detective Mystery
+Tags	indie, mystery, puzzle, detective, visual novel, story-rich
+Year	2026
+Dev	William Rous, Evil Trout Inc.
+Pub	Evil Trout Inc.
+Version
+Status	1 (2026-07-31)
+Added	2026-07-31
+Updated	2026-07-31
+IgdbId	350434
