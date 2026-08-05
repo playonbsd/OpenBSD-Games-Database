@@ -182,7 +182,8 @@
       "2026-07-22T00:00:00.000Z": 1,
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
-      "2026-07-31T00:00:00.000Z": 2
+      "2026-07-31T00:00:00.000Z": 2,
+      "2026-08-04T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -191,7 +192,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 52
+      "2026-01-01T00:00:00.000Z": 53
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -241,7 +242,8 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 7
+      "2026-07-01T00:00:00.000Z": 7,
+      "2026-08-01T00:00:00.000Z": 1
     }
   },
   "Engine": {
@@ -252,7 +254,7 @@
     "Descent Engine": 2,
     "FNA": 81,
     "FontEngine": 1,
-    "Godot": 207,
+    "Godot": 208,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -900,7 +902,8 @@
     "TactiCats",
     "Bare Knuckle Sandwich",
     "Yokai Hunter Shintaro",
-    "The Incident at Galley House"
+    "The Incident at Galley House",
+    "Forehead Chip"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -908,7 +911,7 @@
     "6DOF Shooter": 1,
     "Action": 44,
     "Action Adventure": 5,
-    "Action Platformer": 14,
+    "Action Platformer": 15,
     "Action RPG": 11,
     "Action Roguelike": 12,
     "Adventure": 53,
@@ -1009,7 +1012,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 238,
+    "IndieRunner": 239,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1235,19 +1238,20 @@
       "2026-07-22T00:00:00.000Z": 1,
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
-      "2026-07-31T00:00:00.000Z": 2
+      "2026-07-31T00:00:00.000Z": 2,
+      "2026-08-04T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 408,
+      "launches": 409,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 408,
+      "1": 409,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1267,7 +1271,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 501,
+    "https://store.steampowered.com/": 502,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1353,7 +1357,7 @@
     "crazy": 1,
     "crime": 1,
     "cute": 8,
-    "cyberpunk": 5,
+    "cyberpunk": 6,
     "dark": 1,
     "dark fantasy": 2,
     "dark humor": 1,
@@ -1406,7 +1410,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 297,
+    "indie": 298,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 5,
@@ -1479,14 +1483,14 @@
     "realistic": 1,
     "relaxing": 7,
     "remake": 1,
-    "retro": 70,
+    "retro": 71,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
     "rpg": 2,
     "running": 1,
     "sandbox": 1,
-    "scifi": 15,
+    "scifi": 16,
     "settlers": 1,
     "shooter": 4,
     "short": 2,
@@ -1692,7 +1696,8 @@
       "2026-07-22T00:00:00.000Z": 1,
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
-      "2026-07-31T00:00:00.000Z": 2
+      "2026-07-31T00:00:00.000Z": 2,
+      "2026-08-04T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1700,7 +1705,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 58
+      "2026-01-01T00:00:00.000Z": 59
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1737,7 +1742,8 @@
       "2026-04-01T00:00:00.000Z": 7,
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
-      "2026-07-01T00:00:00.000Z": 10
+      "2026-07-01T00:00:00.000Z": 10,
+      "2026-08-01T00:00:00.000Z": 1
     }
   },
   "Year": {
@@ -1776,6 +1782,6 @@
     "2023": 41,
     "2024": 52,
     "2025": 27,
-    "2026": 18
+    "2026": 19
   }
 }

@@ -10743,3 +10743,21 @@ Status	1 (2026-07-31)
 Added	2026-07-31
 Updated	2026-07-31
 IgdbId	350434
+
+Game	Forehead Chip
+Id	598
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2171910/Forehead_Chip/
+Hints
+Genre	Action Platformer
+Tags	indie, retro, cyberpunk, scifi
+Year	2026
+Dev	Naturally Intelligent
+Pub	Naturally Intelligent
+Version
+Status	1 (2026-08-04)
+Added	2026-08-04
+Updated	2026-08-04
+IgdbId	257939

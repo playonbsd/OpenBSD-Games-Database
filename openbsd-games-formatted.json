@@ -6237,6 +6237,39 @@
     "Year": "2010-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-04T00:00:00.000Z",
+    "Dev": "Naturally Intelligent",
+    "Engine": "Godot",
+    "Game": "Forehead Chip",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "Id": "598",
+    "IgdbId": "257939",
+    "Pub": "Naturally Intelligent",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2171910/Forehead_Chip/"
+    ],
+    "Tags": [
+      "cyberpunk",
+      "indie",
+      "retro",
+      "scifi"
+    ],
+    "Updated": "2026-08-04T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "LibGDX",
