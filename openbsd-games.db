@@ -10761,3 +10761,21 @@ Status	1 (2026-08-04)
 Added	2026-08-04
 Updated	2026-08-04
 IgdbId	257939
+
+Game	Guard Duty
+Id	599
+Engine	Adventure Game Studio
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/guard_duty https://store.steampowered.com/app/872750/Guard_Duty/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, retro, pixelart, comedy, fantasy, sci-fi
+Year	2019
+Dev	Headware Games
+Pub	Headware Games
+Version	1.2.0
+Status	1 (2026-08-06)
+Added	2026-08-06
+Updated	2026-08-06
+IgdbId	6741

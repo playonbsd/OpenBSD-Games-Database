@@ -183,7 +183,8 @@
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
-      "2026-08-04T00:00:00.000Z": 1
+      "2026-08-04T00:00:00.000Z": 1,
+      "2026-08-06T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -192,7 +193,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 53
+      "2026-01-01T00:00:00.000Z": 54
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -243,11 +244,11 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 1
+      "2026-08-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
-    "Adventure Game Studio": 30,
+    "Adventure Game Studio": 31,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -903,7 +904,8 @@
     "Bare Knuckle Sandwich",
     "Yokai Hunter Shintaro",
     "The Incident at Galley House",
-    "Forehead Chip"
+    "Forehead Chip",
+    "Guard Duty"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -956,7 +958,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 15,
+    "Point & Click Adventure": 16,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
@@ -1012,7 +1014,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 239,
+    "IndieRunner": 240,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1239,19 +1241,20 @@
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
-      "2026-08-04T00:00:00.000Z": 1
+      "2026-08-04T00:00:00.000Z": 1,
+      "2026-08-06T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 409,
+      "launches": 410,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 409,
+      "1": 410,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1271,14 +1274,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 502,
+    "https://store.steampowered.com/": 503,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 162,
+    "https://www.gog.com/": 163,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1350,7 +1353,7 @@
     "colorful": 5,
     "colors": 1,
     "colourful": 1,
-    "comedy": 8,
+    "comedy": 9,
     "conspiracy": 2,
     "cozy": 2,
     "crafting": 3,
@@ -1380,7 +1383,7 @@
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 1,
-    "fantasy": 15,
+    "fantasy": 16,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1410,7 +1413,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 298,
+    "indie": 299,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 5,
@@ -1458,7 +1461,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 23,
+    "pixelart": 24,
     "pixels": 3,
     "platformer": 8,
     "point & click": 2,
@@ -1483,13 +1486,14 @@
     "realistic": 1,
     "relaxing": 7,
     "remake": 1,
-    "retro": 71,
+    "retro": 72,
     "robots": 1,
     "roguelike": 5,
     "roguelite": 28,
     "rpg": 2,
     "running": 1,
     "sandbox": 1,
+    "sci-fi": 1,
     "scifi": 16,
     "settlers": 1,
     "shooter": 4,
@@ -1697,7 +1701,8 @@
       "2026-07-23T00:00:00.000Z": 1,
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
-      "2026-08-04T00:00:00.000Z": 1
+      "2026-08-04T00:00:00.000Z": 1,
+      "2026-08-06T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1705,7 +1710,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 59
+      "2026-01-01T00:00:00.000Z": 60
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1743,7 +1748,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 1
+      "2026-08-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1775,7 +1780,7 @@
     "2016": 26,
     "2017": 24,
     "2018": 28,
-    "2019": 27,
+    "2019": 28,
     "2020": 31,
     "2021": 51,
     "2022": 46,

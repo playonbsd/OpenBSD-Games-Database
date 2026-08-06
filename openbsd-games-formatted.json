@@ -7033,6 +7033,42 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-06T00:00:00.000Z",
+    "Dev": "Headware Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "Guard Duty",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "599",
+    "IgdbId": "6741",
+    "Pub": "Headware Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/guard_duty",
+      "https://store.steampowered.com/app/872750/Guard_Duty/"
+    ],
+    "Tags": [
+      "comedy",
+      "fantasy",
+      "indie",
+      "pixelart",
+      "retro",
+      "sci-fi"
+    ],
+    "Updated": "2026-08-06T00:00:00.000Z",
+    "Version": "1.2.0",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-12-31T00:00:00.000Z",
     "Dev": "Orangepixel",
     "Engine": "LibGDX",
