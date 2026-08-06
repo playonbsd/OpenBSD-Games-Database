@@ -99,8 +99,8 @@ Adhere to the following order of keys:
  * 2 = major bugs: potentially game-breaking, making finishing the game impossible or a chore; noticeably degrading the enjoyment compared to running the game on other platforms
  * 3 = medium-impact bugs: noticeable, but not game-breaking
  * 4 = minor bugs: barely noticeable, or not relevant to core game
- * 5 = completable: game can be played through until the credits roll, without major bugs (category 2); doesn't (necessarily) include optional side content, DLC, optional multiplayer, achievements etc.
- * 6 = 100%: the complete game including optional content like DLC, side quests, multiplayer can be enjoyed
+ * 5 = completable: game can be played through until the credits roll, without major bugs (see Status 2); doesn't (necessarily) include optional side content, DLC, optional multiplayer, achievements etc.
+ * 6 = 100%: the complete game including optional content like DLC, side quests, multiplayer works (if included in the game)
 15. *Added*: date (ISO 8601 format) when the entry was added (EPOCH when the information is not available)
 16. *Updated*: date (ISO 8601 format) when the entry was last updated
 17. *IgdbId*: id of the game in the [IGDB](https://www.igdb.com) database 
