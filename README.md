@@ -22,6 +22,8 @@ Checking for proper tab separation between key and value...
 $
 ```
 
+(`make check` will display details if an error is found.)
+
 To update the generated files after editing `openbsd-games.db`:
 
 ```
@@ -52,6 +54,7 @@ The following parts will soon be changed:
 * `Setup` will be renamed (likely to `Helper` or `Assistant`). It will be changed to a list and any custom setup instructions will be moved to `Hints`.
 * `Dev` will be expanded to `Developer` and `Pub` to `Publisher`
 * A new field `Canonical` for a name without leading article and white-space turned to dashes.
+* `Store` will be changed to encompass download sites that aren't technically stores, e.g. freeware downloads. Candidates: `Source`, `Download`.
 
 ## Format of openbsd-games.db
 
