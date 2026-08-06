@@ -10797,3 +10797,21 @@ Status	1 (2026-08-04)
 Added	2026-08-06
 Updated	2026-08-06
 IgdbId	138374
+
+Game	Neofeud 2
+Id	601
+Engine	Adventure Game Studio
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://silverspook.itch.io/neofeud2 https://store.steampowered.com/app/4611140/Neofeud_2/
+Hints
+Genre	Adventure
+Tags	cyberpunk
+Year	2026
+Dev	Silver Spook Games
+Pub	Silver Spook Games
+Version
+Status	1 (2026-08-06)
+Added	2026-08-06
+Updated	2026-08-06
+IgdbId	397714

@@ -10535,6 +10535,37 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-06T00:00:00.000Z",
+    "Dev": "Silver Spook Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "Neofeud 2",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "601",
+    "IgdbId": "397714",
+    "Pub": "Silver Spook Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://silverspook.itch.io/neofeud2",
+      "https://store.steampowered.com/app/4611140/Neofeud_2/"
+    ],
+    "Tags": [
+      "cyberpunk"
+    ],
+    "Updated": "2026-08-06T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-12-31T00:00:00.000Z",
     "Dev": "Orangepixel",
     "Engine": "LibGDX",

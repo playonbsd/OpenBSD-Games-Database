@@ -184,7 +184,7 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
-      "2026-08-06T00:00:00.000Z": 2
+      "2026-08-06T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -193,7 +193,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 55
+      "2026-01-01T00:00:00.000Z": 56
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -244,11 +244,11 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 3
+      "2026-08-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
-    "Adventure Game Studio": 31,
+    "Adventure Game Studio": 32,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -906,7 +906,8 @@
     "The Incident at Galley House",
     "Forehead Chip",
     "Guard Duty",
-    "MOTHER: Cognitive Dissonance"
+    "MOTHER: Cognitive Dissonance",
+    "Neofeud 2"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -917,7 +918,7 @@
     "Action Platformer": 15,
     "Action RPG": 11,
     "Action Roguelike": 12,
-    "Adventure": 53,
+    "Adventure": 54,
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Arena Fighting": 1,
@@ -1015,7 +1016,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 240,
+    "IndieRunner": 241,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1243,19 +1244,19 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 2,
-      "2026-08-06T00:00:00.000Z": 1
+      "2026-08-06T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 411,
+      "launches": 412,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 411,
+      "1": 412,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1271,12 +1272,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 159,
+    "https://itch.io/": 160,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 503,
+    "https://store.steampowered.com/": 504,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1362,7 +1363,7 @@
     "crazy": 1,
     "crime": 1,
     "cute": 8,
-    "cyberpunk": 6,
+    "cyberpunk": 7,
     "dark": 1,
     "dark fantasy": 2,
     "dark humor": 1,
@@ -1705,7 +1706,7 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
-      "2026-08-06T00:00:00.000Z": 2
+      "2026-08-06T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1713,7 +1714,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 61
+      "2026-01-01T00:00:00.000Z": 62
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1751,7 +1752,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 3
+      "2026-08-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -1790,6 +1791,6 @@
     "2023": 41,
     "2024": 52,
     "2025": 27,
-    "2026": 19
+    "2026": 20
   }
 }
