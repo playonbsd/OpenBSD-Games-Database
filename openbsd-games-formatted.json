@@ -9554,6 +9554,41 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-06T00:00:00.000Z",
+    "Dev": "Otherhand",
+    "Engine": "RPG Maker",
+    "Game": "MOTHER: Cognitive Dissonance",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "use msitools to extract game data",
+    "Id": "600",
+    "IgdbId": "138374",
+    "Pub": "Otherhand",
+    "Runtime": "easyrpg",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-04T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "http://cogdis.tazmily.com/"
+    ],
+    "Tags": [
+      "fangame",
+      "freeware",
+      "indie",
+      "quirky",
+      "rpg",
+      "scifi"
+    ],
+    "Updated": "2026-08-06T00:00:00.000Z",
+    "Version": "2.0",
+    "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Xendra",
     "Engine": "Godot",

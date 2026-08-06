@@ -10779,3 +10779,21 @@ Status	1 (2026-08-06)
 Added	2026-08-06
 Updated	2026-08-06
 IgdbId	6741
+
+Game	MOTHER: Cognitive Dissonance
+Id	600
+Engine	RPG Maker
+Setup
+Runtime	easyrpg
+Store	http://cogdis.tazmily.com/
+Hints	use msitools to extract game data
+Genre	RPG
+Tags	indie, rpg, quirky, scifi, fangame, freeware
+Year	2014
+Dev	Otherhand
+Pub	Otherhand
+Version	2.0
+Status	1 (2026-08-04)
+Added	2026-08-06
+Updated	2026-08-06
+IgdbId	138374
