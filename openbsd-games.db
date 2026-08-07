@@ -10815,3 +10815,21 @@ Status	1 (2026-08-06)
 Added	2026-08-06
 Updated	2026-08-06
 IgdbId	397714
+
+Game	Confidential Killings - A Detective Game
+Id	602
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2797960/Confidential_Killings__A_Detective_Game/
+Hints
+Genre	Detective Adventure
+Tags	noir, indie, investigation
+Year	2026
+Dev	BRANE, Lorenzo Boni
+Pub	Surefire.Games
+Version
+Status	1 (2026-08-07)
+Added	2026-08-07
+Updated	2026-08-07
+IgdbId	340987

@@ -3343,6 +3343,38 @@
     "Year": "1996-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-07T00:00:00.000Z",
+    "Dev": "BRANE, Lorenzo Boni",
+    "Engine": "Godot",
+    "Game": "Confidential Killings - A Detective Game",
+    "Genre": [
+      "Detective Adventure"
+    ],
+    "Hints": "",
+    "Id": "602",
+    "IgdbId": "340987",
+    "Pub": "Surefire.Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-07T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2797960/Confidential_Killings__A_Detective_Game/"
+    ],
+    "Tags": [
+      "indie",
+      "investigation",
+      "noir"
+    ],
+    "Updated": "2026-08-07T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-05-27T00:00:00.000Z",
     "Dev": "carllacan",
     "Engine": "Godot",

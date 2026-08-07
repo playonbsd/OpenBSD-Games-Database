@@ -184,7 +184,8 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
-      "2026-08-06T00:00:00.000Z": 3
+      "2026-08-06T00:00:00.000Z": 3,
+      "2026-08-07T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -193,7 +194,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 56
+      "2026-01-01T00:00:00.000Z": 57
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -244,7 +245,7 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 4
+      "2026-08-01T00:00:00.000Z": 5
     }
   },
   "Engine": {
@@ -255,7 +256,7 @@
     "Descent Engine": 2,
     "FNA": 81,
     "FontEngine": 1,
-    "Godot": 208,
+    "Godot": 209,
     "GrimE": 1,
     "HashLink": 12,
     "Infinity Engine": 4,
@@ -907,7 +908,8 @@
     "Forehead Chip",
     "Guard Duty",
     "MOTHER: Cognitive Dissonance",
-    "Neofeud 2"
+    "Neofeud 2",
+    "Confidential Killings - A Detective Game"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -932,6 +934,7 @@
     "Colony Sim": 2,
     "Cooking": 1,
     "Deckbuilder": 1,
+    "Detective Adventure": 1,
     "Detective Game": 1,
     "Detective Mystery": 4,
     "Dungeon Crawler": 6,
@@ -1016,7 +1019,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 241,
+    "IndieRunner": 242,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1244,19 +1247,20 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 2,
-      "2026-08-06T00:00:00.000Z": 2
+      "2026-08-06T00:00:00.000Z": 2,
+      "2026-08-07T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 412,
+      "launches": 413,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 412,
+      "1": 413,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1277,7 +1281,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 504,
+    "https://store.steampowered.com/": 505,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1417,10 +1421,10 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 300,
+    "indie": 301,
     "indie classic": 1,
     "inventory management": 1,
-    "investigation": 5,
+    "investigation": 6,
     "life sim": 1,
     "linear": 1,
     "local multiplayer": 2,
@@ -1446,7 +1450,7 @@
     "mythology": 1,
     "nature": 1,
     "nerd culture": 1,
-    "noir": 1,
+    "noir": 2,
     "nonlinear": 1,
     "nordic": 1,
     "nostalgia": 1,
@@ -1706,7 +1710,8 @@
       "2026-07-26T00:00:00.000Z": 2,
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
-      "2026-08-06T00:00:00.000Z": 3
+      "2026-08-06T00:00:00.000Z": 3,
+      "2026-08-07T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1714,7 +1719,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 62
+      "2026-01-01T00:00:00.000Z": 63
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1752,7 +1757,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 4
+      "2026-08-01T00:00:00.000Z": 5
     }
   },
   "Year": {
@@ -1791,6 +1796,6 @@
     "2023": 41,
     "2024": 52,
     "2025": 27,
-    "2026": 20
+    "2026": 21
   }
 }
