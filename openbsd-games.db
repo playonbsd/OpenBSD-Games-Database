@@ -10833,3 +10833,21 @@ Status	1 (2026-08-07)
 Added	2026-08-07
 Updated	2026-08-07
 IgdbId	340987
+
+Game	Knytt Classic
+Id	603
+Engine	FNA
+Setup	IndieRunner
+Runtime	mono
+Store	https://www.gog.com/en/game/knytt_classic https://store.steampowered.com/app/2656050/Knytt_Classic/
+Hints
+Genre	Puzzle Platformer
+Tags	indie, 2D, exploration, freeware
+Year	2026
+Dev	Bit Kid, Inc.
+Pub	Bit Kid, Inc.
+Version	1.00a
+Status	1 (2026-08-10)
+Added	2026-08-10
+Updated	2026-08-10
+IgdbId	412975

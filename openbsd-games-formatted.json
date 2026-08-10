@@ -8935,6 +8935,40 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-10T00:00:00.000Z",
+    "Dev": "Bit Kid, Inc.",
+    "Engine": "FNA",
+    "Game": "Knytt Classic",
+    "Genre": [
+      "Puzzle Platformer"
+    ],
+    "Hints": "",
+    "Id": "603",
+    "IgdbId": "412975",
+    "Pub": "Bit Kid, Inc.",
+    "Runtime": "mono",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-10T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/knytt_classic",
+      "https://store.steampowered.com/app/2656050/Knytt_Classic/"
+    ],
+    "Tags": [
+      "2D",
+      "exploration",
+      "freeware",
+      "indie"
+    ],
+    "Updated": "2026-08-10T00:00:00.000Z",
+    "Version": "1.00a",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2021-12-22T00:00:00.000Z",
     "Dev": "derevotyan",
     "Engine": "Godot",

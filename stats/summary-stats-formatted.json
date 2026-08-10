@@ -185,7 +185,8 @@
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
       "2026-08-06T00:00:00.000Z": 3,
-      "2026-08-07T00:00:00.000Z": 1
+      "2026-08-07T00:00:00.000Z": 1,
+      "2026-08-10T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -194,7 +195,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 57
+      "2026-01-01T00:00:00.000Z": 58
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -245,7 +246,7 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 5
+      "2026-08-01T00:00:00.000Z": 6
     }
   },
   "Engine": {
@@ -254,7 +255,7 @@
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
     "Descent Engine": 2,
-    "FNA": 81,
+    "FNA": 82,
     "FontEngine": 1,
     "Godot": 209,
     "GrimE": 1,
@@ -909,7 +910,8 @@
     "Guard Duty",
     "MOTHER: Cognitive Dissonance",
     "Neofeud 2",
-    "Confidential Killings - A Detective Game"
+    "Confidential Killings - A Detective Game",
+    "Knytt Classic"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -968,7 +970,7 @@
     "Programming Puzzle": 1,
     "Puzzle": 49,
     "Puzzle Game": 5,
-    "Puzzle Platformer": 17,
+    "Puzzle Platformer": 18,
     "Puzzler": 10,
     "RPG": 34,
     "RTS": 13,
@@ -1019,7 +1021,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 242,
+    "IndieRunner": 243,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1248,19 +1250,20 @@
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 2,
       "2026-08-06T00:00:00.000Z": 2,
-      "2026-08-07T00:00:00.000Z": 1
+      "2026-08-07T00:00:00.000Z": 1,
+      "2026-08-10T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 413,
+      "launches": 414,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 413,
+      "1": 414,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1281,14 +1284,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 505,
+    "https://store.steampowered.com/": 506,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 163,
+    "https://www.gog.com/": 164,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1296,7 +1299,7 @@
   },
   "Tags": {
     "1980s": 1,
-    "2D": 6,
+    "2D": 7,
     "2bit": 1,
     "2d": 3,
     "3D": 3,
@@ -1386,7 +1389,7 @@
     "early access": 27,
     "educational": 1,
     "engineering": 1,
-    "exploration": 10,
+    "exploration": 11,
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 2,
@@ -1399,7 +1402,7 @@
     "first-person": 8,
     "flying": 2,
     "free": 40,
-    "freeware": 1,
+    "freeware": 2,
     "funny": 1,
     "furry": 2,
     "gambling": 2,
@@ -1421,7 +1424,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 301,
+    "indie": 302,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1711,7 +1714,8 @@
       "2026-07-31T00:00:00.000Z": 2,
       "2026-08-04T00:00:00.000Z": 1,
       "2026-08-06T00:00:00.000Z": 3,
-      "2026-08-07T00:00:00.000Z": 1
+      "2026-08-07T00:00:00.000Z": 1,
+      "2026-08-10T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1719,7 +1723,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 63
+      "2026-01-01T00:00:00.000Z": 64
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1757,7 +1761,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 5
+      "2026-08-01T00:00:00.000Z": 6
     }
   },
   "Year": {
@@ -1796,6 +1800,6 @@
     "2023": 41,
     "2024": 52,
     "2025": 27,
-    "2026": 21
+    "2026": 22
   }
 }
