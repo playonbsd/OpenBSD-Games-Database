@@ -5283,6 +5283,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-19T00:00:00.000Z",
+    "Dev": "Lori Vornoy",
+    "Engine": "Godot",
+    "Game": "Dungeons of Blood and Dream",
+    "Genre": [
+      "Action Roguelike"
+    ],
+    "Hints": "",
+    "Id": "605",
+    "IgdbId": "257836",
+    "Pub": "Lori Vornoy",
+    "Runtime": "godot3",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2488590/Dungeons_of_Blood_and_Dream/"
+    ],
+    "Tags": [
+      "dungeon crawler",
+      "indie",
+      "low fidelity",
+      "surreal"
+    ],
+    "Updated": "2026-08-19T00:00:00.000Z",
+    "Version": "1.0.3",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Humble Hearts",
     "Engine": "FNA",
@@ -8588,6 +8621,40 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "1994-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-08-19T00:00:00.000Z",
+    "Dev": "Berko Games",
+    "Engine": "HashLink",
+    "Game": "Jitter",
+    "Genre": [
+      "Space Exploration"
+    ],
+    "Hints": "",
+    "Id": "604",
+    "IgdbId": "298668",
+    "Pub": "Berko Games",
+    "Runtime": "hl",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2877660/Jitter/"
+    ],
+    "Tags": [
+      "2D",
+      "early access",
+      "indie",
+      "open world",
+      "scifi"
+    ],
+    "Updated": "2026-08-19T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

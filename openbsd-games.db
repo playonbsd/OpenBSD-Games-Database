@@ -10851,3 +10851,39 @@ Status	1 (2026-08-10)
 Added	2026-08-10
 Updated	2026-08-10
 IgdbId	412975
+
+Game	Jitter
+Id	604
+Engine	HashLink
+Setup	IndieRunner
+Runtime	hl
+Store	https://store.steampowered.com/app/2877660/Jitter/
+Hints
+Genre	Space Exploration
+Tags	indie, 2D, early access, scifi, open world
+Year
+Dev	Berko Games
+Pub	Berko Games
+Version
+Status	1 (2026-08-19)
+Added	2026-08-19
+Updated	2026-08-19
+IgdbId	298668
+
+Game	Dungeons of Blood and Dream
+Id	605
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/2488590/Dungeons_of_Blood_and_Dream/
+Hints
+Genre	Action Roguelike
+Tags	indie, low fidelity, dungeon crawler, surreal
+Year	2024
+Dev	Lori Vornoy
+Pub	Lori Vornoy
+Version	1.0.3
+Status	1 (2026-08-19)
+Added	2026-08-19
+Updated	2026-08-19
+IgdbId	257836

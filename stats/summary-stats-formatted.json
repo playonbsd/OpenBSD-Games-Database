@@ -186,7 +186,8 @@
       "2026-08-04T00:00:00.000Z": 1,
       "2026-08-06T00:00:00.000Z": 3,
       "2026-08-07T00:00:00.000Z": 1,
-      "2026-08-10T00:00:00.000Z": 1
+      "2026-08-10T00:00:00.000Z": 1,
+      "2026-08-19T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -195,7 +196,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 58
+      "2026-01-01T00:00:00.000Z": 60
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -246,7 +247,7 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 6
+      "2026-08-01T00:00:00.000Z": 8
     }
   },
   "Engine": {
@@ -257,9 +258,9 @@
     "Descent Engine": 2,
     "FNA": 82,
     "FontEngine": 1,
-    "Godot": 209,
+    "Godot": 210,
     "GrimE": 1,
-    "HashLink": 12,
+    "HashLink": 13,
     "Infinity Engine": 4,
     "Irrlicht Engine": 1,
     "Java": 1,
@@ -911,7 +912,9 @@
     "MOTHER: Cognitive Dissonance",
     "Neofeud 2",
     "Confidential Killings - A Detective Game",
-    "Knytt Classic"
+    "Knytt Classic",
+    "Jitter",
+    "Dungeons of Blood and Dream"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -921,7 +924,7 @@
     "Action Adventure": 5,
     "Action Platformer": 15,
     "Action RPG": 11,
-    "Action Roguelike": 12,
+    "Action Roguelike": 13,
     "Adventure": 54,
     "Arcade": 1,
     "Arcade Platformer": 1,
@@ -989,6 +992,7 @@
     "Side-Scrolling Shooter": 1,
     "Simulation": 11,
     "Slotmachine Game": 1,
+    "Space Exploration": 1,
     "Spacesim": 1,
     "Sports": 1,
     "Stealth Platformer": 1,
@@ -1021,7 +1025,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 243,
+    "IndieRunner": 245,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1251,19 +1255,20 @@
       "2026-08-04T00:00:00.000Z": 2,
       "2026-08-06T00:00:00.000Z": 2,
       "2026-08-07T00:00:00.000Z": 1,
-      "2026-08-10T00:00:00.000Z": 1
+      "2026-08-10T00:00:00.000Z": 1,
+      "2026-08-19T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 414,
+      "launches": 416,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 414,
+      "1": 416,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1284,7 +1289,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 506,
+    "https://store.steampowered.com/": 508,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1299,7 +1304,7 @@
   },
   "Tags": {
     "1980s": 1,
-    "2D": 7,
+    "2D": 8,
     "2bit": 1,
     "2d": 3,
     "3D": 3,
@@ -1383,10 +1388,11 @@
     "diegetic": 1,
     "difficult": 1,
     "dog": 1,
+    "dungeon crawler": 1,
     "dungeoncrawler": 4,
     "dystopia": 1,
     "dystopian": 1,
-    "early access": 27,
+    "early access": 28,
     "educational": 1,
     "engineering": 1,
     "exploration": 11,
@@ -1424,7 +1430,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 302,
+    "indie": 304,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1433,6 +1439,7 @@
     "local multiplayer": 2,
     "logic": 6,
     "lovecraftian": 5,
+    "low fidelity": 1,
     "magic": 1,
     "manga": 1,
     "massive": 1,
@@ -1460,7 +1467,7 @@
     "old-school": 2,
     "online multiplayer": 1,
     "open source": 2,
-    "open world": 1,
+    "open world": 2,
     "open-source": 3,
     "open-source engine": 2,
     "openworld": 1,
@@ -1505,7 +1512,7 @@
     "running": 1,
     "sandbox": 1,
     "sci-fi": 1,
-    "scifi": 17,
+    "scifi": 18,
     "settlers": 1,
     "shooter": 4,
     "short": 2,
@@ -1525,7 +1532,7 @@
     "steampunk": 1,
     "story-rich": 5,
     "strategy": 6,
-    "surreal": 2,
+    "surreal": 3,
     "survival": 5,
     "survivors-like": 1,
     "tactics": 1,
@@ -1715,7 +1722,8 @@
       "2026-08-04T00:00:00.000Z": 1,
       "2026-08-06T00:00:00.000Z": 3,
       "2026-08-07T00:00:00.000Z": 1,
-      "2026-08-10T00:00:00.000Z": 1
+      "2026-08-10T00:00:00.000Z": 1,
+      "2026-08-19T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1723,7 +1731,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 64
+      "2026-01-01T00:00:00.000Z": 66
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1761,7 +1769,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 6
+      "2026-08-01T00:00:00.000Z": 8
     }
   },
   "Year": {
@@ -1798,7 +1806,7 @@
     "2021": 51,
     "2022": 46,
     "2023": 41,
-    "2024": 52,
+    "2024": 53,
     "2025": 27,
     "2026": 22
   }
