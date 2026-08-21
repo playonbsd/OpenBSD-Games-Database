@@ -187,7 +187,8 @@
       "2026-08-06T00:00:00.000Z": 3,
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
-      "2026-08-19T00:00:00.000Z": 2
+      "2026-08-19T00:00:00.000Z": 2,
+      "2026-08-20T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -196,7 +197,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 60
+      "2026-01-01T00:00:00.000Z": 63
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -247,7 +248,7 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 8
+      "2026-08-01T00:00:00.000Z": 11
     }
   },
   "Engine": {
@@ -258,7 +259,7 @@
     "Descent Engine": 2,
     "FNA": 82,
     "FontEngine": 1,
-    "Godot": 210,
+    "Godot": 213,
     "GrimE": 1,
     "HashLink": 13,
     "Infinity Engine": 4,
@@ -914,7 +915,10 @@
     "Confidential Killings - A Detective Game",
     "Knytt Classic",
     "Jitter",
-    "Dungeons of Blood and Dream"
+    "Dungeons of Blood and Dream",
+    "how to kill a fly [H2KAF]",
+    "Nested",
+    "False Alarm"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -926,6 +930,7 @@
     "Action RPG": 11,
     "Action Roguelike": 13,
     "Adventure": 54,
+    "Adventure RPG": 1,
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Arena Fighting": 1,
@@ -972,7 +977,7 @@
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
-    "Puzzle Game": 5,
+    "Puzzle Game": 6,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
     "RPG": 34,
@@ -995,6 +1000,7 @@
     "Space Exploration": 1,
     "Spacesim": 1,
     "Sports": 1,
+    "Stealth Game": 1,
     "Stealth Platformer": 1,
     "Strategy": 9,
     "Strategy Roguelite": 1,
@@ -1025,7 +1031,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 245,
+    "IndieRunner": 248,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1256,19 +1262,20 @@
       "2026-08-06T00:00:00.000Z": 2,
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
-      "2026-08-19T00:00:00.000Z": 2
+      "2026-08-19T00:00:00.000Z": 2,
+      "2026-08-20T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 416,
+      "launches": 419,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 416,
+      "1": 419,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1289,7 +1296,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 508,
+    "https://store.steampowered.com/": 511,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1337,6 +1344,7 @@
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
+    "assassins": 1,
     "atmospheric": 3,
     "autobattler": 2,
     "automation": 2,
@@ -1349,6 +1357,7 @@
     "body horror": 2,
     "boomer shooter": 1,
     "bottom-of-screen": 1,
+    "brain teaser": 1,
     "bullet hell": 10,
     "card game": 1,
     "cardgame": 1,
@@ -1375,7 +1384,7 @@
     "crazy": 1,
     "crime": 1,
     "cute": 8,
-    "cyberpunk": 7,
+    "cyberpunk": 8,
     "dark": 1,
     "dark fantasy": 2,
     "dark humor": 1,
@@ -1391,7 +1400,7 @@
     "dungeon crawler": 1,
     "dungeoncrawler": 4,
     "dystopia": 1,
-    "dystopian": 1,
+    "dystopian": 2,
     "early access": 28,
     "educational": 1,
     "engineering": 1,
@@ -1422,6 +1431,7 @@
     "halloween": 1,
     "hand-drawn": 2,
     "hard": 1,
+    "heist": 1,
     "hex": 1,
     "hex tiles": 1,
     "high-brow": 2,
@@ -1430,16 +1440,17 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 304,
+    "indie": 307,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
     "life sim": 1,
     "linear": 1,
     "local multiplayer": 2,
-    "logic": 6,
+    "logic": 7,
     "lovecraftian": 5,
     "low fidelity": 1,
+    "lowfi": 1,
     "magic": 1,
     "manga": 1,
     "massive": 1,
@@ -1479,7 +1490,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 24,
+    "pixelart": 25,
     "pixels": 3,
     "platformer": 8,
     "point & click": 2,
@@ -1528,9 +1539,9 @@
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
-    "stealth": 3,
+    "stealth": 4,
     "steampunk": 1,
-    "story-rich": 5,
+    "story-rich": 6,
     "strategy": 6,
     "surreal": 3,
     "survival": 5,
@@ -1723,7 +1734,8 @@
       "2026-08-06T00:00:00.000Z": 3,
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
-      "2026-08-19T00:00:00.000Z": 2
+      "2026-08-19T00:00:00.000Z": 2,
+      "2026-08-20T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1731,7 +1743,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 66
+      "2026-01-01T00:00:00.000Z": 69
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1769,7 +1781,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 8
+      "2026-08-01T00:00:00.000Z": 11
     }
   },
   "Year": {
@@ -1808,6 +1820,6 @@
     "2023": 41,
     "2024": 53,
     "2025": 27,
-    "2026": 22
+    "2026": 25
   }
 }

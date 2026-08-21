@@ -6118,6 +6118,40 @@
     "Year": "1998-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-20T00:00:00.000Z",
+    "Dev": "Scattered Discs",
+    "Engine": "Godot",
+    "Game": "False Alarm",
+    "Genre": [
+      "Stealth Game"
+    ],
+    "Hints": "",
+    "Id": "608",
+    "IgdbId": "406656",
+    "Pub": "Scattered Discs",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3688650/False_Alarm/"
+    ],
+    "Tags": [
+      "assassins",
+      "heist",
+      "indie",
+      "pixelart",
+      "stealth"
+    ],
+    "Updated": "2026-08-20T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-08-28T00:00:00.000Z",
     "Dev": "Napas Torteeka",
     "Engine": "Godot",
@@ -10727,6 +10761,38 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-08-20T00:00:00.000Z",
+    "Dev": "Nathan Sioui",
+    "Engine": "Godot",
+    "Game": "Nested",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "607",
+    "IgdbId": "350086",
+    "Pub": "Nathan Sioui",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3752780/Nested/"
+    ],
+    "Tags": [
+      "brain teaser",
+      "indie",
+      "logic"
+    ],
+    "Updated": "2026-08-20T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -18795,6 +18861,40 @@
     "Updated": "2023-07-22T00:00:00.000Z",
     "Version": "1.5",
     "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-08-20T00:00:00.000Z",
+    "Dev": "Radtel Collective",
+    "Engine": "Godot",
+    "Game": "how to kill a fly [H2KAF]",
+    "Genre": [
+      "Adventure RPG"
+    ],
+    "Hints": "",
+    "Id": "606",
+    "IgdbId": "397986",
+    "Pub": "Radtel Collective",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/4566700/how_to_kill_a_fly__H2KAF/"
+    ],
+    "Tags": [
+      "cyberpunk",
+      "dystopian",
+      "indie",
+      "lowfi",
+      "story-rich"
+    ],
+    "Updated": "2026-08-20T00:00:00.000Z",
+    "Version": "1.0.0",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "2025-01-04T00:00:00.000Z",

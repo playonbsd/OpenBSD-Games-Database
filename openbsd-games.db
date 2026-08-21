@@ -10887,3 +10887,57 @@ Status	1 (2026-08-19)
 Added	2026-08-19
 Updated	2026-08-19
 IgdbId	257836
+
+Game	how to kill a fly [H2KAF]
+Id	606
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/4566700/how_to_kill_a_fly__H2KAF/
+Hints
+Genre	Adventure RPG
+Tags	indie, cyberpunk, lowfi, story-rich, dystopian
+Year	2026
+Dev	Radtel Collective
+Pub	Radtel Collective
+Version	1.0.0
+Status	1 (2026-08-20)
+Added	2026-08-20
+Updated	2026-08-20
+IgdbId	397986
+
+Game	Nested
+Id	607
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3752780/Nested/
+Hints
+Genre	Puzzle Game
+Tags	indie, logic, brain teaser
+Year	2026
+Dev	Nathan Sioui
+Pub	Nathan Sioui
+Version
+Status	1 (2026-08-20)
+Added	2026-08-20
+Updated	2026-08-20
+IgdbId	350086
+
+Game	False Alarm
+Id	608
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/3688650/False_Alarm/
+Hints
+Genre	Stealth Game
+Tags	indie, pixelart, heist, assassins, stealth
+Year	2026
+Dev	Scattered Discs
+Pub	Scattered Discs
+Version
+Status	1 (2026-08-20)
+Added	2026-08-20
+Updated	2026-08-20
+IgdbId	406656
