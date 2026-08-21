@@ -15981,6 +15981,41 @@
     "Year": "2025-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-20T00:00:00.000Z",
+    "Dev": "Wadjet Eye Games",
+    "Engine": "Adventure Game Studio",
+    "Game": "The Blackwell Convergence",
+    "Genre": [
+      "Point & Click Adventure"
+    ],
+    "Hints": "",
+    "Id": "610",
+    "IgdbId": "9039",
+    "Pub": "Wadjet Eye Games",
+    "Runtime": "scummvm",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/blackwell_bundle",
+      "https://store.steampowered.com/app/80350/Blackwell_Convergence/"
+    ],
+    "Tags": [
+      "female protagonist",
+      "ghosts",
+      "indie",
+      "pixelart",
+      "urban"
+    ],
+    "Updated": "2026-08-20T00:00:00.000Z",
+    "Version": "",
+    "Year": "2009-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Wadjet Eye Games",
     "Engine": "Adventure Game Studio",

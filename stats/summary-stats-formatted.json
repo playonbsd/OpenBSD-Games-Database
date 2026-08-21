@@ -188,7 +188,7 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 4
+      "2026-08-20T00:00:00.000Z": 5
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -197,7 +197,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 64
+      "2026-01-01T00:00:00.000Z": 65
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -248,11 +248,11 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 12
+      "2026-08-01T00:00:00.000Z": 13
     }
   },
   "Engine": {
-    "Adventure Game Studio": 32,
+    "Adventure Game Studio": 33,
     "Build Engine": 1,
     "Darkplaces": 1,
     "Descent 3 open source engine": 1,
@@ -919,7 +919,8 @@
     "how to kill a fly [H2KAF]",
     "Nested",
     "False Alarm",
-    "King's Well"
+    "King's Well",
+    "The Blackwell Convergence"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -974,7 +975,7 @@
     "Mining": 1,
     "Physics": 1,
     "Platformer": 59,
-    "Point & Click Adventure": 16,
+    "Point & Click Adventure": 17,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 49,
@@ -1032,7 +1033,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 249,
+    "IndieRunner": 250,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1264,19 +1265,19 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 4
+      "2026-08-20T00:00:00.000Z": 5
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 420,
+      "launches": 421,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 420,
+      "1": 421,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1297,14 +1298,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 512,
+    "https://store.steampowered.com/": 513,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 164,
+    "https://www.gog.com/": 165,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1413,7 +1414,7 @@
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
-    "female protagonist": 5,
+    "female protagonist": 6,
     "first person": 1,
     "first-person": 8,
     "flying": 2,
@@ -1423,6 +1424,7 @@
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
+    "ghosts": 1,
     "gore": 12,
     "gothic": 2,
     "graphical violence": 1,
@@ -1441,7 +1443,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 308,
+    "indie": 309,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1491,7 +1493,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 25,
+    "pixelart": 26,
     "pixels": 3,
     "platformer": 8,
     "point & click": 2,
@@ -1558,6 +1560,7 @@
     "turn-based": 11,
     "turn-based tactics": 1,
     "underwater": 1,
+    "urban": 1,
     "urban fantasy": 3,
     "vampires": 1,
     "vehicle": 1,
@@ -1736,7 +1739,7 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 4
+      "2026-08-20T00:00:00.000Z": 5
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1744,7 +1747,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 70
+      "2026-01-01T00:00:00.000Z": 71
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1782,7 +1785,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 12
+      "2026-08-01T00:00:00.000Z": 13
     }
   },
   "Year": {
@@ -1804,7 +1807,7 @@
     "2005": 1,
     "2006": 2,
     "2007": 2,
-    "2009": 4,
+    "2009": 5,
     "2010": 4,
     "2011": 12,
     "2012": 20,

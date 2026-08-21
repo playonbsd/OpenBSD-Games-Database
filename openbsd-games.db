@@ -10959,3 +10959,21 @@ Status	1 (2026-08-20)
 Added	2026-08-20
 Updated	2026-08-20
 IgdbId	393931
+
+Game	The Blackwell Convergence
+Id	610
+Engine	Adventure Game Studio
+Setup	IndieRunner
+Runtime	scummvm
+Store	https://www.gog.com/en/game/blackwell_bundle https://store.steampowered.com/app/80350/Blackwell_Convergence/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, female protagonist, urban, ghosts
+Year	2009
+Dev	Wadjet Eye Games
+Pub	Wadjet Eye Games
+Version
+Status	1 (2026-08-20)
+Added	2026-08-20
+Updated	2026-08-20
+IgdbId	9039
