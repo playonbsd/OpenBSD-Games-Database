@@ -10941,3 +10941,21 @@ Status	1 (2026-08-20)
 Added	2026-08-20
 Updated	2026-08-20
 IgdbId	406656
+
+Game	King's Well
+Id	609
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/4332200/Kings_Well/
+Hints
+Genre	Roguelike Deckbuilder
+Tags	indie, fantasy, cardgame
+Year	2026
+Dev	Fire Brick Games
+Pub	Fire Brick Games
+Version	1.016
+Status	1 (2026-08-20)
+Added	2026-08-20
+Updated	2026-08-20
+IgdbId	393931

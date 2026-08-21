@@ -8883,6 +8883,38 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-08-20T00:00:00.000Z",
+    "Dev": "Fire Brick Games",
+    "Engine": "Godot",
+    "Game": "King's Well",
+    "Genre": [
+      "Roguelike Deckbuilder"
+    ],
+    "Hints": "",
+    "Id": "609",
+    "IgdbId": "393931",
+    "Pub": "Fire Brick Games",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-08-20T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/4332200/Kings_Well/"
+    ],
+    "Tags": [
+      "cardgame",
+      "fantasy",
+      "indie"
+    ],
+    "Updated": "2026-08-20T00:00:00.000Z",
+    "Version": "1.016",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-01T00:00:00.000Z",
     "Dev": "Kitsune Games",
     "Engine": "FNA",

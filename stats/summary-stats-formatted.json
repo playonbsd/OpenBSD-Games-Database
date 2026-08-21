@@ -188,7 +188,7 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 3
+      "2026-08-20T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -197,7 +197,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 63
+      "2026-01-01T00:00:00.000Z": 64
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -248,7 +248,7 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 11
+      "2026-08-01T00:00:00.000Z": 12
     }
   },
   "Engine": {
@@ -259,7 +259,7 @@
     "Descent Engine": 2,
     "FNA": 82,
     "FontEngine": 1,
-    "Godot": 213,
+    "Godot": 214,
     "GrimE": 1,
     "HashLink": 13,
     "Infinity Engine": 4,
@@ -918,7 +918,8 @@
     "Dungeons of Blood and Dream",
     "how to kill a fly [H2KAF]",
     "Nested",
-    "False Alarm"
+    "False Alarm",
+    "King's Well"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -985,7 +986,7 @@
     "Racing": 2,
     "Rhythm Game": 2,
     "Roguelike": 2,
-    "Roguelike Deckbuilder": 1,
+    "Roguelike Deckbuilder": 2,
     "Roguelite": 5,
     "Roguelite Deckbuilder": 1,
     "Roguelite RPG": 1,
@@ -1031,7 +1032,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 248,
+    "IndieRunner": 249,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1263,19 +1264,19 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 3
+      "2026-08-20T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 20,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 419,
+      "launches": 420,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 419,
+      "1": 420,
       "2": 20,
       "3": 6,
       "4": 2,
@@ -1296,7 +1297,7 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 511,
+    "https://store.steampowered.com/": 512,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1360,7 +1361,7 @@
     "brain teaser": 1,
     "bullet hell": 10,
     "card game": 1,
-    "cardgame": 1,
+    "cardgame": 2,
     "cards": 1,
     "cartoon": 3,
     "cartoony": 1,
@@ -1408,7 +1409,7 @@
     "factory building": 1,
     "family-friendly": 1,
     "fangame": 2,
-    "fantasy": 16,
+    "fantasy": 17,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1440,7 +1441,7 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 307,
+    "indie": 308,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1735,7 +1736,7 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 3
+      "2026-08-20T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1743,7 +1744,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 69
+      "2026-01-01T00:00:00.000Z": 70
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1781,7 +1782,7 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 11
+      "2026-08-01T00:00:00.000Z": 12
     }
   },
   "Year": {
@@ -1820,6 +1821,6 @@
     "2023": 41,
     "2024": 53,
     "2025": 27,
-    "2026": 25
+    "2026": 26
   }
 }
