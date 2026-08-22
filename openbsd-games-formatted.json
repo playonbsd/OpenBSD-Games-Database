@@ -18944,10 +18944,10 @@
     "Runtime": "godot",
     "Setup": "IndieRunner",
     "Status": {
-      "StatusComment": "",
-      "StatusDate": "2026-08-20T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusComment": "- T pose of all characters.",
+      "StatusDate": "2026-08-22T00:00:00.000Z",
+      "StatusNumber": "3",
+      "StatusText": "intermediate bugs"
     },
     "Store": [
       "https://store.steampowered.com/app/4566700/how_to_kill_a_fly__H2KAF/"
@@ -18959,7 +18959,7 @@
       "lowfi",
       "story-rich"
     ],
-    "Updated": "2026-08-20T00:00:00.000Z",
+    "Updated": "2026-08-22T00:00:00.000Z",
     "Version": "1.0.0",
     "Year": "2026-01-01T00:00:00.000Z"
   },
