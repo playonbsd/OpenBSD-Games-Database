@@ -15996,9 +15996,9 @@
     "Setup": "IndieRunner",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2026-08-20T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusDate": "2026-08-23T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
     },
     "Store": [
       "https://www.gog.com/en/game/blackwell_bundle",
@@ -16011,7 +16011,7 @@
       "pixelart",
       "urban"
     ],
-    "Updated": "2026-08-20T00:00:00.000Z",
+    "Updated": "2026-08-23T00:00:00.000Z",
     "Version": "",
     "Year": "2009-01-01T00:00:00.000Z"
   },
