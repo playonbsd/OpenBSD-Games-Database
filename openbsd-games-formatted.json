@@ -1579,6 +1579,39 @@
     "Year": ""
   },
   {
+    "Added": "2026-09-03T00:00:00.000Z",
+    "Dev": "BubbleTabby",
+    "Engine": "Love2D",
+    "Game": "Beatblock",
+    "Genre": [
+      "Rhythm Game"
+    ],
+    "Hints": "",
+    "Id": "612",
+    "IgdbId": "306804",
+    "Pub": "SKY HOUR WORKS",
+    "Runtime": "love-12",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-03T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/3045200/Beatblock/"
+    ],
+    "Tags": [
+      "arcade",
+      "indie",
+      "level editor",
+      "music"
+    ],
+    "Updated": "2026-09-03T00:00:00.000Z",
+    "Version": "1.9.0 (early access)",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Kaan Alpar",
     "Engine": "Godot",
@@ -13819,6 +13852,41 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "2.3.4",
     "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-09-03T00:00:00.000Z",
+    "Dev": "ellraiser",
+    "Engine": "Love2D",
+    "Game": "Snacktorio",
+    "Genre": [
+      "Automation Game"
+    ],
+    "Hints": "",
+    "Id": "611",
+    "IgdbId": "244121",
+    "Pub": "TNgineers, Rekoup",
+    "Runtime": "love-12",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-03T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://tngineers.itch.io/snacktorio",
+      "https://store.steampowered.com/app/1902940/Snacktorio/"
+    ],
+    "Tags": [
+      "building",
+      "indie",
+      "monster",
+      "pixelart",
+      "simulation"
+    ],
+    "Updated": "2026-09-03T00:00:00.000Z",
+    "Version": "1.1.0",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "2022-12-31T00:00:00.000Z",

@@ -188,7 +188,8 @@
       "2026-08-07T00:00:00.000Z": 1,
       "2026-08-10T00:00:00.000Z": 1,
       "2026-08-19T00:00:00.000Z": 2,
-      "2026-08-20T00:00:00.000Z": 5
+      "2026-08-20T00:00:00.000Z": 5,
+      "2026-09-03T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -197,7 +198,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 65
+      "2026-01-01T00:00:00.000Z": 67
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -248,7 +249,8 @@
       "2026-05-01T00:00:00.000Z": 16,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
-      "2026-08-01T00:00:00.000Z": 13
+      "2026-08-01T00:00:00.000Z": 13,
+      "2026-09-01T00:00:00.000Z": 2
     }
   },
   "Engine": {
@@ -270,7 +272,7 @@
     "LWJGL2": 3,
     "LWJGL3": 2,
     "LibGDX": 21,
-    "Love2D": 42,
+    "Love2D": 44,
     "Mohawk Engine": 2,
     "Mono": 5,
     "MonoGame": 7,
@@ -920,7 +922,9 @@
     "Nested",
     "False Alarm",
     "King's Well",
-    "The Blackwell Convergence"
+    "The Blackwell Convergence",
+    "Snacktorio",
+    "Beatblock"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -936,6 +940,7 @@
     "Arcade": 1,
     "Arcade Platformer": 1,
     "Arena Fighting": 1,
+    "Automation Game": 1,
     "Beat'em'up": 1,
     "Boardgame": 1,
     "Brawler": 4,
@@ -985,7 +990,7 @@
     "RPG": 34,
     "RTS": 13,
     "Racing": 2,
-    "Rhythm Game": 2,
+    "Rhythm Game": 3,
     "Roguelike": 2,
     "Roguelike Deckbuilder": 2,
     "Roguelite": 5,
@@ -1033,7 +1038,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 250,
+    "IndieRunner": 252,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1267,19 +1272,20 @@
       "2026-08-19T00:00:00.000Z": 2,
       "2026-08-20T00:00:00.000Z": 3,
       "2026-08-22T00:00:00.000Z": 1,
-      "2026-08-23T00:00:00.000Z": 1
+      "2026-08-23T00:00:00.000Z": 1,
+      "2026-09-03T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 419,
+      "launches": 421,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 419,
+      "1": 421,
       "2": 20,
       "3": 7,
       "4": 2,
@@ -1295,12 +1301,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 160,
+    "https://itch.io/": 161,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 513,
+    "https://store.steampowered.com/": 515,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1344,7 +1350,7 @@
     "aliens": 1,
     "animals": 3,
     "anime": 1,
-    "arcade": 11,
+    "arcade": 12,
     "arena shooter": 1,
     "artsy": 1,
     "ascii": 1,
@@ -1362,6 +1368,7 @@
     "boomer shooter": 1,
     "bottom-of-screen": 1,
     "brain teaser": 1,
+    "building": 1,
     "bullet hell": 10,
     "card game": 1,
     "cardgame": 2,
@@ -1445,10 +1452,11 @@
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 309,
+    "indie": 311,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
+    "level editor": 1,
     "life sim": 1,
     "linear": 1,
     "local multiplayer": 2,
@@ -1469,8 +1477,10 @@
     "minimalist": 15,
     "mining": 2,
     "monochrome": 1,
+    "monster": 1,
     "multiplayer": 17,
     "murder mystery": 1,
+    "music": 1,
     "mystery": 9,
     "mystery dungeon": 1,
     "mythology": 1,
@@ -1495,7 +1505,7 @@
     "pixel art": 23,
     "pixel graphics": 4,
     "pixel-art": 2,
-    "pixelart": 26,
+    "pixelart": 27,
     "pixels": 3,
     "platformer": 8,
     "point & click": 2,
@@ -1533,7 +1543,7 @@
     "shooter": 4,
     "short": 2,
     "side scroller": 1,
-    "simulation": 1,
+    "simulation": 2,
     "singleplayer": 2,
     "slot machine": 1,
     "sokoban-like": 1,
@@ -1743,7 +1753,8 @@
       "2026-08-19T00:00:00.000Z": 2,
       "2026-08-20T00:00:00.000Z": 3,
       "2026-08-22T00:00:00.000Z": 1,
-      "2026-08-23T00:00:00.000Z": 1
+      "2026-08-23T00:00:00.000Z": 1,
+      "2026-09-03T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1751,7 +1762,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 71
+      "2026-01-01T00:00:00.000Z": 73
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1789,7 +1800,8 @@
       "2026-05-01T00:00:00.000Z": 18,
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
-      "2026-08-01T00:00:00.000Z": 13
+      "2026-08-01T00:00:00.000Z": 13,
+      "2026-09-01T00:00:00.000Z": 2
     }
   },
   "Year": {
@@ -1828,6 +1840,6 @@
     "2023": 41,
     "2024": 53,
     "2025": 27,
-    "2026": 26
+    "2026": 27
   }
 }

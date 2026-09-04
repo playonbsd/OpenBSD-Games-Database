@@ -10977,3 +10977,39 @@ Status	5 (2026-08-23)
 Added	2026-08-20
 Updated	2026-08-23
 IgdbId	9039
+
+Game	Snacktorio
+Id	611
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-12
+Store	https://tngineers.itch.io/snacktorio https://store.steampowered.com/app/1902940/Snacktorio/
+Hints
+Genre	Automation Game
+Tags	indie, simulation, monster, pixelart, building
+Year	2026
+Dev	ellraiser
+Pub	TNgineers, Rekoup
+Version	1.1.0
+Status	1 (2026-09-03)
+Added	2026-09-03
+Updated	2026-09-03
+IgdbId	244121
+
+Game	Beatblock
+Id	612
+Engine	Love2D
+Setup	IndieRunner
+Runtime	love-12
+Store	https://store.steampowered.com/app/3045200/Beatblock/
+Hints
+Genre	Rhythm Game
+Tags	indie, music, arcade, level editor
+Year
+Dev	BubbleTabby
+Pub	SKY HOUR WORKS
+Version	1.9.0 (early access)
+Status	1 (2026-09-03)
+Added	2026-09-03
+Updated	2026-09-03
+IgdbId	306804
