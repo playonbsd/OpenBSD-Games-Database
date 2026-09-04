@@ -11002,7 +11002,7 @@ Engine	Love2D
 Setup	IndieRunner
 Runtime	love-12
 Store	https://store.steampowered.com/app/3045200/Beatblock/
-Hints
+Hints	edit bin/project.lua and set project.useSteamAPI = false
 Genre	Rhythm Game
 Tags	indie, music, arcade, level editor
 Year

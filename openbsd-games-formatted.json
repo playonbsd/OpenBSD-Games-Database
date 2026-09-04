@@ -1586,7 +1586,7 @@
     "Genre": [
       "Rhythm Game"
     ],
-    "Hints": "",
+    "Hints": "edit bin/project.lua and set project.useSteamAPI = false",
     "Id": "612",
     "IgdbId": "306804",
     "Pub": "SKY HOUR WORKS",
