@@ -11013,3 +11013,21 @@ Status	1 (2026-09-03)
 Added	2026-09-03
 Updated	2026-09-03
 IgdbId	306804
+
+Game	20 More, Somehow Even Smaller, Mazes
+Id	613
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/4428890/20_More_Somehow_Even_Smaller_Mazes/
+Hints
+Genre	Puzzle Game
+Tags	indie, abstract, colorful, surreal
+Year	2026
+Dev	FLEB
+Pub	FLEB
+Version
+Status	1 (2026-09-18)
+Added	2026-09-18
+Updated	2026-09-18
+IgdbId	393460

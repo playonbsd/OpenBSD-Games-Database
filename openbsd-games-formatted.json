@@ -32,6 +32,39 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-09-18T00:00:00.000Z",
+    "Dev": "FLEB",
+    "Engine": "Godot",
+    "Game": "20 More, Somehow Even Smaller, Mazes",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "613",
+    "IgdbId": "393460",
+    "Pub": "FLEB",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/4428890/20_More_Somehow_Even_Smaller_Mazes/"
+    ],
+    "Tags": [
+      "abstract",
+      "colorful",
+      "indie",
+      "surreal"
+    ],
+    "Updated": "2026-09-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-07T00:00:00.000Z",
     "Dev": "FLEB",
     "Engine": "Godot",
