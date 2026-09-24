@@ -190,7 +190,8 @@
       "2026-08-19T00:00:00.000Z": 2,
       "2026-08-20T00:00:00.000Z": 5,
       "2026-09-03T00:00:00.000Z": 2,
-      "2026-09-18T00:00:00.000Z": 1
+      "2026-09-18T00:00:00.000Z": 1,
+      "2026-09-24T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -199,7 +200,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 68
+      "2026-01-01T00:00:00.000Z": 69
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -251,7 +252,7 @@
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
-      "2026-09-01T00:00:00.000Z": 3
+      "2026-09-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -262,7 +263,7 @@
     "Descent Engine": 2,
     "FNA": 82,
     "FontEngine": 1,
-    "Godot": 215,
+    "Godot": 216,
     "GrimE": 1,
     "HashLink": 13,
     "Infinity Engine": 4,
@@ -926,7 +927,8 @@
     "The Blackwell Convergence",
     "Snacktorio",
     "Beatblock",
-    "20 More, Somehow Even Smaller, Mazes"
+    "20 More, Somehow Even Smaller, Mazes",
+    "Grandfather's Estate"
   ],
   "Genre": {
     "3D Exploration": 1,
@@ -1015,7 +1017,7 @@
     "Strategy Roguelite": 1,
     "Survival": 3,
     "Survival FPS": 1,
-    "Survival Horror": 1,
+    "Survival Horror": 2,
     "TBS": 1,
     "Top-Down Shooter": 1,
     "Tower Defense": 4,
@@ -1040,7 +1042,7 @@
   },
   "Setup": {
     "7zip extract GAME.DAT": 1,
-    "IndieRunner": 253,
+    "IndieRunner": 254,
     "IndieRunner (unless using rigg)": 4,
     "IndieRunner, rigg": 1,
     "compile eduke32 from ports tree": 1,
@@ -1276,19 +1278,20 @@
       "2026-08-22T00:00:00.000Z": 1,
       "2026-08-23T00:00:00.000Z": 1,
       "2026-09-03T00:00:00.000Z": 2,
-      "2026-09-18T00:00:00.000Z": 1
+      "2026-09-18T00:00:00.000Z": 1,
+      "2026-09-24T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 422,
+      "launches": 423,
       "major bugs": 20,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 422,
+      "1": 423,
       "2": 20,
       "3": 7,
       "4": 2,
@@ -1304,12 +1307,12 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 161,
+    "https://itch.io/": 162,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 3,
-    "https://store.steampowered.com/": 516,
+    "https://store.steampowered.com/": 517,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
@@ -1428,7 +1431,7 @@
     "fast-paced": 1,
     "female protagonist": 6,
     "first person": 1,
-    "first-person": 8,
+    "first-person": 9,
     "flying": 2,
     "free": 41,
     "freeware": 2,
@@ -1451,11 +1454,11 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 14,
+    "horror": 15,
     "humor": 13,
     "idler": 3,
     "incremental": 1,
-    "indie": 312,
+    "indie": 313,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1594,7 +1597,7 @@
     "working simulator": 1,
     "zach-like": 7,
     "zelda-like": 2,
-    "zombies": 4
+    "zombies": 5
   },
   "Updated": {
     "Date": {
@@ -1758,7 +1761,8 @@
       "2026-08-22T00:00:00.000Z": 1,
       "2026-08-23T00:00:00.000Z": 1,
       "2026-09-03T00:00:00.000Z": 2,
-      "2026-09-18T00:00:00.000Z": 1
+      "2026-09-18T00:00:00.000Z": 1,
+      "2026-09-24T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1766,7 +1770,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 74
+      "2026-01-01T00:00:00.000Z": 75
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1805,7 +1809,7 @@
       "2026-06-01T00:00:00.000Z": 7,
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
-      "2026-09-01T00:00:00.000Z": 3
+      "2026-09-01T00:00:00.000Z": 4
     }
   },
   "Year": {

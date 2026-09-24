@@ -11031,3 +11031,21 @@ Status	1 (2026-09-18)
 Added	2026-09-18
 Updated	2026-09-18
 IgdbId	393460
+
+Game	Grandfather's Estate
+Id	614
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://notsospecialgames.itch.io/grandfathers-estate https://store.steampowered.com/app/5235420/Grandfathers_Estate/
+Hints
+Genre	Survival Horror
+Tags	indie, zombies, first-person, horror
+Year
+Dev	notsospecialgames
+Pub	notsospecialgames
+Version
+Status	1 (2026-09-24)
+Added	2026-09-24
+Updated	2026-09-24
+IgdbId

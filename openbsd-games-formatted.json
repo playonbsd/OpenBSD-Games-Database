@@ -7021,6 +7021,40 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-09-24T00:00:00.000Z",
+    "Dev": "notsospecialgames",
+    "Engine": "Godot",
+    "Game": "Grandfather's Estate",
+    "Genre": [
+      "Survival Horror"
+    ],
+    "Hints": "",
+    "Id": "614",
+    "IgdbId": "",
+    "Pub": "notsospecialgames",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://notsospecialgames.itch.io/grandfathers-estate",
+      "https://store.steampowered.com/app/5235420/Grandfathers_Estate/"
+    ],
+    "Tags": [
+      "first-person",
+      "horror",
+      "indie",
+      "zombies"
+    ],
+    "Updated": "2026-09-24T00:00:00.000Z",
+    "Version": "",
+    "Year": ""
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "John Watson",
     "Engine": "Godot",
