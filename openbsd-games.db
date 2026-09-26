@@ -11049,3 +11049,111 @@ Status	1 (2026-09-24)
 Added	2026-09-24
 Updated	2026-09-24
 IgdbId
+
+Game	Undertale
+Id	615
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://www.gog.com/en/game/undertale https://store.steampowered.com/app/391540/Undertale/
+Hints
+Genre	RPG
+Tags	indie, cult classic, story-rich, choices matter, humour, bullet hell
+Year	2015
+Dev	tobyfox
+Pub	tobyfox
+Version	1.08
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	12517
+
+Game	Prickle
+Id	616
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot
+Store	https://store.steampowered.com/app/2759760/Prickle/
+Hints
+Genre	Puzzle Game
+Tags	indie, sokoban-style, logic, difficult, wholesome
+Year	2024
+Dev	Sunbird Studio
+Pub	Sunbird Studio
+Version
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	297186
+
+Game	DELTARUNE
+Id	617
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://tobyfox.itch.io/deltarune
+Hints
+Genre	RPG
+Tags	indie, bullet hell
+Year	2021
+Dev	tobyfox
+Pub	tobyfox
+Version
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	171233
+
+Game	Uncanny Valley
+Id	618
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/359580/Uncanny_Valley/
+Hints
+Genre	Survival Horror
+Tags	indie, adventure, atmospheric, pixelart
+Year	2015
+Dev	Tiny Mold
+Pub	Tiny Mold
+Version
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	10140
+
+Game	Home
+Id	619
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://bancyco.itch.io/home https://store.steampowered.com/app/215670/Home/
+Hints
+Genre	Horror Adventure
+Tags	indie, adventure, short, mystery, atmospheric
+Year	2012
+Dev	BancyCo
+Pub	BancyCo
+Version
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	10142
+
+Game	Va-11 Hall-A: Cyberpunk Bartender Action
+Id	620
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://www.gog.com/en/game/va11_halla https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
+Hints
+Genre	Visual Novel
+Tags	indie, adventure, cyberpunk, story-rich
+Year	2016
+Dev	Sukeban Games
+Pub	Ysbryd Games, PLAYISM
+Version
+Status	1 (2026-09-25)
+Added	2026-09-25
+Updated	2026-09-25
+IgdbId	15465

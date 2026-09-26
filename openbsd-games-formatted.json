@@ -3943,6 +3943,37 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "tobyfox",
+    "Engine": "GameMaker",
+    "Game": "DELTARUNE",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "617",
+    "IgdbId": "171233",
+    "Pub": "tobyfox",
+    "Runtime": "butterscotch",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://tobyfox.itch.io/deltarune"
+    ],
+    "Tags": [
+      "bullet hell",
+      "indie"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-01-07T00:00:00.000Z",
     "Dev": "Blender Studio",
     "Engine": "Godot",
@@ -8043,6 +8074,41 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "BancyCo",
+    "Engine": "GameMaker",
+    "Game": "Home",
+    "Genre": [
+      "Horror Adventure"
+    ],
+    "Hints": "",
+    "Id": "619",
+    "IgdbId": "10142",
+    "Pub": "BancyCo",
+    "Runtime": "butterscotch",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://bancyco.itch.io/home",
+      "https://store.steampowered.com/app/215670/Home/"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "indie",
+      "mystery",
+      "short"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2012-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-01-05T00:00:00.000Z",
     "Dev": "Warkus",
     "Engine": "Godot",
@@ -11987,6 +12053,40 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "Sunbird Studio",
+    "Engine": "Godot",
+    "Game": "Prickle",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "616",
+    "IgdbId": "297186",
+    "Pub": "Sunbird Studio",
+    "Runtime": "godot",
+    "Setup": "IndieRunner",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2759760/Prickle/"
+    ],
+    "Tags": [
+      "difficult",
+      "indie",
+      "logic",
+      "sokoban-style",
+      "wholesome"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -17874,6 +17974,39 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "Tiny Mold",
+    "Engine": "GameMaker",
+    "Game": "Uncanny Valley",
+    "Genre": [
+      "Survival Horror"
+    ],
+    "Hints": "",
+    "Id": "618",
+    "IgdbId": "10140",
+    "Pub": "Tiny Mold",
+    "Runtime": "butterscotch",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/359580/Uncanny_Valley/"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "indie",
+      "pixelart"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-08-05T00:00:00.000Z",
     "Dev": "Priory Games",
     "Engine": "Godot",
@@ -17968,6 +18101,42 @@
     "Updated": "2026-05-28T00:00:00.000Z",
     "Version": "",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "tobyfox",
+    "Engine": "GameMaker",
+    "Game": "Undertale",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "615",
+    "IgdbId": "12517",
+    "Pub": "tobyfox",
+    "Runtime": "butterscotch",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/undertale",
+      "https://store.steampowered.com/app/391540/Undertale/"
+    ],
+    "Tags": [
+      "bullet hell",
+      "choices matter",
+      "cult classic",
+      "humour",
+      "indie",
+      "story-rich"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "1.08",
+    "Year": "2015-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -18157,6 +18326,40 @@
     "Updated": "2023-05-15T00:00:00.000Z",
     "Version": "",
     "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-09-25T00:00:00.000Z",
+    "Dev": "Sukeban Games",
+    "Engine": "GameMaker",
+    "Game": "Va-11 Hall-A: Cyberpunk Bartender Action",
+    "Genre": [
+      "Visual Novel"
+    ],
+    "Hints": "",
+    "Id": "620",
+    "IgdbId": "15465",
+    "Pub": "Ysbryd Games, PLAYISM",
+    "Runtime": "butterscotch",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-09-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/va11_halla",
+      "https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/"
+    ],
+    "Tags": [
+      "adventure",
+      "cyberpunk",
+      "indie",
+      "story-rich"
+    ],
+    "Updated": "2026-09-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-07-14T00:00:00.000Z",
