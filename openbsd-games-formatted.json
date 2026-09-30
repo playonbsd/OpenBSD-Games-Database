@@ -18344,8 +18344,8 @@
     "Status": {
       "StatusComment": "",
       "StatusDate": "2026-09-25T00:00:00.000Z",
-      "StatusNumber": "1",
-      "StatusText": "launches"
+      "StatusNumber": "2",
+      "StatusText": "major bugs"
     },
     "Store": [
       "https://www.gog.com/en/game/va11_halla",
@@ -18357,7 +18357,7 @@
       "indie",
       "story-rich"
     ],
-    "Updated": "2026-09-25T00:00:00.000Z",
+    "Updated": "2026-09-30T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
   },
