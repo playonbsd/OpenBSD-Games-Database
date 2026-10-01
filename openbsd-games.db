@@ -10108,10 +10108,10 @@ Tags	post-apocalpyse, realistic, survival, early access
 Year
 Dev	Road to Vostok Ltd.
 Pub	Road to Vostok Ltd.
-Version	0.1.0.0
+Version	0.2.0.0
 Status	1 (2026-04-17)
 Added	2026-04-17
-Updated	2026-04-17
+Updated	2026-09-30
 IgdbId	217304
 
 Game	Egg
@@ -11157,3 +11157,129 @@ Status	2 (2026-09-25)
 Added	2026-09-25
 Updated	2026-09-30
 IgdbId	15465
+
+Game	MoonStriker
+Id	621
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://terarin.itch.io/moonstriker
+Hints
+Genre	Shmup
+Tags	indie, retro, free
+Year	2017
+Dev	terarin
+Pub	terarin
+Version
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId
+
+Game	Mimi's Delivery Dash
+Id	622
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://caffinate.itch.io/mimis-delivery-dash
+Hints
+Genre	Action
+Tags	indie, retro, free
+Year	2018
+Dev	Caffinate
+Pub	Caffinate
+Version
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	96417
+
+Game	You Have 10 Seconds
+Id	623
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/510050/You_Have_10_Seconds/
+Hints
+Genre	Platformer
+Tags	indie, retro, free, minimalist, casual
+Year	2016
+Dev	tamationgames
+Pub	tamationgames
+Version
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	31909
+
+Game	You Have 10 Seconds 2
+Id	624
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/521570/You_Have_10_Seconds_2/
+Hints
+Genre	Platformer
+Tags	indie, retro, free, minimalist, casual
+Year	2016
+Dev	Tamationgames
+Pub	Tamationgames
+Version
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	31490
+
+Game	Shrubnaut
+Id	625
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://gleeson.itch.io/shrubnaut
+Hints
+Genre	Metroidvania
+Tags	indie, retro, free, minimalist, casual, cute, space
+Year	2016
+Dev	gleeson
+Pub	gleeson
+Version	1.6
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	179774
+
+Game	You Have 10 Seconds (2023)
+Id	626
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/2390510/You_Have_10_Seconds_2023/
+Hints
+Genre	Platformer
+Tags	indie, retro, free, minimalist, casual
+Year	2023
+Dev	xJackFox
+Pub	xJackFox, TamationGames
+Version	1.04
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	256443
+
+Game	Shotgun Witch
+Id	627
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/1435310/Shotgun_Witch/
+Hints
+Genre	Bullet Hell
+Tags	indie, arena shooter, difficult
+Year	2020
+Dev	Asephy, Dementori, Jchoco
+Pub	Asephy
+Version
+Status	1 (2026-09-30)
+Added	2026-09-30
+Updated	2026-09-30
+IgdbId	140451
