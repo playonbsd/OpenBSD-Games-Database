@@ -11283,3 +11283,165 @@ Status	1 (2026-09-30)
 Added	2026-09-30
 Updated	2026-09-30
 IgdbId	140451
+
+Game	Ancient: Legacy of Azul
+Id	628
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://cosmic-spud.itch.io/ancient https://store.steampowered.com/app/1661920/Ancient_Legacy_of_Azul/
+Hints
+Genre	Action Roguelite
+Tags	indie, sidescroller, pixel graphics
+Year	2022
+Dev	Cosmic Spud
+Pub	Cosmic Spud
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	153150
+
+Game	Moonrise Fall
+Id	629
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/1035110/Moonrise_Fall/
+Hints
+Genre	Adventure
+Tags	indie, exploration, pixel graphics, puzzle
+Year	2019
+Dev	Made From Strings
+Pub	GrabTheGames
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	116076
+
+Game	Paradox Soul
+Id	630
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/610570/Paradox_Soul/
+Hints
+Genre	Action Adventure
+Tags	indie, post-apocalypse, pixel graphics
+Year	2018
+Dev	Ritual Games
+Pub	GrabTheGames
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	83933
+
+Game	Freedom Fighter
+Id	631
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/514360/Freedom_Fighter/
+Hints
+Genre	Action Platformer
+Tags	indie, platformer, RPG, arcade
+Year	2017
+Dev	Volens Nolens Games
+Pub	Volens Nolens Games
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	14078
+
+Game	Mechanic 8230: Escape from Ilgrot
+Id	632
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://nudiventra.itch.io/mechanic8230 https://store.steampowered.com/app/1432680/Mechanic_8230_Escape_from_Ilgrot/
+Hints
+Genre	Point & Click Adventure
+Tags	indie, pixelart, family-friendly, casual, cyberpunk, robots
+Year	2022
+Dev	Nudiventra
+Pub	Nudiventra
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	151107
+
+Game	Perception: Heart and Mind
+Id	633
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/3848660/Perception_Heart_and_Mind/
+Hints
+Genre	Action Adventure
+Tags	indie, pixelart, platformer, choices matter, story-rich
+Year	2025
+Dev	Thodoris Serafeim Adamakos
+Pub	Daydream's Power
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	361981
+
+Game	Toziuha Night: Dracula's Revenge
+Id	634
+Engine	Godot
+Setup	IndieRunner
+Runtime	godot3
+Store	https://store.steampowered.com/app/1872040/Toziuha_Night_Draculas_Revenge/
+Hints
+Genre	2D Platformer
+Tags	indie, pixelart, platformer, gothic, dark fantasy, anime
+Year	2022
+Dev	Danny Garay
+Pub	Danny Garay
+Version	1.5.1
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	192635
+
+Game	Fran Bow
+Id	635
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://www.gog.com/en/game/fran_bow https://store.steampowered.com/app/362680/Fran_Bow/
+Hints	run butterscotch on assets/game.unx in Fran Bow GameMaker
+Genre	Point & Click Adventure
+Tags	indie, psychological horror, cat, story-rich, puzzle
+Year	2015
+Dev	Killmonday Games AB
+Pub	Killmonday Games AB
+Version
+Status	1 (2026-10-01)
+Added	2026-10-01
+Updated	2026-10-01
+IgdbId	11821
+
+Game	Cyberhunt
+Id	636
+Engine	GameMaker
+Setup
+Runtime	butterscotch
+Store	https://store.steampowered.com/app/636150/Cyberhunt/
+Hints
+Genre	Action
+Tags	indie, space, casual, arcade, shoot'em'up
+Year	2017
+Dev	NukGames
+Pub	NukGames
+Version
+Status	1 (2026-10-02)
+Added	2026-10-02
+Updated	2026-10-02
+IgdbId	36529
