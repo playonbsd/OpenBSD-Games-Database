@@ -857,6 +857,38 @@
     "Year": "2013-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Gabe Cuzzillo",
+    "Engine": "Unity",
+    "Game": "Ape Out",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "Id": "638",
+    "IgdbId": "27719",
+    "Pub": "Devolver Digital",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/ape_out"
+    ],
+    "Tags": [
+      "arcade",
+      "indie",
+      "violent"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-03-05T00:00:00.000Z",
     "Dev": "Amanito Computing",
     "Engine": "idTech1",
@@ -4897,6 +4929,38 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Terry Cavanagh",
+    "Engine": "",
+    "Game": "Dicey Dungeons",
+    "Genre": [
+      "Roguelike Dice Game"
+    ],
+    "Hints": "",
+    "Id": "641",
+    "IgdbId": "102420",
+    "Pub": "Terry Cavanagh",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/dicey_dungeons"
+    ],
+    "Tags": [
+      "indie",
+      "procedural generation",
+      "turn-based"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2021-12-22T00:00:00.000Z",
     "Dev": "Ulon",
     "Engine": "Godot",
@@ -4984,6 +5048,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "ZA/UM",
+    "Engine": "Unity",
+    "Game": "Disco Elysium - The Final Cut",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "639",
+    "IgdbId": "141540",
+    "Pub": "ZA/UM",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/disco_elysium"
+    ],
+    "Tags": [
+      "indie",
+      "story-rich"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -5867,6 +5962,40 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Dodge Roll",
+    "Engine": "",
+    "Game": "Enter the Gungeon",
+    "Genre": [
+      "Action Roguelite"
+    ],
+    "Hints": "",
+    "Id": "642",
+    "IgdbId": "11182",
+    "Pub": "Devolver Digital",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/enter_the_gungeon"
+    ],
+    "Tags": [
+      "bullet hell",
+      "guns",
+      "indie",
+      "pixelart",
+      "sci-fi"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Magical Time Bean",
     "Engine": "FNA",
@@ -6179,6 +6308,39 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2012-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Wube Software LTD.",
+    "Engine": "",
+    "Game": "Factorio",
+    "Genre": [
+      "Base Building"
+    ],
+    "Hints": "",
+    "Id": "637",
+    "IgdbId": "7046",
+    "Pub": "Wube Software LTD.",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/factorio",
+      "https://store.steampowered.com/app/427520/Factorio/"
+    ],
+    "Tags": [
+      "automation",
+      "crafting",
+      "indie"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-05-27T00:00:00.000Z",
@@ -10952,6 +11114,38 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Stuffed Wombat",
+    "Engine": "",
+    "Game": "Mosa Lina",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "643",
+    "IgdbId": "258680",
+    "Pub": "Stuffed Wombat",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2477090/Mosa_Lina/"
+    ],
+    "Tags": [
+      "co-op",
+      "indie",
+      "platformer"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Stegersaurus Software Inc.",
     "Engine": "XNA",
@@ -11948,6 +12142,38 @@
     "Updated": "2022-11-21T00:00:00.000Z",
     "Version": "",
     "Year": "1994-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Lucas Pope",
+    "Engine": "",
+    "Game": "Papers, Please",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "645",
+    "IgdbId": "2935",
+    "Pub": "3909",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/239030/Papers_Please/"
+    ],
+    "Tags": [
+      "dystopian",
+      "indie",
+      "point-and-click"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2013-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-10-01T00:00:00.000Z",
@@ -12958,6 +13184,40 @@
     "Updated": "2026-05-06T00:00:00.000Z",
     "Version": "",
     "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Nerial",
+    "Engine": "Unity",
+    "Game": "Reigns",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "640",
+    "IgdbId": "22436",
+    "Pub": "Devolver Digital",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/reigns"
+    ],
+    "Tags": [
+      "fantasy",
+      "indie",
+      "minimalist",
+      "simulation",
+      "story-rich"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -15396,6 +15656,39 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-12T00:00:00.000Z",
+    "Dev": "Paradox Interactive",
+    "Engine": "",
+    "Game": "Stellaris",
+    "Genre": [
+      "Real-time strategy"
+    ],
+    "Hints": "",
+    "Id": "644",
+    "IgdbId": "11582",
+    "Pub": "Paradox Interactive",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-12T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/stellaris"
+    ],
+    "Tags": [
+      "atmospheric",
+      "exploration",
+      "indie",
+      "sci-fi"
+    ],
+    "Updated": "2026-10-12T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-01-03T00:00:00.000Z",

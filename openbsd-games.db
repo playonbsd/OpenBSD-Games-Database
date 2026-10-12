@@ -11445,3 +11445,165 @@ Status	1 (2026-10-02)
 Added	2026-10-02
 Updated	2026-10-02
 IgdbId	36529
+
+Game	Factorio
+Id	637
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/factorio https://store.steampowered.com/app/427520/Factorio/
+Hints
+Genre	Base Building
+Tags	indie, automation, crafting
+Year	2020
+Dev	Wube Software LTD.
+Pub	Wube Software LTD.
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	7046
+
+Game	Ape Out
+Id	638
+Engine	Unity
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/ape_out
+Hints
+Genre	Action
+Tags	indie, arcade, violent
+Year	2019
+Dev	Gabe Cuzzillo
+Pub	Devolver Digital
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	27719
+
+Game	Disco Elysium - The Final Cut
+Id	639
+Engine	Unity
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/disco_elysium
+Hints
+Genre	RPG
+Tags	indie, story-rich
+Year	2019
+Dev	ZA/UM
+Pub	ZA/UM
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	141540
+
+Game	Reigns
+Id	640
+Engine	Unity
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/reigns
+Hints
+Genre	Adventure
+Tags	indie, simulation, minimalist, fantasy, story-rich
+Year	2016
+Dev	Nerial
+Pub	Devolver Digital
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	22436
+
+Game	Dicey Dungeons
+Id	641
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/dicey_dungeons
+Hints
+Genre	Roguelike Dice Game
+Tags	indie, turn-based, procedural generation
+Year	2019
+Dev	Terry Cavanagh
+Pub	Terry Cavanagh
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	102420
+
+Game	Enter the Gungeon
+Id	642
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/enter_the_gungeon
+Hints
+Genre	Action Roguelite
+Tags	indie, sci-fi, pixelart, bullet hell, guns
+Year	2016
+Dev	Dodge Roll
+Pub	Devolver Digital
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	11182
+
+Game	Mosa Lina
+Id	643
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/2477090/Mosa_Lina/
+Hints
+Genre	Puzzle
+Tags	indie, co-op, platformer
+Year	2023
+Dev	Stuffed Wombat
+Pub	Stuffed Wombat
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	258680
+
+Game	Stellaris
+Id	644
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/stellaris
+Hints
+Genre	Real-time strategy
+Tags	indie, sci-fi, atmospheric, exploration
+Year	2016
+Dev	Paradox Interactive
+Pub	Paradox Interactive
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	11582
+
+Game	Papers, Please
+Id	645
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/239030/Papers_Please/
+Hints
+Genre	Simulation
+Tags	indie, dystopian, point-and-click
+Year	2013
+Dev	Lucas Pope
+Pub	3909
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	2935
