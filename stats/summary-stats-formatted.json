@@ -196,7 +196,7 @@
       "2026-09-30T00:00:00.000Z": 7,
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
-      "2026-10-12T00:00:00.000Z": 9
+      "2026-10-12T00:00:00.000Z": 11
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -205,7 +205,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 100
+      "2026-01-01T00:00:00.000Z": 102
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -258,7 +258,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 18
+      "2026-10-01T00:00:00.000Z": 20
     }
   },
   "Engine": {
@@ -967,7 +967,9 @@
     "Enter the Gungeon",
     "Mosa Lina",
     "Stellaris",
-    "Papers, Please"
+    "Papers, Please",
+    "Deus Ex: Mankind Divided",
+    "Prey"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1017,7 +1019,7 @@
     "Horror": 3,
     "Horror Adventure": 1,
     "Idler": 1,
-    "Immersive Sim": 3,
+    "Immersive Sim": 5,
     "Interactive Story": 1,
     "JRPG": 2,
     "Life Sim": 1,
@@ -1331,19 +1333,19 @@
       "2026-09-30T00:00:00.000Z": 7,
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
-      "2026-10-12T00:00:00.000Z": 9
+      "2026-10-12T00:00:00.000Z": 11
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 453,
+      "launches": 455,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 453,
+      "1": 455,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1371,7 +1373,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 175,
+    "https://www.gog.com/": 177,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1401,7 +1403,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 16,
+    "action": 18,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 8,
@@ -1413,7 +1415,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 1,
-    "atmospheric": 6,
+    "atmospheric": 7,
     "autobattler": 2,
     "automation": 3,
     "award-winning": 2,
@@ -1456,7 +1458,7 @@
     "crime": 1,
     "cult classic": 1,
     "cute": 9,
-    "cyberpunk": 10,
+    "cyberpunk": 11,
     "dark": 1,
     "dark fantasy": 3,
     "dark humor": 1,
@@ -1472,7 +1474,7 @@
     "dungeon crawler": 1,
     "dungeoncrawler": 4,
     "dystopia": 1,
-    "dystopian": 3,
+    "dystopian": 5,
     "early access": 28,
     "educational": 1,
     "engineering": 1,
@@ -1599,6 +1601,7 @@
     "robots": 2,
     "roguelike": 5,
     "roguelite": 28,
+    "role-playing": 1,
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
@@ -1617,13 +1620,13 @@
     "sokoban-style": 2,
     "souls-like": 4,
     "soviet": 1,
-    "space": 20,
+    "space": 21,
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
     "stealth": 4,
     "steampunk": 1,
-    "story-rich": 12,
+    "story-rich": 13,
     "strategy": 6,
     "surreal": 4,
     "survival": 5,
@@ -1828,7 +1831,7 @@
       "2026-09-30T00:00:00.000Z": 9,
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
-      "2026-10-12T00:00:00.000Z": 9
+      "2026-10-12T00:00:00.000Z": 11
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1836,7 +1839,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 106
+      "2026-01-01T00:00:00.000Z": 108
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1876,7 +1879,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 18
+      "2026-10-01T00:00:00.000Z": 20
     }
   },
   "Year": {
@@ -1905,8 +1908,8 @@
     "2013": 19,
     "2014": 19,
     "2015": 22,
-    "2016": 33,
-    "2017": 27,
+    "2016": 34,
+    "2017": 28,
     "2018": 30,
     "2019": 32,
     "2020": 33,

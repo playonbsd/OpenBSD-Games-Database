@@ -11607,3 +11607,39 @@ Status	1 (2026-10-12)
 Added	2026-10-12
 Updated	2026-10-12
 IgdbId	2935
+
+Game	Deus Ex: Mankind Divided
+Id	646
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/deus_ex_mankind_divided
+Hints
+Genre	Immersive Sim
+Tags	action, dystopian, cyberpunk, role-playing, atmospheric
+Year	2016
+Dev	Eidos Montreal
+Pub	Eidos Interactive
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	9498
+
+Game	Prey
+Id	647
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/prey
+Hints
+Genre	Immersive Sim
+Tags	action, dystopian, space, story-rich
+Year	2017
+Dev	Arkane Studios
+Pub	Bethesda Softworks LLC
+Version
+Status	1 (2026-10-12)
+Added	2026-10-12
+Updated	2026-10-12
+IgdbId	19531
