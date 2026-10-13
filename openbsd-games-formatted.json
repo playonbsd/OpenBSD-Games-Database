@@ -8405,6 +8405,40 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Team Cherry",
+    "Engine": "Unity",
+    "Game": "Hollow Knight",
+    "Genre": [
+      "Metroidvania"
+    ],
+    "Hints": "",
+    "Id": "648",
+    "IgdbId": "14593",
+    "Pub": "Team Cherry",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/hollow_knight"
+    ],
+    "Tags": [
+      "action",
+      "atmospheric",
+      "fantasy",
+      "indie",
+      "story-rich"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-09-25T00:00:00.000Z",
     "Dev": "BancyCo",
     "Engine": "GameMaker",

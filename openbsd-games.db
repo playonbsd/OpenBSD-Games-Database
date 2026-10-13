@@ -11643,3 +11643,21 @@ Status	1 (2026-10-12)
 Added	2026-10-12
 Updated	2026-10-12
 IgdbId	19531
+
+Game	Hollow Knight
+Id	648
+Engine	Unity
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/hollow_knight
+Hints
+Genre	Metroidvania
+Tags	indie, atmospheric, action, story-rich, fantasy
+Year	2017
+Dev	Team Cherry
+Pub	Team Cherry
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	14593
