@@ -10385,6 +10385,38 @@
     "Year": "2018-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Achromi",
+    "Engine": "",
+    "Game": "Master Key",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "649",
+    "IgdbId": "204048",
+    "Pub": "Achromi",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/master_key"
+    ],
+    "Tags": [
+      "RPG",
+      "indie",
+      "minimalist"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Simtex",
     "Engine": "",
@@ -13785,6 +13817,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Square Enix, ArtePlaza",
+    "Engine": "",
+    "Game": "Romancing SaGa 3",
+    "Genre": [
+      "JRPG"
+    ],
+    "Hints": "",
+    "Id": "651",
+    "IgdbId": "109592",
+    "Pub": "Square Enix",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/romancing_saga_3"
+    ],
+    "Tags": [
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-06-10T00:00:00.000Z",
@@ -19918,6 +19981,38 @@
     "Updated": "2026-07-31T00:00:00.000Z",
     "Version": "",
     "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Villa Gorilla",
+    "Engine": "",
+    "Game": "Yoku's Island Express",
+    "Genre": [
+      "Pinball Adventure"
+    ],
+    "Hints": "",
+    "Id": "650",
+    "IgdbId": "27367",
+    "Pub": "Team17 Digital LTD",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/yokus_island_express"
+    ],
+    "Tags": [
+      "adventure",
+      "colourful",
+      "indie"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-05-20T00:00:00.000Z",

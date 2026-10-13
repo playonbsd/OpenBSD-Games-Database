@@ -11661,3 +11661,57 @@ Status	1 (2026-10-13)
 Added	2026-10-13
 Updated	2026-10-13
 IgdbId	14593
+
+Game	Master Key
+Id	649
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/master_key
+Hints
+Genre	Action Adventure
+Tags	indie, minimalist, RPG
+Year	2024
+Dev	Achromi
+Pub	Achromi
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	204048
+
+Game	Yoku's Island Express
+Id	650
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/yokus_island_express
+Hints
+Genre	Pinball Adventure
+Tags	indie, colourful, adventure
+Year	2018
+Dev	Villa Gorilla
+Pub	Team17 Digital LTD
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	27367
+
+Game	Romancing SaGa 3
+Id	651
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/romancing_saga_3
+Hints
+Genre	JRPG
+Tags	fantasy, story-rich
+Year	2019
+Dev	Square Enix, ArtePlaza
+Pub	Square Enix
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	109592

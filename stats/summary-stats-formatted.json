@@ -197,7 +197,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 1
+      "2026-10-13T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,7 +206,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 103
+      "2026-01-01T00:00:00.000Z": 106
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -259,7 +259,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 21
+      "2026-10-01T00:00:00.000Z": 24
     }
   },
   "Engine": {
@@ -971,7 +971,10 @@
     "Papers, Please",
     "Deus Ex: Mankind Divided",
     "Prey",
-    "Hollow Knight"
+    "Hollow Knight",
+    "Master Key",
+    "Yoku's Island Express",
+    "Romancing SaGa 3"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -979,7 +982,7 @@
     "3D Platformer": 3,
     "6DOF Shooter": 1,
     "Action": 47,
-    "Action Adventure": 7,
+    "Action Adventure": 8,
     "Action Platformer": 16,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1023,7 +1026,7 @@
     "Idler": 1,
     "Immersive Sim": 5,
     "Interactive Story": 1,
-    "JRPG": 2,
+    "JRPG": 3,
     "Life Sim": 1,
     "Life Simulator": 1,
     "MMORPG": 1,
@@ -1031,6 +1034,7 @@
     "Metroidvania": 13,
     "Mining": 1,
     "Physics": 1,
+    "Pinball Adventure": 1,
     "Platformer": 62,
     "Point & Click Adventure": 19,
     "Precision Platformer": 1,
@@ -1336,19 +1340,19 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 1
+      "2026-10-13T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 456,
+      "launches": 459,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 456,
+      "1": 459,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1376,7 +1380,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 178,
+    "https://www.gog.com/": 181,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1400,7 +1404,7 @@
     "Lovecraftian": 6,
     "NSFW": 1,
     "ROM": 4,
-    "RPG": 5,
+    "RPG": 6,
     "Sokoban-style": 1,
     "Tetris-like": 1,
     "WW2": 1,
@@ -1409,7 +1413,7 @@
     "action": 19,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 8,
+    "adventure": 9,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1452,7 +1456,7 @@
     "collection": 1,
     "colorful": 6,
     "colors": 1,
-    "colourful": 1,
+    "colourful": 2,
     "comedy": 9,
     "conspiracy": 2,
     "cozy": 2,
@@ -1485,7 +1489,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 19,
+    "fantasy": 20,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1520,7 +1524,7 @@
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 345,
+    "indie": 347,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1542,7 +1546,7 @@
     "metroidvania": 5,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 20,
+    "minimalist": 21,
     "mining": 2,
     "monochrome": 1,
     "monster": 1,
@@ -1629,7 +1633,7 @@
     "sports": 1,
     "stealth": 4,
     "steampunk": 1,
-    "story-rich": 14,
+    "story-rich": 15,
     "strategy": 6,
     "surreal": 4,
     "survival": 5,
@@ -1835,7 +1839,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 1
+      "2026-10-13T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1843,7 +1847,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 109
+      "2026-01-01T00:00:00.000Z": 112
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1883,7 +1887,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 21
+      "2026-10-01T00:00:00.000Z": 24
     }
   },
   "Year": {
@@ -1914,13 +1918,13 @@
     "2015": 22,
     "2016": 34,
     "2017": 29,
-    "2018": 30,
-    "2019": 32,
+    "2018": 31,
+    "2019": 33,
     "2020": 33,
     "2021": 52,
     "2022": 49,
     "2023": 43,
-    "2024": 54,
+    "2024": 55,
     "2025": 28,
     "2026": 28
   }
