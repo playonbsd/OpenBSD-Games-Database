@@ -11829,7 +11829,7 @@ Id	658
 Engine
 Setup
 Runtime	wine
-Store	https://store.epicgames.com/p/batman-arkham-knight
+Store	https://www.gog.com/en/game/batman_arkham_knight
 Hints
 Genre	Action
 Tags	superhero, fighting, stealth
@@ -11839,7 +11839,7 @@ Pub	Warner Bros.
 Version
 Status	1 (2026-10-13)
 Added	2026-10-13
-Updated	2026-10-13
+Updated	2026-10-14
 IgdbId	5503
 
 Game	Hollow Knight: Silksong
@@ -11895,3 +11895,21 @@ Status	1 (2026-10-14)
 Added	2026-10-14
 Updated	2026-10-14
 IgdbId	131889
+
+Game	Dishonored 2
+Id	662
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/dishonored_2
+Hints
+Genre	Stealth Action
+Tags	action, fantasy, story-rich, atmospheric
+Year	2016
+Dev	Arkane Studios
+Pub	Bethesda Softworks LLC
+Version
+Status	1 (2026-10-14)
+Added	2026-10-14
+Updated	2026-10-14
+IgdbId	11118
