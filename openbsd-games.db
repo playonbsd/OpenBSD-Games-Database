@@ -11805,3 +11805,57 @@ Status	1 (2026-10-13)
 Added	2026-10-13
 Updated	2026-10-13
 IgdbId	24985
+
+Game	Supraland
+Id	657
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/supraland
+Hints
+Genre	Metroidvania
+Tags	exploration, puzzle, first-person
+Year	2018
+Dev	Supra Games
+Pub	Supra Games
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	89354
+
+Game	Batman: Arkham Knight
+Id	658
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/batman-arkham-knight
+Hints
+Genre	Action
+Tags	superhero, fighting, stealth
+Year	2015
+Dev	Rocksteady Studios
+Pub	Warner Bros.
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	5503
+
+Game	Hollow Knight: Silksong
+Id	659
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/hollow_knight_silksong
+Hints
+Genre	Metroidvania
+Tags	action, adventure, indie, fantasy, story-rich
+Year	2025
+Dev	Team Cherry
+Pub	Team Cherry
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	115289

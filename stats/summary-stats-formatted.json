@@ -197,7 +197,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 9
+      "2026-10-13T00:00:00.000Z": 12
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,7 +206,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 111
+      "2026-01-01T00:00:00.000Z": 114
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -259,7 +259,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 29
+      "2026-10-01T00:00:00.000Z": 32
     }
   },
   "Engine": {
@@ -979,14 +979,17 @@
     "Control",
     "Romancing SaGa 2",
     "Wilmot's Warehouse",
-    "Golf With Your Friends"
+    "Golf With Your Friends",
+    "Supraland",
+    "Batman: Arkham Knight",
+    "Hollow Knight: Silksong"
   ],
   "Genre": {
     "2D Platformer": 1,
     "3D Exploration": 1,
     "3D Platformer": 3,
     "6DOF Shooter": 1,
-    "Action": 47,
+    "Action": 48,
     "Action Adventure": 10,
     "Action Platformer": 16,
     "Action RPG": 11,
@@ -1036,7 +1039,7 @@
     "Life Simulator": 1,
     "MMORPG": 1,
     "Management Simulator": 1,
-    "Metroidvania": 13,
+    "Metroidvania": 15,
     "Mining": 1,
     "Physics": 1,
     "Pinball Adventure": 1,
@@ -1346,19 +1349,19 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 9
+      "2026-10-13T00:00:00.000Z": 12
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 464,
+      "launches": 467,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 464,
+      "1": 467,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1378,7 +1381,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 5,
+    "https://store.epicgames.com/": 7,
     "https://store.steampowered.com/": 538,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1386,7 +1389,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 184,
+    "https://www.gog.com/": 185,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1416,10 +1419,10 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 20,
+    "action": 21,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 11,
+    "adventure": 12,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1491,17 +1494,18 @@
     "early access": 28,
     "educational": 1,
     "engineering": 1,
-    "exploration": 13,
+    "exploration": 14,
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 22,
+    "fantasy": 23,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
     "female protagonist": 6,
+    "fighting": 1,
     "first person": 1,
-    "first-person": 9,
+    "first-person": 10,
     "flying": 2,
     "free": 47,
     "freeware": 2,
@@ -1530,7 +1534,7 @@
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 348,
+    "indie": 349,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1602,7 +1606,7 @@
     "psychedelic": 1,
     "psychological horror": 2,
     "pulp": 1,
-    "puzzle": 12,
+    "puzzle": 13,
     "quicktime": 1,
     "quirky": 4,
     "racing": 1,
@@ -1637,10 +1641,11 @@
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
-    "stealth": 4,
+    "stealth": 5,
     "steampunk": 1,
-    "story-rich": 16,
+    "story-rich": 17,
     "strategy": 6,
+    "superhero": 1,
     "surreal": 4,
     "survival": 5,
     "survivors-like": 1,
@@ -1845,7 +1850,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 9
+      "2026-10-13T00:00:00.000Z": 12
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1853,7 +1858,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 117
+      "2026-01-01T00:00:00.000Z": 120
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1893,7 +1898,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 29
+      "2026-10-01T00:00:00.000Z": 32
     }
   },
   "Year": {
@@ -1921,17 +1926,17 @@
     "2012": 21,
     "2013": 19,
     "2014": 19,
-    "2015": 23,
+    "2015": 24,
     "2016": 34,
     "2017": 30,
-    "2018": 31,
+    "2018": 32,
     "2019": 35,
     "2020": 34,
     "2021": 52,
     "2022": 49,
     "2023": 43,
     "2024": 55,
-    "2025": 28,
+    "2025": 29,
     "2026": 28
   }
 }
