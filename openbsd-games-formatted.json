@@ -14533,6 +14533,40 @@
     "Year": "1998-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-14T00:00:00.000Z",
+    "Dev": "Acclaim Studios, Nightdive Studios",
+    "Engine": "Kex",
+    "Game": "Shadow Man Remastered",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "661",
+    "IgdbId": "131889",
+    "Pub": "Atari",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/shadow_man_remastered"
+    ],
+    "Tags": [
+      "dark",
+      "horror",
+      "puzzle",
+      "retro",
+      "voodoo"
+    ],
+    "Updated": "2026-10-14T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "3D Realms (Apogee Software)",
     "Engine": "eduke32",
@@ -17652,7 +17686,7 @@
     "Year": "2002-01-01T00:00:00.000Z"
   },
   {
-    "Added": "2026-10-13T00:00:00.000Z",
+    "Added": "2026-10-14T00:00:00.000Z",
     "Dev": "Bethesda Game Studios",
     "Engine": "",
     "Game": "The Elder Scrolls: Skyrim",
@@ -17667,7 +17701,7 @@
     "Setup": "",
     "Status": {
       "StatusComment": "",
-      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusDate": "2026-10-14T00:00:00.000Z",
       "StatusNumber": "1",
       "StatusText": "launches"
     },
@@ -17681,7 +17715,7 @@
       "fantasy",
       "story-rich"
     ],
-    "Updated": "2026-10-13T00:00:00.000Z",
+    "Updated": "2026-10-14T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
   },

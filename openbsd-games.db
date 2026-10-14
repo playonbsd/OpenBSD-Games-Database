@@ -11873,7 +11873,25 @@ Year	2016
 Dev	Bethesda Game Studios
 Pub	Bethesda Softworks LLC
 Version
-Status	1 (2026-10-13)
-Added	2026-10-13
-Updated	2026-10-13
+Status	1 (2026-10-14)
+Added	2026-10-14
+Updated	2026-10-14
 IgdbId	19457
+
+Game	Shadow Man Remastered
+Id	661
+Engine	Kex
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/shadow_man_remastered
+Hints
+Genre	Action Adventure
+Tags	retro, horror, puzzle, dark, voodoo
+Year	2021
+Dev	Acclaim Studios, Nightdive Studios
+Pub	Atari
+Version
+Status	1 (2026-10-14)
+Added	2026-10-14
+Updated	2026-10-14
+IgdbId	131889

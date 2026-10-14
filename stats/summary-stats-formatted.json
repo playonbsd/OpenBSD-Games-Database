@@ -197,7 +197,8 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 13
+      "2026-10-13T00:00:00.000Z": 12,
+      "2026-10-14T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,7 +207,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 115
+      "2026-01-01T00:00:00.000Z": 116
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -259,7 +260,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 33
+      "2026-10-01T00:00:00.000Z": 34
     }
   },
   "Engine": {
@@ -277,6 +278,7 @@
     "Infinity Engine": 4,
     "Irrlicht Engine": 1,
     "Java": 1,
+    "Kex": 1,
     "Kyra": 1,
     "LGeneral": 1,
     "LWJGL2": 3,
@@ -983,7 +985,8 @@
     "Supraland",
     "Batman: Arkham Knight",
     "Hollow Knight: Silksong",
-    "The Elder Scrolls: Skyrim"
+    "The Elder Scrolls: Skyrim",
+    "Shadow Man Remastered"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -991,7 +994,7 @@
     "3D Platformer": 3,
     "6DOF Shooter": 1,
     "Action": 48,
-    "Action Adventure": 10,
+    "Action Adventure": 11,
     "Action Platformer": 16,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1350,19 +1353,20 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 13
+      "2026-10-13T00:00:00.000Z": 12,
+      "2026-10-14T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 468,
+      "launches": 469,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 468,
+      "1": 469,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1390,7 +1394,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 186,
+    "https://www.gog.com/": 187,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1476,7 +1480,7 @@
     "cult classic": 1,
     "cute": 9,
     "cyberpunk": 11,
-    "dark": 1,
+    "dark": 2,
     "dark fantasy": 3,
     "dark humor": 1,
     "deck-building": 1,
@@ -1530,7 +1534,7 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 15,
+    "horror": 16,
     "humor": 13,
     "humour": 1,
     "idler": 3,
@@ -1607,7 +1611,7 @@
     "psychedelic": 1,
     "psychological horror": 2,
     "pulp": 1,
-    "puzzle": 13,
+    "puzzle": 14,
     "quicktime": 1,
     "quirky": 4,
     "racing": 1,
@@ -1615,7 +1619,7 @@
     "realistic": 1,
     "relaxing": 7,
     "remake": 1,
-    "retro": 78,
+    "retro": 79,
     "robots": 2,
     "roguelike": 5,
     "roguelite": 28,
@@ -1671,6 +1675,7 @@
     "violence": 1,
     "violent": 1,
     "visual novel": 1,
+    "voodoo": 1,
     "voxel": 3,
     "wargame": 1,
     "weird": 1,
@@ -1851,7 +1856,8 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 13
+      "2026-10-13T00:00:00.000Z": 12,
+      "2026-10-14T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1859,7 +1865,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 121
+      "2026-01-01T00:00:00.000Z": 122
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1899,7 +1905,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 33
+      "2026-10-01T00:00:00.000Z": 34
     }
   },
   "Year": {
@@ -1933,7 +1939,7 @@
     "2018": 32,
     "2019": 35,
     "2020": 34,
-    "2021": 52,
+    "2021": 53,
     "2022": 49,
     "2023": 43,
     "2024": 55,
