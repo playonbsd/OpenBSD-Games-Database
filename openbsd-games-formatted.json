@@ -17652,6 +17652,40 @@
     "Year": "2002-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Bethesda Game Studios",
+    "Engine": "",
+    "Game": "The Elder Scrolls: Skyrim",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "660",
+    "IgdbId": "19457",
+    "Pub": "Bethesda Softworks LLC",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "classic",
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-06-07T00:00:00.000Z",
     "Dev": "TheEndlessNight",
     "Engine": "Love2D",

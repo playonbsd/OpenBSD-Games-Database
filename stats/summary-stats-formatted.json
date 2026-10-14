@@ -197,7 +197,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 12
+      "2026-10-13T00:00:00.000Z": 13
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,7 +206,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 114
+      "2026-01-01T00:00:00.000Z": 115
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -259,7 +259,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 32
+      "2026-10-01T00:00:00.000Z": 33
     }
   },
   "Engine": {
@@ -982,7 +982,8 @@
     "Golf With Your Friends",
     "Supraland",
     "Batman: Arkham Knight",
-    "Hollow Knight: Silksong"
+    "Hollow Knight: Silksong",
+    "The Elder Scrolls: Skyrim"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1051,7 +1052,7 @@
     "Puzzle Game": 8,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
-    "RPG": 37,
+    "RPG": 38,
     "RTS": 13,
     "Racing": 2,
     "Real-time strategy": 1,
@@ -1349,19 +1350,19 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 12
+      "2026-10-13T00:00:00.000Z": 13
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 467,
+      "launches": 468,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 467,
+      "1": 468,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1389,7 +1390,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 185,
+    "https://www.gog.com/": 186,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1422,7 +1423,7 @@
     "action": 21,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 12,
+    "adventure": 13,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1431,7 +1432,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 1,
-    "atmospheric": 8,
+    "atmospheric": 9,
     "autobattler": 2,
     "automation": 3,
     "award-winning": 2,
@@ -1459,7 +1460,7 @@
     "chess": 1,
     "choices matter": 2,
     "city builder": 1,
-    "classic": 21,
+    "classic": 22,
     "clever": 1,
     "co-op": 3,
     "collection": 1,
@@ -1498,7 +1499,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 23,
+    "fantasy": 24,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1643,7 +1644,7 @@
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 17,
+    "story-rich": 18,
     "strategy": 6,
     "superhero": 1,
     "surreal": 4,
@@ -1850,7 +1851,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 12
+      "2026-10-13T00:00:00.000Z": 13
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1858,7 +1859,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 120
+      "2026-01-01T00:00:00.000Z": 121
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1898,7 +1899,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 32
+      "2026-10-01T00:00:00.000Z": 33
     }
   },
   "Year": {
@@ -1927,7 +1928,7 @@
     "2013": 19,
     "2014": 19,
     "2015": 24,
-    "2016": 34,
+    "2016": 35,
     "2017": 30,
     "2018": 32,
     "2019": 35,

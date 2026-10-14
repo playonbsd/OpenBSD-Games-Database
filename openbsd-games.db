@@ -11859,3 +11859,21 @@ Status	1 (2026-10-13)
 Added	2026-10-13
 Updated	2026-10-13
 IgdbId	115289
+
+Game	The Elder Scrolls: Skyrim
+Id	660
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition
+Hints
+Genre	RPG
+Tags	classic, fantasy, adventure, story-rich, atmospheric
+Year	2016
+Dev	Bethesda Game Studios
+Pub	Bethesda Softworks LLC
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	19457
