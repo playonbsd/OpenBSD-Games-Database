@@ -11715,3 +11715,93 @@ Status	1 (2026-10-13)
 Added	2026-10-13
 Updated	2026-10-13
 IgdbId	109592
+
+Game	Darksiders II Deathinitive Edition
+Id	652
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/darksiders2
+Hints
+Genre	Action Adventure
+Tags	fantasy, action
+Year	2015
+Dev	Gunfire Games, Vigil Games, THQ Nordic
+Pub	THQ Nordic
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	20048
+
+Game	Control
+Id	653
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/control
+Hints
+Genre	Action Adventure
+Tags	urban fantasy
+Year	2019
+Dev	Remedy Entertainment
+Pub	Remedy Entertainment
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	103329
+
+Game	Romancing SaGa 2
+Id	654
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/romancing_saga_2
+Hints
+Genre	JRPG
+Tags	adventure, fantasy, story-rich, role-playing
+Year	2017
+Dev	Square Enix, ArtePlaza
+Pub	Square Enix
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	11312
+
+Game	Wilmot's Warehouse
+Id	655
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/wilmots_warehouse
+Hints
+Genre	Puzzle
+Tags	simulation, adventure, indie, 2d
+Year	2019
+Dev	Hollow Ponds
+Pub	Richard Hogg / Finji
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	77494
+
+Game	Golf With Your Friends
+Id	656
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/golf_with_your_friends
+Hints
+Genre	Sports Simulation
+Tags	simulation, casual, funny
+Year	2020
+Dev	Blacklight Interactive
+Pub	Team17
+Version
+Status	1 (2026-10-13)
+Added	2026-10-13
+Updated	2026-10-13
+IgdbId	24985

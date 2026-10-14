@@ -197,7 +197,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 4
+      "2026-10-13T00:00:00.000Z": 9
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -206,7 +206,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 106
+      "2026-01-01T00:00:00.000Z": 111
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -259,7 +259,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 24
+      "2026-10-01T00:00:00.000Z": 29
     }
   },
   "Engine": {
@@ -974,7 +974,12 @@
     "Hollow Knight",
     "Master Key",
     "Yoku's Island Express",
-    "Romancing SaGa 3"
+    "Romancing SaGa 3",
+    "Darksiders II Deathinitive Edition",
+    "Control",
+    "Romancing SaGa 2",
+    "Wilmot's Warehouse",
+    "Golf With Your Friends"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -982,7 +987,7 @@
     "3D Platformer": 3,
     "6DOF Shooter": 1,
     "Action": 47,
-    "Action Adventure": 8,
+    "Action Adventure": 10,
     "Action Platformer": 16,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1026,7 +1031,7 @@
     "Idler": 1,
     "Immersive Sim": 5,
     "Interactive Story": 1,
-    "JRPG": 3,
+    "JRPG": 4,
     "Life Sim": 1,
     "Life Simulator": 1,
     "MMORPG": 1,
@@ -1039,7 +1044,7 @@
     "Point & Click Adventure": 19,
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
-    "Puzzle": 50,
+    "Puzzle": 51,
     "Puzzle Game": 8,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
@@ -1066,6 +1071,7 @@
     "Space Exploration": 1,
     "Spacesim": 1,
     "Sports": 1,
+    "Sports Simulation": 1,
     "Stealth Game": 1,
     "Stealth Platformer": 1,
     "Strategy": 9,
@@ -1340,19 +1346,19 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 4
+      "2026-10-13T00:00:00.000Z": 9
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 459,
+      "launches": 464,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 459,
+      "1": 464,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1372,7 +1378,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 3,
+    "https://store.epicgames.com/": 5,
     "https://store.steampowered.com/": 538,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1380,7 +1386,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 181,
+    "https://www.gog.com/": 184,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1390,7 +1396,7 @@
     "1980s": 1,
     "2D": 8,
     "2bit": 1,
-    "2d": 3,
+    "2d": 4,
     "3D": 3,
     "3d": 6,
     "4X": 4,
@@ -1410,10 +1416,10 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 19,
+    "action": 20,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 9,
+    "adventure": 11,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1442,7 +1448,7 @@
     "cards": 1,
     "cartoon": 3,
     "cartoony": 1,
-    "casual": 24,
+    "casual": 25,
     "cat": 1,
     "cats": 7,
     "cellshade": 1,
@@ -1489,7 +1495,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 20,
+    "fantasy": 22,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1499,7 +1505,7 @@
     "flying": 2,
     "free": 47,
     "freeware": 2,
-    "funny": 1,
+    "funny": 2,
     "furry": 2,
     "gambling": 2,
     "genre-defining": 2,
@@ -1524,7 +1530,7 @@
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 347,
+    "indie": 348,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1608,7 +1614,7 @@
     "robots": 2,
     "roguelike": 5,
     "roguelite": 28,
-    "role-playing": 1,
+    "role-playing": 2,
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
@@ -1620,7 +1626,7 @@
     "short": 3,
     "side scroller": 1,
     "sidescroller": 1,
-    "simulation": 3,
+    "simulation": 5,
     "singleplayer": 2,
     "slot machine": 1,
     "sokoban-like": 1,
@@ -1633,7 +1639,7 @@
     "sports": 1,
     "stealth": 4,
     "steampunk": 1,
-    "story-rich": 15,
+    "story-rich": 16,
     "strategy": 6,
     "surreal": 4,
     "survival": 5,
@@ -1650,7 +1656,7 @@
     "turn-based tactics": 1,
     "underwater": 1,
     "urban": 1,
-    "urban fantasy": 3,
+    "urban fantasy": 4,
     "vampires": 1,
     "vehicle": 1,
     "vertigo": 1,
@@ -1839,7 +1845,7 @@
       "2026-10-01T00:00:00.000Z": 8,
       "2026-10-02T00:00:00.000Z": 1,
       "2026-10-12T00:00:00.000Z": 11,
-      "2026-10-13T00:00:00.000Z": 4
+      "2026-10-13T00:00:00.000Z": 9
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1847,7 +1853,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 112
+      "2026-01-01T00:00:00.000Z": 117
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1887,7 +1893,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 24
+      "2026-10-01T00:00:00.000Z": 29
     }
   },
   "Year": {
@@ -1915,12 +1921,12 @@
     "2012": 21,
     "2013": 19,
     "2014": 19,
-    "2015": 22,
+    "2015": 23,
     "2016": 34,
-    "2017": 29,
+    "2017": 30,
     "2018": 31,
-    "2019": 33,
-    "2020": 33,
+    "2019": 35,
+    "2020": 34,
     "2021": 52,
     "2022": 49,
     "2023": 43,

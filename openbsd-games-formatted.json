@@ -3507,6 +3507,36 @@
     "Year": "2026-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Remedy Entertainment",
+    "Engine": "",
+    "Game": "Control",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "653",
+    "IgdbId": "103329",
+    "Pub": "Remedy Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/control"
+    ],
+    "Tags": [
+      "urban fantasy"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-05-27T00:00:00.000Z",
     "Dev": "carllacan",
     "Engine": "Godot",
@@ -4292,6 +4322,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Gunfire Games, Vigil Games, THQ Nordic",
+    "Engine": "",
+    "Game": "Darksiders II Deathinitive Edition",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "652",
+    "IgdbId": "20048",
+    "Pub": "THQ Nordic",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/darksiders2"
+    ],
+    "Tags": [
+      "action",
+      "fantasy"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-05-02T00:00:00.000Z",
@@ -7231,6 +7292,38 @@
     "Updated": "2025-01-04T00:00:00.000Z",
     "Version": "2.0.1",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Blacklight Interactive",
+    "Engine": "",
+    "Game": "Golf With Your Friends",
+    "Genre": [
+      "Sports Simulation"
+    ],
+    "Hints": "",
+    "Id": "656",
+    "IgdbId": "24985",
+    "Pub": "Team17",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/golf_with_your_friends"
+    ],
+    "Tags": [
+      "casual",
+      "funny",
+      "simulation"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-09-07T00:00:00.000Z",
@@ -13822,6 +13915,39 @@
     "Added": "2026-10-13T00:00:00.000Z",
     "Dev": "Square Enix, ArtePlaza",
     "Engine": "",
+    "Game": "Romancing SaGa 2",
+    "Genre": [
+      "JRPG"
+    ],
+    "Hints": "",
+    "Id": "654",
+    "IgdbId": "11312",
+    "Pub": "Square Enix",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/romancing_saga_2"
+    ],
+    "Tags": [
+      "adventure",
+      "fantasy",
+      "role-playing",
+      "story-rich"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Square Enix, ArtePlaza",
+    "Engine": "",
     "Game": "Romancing SaGa 3",
     "Genre": [
       "JRPG"
@@ -19638,6 +19764,39 @@
     ],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "1.0.6",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-13T00:00:00.000Z",
+    "Dev": "Hollow Ponds",
+    "Engine": "",
+    "Game": "Wilmot's Warehouse",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "655",
+    "IgdbId": "77494",
+    "Pub": "Richard Hogg / Finji",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-13T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/wilmots_warehouse"
+    ],
+    "Tags": [
+      "2d",
+      "adventure",
+      "indie",
+      "simulation"
+    ],
+    "Updated": "2026-10-13T00:00:00.000Z",
+    "Version": "",
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
