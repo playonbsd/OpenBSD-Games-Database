@@ -11913,3 +11913,39 @@ Status	1 (2026-10-14)
 Added	2026-10-14
 Updated	2026-10-14
 IgdbId	11118
+
+Game	Super Meat Boy Forever
+Id	663
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/super-meat-boy-forever
+Hints
+Genre	Action Platformer
+Tags	cartoon
+Year	2020
+Dev	Team Meat
+Pub	Team Meat
+Version
+Status	1 (2026-10-14)
+Added	2026-10-14
+Updated	2026-10-14
+IgdbId	44129
+
+Game	ZERO Sievert
+Id	664
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/1782120/ZERO_Sievert/
+Hints
+Genre	Extraction Shooter
+Tags	survival, post-apocalyptic, top-down
+Year	2024
+Dev	CABO Studio
+Pub	Modern Wolf
+Version
+Status	1 (2026-10-15)
+Added	2026-10-15
+Updated	2026-10-15
+IgdbId	182335

@@ -16579,6 +16579,36 @@
     "Year": "2012-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-14T00:00:00.000Z",
+    "Dev": "Team Meat",
+    "Engine": "",
+    "Game": "Super Meat Boy Forever",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "Id": "663",
+    "IgdbId": "44129",
+    "Pub": "Team Meat",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-14T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/super-meat-boy-forever"
+    ],
+    "Tags": [
+      "cartoon"
+    ],
+    "Updated": "2026-10-14T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -20532,6 +20562,38 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2004-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-15T00:00:00.000Z",
+    "Dev": "CABO Studio",
+    "Engine": "",
+    "Game": "ZERO Sievert",
+    "Genre": [
+      "Extraction Shooter"
+    ],
+    "Hints": "",
+    "Id": "664",
+    "IgdbId": "182335",
+    "Pub": "Modern Wolf",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/1782120/ZERO_Sievert/"
+    ],
+    "Tags": [
+      "post-apocalyptic",
+      "survival",
+      "top-down"
+    ],
+    "Updated": "2026-10-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
