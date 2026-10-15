@@ -4574,6 +4574,37 @@
     "Year": ""
   },
   {
+    "Added": "2026-10-15T00:00:00.000Z",
+    "Dev": "KOJIMA PRODUCTIONS",
+    "Engine": "",
+    "Game": "Death Stranding",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "665",
+    "IgdbId": "19564",
+    "Pub": "505 Games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/death-stranding-directors-cut"
+    ],
+    "Tags": [
+      "cult",
+      "open world"
+    ],
+    "Updated": "2026-10-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-09-24T00:00:00.000Z",
     "Dev": "Balcony Softworks",
     "Engine": "LWJGL3",

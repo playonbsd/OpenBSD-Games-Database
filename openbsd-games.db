@@ -11949,3 +11949,21 @@ Status	1 (2026-10-15)
 Added	2026-10-15
 Updated	2026-10-15
 IgdbId	182335
+
+Game	Death Stranding
+Id	665
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/death-stranding-directors-cut
+Hints
+Genre	Action Adventure
+Tags	open world, cult
+Year	2022
+Dev	KOJIMA PRODUCTIONS
+Pub	505 Games
+Version
+Status	1 (2026-10-15)
+Added	2026-10-15
+Updated	2026-10-15
+IgdbId	19564
