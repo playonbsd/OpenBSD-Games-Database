@@ -199,7 +199,8 @@
       "2026-10-12T00:00:00.000Z": 11,
       "2026-10-13T00:00:00.000Z": 12,
       "2026-10-14T00:00:00.000Z": 4,
-      "2026-10-15T00:00:00.000Z": 2
+      "2026-10-15T00:00:00.000Z": 3,
+      "2026-10-16T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -208,7 +209,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 120
+      "2026-01-01T00:00:00.000Z": 125
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -261,7 +262,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 38
+      "2026-10-01T00:00:00.000Z": 43
     }
   },
   "Engine": {
@@ -991,16 +992,21 @@
     "Dishonored 2",
     "Super Meat Boy Forever",
     "ZERO Sievert",
-    "Death Stranding"
+    "Death Stranding",
+    "Valheim",
+    "Bo: Path of the Teal Lotus",
+    "Wall World",
+    "LEGO Bricktales",
+    "Yooka-Laylee and the Impossible Lair"
   ],
   "Genre": {
     "2D Platformer": 1,
     "3D Exploration": 1,
-    "3D Platformer": 3,
+    "3D Platformer": 4,
     "6DOF Shooter": 1,
     "Action": 48,
     "Action Adventure": 12,
-    "Action Platformer": 17,
+    "Action Platformer": 18,
     "Action RPG": 11,
     "Action Roguelike": 13,
     "Action Roguelite": 2,
@@ -1051,6 +1057,7 @@
     "Management Simulator": 1,
     "Metroidvania": 15,
     "Mining": 1,
+    "Open World Survival Craft": 1,
     "Physics": 1,
     "Pinball Adventure": 1,
     "Platformer": 62,
@@ -1058,6 +1065,7 @@
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 51,
+    "Puzzle Adventure": 1,
     "Puzzle Game": 8,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
@@ -1089,7 +1097,7 @@
     "Stealth Game": 1,
     "Stealth Platformer": 1,
     "Strategy": 9,
-    "Strategy Roguelite": 1,
+    "Strategy Roguelite": 2,
     "Survival": 3,
     "Survival FPS": 1,
     "Survival Horror": 3,
@@ -1362,19 +1370,20 @@
       "2026-10-12T00:00:00.000Z": 11,
       "2026-10-13T00:00:00.000Z": 12,
       "2026-10-14T00:00:00.000Z": 4,
-      "2026-10-15T00:00:00.000Z": 2
+      "2026-10-15T00:00:00.000Z": 3,
+      "2026-10-16T00:00:00.000Z": 4
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 473,
+      "launches": 478,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 473,
+      "1": 478,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1395,14 +1404,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 8,
-    "https://store.steampowered.com/": 539,
+    "https://store.steampowered.com/": 540,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 189,
+    "https://www.gog.com/": 193,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1412,7 +1421,7 @@
     "1980s": 1,
     "2D": 8,
     "2bit": 1,
-    "2d": 4,
+    "2d": 5,
     "3D": 3,
     "3d": 6,
     "4X": 4,
@@ -1432,10 +1441,10 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 22,
+    "action": 23,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 13,
+    "adventure": 17,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1444,7 +1453,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 1,
-    "atmospheric": 10,
+    "atmospheric": 11,
     "autobattler": 2,
     "automation": 3,
     "award-winning": 2,
@@ -1457,14 +1466,14 @@
     "boomer shooter": 1,
     "bottom-of-screen": 1,
     "brain teaser": 1,
-    "building": 1,
+    "building": 2,
     "bullet hell": 13,
     "card game": 1,
     "cardgame": 2,
     "cards": 1,
     "cartoon": 4,
     "cartoony": 1,
-    "casual": 25,
+    "casual": 27,
     "cat": 1,
     "cats": 7,
     "cellshade": 1,
@@ -1508,7 +1517,7 @@
     "early access": 28,
     "educational": 1,
     "engineering": 1,
-    "exploration": 14,
+    "exploration": 15,
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
@@ -1587,9 +1596,10 @@
     "nordic": 1,
     "nostalgia": 1,
     "old-school": 2,
+    "online co-op": 1,
     "online multiplayer": 1,
     "open source": 2,
-    "open world": 3,
+    "open world": 4,
     "open-source": 3,
     "open-source engine": 2,
     "openworld": 1,
@@ -1637,7 +1647,7 @@
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
-    "sci-fi": 3,
+    "sci-fi": 4,
     "scifi": 18,
     "settlers": 1,
     "shoot'em'up": 1,
@@ -1868,7 +1878,8 @@
       "2026-10-12T00:00:00.000Z": 11,
       "2026-10-13T00:00:00.000Z": 11,
       "2026-10-14T00:00:00.000Z": 5,
-      "2026-10-15T00:00:00.000Z": 2
+      "2026-10-15T00:00:00.000Z": 3,
+      "2026-10-16T00:00:00.000Z": 4
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1876,7 +1887,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 126
+      "2026-01-01T00:00:00.000Z": 131
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1916,7 +1927,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 38
+      "2026-10-01T00:00:00.000Z": 43
     }
   },
   "Year": {
@@ -1948,13 +1959,13 @@
     "2016": 36,
     "2017": 30,
     "2018": 32,
-    "2019": 35,
+    "2019": 36,
     "2020": 35,
     "2021": 53,
-    "2022": 50,
-    "2023": 43,
-    "2024": 56,
+    "2022": 51,
+    "2023": 44,
+    "2024": 57,
     "2025": 29,
-    "2026": 28
+    "2026": 29
   }
 }

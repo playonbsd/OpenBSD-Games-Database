@@ -2235,6 +2235,39 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Squid Shock Studios, Christopher Stair, Trevor Youngquist",
+    "Engine": "",
+    "Game": "Bo: Path of the Teal Lotus",
+    "Genre": [
+      "Action Platformer"
+    ],
+    "Hints": "",
+    "Id": "667",
+    "IgdbId": "154161",
+    "Pub": "Humble Games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/bo_path_of_the_teal_lotus"
+    ],
+    "Tags": [
+      "2d",
+      "adventure",
+      "atmospheric",
+      "exploration"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Raffaele Picca",
     "Engine": "Godot",
@@ -9886,6 +9919,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "ClockStone",
+    "Engine": "",
+    "Game": "LEGO Bricktales",
+    "Genre": [
+      "Puzzle Adventure"
+    ],
+    "Hints": "",
+    "Id": "669",
+    "IgdbId": "194745",
+    "Pub": "Thunderful Publishing",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/lego_bricktales"
+    ],
+    "Tags": [
+      "adventure",
+      "casual"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-10-09T00:00:00.000Z",
@@ -19642,6 +19706,38 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-15T00:00:00.000Z",
+    "Dev": "Iron Gate AB",
+    "Engine": "",
+    "Game": "Valheim",
+    "Genre": [
+      "Open World Survival Craft"
+    ],
+    "Hints": "",
+    "Id": "666",
+    "IgdbId": "104967",
+    "Pub": "Coffee Stain Publishing",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/892970/Valheim/"
+    ],
+    "Tags": [
+      "building",
+      "online co-op",
+      "open world"
+    ],
+    "Updated": "2026-10-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-14T00:00:00.000Z",
     "Dev": "SoMoGa Inc., SIMS Co. Ltd.",
     "Engine": "FNA",
@@ -19928,6 +20024,37 @@
     "Updated": "2024-10-09T00:00:00.000Z",
     "Version": "1.0.5",
     "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Alawar",
+    "Engine": "",
+    "Game": "Wall World",
+    "Genre": [
+      "Strategy Roguelite"
+    ],
+    "Hints": "",
+    "Id": "668",
+    "IgdbId": "224705",
+    "Pub": "Alawar",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/wall_world"
+    ],
+    "Tags": [
+      "adventure",
+      "sci-fi"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -20464,6 +20591,38 @@
     "Updated": "2024-05-20T00:00:00.000Z",
     "Version": "1.0.01",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Playtonic Games",
+    "Engine": "",
+    "Game": "Yooka-Laylee and the Impossible Lair",
+    "Genre": [
+      "3D Platformer"
+    ],
+    "Hints": "",
+    "Id": "670",
+    "IgdbId": "119259",
+    "Pub": "Playtonic Friends",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/yookalaylee_and_the_impossible_lair"
+    ],
+    "Tags": [
+      "action",
+      "adventure",
+      "casual"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-09-30T00:00:00.000Z",
