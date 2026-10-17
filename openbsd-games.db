@@ -12075,3 +12075,57 @@ Status	1 (2026-10-16)
 Added	2026-10-16
 Updated	2026-10-16
 IgdbId	186725
+
+Game	Alan Wake Remastered
+Id	672
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/alan-wake-remastered
+Hints	may need Epic games services, e.g. via rare launcher
+Genre	Action Adventure
+Tags	action, horror, atmospheric, cerebral, mystery, dark
+Year	2021
+Dev	Remedy Entertainment
+Pub	Epic Games Publishing
+Version
+Status	1 (2026-10-16)
+Added	2026-10-16
+Updated	2026-10-16
+IgdbId	167611
+
+Game	Crypt of the NecroDancer
+Id	673
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/crypt_of_the_necrodancer
+Hints	you need to run NecroDancer64/NecroDancer.exe from within it's directory
+Genre	Rhythm Roguelite
+Tags	indie, role-playing game, fantasy, pixelart, rhythm game
+Year	2015
+Dev	Brace Yourself Games
+Pub	Brace Yourself Games
+Version
+Status	1 (2026-10-16)
+Added	2026-10-16
+Updated	2026-10-16
+IgdbId	7886
+
+Game	The Witcher 3: Wild Hunt - Remastered
+Id	674
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition
+Hints	D3D12 - use VKD3D-proton; cd bin/x64_dx12 && wine witcher3.exe
+Genre	RPG
+Tags	fantasy, classic, story-rich, atmospheric, adventure
+Year	2026
+Dev	CD PROJEKT RED
+Pub	CD PROJEKT RED
+Version
+Status	1 (2026-10-16)
+Added	2026-10-16
+Updated	2026-10-16
+IgdbId	415005

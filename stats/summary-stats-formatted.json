@@ -200,7 +200,7 @@
       "2026-10-13T00:00:00.000Z": 12,
       "2026-10-14T00:00:00.000Z": 4,
       "2026-10-15T00:00:00.000Z": 3,
-      "2026-10-16T00:00:00.000Z": 5
+      "2026-10-16T00:00:00.000Z": 8
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -209,7 +209,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 126
+      "2026-01-01T00:00:00.000Z": 129
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -262,7 +262,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 44
+      "2026-10-01T00:00:00.000Z": 47
     }
   },
   "Engine": {
@@ -998,7 +998,10 @@
     "Wall World",
     "LEGO Bricktales",
     "Yooka-Laylee and the Impossible Lair",
-    "Vampire Survivors"
+    "Vampire Survivors",
+    "Alan Wake Remastered",
+    "Crypt of the NecroDancer",
+    "The Witcher 3: Wild Hunt - Remastered"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1006,7 +1009,7 @@
     "3D Platformer": 4,
     "6DOF Shooter": 1,
     "Action": 48,
-    "Action Adventure": 12,
+    "Action Adventure": 13,
     "Action Platformer": 18,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1070,11 +1073,12 @@
     "Puzzle Game": 8,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
-    "RPG": 38,
+    "RPG": 39,
     "RTS": 13,
     "Racing": 2,
     "Real-time strategy": 1,
     "Rhythm Game": 3,
+    "Rhythm Roguelite": 1,
     "Roguelike": 2,
     "Roguelike Deckbuilder": 2,
     "Roguelike Dice Game": 1,
@@ -1372,19 +1376,19 @@
       "2026-10-13T00:00:00.000Z": 12,
       "2026-10-14T00:00:00.000Z": 4,
       "2026-10-15T00:00:00.000Z": 3,
-      "2026-10-16T00:00:00.000Z": 5
+      "2026-10-16T00:00:00.000Z": 8
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 479,
+      "launches": 482,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 479,
+      "1": 482,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1404,7 +1408,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 9,
+    "https://store.epicgames.com/": 10,
     "https://store.steampowered.com/": 540,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1412,7 +1416,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 193,
+    "https://www.gog.com/": 195,
     "https://www.humblebundle.com/": 75,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1442,10 +1446,10 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 24,
+    "action": 25,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 17,
+    "adventure": 18,
     "aliens": 1,
     "animals": 3,
     "anime": 2,
@@ -1454,7 +1458,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 1,
-    "atmospheric": 11,
+    "atmospheric": 13,
     "autobattler": 2,
     "automation": 3,
     "award-winning": 2,
@@ -1478,11 +1482,12 @@
     "cat": 1,
     "cats": 7,
     "cellshade": 1,
+    "cerebral": 1,
     "charity": 1,
     "chess": 1,
     "choices matter": 2,
     "city builder": 1,
-    "classic": 22,
+    "classic": 23,
     "clever": 1,
     "co-op": 3,
     "collection": 1,
@@ -1499,7 +1504,7 @@
     "cult classic": 1,
     "cute": 9,
     "cyberpunk": 11,
-    "dark": 2,
+    "dark": 3,
     "dark fantasy": 3,
     "dark humor": 1,
     "deck-building": 1,
@@ -1522,7 +1527,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 25,
+    "fantasy": 27,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
@@ -1553,12 +1558,12 @@
     "hex tiles": 1,
     "high-brow": 2,
     "historical": 1,
-    "horror": 16,
+    "horror": 17,
     "humor": 13,
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 349,
+    "indie": 350,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1587,7 +1592,7 @@
     "multiplayer": 17,
     "murder mystery": 1,
     "music": 1,
-    "mystery": 10,
+    "mystery": 11,
     "mystery dungeon": 1,
     "mythology": 1,
     "nature": 1,
@@ -1612,7 +1617,7 @@
     "pixel art": 23,
     "pixel graphics": 7,
     "pixel-art": 2,
-    "pixelart": 32,
+    "pixelart": 33,
     "pixels": 3,
     "platformer": 12,
     "point & click": 2,
@@ -1641,10 +1646,12 @@
     "relaxing": 7,
     "remake": 1,
     "retro": 79,
+    "rhythm game": 1,
     "robots": 2,
     "roguelike": 5,
     "roguelite": 29,
     "role-playing": 2,
+    "role-playing game": 1,
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
@@ -1669,7 +1676,7 @@
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 19,
+    "story-rich": 20,
     "strategy": 6,
     "superhero": 1,
     "surreal": 4,
@@ -1880,7 +1887,7 @@
       "2026-10-13T00:00:00.000Z": 11,
       "2026-10-14T00:00:00.000Z": 5,
       "2026-10-15T00:00:00.000Z": 3,
-      "2026-10-16T00:00:00.000Z": 5
+      "2026-10-16T00:00:00.000Z": 8
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1888,7 +1895,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 132
+      "2026-01-01T00:00:00.000Z": 135
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1928,7 +1935,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 44
+      "2026-10-01T00:00:00.000Z": 47
     }
   },
   "Year": {
@@ -1956,17 +1963,17 @@
     "2012": 21,
     "2013": 19,
     "2014": 19,
-    "2015": 24,
+    "2015": 25,
     "2016": 36,
     "2017": 30,
     "2018": 32,
     "2019": 36,
     "2020": 35,
-    "2021": 53,
+    "2021": 54,
     "2022": 52,
     "2023": 44,
     "2024": 57,
     "2025": 29,
-    "2026": 29
+    "2026": 30
   }
 }

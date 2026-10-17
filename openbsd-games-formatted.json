@@ -541,6 +541,41 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Remedy Entertainment",
+    "Engine": "",
+    "Game": "Alan Wake Remastered",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "may need Epic games services, e.g. via rare launcher",
+    "Id": "672",
+    "IgdbId": "167611",
+    "Pub": "Epic Games Publishing",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/alan-wake-remastered"
+    ],
+    "Tags": [
+      "action",
+      "atmospheric",
+      "cerebral",
+      "dark",
+      "horror",
+      "mystery"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-06-11T00:00:00.000Z",
     "Dev": "Florent Espanet, Lea Espanet",
     "Engine": "HashLink",
@@ -3825,6 +3860,40 @@
     "Updated": "2025-04-30T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Brace Yourself Games",
+    "Engine": "",
+    "Game": "Crypt of the NecroDancer",
+    "Genre": [
+      "Rhythm Roguelite"
+    ],
+    "Hints": "you need to run NecroDancer64/NecroDancer.exe from within it's directory",
+    "Id": "673",
+    "IgdbId": "7886",
+    "Pub": "Brace Yourself Games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/crypt_of_the_necrodancer"
+    ],
+    "Tags": [
+      "fantasy",
+      "indie",
+      "pixelart",
+      "rhythm game",
+      "role-playing game"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -18491,6 +18560,40 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2013-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "CD PROJEKT RED",
+    "Engine": "",
+    "Game": "The Witcher 3: Wild Hunt - Remastered",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "D3D12 - use VKD3D-proton; cd bin/x64_dx12 && wine witcher3.exe",
+    "Id": "674",
+    "IgdbId": "415005",
+    "Pub": "CD PROJEKT RED",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "classic",
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
   },
   {
     "Added": "2022-09-07T00:00:00.000Z",
