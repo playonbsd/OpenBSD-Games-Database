@@ -12057,3 +12057,21 @@ Status	1 (2026-10-16)
 Added	2026-10-16
 Updated	2026-10-16
 IgdbId	119259
+
+Game	Vampire Survivors
+Id	671
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/vampire-survivors-f699a1
+Hints	may need Epic games services, e.g. via rare launcher
+Genre	Bullet Heaven
+Tags	action, roguelite
+Year	2022
+Dev	Poncle Limited
+Pub	Poncle Limited
+Version
+Status	1 (2026-10-16)
+Added	2026-10-16
+Updated	2026-10-16
+IgdbId	186725

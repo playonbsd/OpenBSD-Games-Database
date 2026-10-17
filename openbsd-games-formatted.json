@@ -19738,6 +19738,37 @@
     "Year": "2026-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Poncle Limited",
+    "Engine": "",
+    "Game": "Vampire Survivors",
+    "Genre": [
+      "Bullet Heaven"
+    ],
+    "Hints": "may need Epic games services, e.g. via rare launcher",
+    "Id": "671",
+    "IgdbId": "186725",
+    "Pub": "Poncle Limited",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/vampire-survivors-f699a1"
+    ],
+    "Tags": [
+      "action",
+      "roguelite"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-07-14T00:00:00.000Z",
     "Dev": "SoMoGa Inc., SIMS Co. Ltd.",
     "Engine": "FNA",
