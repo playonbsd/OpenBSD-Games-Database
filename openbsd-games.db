@@ -12129,3 +12129,21 @@ Status	1 (2026-10-16)
 Added	2026-10-16
 Updated	2026-10-16
 IgdbId	415005
+
+Game	Middle-earth: Shadow of Mordor Game of the Year Edition
+Id	675
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/middleearth_shadow_of_mordor
+Hints
+Genre	Action Adventure
+Tags	fantasy, story-rich
+Year	2014
+Dev	Monolith Productions
+Pub	Warner Bros. Interactive Entertainment
+Version
+Status	1 (2026-10-16)
+Added	2026-10-16
+Updated	2026-10-16
+IgdbId	25773

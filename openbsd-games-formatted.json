@@ -11214,6 +11214,37 @@
     "Year": "2017-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-16T00:00:00.000Z",
+    "Dev": "Monolith Productions",
+    "Engine": "",
+    "Game": "Middle-earth: Shadow of Mordor Game of the Year Edition",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "675",
+    "IgdbId": "25773",
+    "Pub": "Warner Bros. Interactive Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-16T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/middleearth_shadow_of_mordor"
+    ],
+    "Tags": [
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-10-16T00:00:00.000Z",
+    "Version": "",
+    "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-09-30T00:00:00.000Z",
     "Dev": "Caffinate",
     "Engine": "GameMaker",
