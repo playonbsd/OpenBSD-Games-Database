@@ -12147,3 +12147,21 @@ Status	1 (2026-10-16)
 Added	2026-10-16
 Updated	2026-10-16
 IgdbId	25773
+
+Game	Batman - The Telltale Series
+Id	676
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/batman_a_telltale_game_series
+Hints
+Genre	Action Adventure
+Tags	superhero, detective mystery
+Year	2016
+Dev	Telltale
+Pub	Telltale
+Version
+Status	1 (2026-10-17)
+Added	2026-10-17
+Updated	2026-10-17
+IgdbId	14746

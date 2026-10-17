@@ -1683,6 +1683,37 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-17T00:00:00.000Z",
+    "Dev": "Telltale",
+    "Engine": "",
+    "Game": "Batman - The Telltale Series",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "676",
+    "IgdbId": "14746",
+    "Pub": "Telltale",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/batman_a_telltale_game_series"
+    ],
+    "Tags": [
+      "detective mystery",
+      "superhero"
+    ],
+    "Updated": "2026-10-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-13T00:00:00.000Z",
     "Dev": "Rocksteady Studios",
     "Engine": "",
