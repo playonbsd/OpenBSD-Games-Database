@@ -12117,7 +12117,7 @@ Id	674
 Engine
 Setup
 Runtime	wine
-Store	https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition
+Store	https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt__Remastered/ https://store.epicgames.com/p/the-witcher-3-wild-hunt https://www.humblebundle.com/store/the-witcher-3-wild-hunt
 Hints	D3D12 - use VKD3D-proton; cd bin/x64_dx12 && wine witcher3.exe
 Genre	RPG
 Tags	fantasy, classic, story-rich, atmospheric, adventure

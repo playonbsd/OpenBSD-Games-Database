@@ -18582,7 +18582,10 @@
       "StatusText": "launches"
     },
     "Store": [
-      "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition"
+      "https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition",
+      "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt__Remastered/",
+      "https://store.epicgames.com/p/the-witcher-3-wild-hunt",
+      "https://www.humblebundle.com/store/the-witcher-3-wild-hunt"
     ],
     "Tags": [
       "adventure",
