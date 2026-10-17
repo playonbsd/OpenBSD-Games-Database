@@ -5532,6 +5532,38 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-17T00:00:00.000Z",
+    "Dev": "id Software",
+    "Engine": "",
+    "Game": "Doom (2016)",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "run DOOMx64vk.exe with wine (needs vulkan support)",
+    "Id": "679",
+    "IgdbId": "7351",
+    "Pub": "Bethesda Softworks LLC",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/doom_2016"
+    ],
+    "Tags": [
+      "action",
+      "scifi",
+      "shooter"
+    ],
+    "Updated": "2026-10-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -18661,6 +18693,39 @@
     "Year": "2026-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-17T00:00:00.000Z",
+    "Dev": "Thekla, Inc.",
+    "Engine": "",
+    "Game": "The Witness",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "run the 64-bit executable in wine (witness64_d3d11.exe)",
+    "Id": "678",
+    "IgdbId": "5601",
+    "Pub": "Thekla, Inc.",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/the-witness"
+    ],
+    "Tags": [
+      "adventure",
+      "classic",
+      "first-person",
+      "indie"
+    ],
+    "Updated": "2026-10-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2022-09-07T00:00:00.000Z",
     "Dev": "Zachtronics",
     "Engine": "Mono",
@@ -20534,6 +20599,39 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-17T00:00:00.000Z",
+    "Dev": "2D Boy",
+    "Engine": "",
+    "Game": "World of Goo",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "677",
+    "IgdbId": "942",
+    "Pub": "2D Boy",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-17T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/world-of-goo"
+    ],
+    "Tags": [
+      "adventure",
+      "colourful",
+      "cute",
+      "indie"
+    ],
+    "Updated": "2026-10-17T00:00:00.000Z",
+    "Version": "",
+    "Year": "2008-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

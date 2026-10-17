@@ -12165,3 +12165,57 @@ Status	1 (2026-10-17)
 Added	2026-10-17
 Updated	2026-10-17
 IgdbId	14746
+
+Game	World of Goo
+Id	677
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/world-of-goo
+Hints
+Genre	Puzzle Game
+Tags	adventure, indie, cute, colourful
+Year	2008
+Dev	2D Boy
+Pub	2D Boy
+Version
+Status	1 (2026-10-17)
+Added	2026-10-17
+Updated	2026-10-17
+IgdbId	942
+
+Game	The Witness
+Id	678
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/the-witness
+Hints	run the 64-bit executable in wine (witness64_d3d11.exe)
+Genre	Puzzle Game
+Tags	adventure, indie, classic, first-person
+Year	2016
+Dev	Thekla, Inc.
+Pub	Thekla, Inc.
+Version
+Status	1 (2026-10-17)
+Added	2026-10-17
+Updated	2026-10-17
+IgdbId	5601
+
+Game	Doom (2016)
+Id	679
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/doom_2016
+Hints	run DOOMx64vk.exe with wine (needs vulkan support)
+Genre	FPS
+Tags	action, scifi, shooter
+Year	2016
+Dev	id Software
+Pub	Bethesda Softworks LLC
+Version
+Status	1 (2026-10-17)
+Added	2026-10-17
+Updated	2026-10-17
+IgdbId	7351
