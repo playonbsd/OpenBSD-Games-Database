@@ -12219,3 +12219,57 @@ Status	1 (2026-10-17)
 Added	2026-10-17
 Updated	2026-10-17
 IgdbId	7351
+
+Game	DOOM 64
+Id	680
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/doom-64
+Hints
+Genre	FPS
+Tags	action, scifi, shooter
+Year	2020
+Dev	id Software / Nightdive Studios
+Pub	Bethesda Softworks
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	224522
+
+Game	Warhammer 40,000: Rogue Trader
+Id	681
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/warhammer_40000_rogue_trader
+Hints
+Genre	Role-playing
+Tags	tactical, turn-based, fantasy, sci-fi, story-rich
+Year	2023
+Dev	Owlcat Games
+Pub	Owlcat Games
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	203259
+
+Game	Cat Quest
+Id	682
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/cat-quest-8373e0
+Hints
+Genre	Action Adventure
+Tags	feline, colourful, casual, RPG
+Year	2017
+Dev	The Gentlebros
+Pub	Kepler Interactive
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	36597

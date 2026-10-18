@@ -201,7 +201,8 @@
       "2026-10-14T00:00:00.000Z": 4,
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
-      "2026-10-17T00:00:00.000Z": 4
+      "2026-10-17T00:00:00.000Z": 4,
+      "2026-10-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -210,7 +211,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 134
+      "2026-01-01T00:00:00.000Z": 137
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -263,7 +264,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 52
+      "2026-10-01T00:00:00.000Z": 55
     }
   },
   "Engine": {
@@ -1007,7 +1008,10 @@
     "Batman - The Telltale Series",
     "World of Goo",
     "The Witness",
-    "Doom (2016)"
+    "Doom (2016)",
+    "DOOM 64",
+    "Warhammer 40,000: Rogue Trader",
+    "Cat Quest"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1015,7 +1019,7 @@
     "3D Platformer": 4,
     "6DOF Shooter": 1,
     "Action": 48,
-    "Action Adventure": 15,
+    "Action Adventure": 16,
     "Action Platformer": 18,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1045,7 +1049,7 @@
     "Exploration": 1,
     "Extraction Shooter": 1,
     "FMV": 1,
-    "FPS": 39,
+    "FPS": 40,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 3,
@@ -1091,6 +1095,7 @@
     "Roguelite": 5,
     "Roguelite Deckbuilder": 1,
     "Roguelite RPG": 1,
+    "Role-playing": 1,
     "Sandbox": 2,
     "Shmup": 1,
     "Shoot'Em Up": 2,
@@ -1383,19 +1388,20 @@
       "2026-10-14T00:00:00.000Z": 4,
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
-      "2026-10-17T00:00:00.000Z": 4
+      "2026-10-17T00:00:00.000Z": 4,
+      "2026-10-18T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 487,
+      "launches": 490,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 487,
+      "1": 490,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1415,7 +1421,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 13,
+    "https://store.epicgames.com/": 15,
     "https://store.steampowered.com/": 541,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1423,7 +1429,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 198,
+    "https://www.gog.com/": 199,
     "https://www.humblebundle.com/": 76,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1447,13 +1453,13 @@
     "Lovecraftian": 6,
     "NSFW": 1,
     "ROM": 4,
-    "RPG": 6,
+    "RPG": 7,
     "Sokoban-style": 1,
     "Tetris-like": 1,
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 26,
+    "action": 27,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 20,
@@ -1485,7 +1491,7 @@
     "cards": 1,
     "cartoon": 4,
     "cartoony": 1,
-    "casual": 27,
+    "casual": 28,
     "cat": 1,
     "cats": 7,
     "cellshade": 1,
@@ -1500,7 +1506,7 @@
     "collection": 1,
     "colorful": 6,
     "colors": 1,
-    "colourful": 3,
+    "colourful": 4,
     "comedy": 9,
     "conspiracy": 2,
     "cozy": 2,
@@ -1535,10 +1541,11 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 28,
+    "fantasy": 29,
     "farming": 1,
     "fast": 1,
     "fast-paced": 1,
+    "feline": 1,
     "female protagonist": 6,
     "fighting": 1,
     "first person": 1,
@@ -1663,11 +1670,11 @@
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
-    "sci-fi": 4,
-    "scifi": 19,
+    "sci-fi": 5,
+    "scifi": 20,
     "settlers": 1,
     "shoot'em'up": 1,
-    "shooter": 5,
+    "shooter": 6,
     "short": 3,
     "side scroller": 1,
     "sidescroller": 1,
@@ -1684,12 +1691,13 @@
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 21,
+    "story-rich": 22,
     "strategy": 6,
     "superhero": 2,
     "surreal": 4,
     "survival": 6,
     "survivors-like": 1,
+    "tactical": 1,
     "tactics": 1,
     "tank controls": 1,
     "text-based": 1,
@@ -1698,7 +1706,7 @@
     "timer": 2,
     "top-down": 4,
     "touhou": 1,
-    "turn-based": 12,
+    "turn-based": 13,
     "turn-based tactics": 1,
     "underwater": 1,
     "urban": 1,
@@ -1896,7 +1904,8 @@
       "2026-10-14T00:00:00.000Z": 5,
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
-      "2026-10-17T00:00:00.000Z": 4
+      "2026-10-17T00:00:00.000Z": 4,
+      "2026-10-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1904,7 +1913,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 140
+      "2026-01-01T00:00:00.000Z": 143
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1944,7 +1953,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 52
+      "2026-10-01T00:00:00.000Z": 55
     }
   },
   "Year": {
@@ -1975,13 +1984,13 @@
     "2014": 20,
     "2015": 25,
     "2016": 39,
-    "2017": 30,
+    "2017": 31,
     "2018": 32,
     "2019": 36,
-    "2020": 35,
+    "2020": 36,
     "2021": 54,
     "2022": 52,
-    "2023": 44,
+    "2023": 45,
     "2024": 57,
     "2025": 29,
     "2026": 30
