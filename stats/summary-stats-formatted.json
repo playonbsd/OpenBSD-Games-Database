@@ -202,7 +202,7 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 3
+      "2026-10-18T00:00:00.000Z": 8
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -211,7 +211,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 137
+      "2026-01-01T00:00:00.000Z": 142
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -264,7 +264,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 55
+      "2026-10-01T00:00:00.000Z": 60
     }
   },
   "Engine": {
@@ -1011,7 +1011,12 @@
     "Doom (2016)",
     "DOOM 64",
     "Warhammer 40,000: Rogue Trader",
-    "Cat Quest"
+    "Cat Quest",
+    "Gloomhaven",
+    "Monument Valley: Panoramic Ediition",
+    "Redout: Enhanced Edition",
+    "Songs of Silence",
+    "Shadow of the Tomb Raider: Definitive Edition"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1019,7 +1024,7 @@
     "3D Platformer": 4,
     "6DOF Shooter": 1,
     "Action": 48,
-    "Action Adventure": 16,
+    "Action Adventure": 17,
     "Action Platformer": 18,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1080,12 +1085,12 @@
     "Programming Puzzle": 1,
     "Puzzle": 51,
     "Puzzle Adventure": 1,
-    "Puzzle Game": 10,
+    "Puzzle Game": 11,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
     "RPG": 39,
     "RTS": 13,
-    "Racing": 2,
+    "Racing": 3,
     "Real-time strategy": 1,
     "Rhythm Game": 3,
     "Rhythm Roguelite": 1,
@@ -1122,7 +1127,7 @@
     "Tower Defense": 4,
     "Turn-Based Strategy": 3,
     "Turn-Based Tactics": 16,
-    "Turn-based Strategy": 1,
+    "Turn-based Strategy": 3,
     "Twin-Stick Shooter": 6,
     "Typing Game": 1,
     "Visual Novel": 4,
@@ -1389,19 +1394,19 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 3
+      "2026-10-18T00:00:00.000Z": 8
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 490,
+      "launches": 495,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 490,
+      "1": 495,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1421,7 +1426,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 15,
+    "https://store.epicgames.com/": 20,
     "https://store.steampowered.com/": 541,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1447,6 +1452,7 @@
     "80s": 1,
     "90s": 1,
     "Castlevania-like": 1,
+    "Escher": 1,
     "FPS": 1,
     "JRPG": 3,
     "LGBTQ": 1,
@@ -1459,7 +1465,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 27,
+    "action": 28,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 20,
@@ -1472,6 +1478,7 @@
     "ascii": 1,
     "assassins": 1,
     "atmospheric": 13,
+    "atmostpheric": 1,
     "autobattler": 2,
     "automation": 3,
     "award-winning": 2,
@@ -1491,7 +1498,7 @@
     "cards": 1,
     "cartoon": 4,
     "cartoony": 1,
-    "casual": 28,
+    "casual": 29,
     "cat": 1,
     "cats": 7,
     "cellshade": 1,
@@ -1541,9 +1548,9 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 29,
+    "fantasy": 31,
     "farming": 1,
-    "fast": 1,
+    "fast": 2,
     "fast-paced": 1,
     "feline": 1,
     "female protagonist": 6,
@@ -1555,6 +1562,7 @@
     "freeware": 2,
     "funny": 2,
     "furry": 2,
+    "futuristic": 1,
     "gambling": 2,
     "genre-defining": 2,
     "ghosts": 1,
@@ -1578,7 +1586,7 @@
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 352,
+    "indie": 353,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1595,12 +1603,13 @@
     "massive": 1,
     "match three": 1,
     "medieval": 3,
+    "meditative": 1,
     "megaman-inspired": 1,
     "megaman-like": 1,
     "metroidvania": 5,
     "military": 2,
     "mind-bending": 1,
-    "minimalist": 21,
+    "minimalist": 22,
     "mining": 2,
     "monochrome": 1,
     "monster": 1,
@@ -1697,7 +1706,7 @@
     "surreal": 4,
     "survival": 6,
     "survivors-like": 1,
-    "tactical": 1,
+    "tactical": 2,
     "tactics": 1,
     "tank controls": 1,
     "text-based": 1,
@@ -1905,7 +1914,7 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 3
+      "2026-10-18T00:00:00.000Z": 8
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1913,7 +1922,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 143
+      "2026-01-01T00:00:00.000Z": 148
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1953,7 +1962,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 55
+      "2026-10-01T00:00:00.000Z": 60
     }
   },
   "Year": {
@@ -1983,15 +1992,15 @@
     "2013": 19,
     "2014": 20,
     "2015": 25,
-    "2016": 39,
+    "2016": 40,
     "2017": 31,
-    "2018": 32,
+    "2018": 33,
     "2019": 36,
     "2020": 36,
-    "2021": 54,
-    "2022": 52,
+    "2021": 55,
+    "2022": 53,
     "2023": 45,
-    "2024": 57,
+    "2024": 58,
     "2025": 29,
     "2026": 30
   }

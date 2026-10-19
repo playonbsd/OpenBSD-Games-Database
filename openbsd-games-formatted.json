@@ -7620,6 +7620,37 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-18T00:00:00.000Z",
+    "Dev": "Flaming Fowl Studios, and Saber Interactive Minsk",
+    "Engine": "",
+    "Game": "Gloomhaven",
+    "Genre": [
+      "Turn-based Strategy"
+    ],
+    "Hints": "",
+    "Id": "683",
+    "IgdbId": "106803",
+    "Pub": "Twin Sails Interactive",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/gloomhaven-92f741"
+    ],
+    "Tags": [
+      "fantasy",
+      "tactical"
+    ],
+    "Updated": "2026-10-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2021-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-13T00:00:00.000Z",
     "Dev": "Blacklight Interactive",
     "Engine": "",
@@ -11597,6 +11628,39 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-18T00:00:00.000Z",
+    "Dev": "ustwo games",
+    "Engine": "",
+    "Game": "Monument Valley: Panoramic Ediition",
+    "Genre": [
+      "Puzzle Game"
+    ],
+    "Hints": "",
+    "Id": "684",
+    "IgdbId": "203331",
+    "Pub": "ustwo games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/monument-valley-1d99d3"
+    ],
+    "Tags": [
+      "Escher",
+      "casual",
+      "meditative",
+      "minimalist"
+    ],
+    "Updated": "2026-10-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-09-30T00:00:00.000Z",
     "Dev": "terarin",
     "Engine": "GameMaker",
@@ -13834,6 +13898,37 @@
     "Year": "2022-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-18T00:00:00.000Z",
+    "Dev": "34BigThings SRL",
+    "Engine": "",
+    "Game": "Redout: Enhanced Edition",
+    "Genre": [
+      "Racing"
+    ],
+    "Hints": "",
+    "Id": "685",
+    "IgdbId": "31598",
+    "Pub": "34BigThings SRL",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/redout-enhanced-edition"
+    ],
+    "Tags": [
+      "fast",
+      "futuristic"
+    ],
+    "Updated": "2026-10-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-12T00:00:00.000Z",
     "Dev": "Nerial",
     "Engine": "Unity",
@@ -14952,6 +15047,37 @@
     "Year": "1997-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-18T00:00:00.000Z",
+    "Dev": "Eidos Montreal, Crystal Dynamics, Nixxes Software",
+    "Engine": "",
+    "Game": "Shadow of the Tomb Raider: Definitive Edition",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "687",
+    "IgdbId": "123051",
+    "Pub": "Crystal Dynamics",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/shadow-of-the-tomb-raider"
+    ],
+    "Tags": [
+      "action",
+      "atmostpheric"
+    ],
+    "Updated": "2026-10-18T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-10-09T00:00:00.000Z",
     "Dev": "manadream",
     "Engine": "Love2D",
@@ -15732,6 +15858,37 @@
     ],
     "Updated": "2024-10-28T00:00:00.000Z",
     "Version": "1.5",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-18T00:00:00.000Z",
+    "Dev": "Chimera Entertainment GmbH",
+    "Engine": "",
+    "Game": "Songs of Silence",
+    "Genre": [
+      "Turn-based Strategy"
+    ],
+    "Hints": "",
+    "Id": "686",
+    "IgdbId": "238460",
+    "Pub": "Chimera Entertainment GmbH",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-18T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/songs-of-silence-778d86"
+    ],
+    "Tags": [
+      "fantasy",
+      "indie"
+    ],
+    "Updated": "2026-10-18T00:00:00.000Z",
+    "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {

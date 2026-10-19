@@ -12273,3 +12273,93 @@ Status	1 (2026-10-18)
 Added	2026-10-18
 Updated	2026-10-18
 IgdbId	36597
+
+Game	Gloomhaven
+Id	683
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/gloomhaven-92f741
+Hints
+Genre	Turn-based Strategy
+Tags	fantasy, tactical
+Year	2021
+Dev	Flaming Fowl Studios, and Saber Interactive Minsk
+Pub	Twin Sails Interactive
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	106803
+
+Game	Monument Valley: Panoramic Ediition
+Id	684
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/monument-valley-1d99d3
+Hints
+Genre	Puzzle Game
+Tags	minimalist, Escher, meditative, casual
+Year	2022
+Dev	ustwo games
+Pub	ustwo games
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	203331
+
+Game	Redout: Enhanced Edition
+Id	685
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/redout-enhanced-edition
+Hints
+Genre	Racing
+Tags	fast, futuristic
+Year	2016
+Dev	34BigThings SRL
+Pub	34BigThings SRL
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	31598
+
+Game	Songs of Silence
+Id	686
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/songs-of-silence-778d86
+Hints
+Genre	Turn-based Strategy
+Tags	fantasy, indie
+Year	2024
+Dev	Chimera Entertainment GmbH
+Pub	Chimera Entertainment GmbH
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	238460
+
+Game	Shadow of the Tomb Raider: Definitive Edition
+Id	687
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/shadow-of-the-tomb-raider
+Hints
+Genre	Action Adventure
+Tags	action, atmostpheric
+Year	2018
+Dev	Eidos Montreal, Crystal Dynamics, Nixxes Software
+Pub	Crystal Dynamics
+Version
+Status	1 (2026-10-18)
+Added	2026-10-18
+Updated	2026-10-18
+IgdbId	123051
