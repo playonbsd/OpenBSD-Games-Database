@@ -12370,7 +12370,7 @@ Engine
 Setup
 Runtime	wine
 Store	https://www.gog.com/en/game/middleearth_shadow_of_war
-Hints
+Hints	needs file mfc140u.dll in directory x64/; get it from vc_redist.x64.exe or via winetricks
 Genre	Action Adventure
 Tags	action, role-playing, fantasy, story-rich, violent, gore
 Year	2017
@@ -12388,7 +12388,7 @@ Engine
 Setup
 Runtime	wine
 Store	https://store.steampowered.com/app/359320/Elite_Dangerous/
-Hints
+Hints	FYI needs user to sign up for Frontier account
 Genre	Space Sim
 Tags	space, scifi, openworld, exploration
 Year	2015
