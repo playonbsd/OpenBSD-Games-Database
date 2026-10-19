@@ -202,7 +202,8 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 8
+      "2026-10-18T00:00:00.000Z": 8,
+      "2026-10-19T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -211,7 +212,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 142
+      "2026-01-01T00:00:00.000Z": 144
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -264,7 +265,7 @@
       "2026-07-01T00:00:00.000Z": 7,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
-      "2026-10-01T00:00:00.000Z": 60
+      "2026-10-01T00:00:00.000Z": 62
     }
   },
   "Engine": {
@@ -1016,7 +1017,9 @@
     "Monument Valley: Panoramic Ediition",
     "Redout: Enhanced Edition",
     "Songs of Silence",
-    "Shadow of the Tomb Raider: Definitive Edition"
+    "Shadow of the Tomb Raider: Definitive Edition",
+    "Middle-earth: Shadow of War",
+    "Elite Dangerous"
   ],
   "Genre": {
     "2D Platformer": 1,
@@ -1024,7 +1027,7 @@
     "3D Platformer": 4,
     "6DOF Shooter": 1,
     "Action": 48,
-    "Action Adventure": 17,
+    "Action Adventure": 18,
     "Action Platformer": 18,
     "Action RPG": 11,
     "Action Roguelike": 13,
@@ -1111,6 +1114,7 @@
     "Simulation": 12,
     "Slotmachine Game": 1,
     "Space Exploration": 1,
+    "Space Sim": 1,
     "Spacesim": 1,
     "Sports": 1,
     "Sports Simulation": 1,
@@ -1394,19 +1398,20 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 8
+      "2026-10-18T00:00:00.000Z": 8,
+      "2026-10-19T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 495,
+      "launches": 497,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 495,
+      "1": 497,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1427,14 +1432,14 @@
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
     "https://store.epicgames.com/": 20,
-    "https://store.steampowered.com/": 541,
+    "https://store.steampowered.com/": 542,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
     "https://www.amazon.com/": 1,
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 199,
+    "https://www.gog.com/": 200,
     "https://www.humblebundle.com/": 76,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1465,7 +1470,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 28,
+    "action": 29,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 20,
@@ -1544,11 +1549,11 @@
     "early access": 28,
     "educational": 1,
     "engineering": 1,
-    "exploration": 15,
+    "exploration": 16,
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 31,
+    "fantasy": 32,
     "farming": 1,
     "fast": 2,
     "fast-paced": 1,
@@ -1566,7 +1571,7 @@
     "gambling": 2,
     "genre-defining": 2,
     "ghosts": 1,
-    "gore": 12,
+    "gore": 13,
     "gothic": 3,
     "graphical violence": 1,
     "guns": 1,
@@ -1632,7 +1637,7 @@
     "open world": 4,
     "open-source": 3,
     "open-source engine": 2,
-    "openworld": 1,
+    "openworld": 2,
     "over-the-top": 1,
     "parkour": 1,
     "philosophical": 1,
@@ -1674,13 +1679,13 @@
     "robots": 2,
     "roguelike": 5,
     "roguelite": 29,
-    "role-playing": 2,
+    "role-playing": 3,
     "role-playing game": 1,
     "rpg": 3,
     "running": 1,
     "sandbox": 1,
     "sci-fi": 5,
-    "scifi": 20,
+    "scifi": 21,
     "settlers": 1,
     "shoot'em'up": 1,
     "shooter": 6,
@@ -1694,13 +1699,13 @@
     "sokoban-style": 2,
     "souls-like": 4,
     "soviet": 1,
-    "space": 21,
+    "space": 22,
     "splitscreen": 1,
     "spooky": 2,
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 22,
+    "story-rich": 23,
     "strategy": 6,
     "superhero": 2,
     "surreal": 4,
@@ -1726,7 +1731,7 @@
     "viking": 1,
     "villain protagonist": 1,
     "violence": 1,
-    "violent": 1,
+    "violent": 2,
     "visual novel": 1,
     "voodoo": 1,
     "voxel": 3,
@@ -1914,7 +1919,8 @@
       "2026-10-15T00:00:00.000Z": 3,
       "2026-10-16T00:00:00.000Z": 9,
       "2026-10-17T00:00:00.000Z": 4,
-      "2026-10-18T00:00:00.000Z": 8
+      "2026-10-18T00:00:00.000Z": 8,
+      "2026-10-19T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1922,7 +1928,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 148
+      "2026-01-01T00:00:00.000Z": 150
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1962,7 +1968,7 @@
       "2026-07-01T00:00:00.000Z": 10,
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
-      "2026-10-01T00:00:00.000Z": 60
+      "2026-10-01T00:00:00.000Z": 62
     }
   },
   "Year": {
@@ -1991,9 +1997,9 @@
     "2012": 21,
     "2013": 19,
     "2014": 20,
-    "2015": 25,
+    "2015": 26,
     "2016": 40,
-    "2017": 31,
+    "2017": 32,
     "2018": 33,
     "2019": 36,
     "2020": 36,

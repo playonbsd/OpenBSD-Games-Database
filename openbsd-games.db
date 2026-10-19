@@ -12363,3 +12363,39 @@ Status	1 (2026-10-18)
 Added	2026-10-18
 Updated	2026-10-18
 IgdbId	123051
+
+Game	Middle-earth: Shadow of War
+Id	688
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/middleearth_shadow_of_war
+Hints
+Genre	Action Adventure
+Tags	action, role-playing, fantasy, story-rich, violent, gore
+Year	2017
+Dev	Monolith Productions
+Pub	WB Games
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	27421
+
+Game	Elite Dangerous
+Id	689
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/359320/Elite_Dangerous/
+Hints
+Genre	Space Sim
+Tags	space, scifi, openworld, exploration
+Year	2015
+Dev	Frontier Developments
+Pub	Frontier Developments
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	2955
