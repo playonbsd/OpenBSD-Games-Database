@@ -12047,7 +12047,7 @@ Setup
 Runtime	wine
 Store	https://www.gog.com/en/game/yookalaylee_and_the_impossible_lair
 Hints
-Genre	3D Platformer
+Genre	2.5D Platformer
 Tags	action, adventure, casual
 Year	2019
 Dev	Playtonic Games
@@ -12055,7 +12055,7 @@ Pub	Playtonic Friends
 Version
 Status	1 (2026-10-16)
 Added	2026-10-16
-Updated	2026-10-16
+Updated	2026-10-19
 IgdbId	119259
 
 Game	Vampire Survivors
