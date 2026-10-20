@@ -4054,6 +4054,40 @@
     "Year": "2011-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "Massive Monster",
+    "Engine": "",
+    "Game": "Cult of the Lamb",
+    "Genre": [
+      "Management"
+    ],
+    "Hints": "",
+    "Id": "691",
+    "IgdbId": "165351",
+    "Pub": "Devolver Digital",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/cult_of_the_lamb"
+    ],
+    "Tags": [
+      "action",
+      "adventure",
+      "fantasy",
+      "funny",
+      "roguelike"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-07-22T00:00:00.000Z",
     "Dev": "egordorichev",
     "Engine": "Love2D",
@@ -6194,7 +6228,7 @@
     "Genre": [
       "Space Sim"
     ],
-    "Hints": "",
+    "Hints": "FYI needs user to sign up for Frontier account",
     "Id": "689",
     "IgdbId": "2955",
     "Pub": "Frontier Developments",
@@ -7408,6 +7442,40 @@
     "Updated": "2024-09-27T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "11 bit studios",
+    "Engine": "",
+    "Game": "Frostpunk",
+    "Genre": [
+      "Colony Survival Simulation"
+    ],
+    "Hints": "",
+    "Id": "692",
+    "IgdbId": "23248",
+    "Pub": "11 bit studios",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/frostpunk"
+    ],
+    "Tags": [
+      "atmospheric",
+      "dark",
+      "indie",
+      "simulation",
+      "strategy"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-01-24T00:00:00.000Z",
@@ -10901,6 +10969,36 @@
     "Year": ""
   },
   {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "Slavic Magic",
+    "Engine": "",
+    "Game": "Manor Lords",
+    "Genre": [
+      "RTS"
+    ],
+    "Hints": "",
+    "Id": "693",
+    "IgdbId": "137206",
+    "Pub": "Hooded Horse",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/manor-lords-ef795f"
+    ],
+    "Tags": [
+      "city builder"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-07-22T00:00:00.000Z",
     "Dev": "Marvellous Soft",
     "Engine": "Love2D",
@@ -11444,7 +11542,7 @@
     "Genre": [
       "Action Adventure"
     ],
-    "Hints": "",
+    "Hints": "needs file mfc140u.dll in directory x64/; get it from vc_redist.x64.exe or via winetricks",
     "Id": "688",
     "IgdbId": "27421",
     "Pub": "WB Games",
@@ -13048,6 +13146,40 @@
     "Updated": "2025-12-27T00:00:00.000Z",
     "Version": "2.0.1",
     "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "Red Nexus Games Inc.",
+    "Engine": "",
+    "Game": "Peglin",
+    "Genre": [
+      "Roguelike Strategy"
+    ],
+    "Hints": "",
+    "Id": "694",
+    "IgdbId": "133512",
+    "Pub": "Red Nexus Games Inc., IndieArk",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/peglin"
+    ],
+    "Tags": [
+      "2d",
+      "fantasy",
+      "indie",
+      "strategy",
+      "turn-based"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -19203,6 +19335,40 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "Mechanistry",
+    "Engine": "",
+    "Game": "Timberborn",
+    "Genre": [
+      "City Building"
+    ],
+    "Hints": "",
+    "Id": "690",
+    "IgdbId": "126381",
+    "Pub": "Mechanistry",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/timberborn"
+    ],
+    "Tags": [
+      "management",
+      "sandbox",
+      "sci-fi",
+      "simulation",
+      "survival"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-09-25T00:00:00.000Z",
     "Dev": "Size Five Games",
     "Engine": "Adventure Game Studio",
@@ -20707,6 +20873,40 @@
     "Updated": "2026-05-30T00:00:00.000Z",
     "Version": "",
     "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-19T00:00:00.000Z",
+    "Dev": "Minakata Dynamics",
+    "Engine": "",
+    "Game": "Whiskerwood",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "695",
+    "IgdbId": "309324",
+    "Pub": "Hooded Horse",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-19T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/whiskerwood"
+    ],
+    "Tags": [
+      "historical",
+      "management",
+      "open-world",
+      "sandbox",
+      "strategy"
+    ],
+    "Updated": "2026-10-19T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-01-21T00:00:00.000Z",

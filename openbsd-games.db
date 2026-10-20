@@ -12399,3 +12399,111 @@ Status	1 (2026-10-19)
 Added	2026-10-19
 Updated	2026-10-19
 IgdbId	2955
+
+Game	Timberborn
+Id	690
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/timberborn
+Hints
+Genre	City Building
+Tags	survival, sci-fi, simulation, management, sandbox
+Year	2026
+Dev	Mechanistry
+Pub	Mechanistry
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	126381
+
+Game	Cult of the Lamb
+Id	691
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/cult_of_the_lamb
+Hints
+Genre	Management
+Tags	adventure, action, fantasy, funny, roguelike
+Year	2022
+Dev	Massive Monster
+Pub	Devolver Digital
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	165351
+
+Game	Frostpunk
+Id	692
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/frostpunk
+Hints
+Genre	Colony Survival Simulation
+Tags	indie, atmospheric, strategy, simulation, dark
+Year	2018
+Dev	11 bit studios
+Pub	11 bit studios
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	23248
+
+Game	Manor Lords
+Id	693
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/manor-lords-ef795f
+Hints
+Genre	RTS
+Tags	city builder
+Year	2024
+Dev	Slavic Magic
+Pub	Hooded Horse
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	137206
+
+Game	Peglin
+Id	694
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/peglin
+Hints
+Genre	Roguelike Strategy
+Tags	indie, fantasy, strategy, 2d, turn-based
+Year	2024
+Dev	Red Nexus Games Inc.
+Pub	Red Nexus Games Inc., IndieArk
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	133512
+
+Game	Whiskerwood
+Id	695
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/whiskerwood
+Hints
+Genre	Simulation
+Tags	historical, strategy, management, open-world, sandbox
+Year	2025
+Dev	Minakata Dynamics
+Pub	Hooded Horse
+Version
+Status	1 (2026-10-19)
+Added	2026-10-19
+Updated	2026-10-19
+IgdbId	309324
