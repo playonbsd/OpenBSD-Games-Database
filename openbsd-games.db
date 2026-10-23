@@ -12507,3 +12507,21 @@ Status	1 (2026-10-19)
 Added	2026-10-19
 Updated	2026-10-19
 IgdbId	309324
+
+Game	Dying Light: The Following - Enhanced Edition
+Id	696
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/dying_light_definitive_edition
+Hints
+Genre	Action
+Tags	zombies, story-rich, atmospheric, horror, first-person
+Year	2016
+Dev	Techland
+Pub	Techland
+Version
+Status	1 (2026-10-23)
+Added	2026-10-23
+Updated	2026-10-23
+IgdbId	21762

@@ -6126,6 +6126,40 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-23T00:00:00.000Z",
+    "Dev": "Techland",
+    "Engine": "",
+    "Game": "Dying Light: The Following - Enhanced Edition",
+    "Genre": [
+      "Action"
+    ],
+    "Hints": "",
+    "Id": "696",
+    "IgdbId": "21762",
+    "Pub": "Techland",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-23T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/dying_light_definitive_edition"
+    ],
+    "Tags": [
+      "atmospheric",
+      "first-person",
+      "horror",
+      "story-rich",
+      "zombies"
+    ],
+    "Updated": "2026-10-23T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Zachtronics",
     "Engine": "Mono",
@@ -21419,7 +21453,7 @@
     "Engine": "",
     "Game": "Yooka-Laylee and the Impossible Lair",
     "Genre": [
-      "3D Platformer"
+      "2.5D Platformer"
     ],
     "Hints": "",
     "Id": "670",
@@ -21441,7 +21475,7 @@
       "adventure",
       "casual"
     ],
-    "Updated": "2026-10-16T00:00:00.000Z",
+    "Updated": "2026-10-19T00:00:00.000Z",
     "Version": "",
     "Year": "2019-01-01T00:00:00.000Z"
   },
