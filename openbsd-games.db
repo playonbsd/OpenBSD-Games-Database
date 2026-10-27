@@ -12525,3 +12525,21 @@ Status	1 (2026-10-23)
 Added	2026-10-23
 Updated	2026-10-23
 IgdbId	21762
+
+Game	Zoombinis (2015)
+Id	697
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/397430/
+Hints
+Genre	Educational
+Tags	puzzle, strategy, tactics, logic
+Year	2015
+Dev	TERC
+Pub	Viva Media
+Version
+Status	1 (2026-10-26)
+Added	2026-10-26
+Updated	2026-10-26
+IgdbId	34591

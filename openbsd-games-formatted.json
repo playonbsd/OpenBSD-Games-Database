@@ -21697,6 +21697,39 @@
     "Year": "2010-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-26T00:00:00.000Z",
+    "Dev": "TERC",
+    "Engine": "",
+    "Game": "Zoombinis (2015)",
+    "Genre": [
+      "Educational"
+    ],
+    "Hints": "",
+    "Id": "697",
+    "IgdbId": "34591",
+    "Pub": "Viva Media",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-26T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/397430/"
+    ],
+    "Tags": [
+      "logic",
+      "puzzle",
+      "strategy",
+      "tactics"
+    ],
+    "Updated": "2026-10-26T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-07-22T00:00:00.000Z",
     "Dev": "Heartbeast",
     "Engine": "Godot",
