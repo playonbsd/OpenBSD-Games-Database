@@ -1,0 +1,228 @@
+<tr>
+  <td>536</td>
+  <td>Kaizen: A Factory Story</td>
+  <td></td>
+  <td>StatusDate: 2025-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://astralogicalgames.itch.io/kaizen-a-factory-story, https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>automation, indie, zach-like</td>
+  <td>Coincidence</td>
+  <td>Astra Logical</td>
+  <td>Mono</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>333883</td>
+</tr>
+<tr>
+  <td>204</td>
+  <td>Kathy Rain</td>
+  <td></td>
+  <td>StatusDate: 2021-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/kathy_rain, https://store.steampowered.com/app/370910</td>
+  <td>Director's Cut version not supported - it uses different, unsupported engine which shall not be named</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Clifftop Games</td>
+  <td>Raw Fury</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>18997</td>
+</tr>
+<tr>
+  <td>205</td>
+  <td>KeeperRL</td>
+  <td>1.0</td>
+  <td>StatusDate: 2024-03-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://miki151.itch.io/keeperrl, https://www.gog.com/en/game/keeperrl, https://store.steampowered.com/app/329970/KeeperRL/</td>
+  <td></td>
+  <td>Colony Sim</td>
+  <td>base-building, indie, tiles, villain protagonist</td>
+  <td>Electric Succubi</td>
+  <td>Electric Succubi</td>
+  <td>custom engine</td>
+  <td></td>
+  <td>keeper</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-03-01T00:00:00.000Z</td>
+  <td>2024-03-01T00:00:00.000Z</td>
+  <td>17968</td>
+</tr>
+<tr>
+  <td>609</td>
+  <td>King's Well</td>
+  <td>1.016</td>
+  <td>StatusDate: 2026-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/4332200/Kings_Well/</td>
+  <td></td>
+  <td>Roguelike Deckbuilder</td>
+  <td>cardgame, fantasy, indie</td>
+  <td>Fire Brick Games</td>
+  <td>Fire Brick Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>393931</td>
+</tr>
+<tr>
+  <td>454</td>
+  <td>Kitsune Tails</td>
+  <td></td>
+  <td>StatusDate: 2024-08-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://eniko.itch.io/kitsunetails, https://store.steampowered.com/app/1325260/Kitsune_Tails/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie, retro</td>
+  <td>Kitsune Games</td>
+  <td>Kitsune Games, MidBoss LLC</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-01T00:00:00.000Z</td>
+  <td>2024-08-01T00:00:00.000Z</td>
+  <td>142469</td>
+</tr>
+<tr>
+  <td>206</td>
+  <td>Kitsune Zero</td>
+  <td>1.2.0</td>
+  <td>StatusDate: 2022-09-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://eniko.itch.io/kitsunezero, https://store.steampowered.com/app/1947550/Kitsune_Zero__Super_Bernie_World/</td>
+  <td>force using FNA 19.3; easiest with IndieRunner rather than fnaify. Steam version sold as DLC for (free) Super Bernie World.</td>
+  <td>Platformer</td>
+  <td>political</td>
+  <td>Gamedevs for Bernie</td>
+  <td>Kitsune Games</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>IndieRunner</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-09-13T00:00:00.000Z</td>
+  <td>213714</td>
+</tr>
+<tr>
+  <td>207</td>
+  <td>Kitty Tactics</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1473820/Kitty_Tactics/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td></td>
+  <td>Ibe Denaux</td>
+  <td>Ibe Denaux</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>149510</td>
+</tr>
+<tr>
+  <td>461</td>
+  <td>Knight Runner: Blade and Bolt</td>
+  <td></td>
+  <td>StatusDate: 2024-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2942430/Knight_Runner_Blade_and_Bolt/</td>
+  <td></td>
+  <td>Action</td>
+  <td>indie</td>
+  <td>Barkitect</td>
+  <td>Barkitect</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-28T00:00:00.000Z</td>
+  <td>2024-08-06T00:00:00.000Z</td>
+  <td>301888</td>
+</tr>
+<tr>
+  <td>468</td>
+  <td>Knights of the Road</td>
+  <td></td>
+  <td>StatusDate: 2024-08-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2324390/Knights_of_the_Road/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>action, pixel graphics, retro</td>
+  <td>Shiny Byte Studio</td>
+  <td>Shiny Byte Studio</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-28T00:00:00.000Z</td>
+  <td>2024-08-17T00:00:00.000Z</td>
+  <td>243213</td>
+</tr>
+<tr>
+  <td>603</td>
+  <td>Knytt Classic</td>
+  <td>1.00a</td>
+  <td>StatusDate: 2026-08-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/knytt_classic, https://store.steampowered.com/app/2656050/Knytt_Classic/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>2D, exploration, freeware, indie</td>
+  <td>Bit Kid, Inc.</td>
+  <td>Bit Kid, Inc.</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-10T00:00:00.000Z</td>
+  <td>2026-08-10T00:00:00.000Z</td>
+  <td>412975</td>
+</tr>
+<tr>
+  <td>208</td>
+  <td>Kotel Ne Gori: A Friend of Lena Boots</td>
+  <td></td>
+  <td>StatusDate: 2021-12-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1325870/Kotel_Ne_Gori_A_Friend_of_Lena_Boots/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>psychedelic, weird</td>
+  <td>derevotyan</td>
+  <td>derevotyan</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-22T00:00:00.000Z</td>
+  <td>158324</td>
+</tr>
+<tr>
+  <td>518</td>
+  <td>knakk</td>
+  <td></td>
+  <td>StatusDate: 2025-01-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://raffomania.itch.io/knakk</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>free, indie, minimalist, open source, short</td>
+  <td>raffomania</td>
+  <td>raffomania</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td></td>
+</tr>

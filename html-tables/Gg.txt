@@ -1,0 +1,475 @@
+<tr>
+  <td>148</td>
+  <td>Gabriel Knight: Sins of the Fathers</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/gabriel_knight_sins_of_the_fathers, https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Sierra Entertainment</td>
+  <td></td>
+  <td>SCI2</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1250</td>
+</tr>
+<tr>
+  <td>149</td>
+  <td>Game Type</td>
+  <td></td>
+  <td>StatusText: doesn't launch</td>
+  <td>https://store.steampowered.com/app/373630/Game_Type/</td>
+  <td>currently defective</td>
+  <td></td>
+  <td></td>
+  <td>Mommy's Best Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35177</td>
+</tr>
+<tr>
+  <td>480</td>
+  <td>Game of Squares</td>
+  <td>1.2</td>
+  <td>StatusDate: 2024-09-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3088680/Game_of_Squares/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>casual, indie, logic</td>
+  <td>Kartik Narayanan</td>
+  <td>Kartik Narayanan</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>309946</td>
+</tr>
+<tr>
+  <td>150</td>
+  <td>Gateways</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/216290/Gateways/, https://www.gog.com/game/gateways</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Smudged Cat Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>13662</td>
+</tr>
+<tr>
+  <td>151</td>
+  <td>Gemini Rue</td>
+  <td></td>
+  <td>StatusDate: 2023-03-11T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/gemini_rue, https://store.steampowered.com/app/80310</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>indie</td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>2023-03-11T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>6325</td>
+</tr>
+<tr>
+  <td>152</td>
+  <td>Glitchangels</td>
+  <td>1.2.2</td>
+  <td>StatusDate: 2023-05-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://pumpkingames.itch.io/glitchangels, https://store.steampowered.com/app/1170300/Glitchangels/</td>
+  <td></td>
+  <td>Action</td>
+  <td></td>
+  <td>Pumpkin Games</td>
+  <td>Puppygames</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2025-06-23T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>127543</td>
+</tr>
+<tr>
+  <td>516</td>
+  <td>Globs</td>
+  <td>2.0.1</td>
+  <td>StatusDate: 2025-01-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://yolwoocle.itch.io/globs, https://store.steampowered.com/app/3219110/Globs/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>casual, colorful, indie</td>
+  <td>Ninesliced</td>
+  <td>Ninesliced</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>322758</td>
+</tr>
+<tr>
+  <td>683</td>
+  <td>Gloomhaven</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/gloomhaven-92f741</td>
+  <td></td>
+  <td>Turn-based Strategy</td>
+  <td>fantasy, tactical</td>
+  <td>Flaming Fowl Studios, and Saber Interactive Minsk</td>
+  <td>Twin Sails Interactive</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>106803</td>
+</tr>
+<tr>
+  <td>656</td>
+  <td>Golf With Your Friends</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/golf_with_your_friends</td>
+  <td></td>
+  <td>Sports Simulation</td>
+  <td>casual, funny, simulation</td>
+  <td>Blacklight Interactive</td>
+  <td>Team17</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>24985</td>
+</tr>
+<tr>
+  <td>477</td>
+  <td>Goliath Depot</td>
+  <td>1.013</td>
+  <td>StatusDate: 2024-09-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2479030/Goliath_Depot/</td>
+  <td></td>
+  <td>Arcade Platformer</td>
+  <td>indie, retro</td>
+  <td>Vidvad Games</td>
+  <td>Vidvad Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-09-07T00:00:00.000Z</td>
+  <td>2024-09-07T00:00:00.000Z</td>
+  <td>260432</td>
+</tr>
+<tr>
+  <td>154</td>
+  <td>Goop Loop</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1454550/Goop_Loop/</td>
+  <td></td>
+  <td>Physics</td>
+  <td>humor</td>
+  <td>Lone Wulf Studio LLC</td>
+  <td>Lone Wulf Studio LLC</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>141073</td>
+</tr>
+<tr>
+  <td>517</td>
+  <td>Gorgon Shield</td>
+  <td></td>
+  <td>StatusDate: 2025-01-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2446920/Gorgon_Shield/</td>
+  <td></td>
+  <td>Roguelite RPG</td>
+  <td>indie, real-time tactics</td>
+  <td>Whiskeybarrel Studios</td>
+  <td>2 Left Thumbs, Gamersky Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>259018</td>
+</tr>
+<tr>
+  <td>467</td>
+  <td>Gourdlets</td>
+  <td></td>
+  <td>StatusDate: 2024-08-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2013730/Gourdlets/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>cute, pixel art, sandbox</td>
+  <td>AuntyGames</td>
+  <td>Future Friends Games, AuntyGames</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-28T00:00:00.000Z</td>
+  <td>2024-08-15T00:00:00.000Z</td>
+  <td>226469</td>
+</tr>
+<tr>
+  <td>155</td>
+  <td>Grand Class Melee 2</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/340440/Grand_Class_Melee_2/</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Ogopogoid Entertainment</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>36014</td>
+</tr>
+<tr>
+  <td>614</td>
+  <td>Grandfather's Estate</td>
+  <td></td>
+  <td>StatusDate: 2026-09-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://notsospecialgames.itch.io/grandfathers-estate, https://store.steampowered.com/app/5235420/Grandfathers_Estate/</td>
+  <td></td>
+  <td>Survival Horror</td>
+  <td>first-person, horror, indie, zombies</td>
+  <td>notsospecialgames</td>
+  <td>notsospecialgames</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2026-09-24T00:00:00.000Z</td>
+  <td>2026-09-24T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>156</td>
+  <td>Gravity Ace</td>
+  <td></td>
+  <td>StatusDate: 2021-09-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1003860/Gravity_Ace/</td>
+  <td></td>
+  <td>Twin-Stick Shooter</td>
+  <td>early access</td>
+  <td>John Watson</td>
+  <td>John Watson</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>114912</td>
+</tr>
+<tr>
+  <td>157</td>
+  <td>Gravity Circuit</td>
+  <td>1.2.2</td>
+  <td>StatusDate: 2023-07-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/gravity_circuit, https://store.steampowered.com/app/858710/Gravity_Circuit/, https://store.epicgames.com/p/gravity-circuit-489baa</td>
+  <td>extract AppImage with 7zip, run with love-11, need to have package luasteam installed</td>
+  <td>Platformer</td>
+  <td>indie, megaman-inspired, retro</td>
+  <td>Domesticated Ant Games</td>
+  <td>PID Games</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2025-06-01T00:00:00.000Z</td>
+  <td>2023-07-16T00:00:00.000Z</td>
+  <td>106534</td>
+</tr>
+<tr>
+  <td>160</td>
+  <td>Grimm's Hollow</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://ghosthum.itch.io/grimms-hollow, https://store.steampowered.com/app/1170880/Grimms_Hollow/</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>ghosthunter</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>easyrpg</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>125110</td>
+</tr>
+<tr>
+  <td>161</td>
+  <td>Groov</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/1503430/Groov/</td>
+  <td></td>
+  <td>Action</td>
+  <td></td>
+  <td>Funkmasonry Industries</td>
+  <td>Metronomaton</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2009-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>69161</td>
+</tr>
+<tr>
+  <td>162</td>
+  <td>Groundskeeper 2</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/groundskeeper2</td>
+  <td></td>
+  <td>Action</td>
+  <td>indie, pixel art</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>22101</td>
+</tr>
+<tr>
+  <td>163</td>
+  <td>Growing Pains</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/291610/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Smudged Cat Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>17203</td>
+</tr>
+<tr>
+  <td>599</td>
+  <td>Guard Duty</td>
+  <td>1.2.0</td>
+  <td>StatusDate: 2026-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/guard_duty, https://store.steampowered.com/app/872750/Guard_Duty/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>comedy, fantasy, indie, pixelart, retro, sci-fi</td>
+  <td>Headware Games</td>
+  <td>Headware Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>6741</td>
+</tr>
+<tr>
+  <td>164</td>
+  <td>Gunslugs</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/gunslugs, https://store.steampowered.com/app/371890/Gunslugs/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>pixel art, retro</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>35187</td>
+</tr>
+<tr>
+  <td>165</td>
+  <td>Gunslugs 3: Rogue Tactics</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/gunslugs3, https://store.steampowered.com/app/1012360/Gunslugs_3Rogue_Tactics/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>pixel art, retro, roguelite, stealth</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>114017</td>
+</tr>
+<tr>
+  <td>550</td>
+  <td>Gurk in Trouble - A Yip Quest Story</td>
+  <td>1.0.0</td>
+  <td>StatusDate: 2026-01-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://ramoramainteractive.itch.io/gurk-in-trouble-a-yip-quest-story</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>cartoon, comedy, fantasy, free, indie</td>
+  <td>RamoramaInteractive</td>
+  <td>RamoramaInteractive</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-01-09T00:00:00.000Z</td>
+  <td>2026-01-09T00:00:00.000Z</td>
+  <td>318337</td>
+</tr>

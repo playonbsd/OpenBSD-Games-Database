@@ -1,0 +1,228 @@
+<tr>
+  <td>409</td>
+  <td>V-Hunter Puzzler Dx</td>
+  <td></td>
+  <td>StatusDate: 2023-05-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2225430/VHunter_Puzzler_Dx/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>Yatch Studios</td>
+  <td>Yatch Studios</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-05-15T00:00:00.000Z</td>
+  <td>2023-05-15T00:00:00.000Z</td>
+  <td>238714</td>
+</tr>
+<tr>
+  <td>620</td>
+  <td>Va-11 Hall-A: Cyberpunk Bartender Action</td>
+  <td></td>
+  <td>StatusDate: 2026-09-25T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.gog.com/en/game/va11_halla, https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/</td>
+  <td></td>
+  <td>Visual Novel</td>
+  <td>adventure, cyberpunk, indie, story-rich</td>
+  <td>Sukeban Games</td>
+  <td>Ysbryd Games, PLAYISM</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>15465</td>
+</tr>
+<tr>
+  <td>666</td>
+  <td>Valheim</td>
+  <td></td>
+  <td>StatusDate: 2026-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/892970/Valheim/</td>
+  <td></td>
+  <td>Open World Survival Craft</td>
+  <td>building, online co-op, open world</td>
+  <td>Iron Gate AB</td>
+  <td>Coffee Stain Publishing</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>104967</td>
+</tr>
+<tr>
+  <td>671</td>
+  <td>Vampire Survivors</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/vampire-survivors-f699a1</td>
+  <td>may need Epic games services, e.g. via rare launcher</td>
+  <td>Bullet Heaven</td>
+  <td>action, roguelite</td>
+  <td>Poncle Limited</td>
+  <td>Poncle Limited</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>186725</td>
+</tr>
+<tr>
+  <td>452</td>
+  <td>Vay</td>
+  <td>1.1</td>
+  <td>StatusDate: 2024-07-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2926110/Vay/</td>
+  <td></td>
+  <td>JRPG</td>
+  <td>RPG, fantasy, remake, retro</td>
+  <td>SoMoGa Inc., SIMS Co. Ltd.</td>
+  <td>SoMoGa Inc.</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>304287</td>
+</tr>
+<tr>
+  <td>403</td>
+  <td>Verses of Enchantment</td>
+  <td>1.0.3</td>
+  <td>StatusDate: 2023-08-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2086910/Verses_of_Enchantment/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>artsy, high-brow, roguelite</td>
+  <td>Nachtvlam</td>
+  <td>Nachtvlam</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-08-01T00:00:00.000Z</td>
+  <td>2023-08-01T00:00:00.000Z</td>
+  <td>211982</td>
+</tr>
+<tr>
+  <td>404</td>
+  <td>Virtual Cottage</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1369320/Virtual_Cottage/</td>
+  <td></td>
+  <td>Idler</td>
+  <td>free, productivity</td>
+  <td>DU&I</td>
+  <td>DU&I</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>144577</td>
+</tr>
+<tr>
+  <td>499</td>
+  <td>Vlobs</td>
+  <td>1.1.1</td>
+  <td>StatusDate: 2024-10-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://lostminds-sw.itch.io/vlobs, https://store.steampowered.com/app/2253080/Vlobs/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>arcade, indie</td>
+  <td>Lost Minds</td>
+  <td>Lost Minds</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-10-02T00:00:00.000Z</td>
+  <td>2024-10-02T00:00:00.000Z</td>
+  <td>235536</td>
+</tr>
+<tr>
+  <td>449</td>
+  <td>Void Wizard</td>
+  <td></td>
+  <td>StatusDate: 2024-07-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2717810/Void_Wizard/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>indie, magic, pixel, roguelike, wizard</td>
+  <td>Antique Gear Games</td>
+  <td>Antique Gear Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-07-13T00:00:00.000Z</td>
+  <td>280133</td>
+</tr>
+<tr>
+  <td>406</td>
+  <td>Voidrun</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://benjamin-soul.itch.io/voidrun, https://store.steampowered.com/app/1048560/Voidrun/</td>
+  <td></td>
+  <td>Action</td>
+  <td></td>
+  <td>Benjamin Soule, Pentadrangle</td>
+  <td>Benjamin Soule</td>
+  <td>HashLink</td>
+  <td></td>
+  <td>hashlink</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>116267</td>
+</tr>
+<tr>
+  <td>407</td>
+  <td>Vomitoreum</td>
+  <td></td>
+  <td>StatusDate: 2021-10-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1549750/Vomitoreum/, https://scumhead.itch.io/vomitoreumgame</td>
+  <td>cd Vomitoreum && gzdoom gzdoom.ipk3 # Vomitoreum subdirectory in the game's files</td>
+  <td>FPS</td>
+  <td>horror, lovecraftian</td>
+  <td>Scumhead</td>
+  <td>Scumhead</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>142271</td>
+</tr>
+<tr>
+  <td>408</td>
+  <td>Vylan</td>
+  <td></td>
+  <td>StatusDate: 2021-10-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1549750/Vomitoreum/, https://scumhead.itch.io/vomitoreumgame</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>MostlyMadProductions</td>
+  <td>MostlyMadProductions</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>157088</td>
+</tr>

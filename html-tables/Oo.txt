@@ -1,0 +1,266 @@
+<tr>
+  <td>564</td>
+  <td>Observa</td>
+  <td>1.0.1</td>
+  <td>StatusDate: 2026-04-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3104600/Observa/</td>
+  <td></td>
+  <td>3D Exploration</td>
+  <td>first-person, space</td>
+  <td>NorthRest Games</td>
+  <td>NorthRest Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-04-29T00:00:00.000Z</td>
+  <td>2026-04-29T00:00:00.000Z</td>
+  <td>386168</td>
+</tr>
+<tr>
+  <td>256</td>
+  <td>Ocean's Heart</td>
+  <td>1.4.2</td>
+  <td>StatusDate: 2023-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1393750/Oceans_Heart/</td>
+  <td>$ solarus-run data.solarus</td>
+  <td>Action RPG</td>
+  <td>indie, zelda-like</td>
+  <td>Max Mraz</td>
+  <td>Nordcurrent Labs</td>
+  <td>solarus</td>
+  <td></td>
+  <td>solarus-run</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>142340</td>
+</tr>
+<tr>
+  <td>257</td>
+  <td>Of Blades & Tails</td>
+  <td>early access 0.18.3</td>
+  <td>StatusDate: 2023-08-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/of_blades_and_tails, https://store.steampowered.com/app/1768780/Of_Blades__Tails/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>colorful, fantasy, indie, pixel art, turn-based</td>
+  <td>Felix Laukel</td>
+  <td>Pineapple Works</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-08-25T00:00:00.000Z</td>
+  <td>2023-08-25T00:00:00.000Z</td>
+  <td>187655</td>
+</tr>
+<tr>
+  <td>478</td>
+  <td>Oh My Git!</td>
+  <td>0.6.5</td>
+  <td>StatusDate: 2024-09-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://blinry.itch.io/oh-my-git</td>
+  <td></td>
+  <td>Programming Puzzle</td>
+  <td>free, indie, open source</td>
+  <td>blinry, bleeptrack</td>
+  <td></td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2024-09-10T00:00:00.000Z</td>
+  <td>2024-09-10T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>508</td>
+  <td>Omega Warp</td>
+  <td>1.01</td>
+  <td>StatusDate: 2024-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2083320/Omega_Warp/</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>exploration, indie, metroidvania</td>
+  <td>Clan Games</td>
+  <td>Clan Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td>218403</td>
+</tr>
+<tr>
+  <td>258</td>
+  <td>Omnigon</td>
+  <td></td>
+  <td>StatusDate: 2023-11-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2371710/Omnigon/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>comedy, indie, metroidvania</td>
+  <td>Yokcos</td>
+  <td>Yokcos</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>245909</td>
+</tr>
+<tr>
+  <td>259</td>
+  <td>One Finger Death Punch</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/264200/One_Finger_Death_Punch/</td>
+  <td></td>
+  <td>Action</td>
+  <td>indie</td>
+  <td>Silver Dollar Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8360</td>
+</tr>
+<tr>
+  <td>260</td>
+  <td>Open Sorcery</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://opensorcerygames.itch.io/open-sorcery, https://store.steampowered.com/app/585180/Open_Sorcery/</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/hk34q0/open_sorcery_textbased_adventure_works_with_a_web/ Reddit post</td>
+  <td></td>
+  <td></td>
+  <td>Abigail Corfman</td>
+  <td>Open Sorcery Games</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>27444</td>
+</tr>
+<tr>
+  <td>261</td>
+  <td>Operation STEEL</td>
+  <td>1.1.2</td>
+  <td>StatusDate: 2023-08-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1489300/Operation_STEEL/</td>
+  <td></td>
+  <td>Shoot'em Up</td>
+  <td>arcade, bullet hell, indie</td>
+  <td>Undermog Games</td>
+  <td>Undermog Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-08-10T00:00:00.000Z</td>
+  <td>2023-08-10T00:00:00.000Z</td>
+  <td>151732</td>
+</tr>
+<tr>
+  <td>262</td>
+  <td>Opus Magnum</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/opus_magnum, https://www.humblebundle.com/store/opus-magnum, https://zachtronics.itch.io/opus-magnum, https://store.steampowered.com/app/558990/Opus_Magnum/</td>
+  <td>fnaify >= 3.0</td>
+  <td>Puzzle</td>
+  <td>zach-like</td>
+  <td>Zachtronics</td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>74545</td>
+</tr>
+<tr>
+  <td>528</td>
+  <td>Order of the Thorne: The King's Challenge</td>
+  <td>2.0.0.1</td>
+  <td>StatusDate: 2025-12-08T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge, https://infamousquests.itch.io/oott-the-kings-challenge, https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/</td>
+  <td></td>
+  <td>point & click adventure</td>
+  <td>fantasy, indie, pixel-art</td>
+  <td>Infamous Quests</td>
+  <td>Infamous Quests</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2025-12-08T00:00:00.000Z</td>
+  <td>2025-12-08T00:00:00.000Z</td>
+  <td>51860</td>
+</tr>
+<tr>
+  <td>263</td>
+  <td>Osmos</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/osmos</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Hemisphere Games</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2009-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>14951</td>
+</tr>
+<tr>
+  <td>264</td>
+  <td>Overdriven Reloaded</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/495680/Overdriven_Reloaded/</td>
+  <td></td>
+  <td>Shoot'em Up</td>
+  <td></td>
+  <td>TOMAGameStudio</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>32259</td>
+</tr>
+<tr>
+  <td>265</td>
+  <td>Owlboy</td>
+  <td></td>
+  <td>StatusComment: - use Steam version, not GOG , StatusDate: 2023-05-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/owlboy, https://www.humblebundle.com/store/owlboy, https://store.steampowered.com/app/115800/Owlboy/</td>
+  <td>GOG.com version not working as of 2023-05-07 (outdated - 1.3.x), but Steam version works (1.4.x)</td>
+  <td>Metroidvania</td>
+  <td>pixel art</td>
+  <td>D-Pad Studio</td>
+  <td></td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-10-14T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>12597</td>
+</tr>

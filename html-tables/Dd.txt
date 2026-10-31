@@ -1,0 +1,1121 @@
+<tr>
+  <td>617</td>
+  <td>DELTARUNE</td>
+  <td></td>
+  <td>StatusDate: 2026-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://tobyfox.itch.io/deltarune</td>
+  <td></td>
+  <td>RPG</td>
+  <td>bullet hell, indie</td>
+  <td>tobyfox</td>
+  <td>tobyfox</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>171233</td>
+</tr>
+<tr>
+  <td>549</td>
+  <td>DOGWALK</td>
+  <td>1.0.4</td>
+  <td>StatusDate: 2026-01-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://blenderstudio.itch.io/dogwalk, https://store.steampowered.com/app/3775050/DOGWALK/</td>
+  <td></td>
+  <td>Interactive Story</td>
+  <td>casual, dog, free, indie, wholesome</td>
+  <td>Blender Studio</td>
+  <td>Blender Studio</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-07T00:00:00.000Z</td>
+  <td>2026-01-07T00:00:00.000Z</td>
+  <td>348639</td>
+</tr>
+<tr>
+  <td>680</td>
+  <td>DOOM 64</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/doom-64</td>
+  <td></td>
+  <td>FPS</td>
+  <td>action, scifi, shooter</td>
+  <td>id Software / Nightdive Studios</td>
+  <td>Bethesda Softworks</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>224522</td>
+</tr>
+<tr>
+  <td>86</td>
+  <td>Dad Quest</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/dad-quest, https://store.steampowered.com/app/524250/Dad_Quest</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Sundae Month</td>
+  <td>Excalibur Publishing</td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td></td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>27145</td>
+</tr>
+<tr>
+  <td>512</td>
+  <td>Daedalus Demise</td>
+  <td>1.1</td>
+  <td>StatusDate: 2024-11-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://timkrief.itch.io/daedalus-demise</td>
+  <td>download Windows version and unzip it</td>
+  <td>Dungeon Crawler</td>
+  <td>indie, puzzle, timer</td>
+  <td>Tim Krief</td>
+  <td>Tim Krief</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2024-11-02T00:00:00.000Z</td>
+  <td>2024-11-02T00:00:00.000Z</td>
+  <td>144081</td>
+</tr>
+<tr>
+  <td>513</td>
+  <td>Daedalus Demise - The Haunted Pyramid</td>
+  <td></td>
+  <td>StatusDate: 2024-11-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://timkrief.itch.io/daedalus-demise-the-haunted-pyramid</td>
+  <td>download Windows version and unzip it</td>
+  <td>Dungeon Crawler</td>
+  <td>indie, puzzle, timer</td>
+  <td>Tim Krief</td>
+  <td>Tim Krief</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-11-02T00:00:00.000Z</td>
+  <td>2024-11-02T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>484</td>
+  <td>Daisy Dangerous</td>
+  <td></td>
+  <td>StatusDate: 2024-09-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2902320/Daisy_Dangerous/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>action, free, indie, retro</td>
+  <td>Securas</td>
+  <td>Securas</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-23T00:00:00.000Z</td>
+  <td>2024-09-23T00:00:00.000Z</td>
+  <td>303832</td>
+</tr>
+<tr>
+  <td>87</td>
+  <td>Dark Crypt</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1706170/Dark_Crypt/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>Daisy Games</td>
+  <td>Daisy Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>164215</td>
+</tr>
+<tr>
+  <td>88</td>
+  <td>Dark Sheep</td>
+  <td></td>
+  <td>StatusDate: 2021-12-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1576490/Dark_Sheep/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>Daisy Games</td>
+  <td>Daisy Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-10T00:00:00.000Z</td>
+  <td>150884</td>
+</tr>
+<tr>
+  <td>652</td>
+  <td>Darksiders II Deathinitive Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/darksiders2</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>action, fantasy</td>
+  <td>Gunfire Games, Vigil Games, THQ Nordic</td>
+  <td>THQ Nordic</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>20048</td>
+</tr>
+<tr>
+  <td>427</td>
+  <td>Dashpong</td>
+  <td>1.4.2</td>
+  <td>StatusDate: 2024-05-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://mreliptik.itch.io/dashpong, https://store.steampowered.com/app/1729250/Dashpong/</td>
+  <td>requires at least 1 gamecontroller to play (up to 4)</td>
+  <td>arcade</td>
+  <td>indie, local multiplayer</td>
+  <td>MrEliptik</td>
+  <td>MrEliptik</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-05-02T00:00:00.000Z</td>
+  <td>2024-05-02T00:00:00.000Z</td>
+  <td>192855</td>
+</tr>
+<tr>
+  <td>557</td>
+  <td>Dawnfolk</td>
+  <td>1.3.4</td>
+  <td>StatusDate: 2026-02-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://darenn.itch.io/dawnfolk, https://store.steampowered.com/app/2308630/Dawnfolk/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>indie, pixel graphics, roguelite, strategy</td>
+  <td>Darenn Keller</td>
+  <td>Astra Logical</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-02-20T00:00:00.000Z</td>
+  <td>2026-02-20T00:00:00.000Z</td>
+  <td>245754</td>
+</tr>
+<tr>
+  <td>523</td>
+  <td>Day of the Tentacle</td>
+  <td></td>
+  <td>StatusDate: 2025-07-09T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td></td>
+  <td>extract classic DoTT and Maniac Mansion from DoTT Remastered with https://github.com/fleger/untangle</td>
+  <td>Adventure</td>
+  <td>classic, pixelart</td>
+  <td>LucasArts</td>
+  <td>LucasArts</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>2025-08-23T00:00:00.000Z</td>
+  <td>2025-07-09T00:00:00.000Z</td>
+  <td>193</td>
+</tr>
+<tr>
+  <td>89</td>
+  <td>Dead Cells</td>
+  <td>1.26.0</td>
+  <td>StatusDate: 2025-01-11T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/dead_cells, https://plug-in-digital.itch.io/dead-cells, https://www.humblebundle.com/store/dead-cells, https://store.steampowered.com/app/588650/Dead_Cells/</td>
+  <td>Steam version may not run due to missing Steam API in steam.hdll</td>
+  <td>Metroidvania</td>
+  <td>award-winning, indie, platformer, roguelite</td>
+  <td>Motion Twin</td>
+  <td></td>
+  <td>HashLink</td>
+  <td>IndieRunner, rigg</td>
+  <td>hl</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2025-01-11T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>26855</td>
+</tr>
+<tr>
+  <td>90</td>
+  <td>Dead Pixels</td>
+  <td></td>
+  <td>StatusDate: 2025-04-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/222980/Dead_Pixels</td>
+  <td>version 1.4 runs with FNA 25.04 and SDL3. Use SDL_PLATFORM=Linux</td>
+  <td>Action</td>
+  <td>indie</td>
+  <td>CSR-Studios</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2025-04-25T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5448</td>
+</tr>
+<tr>
+  <td>91</td>
+  <td>Dead Pixels II</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/259000/Dead_Pixels_II/</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>CSR-Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td></td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>18362</td>
+</tr>
+<tr>
+  <td>665</td>
+  <td>Death Stranding</td>
+  <td></td>
+  <td>StatusDate: 2026-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/death-stranding-directors-cut</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>cult, open world</td>
+  <td>KOJIMA PRODUCTIONS</td>
+  <td>505 Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>19564</td>
+</tr>
+<tr>
+  <td>92</td>
+  <td>Deepest Chamber: Resurrection</td>
+  <td>0.934</td>
+  <td>StatusDate: 2023-09-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1552080/Deepest_Chamber_Resurrection/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>dungeoncrawler, early access, indie</td>
+  <td>Balcony Softworks</td>
+  <td>Those Awesome Guys</td>
+  <td>LWJGL3</td>
+  <td>IndieRunner</td>
+  <td>java-17</td>
+  <td></td>
+  <td>2023-09-24T00:00:00.000Z</td>
+  <td>2023-09-24T00:00:00.000Z</td>
+  <td>144450</td>
+</tr>
+<tr>
+  <td>441</td>
+  <td>Defendor</td>
+  <td>1.2.0</td>
+  <td>StatusDate: 2024-06-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2583640/Defendor/</td>
+  <td></td>
+  <td>Shoot'Em'Up</td>
+  <td>action, indie, retro</td>
+  <td>almostApixel</td>
+  <td>almostApixel</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-06-23T00:00:00.000Z</td>
+  <td>2024-06-22T00:00:00.000Z</td>
+  <td>267733</td>
+</tr>
+<tr>
+  <td>93</td>
+  <td>Delta-V: Rings of Saturn</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/846030/V_Rings_of_Saturn/, https://www.gog.com/game/dv_rings_of_saturn</td>
+  <td>note a Unicode "delta" is used in the game's name</td>
+  <td>Simulation</td>
+  <td>scifi, space</td>
+  <td>Kodera Software</td>
+  <td>Kodera Software, Kurki.games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>108324</td>
+</tr>
+<tr>
+  <td>94</td>
+  <td>Delver</td>
+  <td>1.08</td>
+  <td>StatusDate: 2022-12-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://priorityinterrupt.itch.io/delver, https://store.steampowered.com/app/249630/Delver/</td>
+  <td></td>
+  <td>dungeoncrawler</td>
+  <td>fantasy, first-person, indie, pixels</td>
+  <td>Chad Cuddigan, Joshua Skelton</td>
+  <td>Priority Interrupt</td>
+  <td>LibGDX</td>
+  <td></td>
+  <td>IndieRunner</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-30T00:00:00.000Z</td>
+  <td>3236</td>
+</tr>
+<tr>
+  <td>95</td>
+  <td>Democracy 3</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/democracy-3</td>
+  <td></td>
+  <td>Simulation</td>
+  <td></td>
+  <td>Positech Games</td>
+  <td></td>
+  <td>Irrlicht Engine</td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5506</td>
+</tr>
+<tr>
+  <td>568</td>
+  <td>Derelict Star</td>
+  <td>1.0.8</td>
+  <td>StatusDate: 2026-05-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://gate.itch.io/derelict-star, https://store.steampowered.com/app/3641010/Derelict_Star/</td>
+  <td></td>
+  <td>Precision Platformer</td>
+  <td>exploration, metroidvania, retro, space</td>
+  <td>gate</td>
+  <td>Luminous Tree Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-02T00:00:00.000Z</td>
+  <td>2026-05-02T00:00:00.000Z</td>
+  <td>376551</td>
+</tr>
+<tr>
+  <td>96</td>
+  <td>Descent</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/descent, https://store.steampowered.com/app/273570/Descent/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>6DOF, multiplayer</td>
+  <td>Parallax Software</td>
+  <td>Interplay Entertainment</td>
+  <td>Descent Engine</td>
+  <td></td>
+  <td>dxx-rebirth</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1872</td>
+</tr>
+<tr>
+  <td>469</td>
+  <td>Descent 3</td>
+  <td>1.5.0</td>
+  <td>StatusDate: 2024-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/descent_3_expansion, https://store.steampowered.com/app/273590/Descent_3/</td>
+  <td></td>
+  <td>6DOF Shooter</td>
+  <td>action, classic, scifi, vertigo</td>
+  <td>Outrage Entertainment</td>
+  <td>Interplay Inc.</td>
+  <td>Descent 3 open source engine</td>
+  <td></td>
+  <td>Descent3</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>2024-08-20T00:00:00.000Z</td>
+  <td>2024-08-20T00:00:00.000Z</td>
+  <td>667</td>
+</tr>
+<tr>
+  <td>97</td>
+  <td>Descent II</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/descent_2, https://store.steampowered.com/app/273580/Descent_2/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>6DOF, multiplayer</td>
+  <td>Parallax Software</td>
+  <td>Interplay Entertainment</td>
+  <td>Descent Engine</td>
+  <td></td>
+  <td>dxx-rebirth</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>668</td>
+</tr>
+<tr>
+  <td>526</td>
+  <td>Descent from Arkov's Tower</td>
+  <td>2.0.15</td>
+  <td>StatusDate: 2025-09-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2876720/Descent_from_Arkovs_Tower/</td>
+  <td></td>
+  <td>rogue-like</td>
+  <td>indie, old-school, turn-based tactics</td>
+  <td>Saturn91</td>
+  <td>DreamStudios</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-09-05T00:00:00.000Z</td>
+  <td>2025-09-05T00:00:00.000Z</td>
+  <td>277273</td>
+</tr>
+<tr>
+  <td>507</td>
+  <td>Desert Kingdoms</td>
+  <td></td>
+  <td>StatusDate: 2024-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2707610/Desert_Kingdoms/</td>
+  <td></td>
+  <td>RTS</td>
+  <td>indie, minimalist, strategy</td>
+  <td>Markus Fink</td>
+  <td>Markus Fink</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td>279497</td>
+</tr>
+<tr>
+  <td>459</td>
+  <td>Destroy The Monoliths</td>
+  <td>1.3</td>
+  <td>StatusDate: 2024-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2352000/Destroy_The_Monoliths/</td>
+  <td></td>
+  <td>Tower Defense</td>
+  <td>action roguelike, indie, mining</td>
+  <td>Radiant Sloth</td>
+  <td>Radiant Sloth</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-08-06T00:00:00.000Z</td>
+  <td>2024-08-06T00:00:00.000Z</td>
+  <td>244644</td>
+</tr>
+<tr>
+  <td>646</td>
+  <td>Deus Ex: Mankind Divided</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/deus_ex_mankind_divided</td>
+  <td></td>
+  <td>Immersive Sim</td>
+  <td>action, atmospheric, cyberpunk, dystopian, role-playing</td>
+  <td>Eidos Montreal</td>
+  <td>Eidos Interactive</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>9498</td>
+</tr>
+<tr>
+  <td>98</td>
+  <td>Diablo</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/diablo</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>classic, fantasy</td>
+  <td>Blizzard North</td>
+  <td>Blizzard Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>devilutionx</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>125</td>
+</tr>
+<tr>
+  <td>99</td>
+  <td>Dice Tribes: Ambitions</td>
+  <td>1.3.4</td>
+  <td>StatusDate: 2022-11-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1965800/Dice_Tribes_Ambitions/</td>
+  <td></td>
+  <td>Boardgame</td>
+  <td>dice, indie</td>
+  <td>Sprouting Potato</td>
+  <td>Sprouting Potato</td>
+  <td>HashLink</td>
+  <td></td>
+  <td>HashLink</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-19T00:00:00.000Z</td>
+  <td>200871</td>
+</tr>
+<tr>
+  <td>641</td>
+  <td>Dicey Dungeons</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/dicey_dungeons</td>
+  <td></td>
+  <td>Roguelike Dice Game</td>
+  <td>indie, procedural generation, turn-based</td>
+  <td>Terry Cavanagh</td>
+  <td>Terry Cavanagh</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>102420</td>
+</tr>
+<tr>
+  <td>100</td>
+  <td>Diefrosty</td>
+  <td></td>
+  <td>StatusDate: 2021-12-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1814950/Diefrosty/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Ulon</td>
+  <td>Gagonfe</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-22T00:00:00.000Z</td>
+  <td>189364</td>
+</tr>
+<tr>
+  <td>101</td>
+  <td>Diehard Dungeon</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/277870/Diehard_Dungeon/</td>
+  <td>needs libCSteamworks stub</td>
+  <td>Action, Roguelite</td>
+  <td>indie</td>
+  <td>Tricktale</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>17064</td>
+</tr>
+<tr>
+  <td>103</td>
+  <td>Dino Eggs: Rebirth</td>
+  <td></td>
+  <td>StatusDate: 2021-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/449320/Dino_Eggs_Rebirth/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>David H Schroeder, Eric Ferrot</td>
+  <td>Davie H Schroeder</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>33336</td>
+</tr>
+<tr>
+  <td>639</td>
+  <td>Disco Elysium - The Final Cut</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/disco_elysium</td>
+  <td></td>
+  <td>RPG</td>
+  <td>indie, story-rich</td>
+  <td>ZA/UM</td>
+  <td>ZA/UM</td>
+  <td>Unity</td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>141540</td>
+</tr>
+<tr>
+  <td>662</td>
+  <td>Dishonored 2</td>
+  <td></td>
+  <td>StatusDate: 2026-10-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/dishonored_2</td>
+  <td></td>
+  <td>Stealth Action</td>
+  <td>action, atmospheric, fantasy, story-rich</td>
+  <td>Arkane Studios</td>
+  <td>Bethesda Softworks LLC</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-14T00:00:00.000Z</td>
+  <td>2026-10-14T00:00:00.000Z</td>
+  <td>11118</td>
+</tr>
+<tr>
+  <td>105</td>
+  <td>Doki Doki Literature Club!</td>
+  <td></td>
+  <td></td>
+  <td>https://teamsalvato.itch.io/ddlc, https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/</td>
+  <td></td>
+  <td>Visual Novel</td>
+  <td></td>
+  <td>Team Salvato</td>
+  <td></td>
+  <td>Ren'Py 6</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>55935</td>
+</tr>
+<tr>
+  <td>106</td>
+  <td>Dome Keeper (formerly Dome Romantik)</td>
+  <td>Demo (2022-06-07)</td>
+  <td>StatusDate: 2022-06-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1637320/Dome_Romantik/, https://bippinbits.itch.io/dome-romantik, https://www.gog.com/en/game/dome_keeper</td>
+  <td>Run with `godot --main-pack domeromantik.x86_64`. As of 2022-03-19, itch.io demo is outdated compared to Steam.</td>
+  <td>Mining</td>
+  <td>action, indie, lovecraftian</td>
+  <td>Bippinbits</td>
+  <td>Bippinbits</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-03-19T00:00:00.000Z</td>
+  <td>200611</td>
+</tr>
+<tr>
+  <td>107</td>
+  <td>Doom</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/the_ultimate_doom, https://store.steampowered.com/app/2280/Ultimate_Doom/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>classic, graphical violence</td>
+  <td>id Software</td>
+  <td>GT Interactive</td>
+  <td>id Tech 1</td>
+  <td></td>
+  <td>chocolate-doom, gzdoom, odamex, prboom-plus, crispy-doom</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>2022-11-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>673</td>
+</tr>
+<tr>
+  <td>108</td>
+  <td>Doom & Destiny Advanced</td>
+  <td></td>
+  <td>StatusComment: - runs with bugs, e.g. crash on window resizing , StatusDate: 2021-08-23T00:00:00.000Z, StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>https://store.steampowered.com/app/361040/Doom__Destiny_Advanced/</td>
+  <td>currently crashes on Window resize</td>
+  <td>RPG</td>
+  <td>classic, humor, nerd culture</td>
+  <td>Heartbit Interactive</td>
+  <td>Heartbit Interactive</td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>25944</td>
+</tr>
+<tr>
+  <td>679</td>
+  <td>Doom (2016)</td>
+  <td></td>
+  <td>StatusDate: 2026-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/doom_2016</td>
+  <td>run DOOMx64vk.exe with wine (needs vulkan support)</td>
+  <td>FPS</td>
+  <td>action, scifi, shooter</td>
+  <td>id Software</td>
+  <td>Bethesda Softworks LLC</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>7351</td>
+</tr>
+<tr>
+  <td>109</td>
+  <td>Doppelganger</td>
+  <td></td>
+  <td></td>
+  <td>http://www.pumpkin-games.net/doppelganger.php</td>
+  <td>Download the Linux version and delete the line with libOpenCL in OpenTK.dll.config</td>
+  <td>Action</td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>13606</td>
+</tr>
+<tr>
+  <td>110</td>
+  <td>Downfall</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/downfall_redux, https://www.humblebundle.com/store/downfall, https://store.steampowered.com/app/364390/Downfall/</td>
+  <td>GOG version includes Downfall: Redux</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Harvester Games</td>
+  <td>Screen 7</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2024-06-23T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>18189</td>
+</tr>
+<tr>
+  <td>442</td>
+  <td>Downfall: Redux</td>
+  <td>1.1.3</td>
+  <td>StatusDate: 2024-06-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/downfall_redux</td>
+  <td>GOG version includes Downfall (non-Redux)</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Harvester Games</td>
+  <td>Screen 7</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2024-06-23T00:00:00.000Z</td>
+  <td>2024-06-23T00:00:00.000Z</td>
+  <td>51750</td>
+</tr>
+<tr>
+  <td>111</td>
+  <td>Draw A Stickman: EPIC</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/draw-a-stickman-epic, https://store.steampowered.com/app/248650/Draw_a_Stickman_EPIC/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td>Hitcents</td>
+  <td></td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td>mono</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5032</td>
+</tr>
+<tr>
+  <td>438</td>
+  <td>DreamCell: Lost in Nightmares</td>
+  <td>1.01</td>
+  <td>StatusDate: 2024-06-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2101440/DreamCell_Lost_in_Nightmares/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>indie</td>
+  <td>Blockcode Games</td>
+  <td>Blockcode Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>211601</td>
+</tr>
+<tr>
+  <td>112</td>
+  <td>Dreams in the Witch House</td>
+  <td>1.04</td>
+  <td>StatusDate: 2023-05-01T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/en/game/dreams_in_the_witch_house, https://store.steampowered.com/app/1902850/Dreams_in_the_Witch_House/</td>
+  <td>with scummvm 2.7.0 has segfault when looking down platform in dream section</td>
+  <td>Adventure</td>
+  <td>Lovecraftian, horror, point & click</td>
+  <td>Atom Brain Games</td>
+  <td>Bonus Stage Publishing</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-03-05T00:00:00.000Z</td>
+  <td>197158</td>
+</tr>
+<tr>
+  <td>554</td>
+  <td>Drill Bird</td>
+  <td>1.081</td>
+  <td>StatusDate: 2026-01-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3809940/Drill_Bird/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>2d, cute, indie, mining</td>
+  <td>Sebastian Larsson et al.</td>
+  <td>Perfect Random, Sebastian Larsson</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-21T00:00:00.000Z</td>
+  <td>2026-01-21T00:00:00.000Z</td>
+  <td>351078</td>
+</tr>
+<tr>
+  <td>113</td>
+  <td>Droid Assault</td>
+  <td>20151219</td>
+  <td>StatusDate: 2023-01-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.puppygames.net/droid-assault/, https://store.steampowered.com/app/219200</td>
+  <td>get DRM-free version from developer page. Steam version can't run because of libsteampuppy.so</td>
+  <td>Action</td>
+  <td>arcade, indie, retro, scifi</td>
+  <td>Puppygames</td>
+  <td>Puppygames</td>
+  <td>LWJGL2</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-07T00:00:00.000Z</td>
+  <td>9704</td>
+</tr>
+<tr>
+  <td>114</td>
+  <td>Duke Nukem 3D</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Action, FPS</td>
+  <td></td>
+  <td>3D Realms</td>
+  <td>3D Realms</td>
+  <td>eduke32</td>
+  <td></td>
+  <td>eduke32</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>2023-12-13T00:00:00.000Z</td>
+  <td>2023-12-13T00:00:00.000Z</td>
+  <td>342</td>
+</tr>
+<tr>
+  <td>115</td>
+  <td>Dune 2000</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>OpenRA can automatically download the freeware version</td>
+  <td>RTS</td>
+  <td>multiplayer</td>
+  <td>Westwood Studios</td>
+  <td>Virgin Interactive</td>
+  <td></td>
+  <td></td>
+  <td>openra</td>
+  <td>1998-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>87</td>
+</tr>
+<tr>
+  <td>481</td>
+  <td>Dungeons & Keyboards</td>
+  <td>1.1.1</td>
+  <td>StatusDate: 2024-09-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2066680/Dungeons__Keyboards/</td>
+  <td></td>
+  <td>Typing Game</td>
+  <td>fantasy, humor, indie, retro</td>
+  <td>Corgibox</td>
+  <td>Corgibox</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>250953</td>
+</tr>
+<tr>
+  <td>605</td>
+  <td>Dungeons of Blood and Dream</td>
+  <td>1.0.3</td>
+  <td>StatusDate: 2026-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2488590/Dungeons_of_Blood_and_Dream/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>dungeon crawler, indie, low fidelity, surreal</td>
+  <td>Lori Vornoy</td>
+  <td>Lori Vornoy</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-08-19T00:00:00.000Z</td>
+  <td>2026-08-19T00:00:00.000Z</td>
+  <td>257836</td>
+</tr>
+<tr>
+  <td>116</td>
+  <td>Dust: An Elysian Tail</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/dust_an_elysian_tail, https://www.humblebundle.com/store/dust-an-elysian-tail, https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>indie</td>
+  <td>Humble Hearts</td>
+  <td>Microsoft Studios</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>2130</td>
+</tr>
+<tr>
+  <td>117</td>
+  <td>Dustforce DX</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/dustforce-dx, https://store.steampowered.com/app/65300, https://www.gog.com/game/dustforce_dx</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Hitbox Team</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1340</td>
+</tr>
+<tr>
+  <td>118</td>
+  <td>DwarfCorp</td>
+  <td></td>
+  <td>StatusDate: 2022-08-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/252390/DwarfCorp/</td>
+  <td>note itch.io version is outdated and doesn't run well</td>
+  <td>Strategy</td>
+  <td>indie, voxel</td>
+  <td>Completely Fair Games LLC</td>
+  <td>Completely Fair Games LLC</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-08-28T00:00:00.000Z</td>
+  <td>59133</td>
+</tr>
+<tr>
+  <td>696</td>
+  <td>Dying Light: The Following - Enhanced Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/dying_light_definitive_edition</td>
+  <td></td>
+  <td>Action</td>
+  <td>atmospheric, first-person, horror, story-rich, zombies</td>
+  <td>Techland</td>
+  <td>Techland</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-23T00:00:00.000Z</td>
+  <td>2026-10-23T00:00:00.000Z</td>
+  <td>21762</td>
+</tr>

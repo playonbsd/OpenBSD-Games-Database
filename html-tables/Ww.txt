@@ -1,0 +1,323 @@
+<tr>
+  <td>502</td>
+  <td>WHATEVER</td>
+  <td>1.0.5</td>
+  <td>StatusDate: 2024-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1734230/WHATEVER/</td>
+  <td></td>
+  <td>Action</td>
+  <td>boat, colorful, indie, physics, precision</td>
+  <td>Napas Torteeka</td>
+  <td>Napas Torteeka</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>199711</td>
+</tr>
+<tr>
+  <td>668</td>
+  <td>Wall World</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/wall_world</td>
+  <td></td>
+  <td>Strategy Roguelite</td>
+  <td>adventure, sci-fi</td>
+  <td>Alawar</td>
+  <td>Alawar</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>224705</td>
+</tr>
+<tr>
+  <td>681</td>
+  <td>Warhammer 40,000: Rogue Trader</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/warhammer_40000_rogue_trader</td>
+  <td></td>
+  <td>Role-playing</td>
+  <td>fantasy, sci-fi, story-rich, tactical, turn-based</td>
+  <td>Owlcat Games</td>
+  <td>Owlcat Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>203259</td>
+</tr>
+<tr>
+  <td>410</td>
+  <td>Weapon of Choice</td>
+  <td></td>
+  <td>StatusText: doesn't launch</td>
+  <td>https://store.steampowered.com/app/373600/Weapon_of_Choice/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Mommy's Best Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>23028</td>
+</tr>
+<tr>
+  <td>583</td>
+  <td>What's the Password?</td>
+  <td></td>
+  <td>StatusDate: 2026-05-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://trampolinetales.itch.io/whats-the-password</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>abstract, detective, indie, linear, logic, minimalist, relaxing</td>
+  <td>TrampolineTales</td>
+  <td>TrampolineTales</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-30T00:00:00.000Z</td>
+  <td>2026-05-30T00:00:00.000Z</td>
+  <td>379637</td>
+</tr>
+<tr>
+  <td>695</td>
+  <td>Whiskerwood</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/whiskerwood</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>historical, management, open-world, sandbox, strategy</td>
+  <td>Minakata Dynamics</td>
+  <td>Hooded Horse</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>309324</td>
+</tr>
+<tr>
+  <td>411</td>
+  <td>Whispers of a Machine</td>
+  <td>1.0.6</td>
+  <td>StatusDate: 2023-01-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/whispers_of_a_machine, https://store.steampowered.com/app/631570/Whispers_of_a_Machine/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>detective, indie, scifi</td>
+  <td>Clifftop Games, Faravid Interactive</td>
+  <td>Raw Fury</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-21T00:00:00.000Z</td>
+  <td>27278</td>
+</tr>
+<tr>
+  <td>655</td>
+  <td>Wilmot's Warehouse</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/wilmots_warehouse</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>2d, adventure, indie, simulation</td>
+  <td>Hollow Ponds</td>
+  <td>Richard Hogg / Finji</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>77494</td>
+</tr>
+<tr>
+  <td>412</td>
+  <td>Wish Project</td>
+  <td></td>
+  <td>StatusDate: 2021-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/367140/Wish_Project</td>
+  <td></td>
+  <td>Shoot'em Up</td>
+  <td></td>
+  <td>Andrew Willman</td>
+  <td>Andrew Willman</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35307</td>
+</tr>
+<tr>
+  <td>413</td>
+  <td>WizOrb</td>
+  <td></td>
+  <td>StatusComment: - crashes in GameOver state, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.humblebundle.com/store/wizorb, https://store.steampowered.com/app/207420/Wizorb/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>indie</td>
+  <td>Tribute Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>2024-06-28T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1364</td>
+</tr>
+<tr>
+  <td>414</td>
+  <td>Woodland Empire</td>
+  <td></td>
+  <td>StatusDate: 2021-12-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1419150/Woodland_Empire/</td>
+  <td></td>
+  <td>God Game</td>
+  <td>early access, nature</td>
+  <td>Nicholas Orlowski</td>
+  <td>Obvlong Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-22T00:00:00.000Z</td>
+  <td>158242</td>
+</tr>
+<tr>
+  <td>533</td>
+  <td>Woodworm</td>
+  <td></td>
+  <td>StatusDate: 2026-01-18T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://spratt.itch.io/woodworm, https://store.steampowered.com/app/3404590/Woodworm/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>cute, indie</td>
+  <td>Samuel Pratt</td>
+  <td>Samuel Pratt</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-18T00:00:00.000Z</td>
+  <td>2025-12-24T00:00:00.000Z</td>
+  <td>381485</td>
+</tr>
+<tr>
+  <td>415</td>
+  <td>Word Game: Episode 0</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1507970/Word_Game_Episode_0/</td>
+  <td>Chinese languages only (traditional zh and modern cn available)</td>
+  <td></td>
+  <td>free</td>
+  <td>Team9</td>
+  <td>Team9</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>174067</td>
+</tr>
+<tr>
+  <td>677</td>
+  <td>World of Goo</td>
+  <td></td>
+  <td>StatusDate: 2026-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/world-of-goo</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>adventure, colourful, cute, indie</td>
+  <td>2D Boy</td>
+  <td>2D Boy</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2008-01-01T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>942</td>
+</tr>
+<tr>
+  <td>416</td>
+  <td>Wrath: Aeon of Ruin</td>
+  <td>1.4.2</td>
+  <td>StatusDate: 2024-03-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/wrath_aeon_of_ruin, https://www.humblebundle.com/store/wrath-aeon-of-ruin, https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>gore, gothic</td>
+  <td>KillPixel</td>
+  <td>3D Realms, Fulqrum Publishing</td>
+  <td>Darkplaces</td>
+  <td></td>
+  <td>wrath</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-03-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>115873</td>
+</tr>
+<tr>
+  <td>417</td>
+  <td>Wrought Flesh</td>
+  <td>1.1.6</td>
+  <td>StatusComment: runs, StatusDate: 2023-08-13T00:00:00.000Z</td>
+  <td>https://store.steampowered.com/app/1762010/Wrought_Flesh/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>gore, polygons, retro</td>
+  <td>Deep Root Interactive</td>
+  <td>Deep Root Interactive</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-08-13T00:00:00.000Z</td>
+  <td>2023-08-13T00:00:00.000Z</td>
+  <td>184780</td>
+</tr>
+<tr>
+  <td>418</td>
+  <td>Wyv and Keep</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/wyv-and-keep-the-temple-of-the-lost-idol, https://store.steampowered.com/app/263960/Wyv_and_Keep_The_Temple_of_the_Lost_Idol/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>A Jolly Corpse</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>16847</td>
+</tr>

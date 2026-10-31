@@ -1,0 +1,171 @@
+<tr>
+  <td>420</td>
+  <td>Yarntown</td>
+  <td>1.0.6</td>
+  <td>StatusDate: 2021-11-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://maxatrillionator.itch.io/yarntown, https://www.solarus-games.org/en/games/yarntown</td>
+  <td>solarus-run *.solarus</td>
+  <td>Action RPG</td>
+  <td>bloodborne-like, free</td>
+  <td>Max Mraz</td>
+  <td></td>
+  <td>solarus</td>
+  <td></td>
+  <td>solarus-run</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>135927</td>
+</tr>
+<tr>
+  <td>596</td>
+  <td>Yokai Hunter Shintaro</td>
+  <td></td>
+  <td>StatusDate: 2026-07-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1916960/Yokai_Hunter_Shintaro/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>indie, platformer, retro</td>
+  <td>RivalThird</td>
+  <td>RivalThird</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-07-31T00:00:00.000Z</td>
+  <td>2026-07-31T00:00:00.000Z</td>
+  <td>197022</td>
+</tr>
+<tr>
+  <td>650</td>
+  <td>Yoku's Island Express</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/yokus_island_express</td>
+  <td></td>
+  <td>Pinball Adventure</td>
+  <td>adventure, colourful, indie</td>
+  <td>Villa Gorilla</td>
+  <td>Team17 Digital LTD</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>27367</td>
+</tr>
+<tr>
+  <td>433</td>
+  <td>Yolk Heroes: A Long Tamago</td>
+  <td>1.0.01</td>
+  <td>StatusDate: 2024-05-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2417850/Yolk_Heroes_A_Long_Tamago/</td>
+  <td></td>
+  <td>Life Sim</td>
+  <td>JRPG, idler, indie</td>
+  <td>14 Hours Productions</td>
+  <td>14 Hours Productions, Astrolabe Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-05-20T00:00:00.000Z</td>
+  <td>2024-05-20T00:00:00.000Z</td>
+  <td>250985</td>
+</tr>
+<tr>
+  <td>670</td>
+  <td>Yooka-Laylee and the Impossible Lair</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/yookalaylee_and_the_impossible_lair</td>
+  <td></td>
+  <td>2.5D Platformer</td>
+  <td>action, adventure, casual</td>
+  <td>Playtonic Games</td>
+  <td>Playtonic Friends</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>119259</td>
+</tr>
+<tr>
+  <td>623</td>
+  <td>You Have 10 Seconds</td>
+  <td></td>
+  <td>StatusDate: 2026-09-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/510050/You_Have_10_Seconds/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>casual, free, indie, minimalist, retro</td>
+  <td>tamationgames</td>
+  <td>tamationgames</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>31909</td>
+</tr>
+<tr>
+  <td>626</td>
+  <td>You Have 10 Seconds (2023)</td>
+  <td>1.04</td>
+  <td>StatusDate: 2026-09-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2390510/You_Have_10_Seconds_2023/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>casual, free, indie, minimalist, retro</td>
+  <td>xJackFox</td>
+  <td>xJackFox, TamationGames</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>256443</td>
+</tr>
+<tr>
+  <td>624</td>
+  <td>You Have 10 Seconds 2</td>
+  <td></td>
+  <td>StatusDate: 2026-09-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/521570/You_Have_10_Seconds_2/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>casual, free, indie, minimalist, retro</td>
+  <td>Tamationgames</td>
+  <td>Tamationgames</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>31490</td>
+</tr>
+<tr>
+  <td>421</td>
+  <td>Yume Nikki</td>
+  <td></td>
+  <td></td>
+  <td>https://playism.com/product/yumenikki, https://store.steampowered.com/app/650700/Yume_Nikki/</td>
+  <td>https://videos.pair2jeux.tube/videos/watch/b1e46c5d-aba7-46a4-b81e-1bf6ddee18ac</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>easyrpg</td>
+  <td>2004-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>18689</td>
+</tr>

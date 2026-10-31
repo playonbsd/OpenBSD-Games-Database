@@ -1,0 +1,285 @@
+<tr>
+  <td>572</td>
+  <td>U.V.S. Nirmana</td>
+  <td></td>
+  <td>StatusDate: 2026-05-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2536720/UVS_Nirmana/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>engineering, logic, programming, singleplayer, space, zach-like</td>
+  <td>Coincidence</td>
+  <td>Klei Publishing</td>
+  <td>Mono</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-12T00:00:00.000Z</td>
+  <td>2026-05-12T00:00:00.000Z</td>
+  <td>400475</td>
+</tr>
+<tr>
+  <td>394</td>
+  <td>Ukraine Defense Force Tactics</td>
+  <td></td>
+  <td>StatusDate: 2023-10-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2005660/Ukraine_Defense_Force_Tactics/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>charity, military, political</td>
+  <td>Spacewalkers</td>
+  <td>Spacewalkers</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-10-10T00:00:00.000Z</td>
+  <td>2023-10-10T00:00:00.000Z</td>
+  <td>204321</td>
+</tr>
+<tr>
+  <td>395</td>
+  <td>Ultra Hat Dimension</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://eniko.itch.io/uhd, https://store.steampowered.com/app/628830/Ultra_Hat_Dimension</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Eniko</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>59472</td>
+</tr>
+<tr>
+  <td>396</td>
+  <td>Ultratron</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/219190/</td>
+  <td>copy /usr/local/share/lwjgl/liblwjgl64.so into game directory, fix the launch script to use system java</td>
+  <td>Action</td>
+  <td></td>
+  <td>Puppy Games</td>
+  <td></td>
+  <td>lwjgl</td>
+  <td>IndieRunner</td>
+  <td>java-1.8.0</td>
+  <td>2005-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>14327</td>
+</tr>
+<tr>
+  <td>397</td>
+  <td>Unavowed</td>
+  <td></td>
+  <td>StatusDate: 2026-07-11T00:00:00.000Z, StatusNumber: 4, StatusText: minor bugs</td>
+  <td>https://www.gog.com/game/unavowed, https://store.steampowered.com/app/336140</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-07-11T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>27867</td>
+</tr>
+<tr>
+  <td>618</td>
+  <td>Uncanny Valley</td>
+  <td></td>
+  <td>StatusDate: 2026-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/359580/Uncanny_Valley/</td>
+  <td></td>
+  <td>Survival Horror</td>
+  <td>adventure, atmospheric, indie, pixelart</td>
+  <td>Tiny Mold</td>
+  <td>Tiny Mold</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>10140</td>
+</tr>
+<tr>
+  <td>456</td>
+  <td>Under the Yoke</td>
+  <td></td>
+  <td>StatusDate: 2024-08-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://priory-games.itch.io/under-the-yoke, https://store.steampowered.com/app/2592060/Under_The_Yoke/</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>indie, life sim</td>
+  <td>Priory Games</td>
+  <td>Priory Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-05T00:00:00.000Z</td>
+  <td>2024-08-05T00:00:00.000Z</td>
+  <td>268939</td>
+</tr>
+<tr>
+  <td>398</td>
+  <td>Underlings</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1370040/Underlings/</td>
+  <td></td>
+  <td>Survival</td>
+  <td>retro</td>
+  <td>One Man Games</td>
+  <td>One Man Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>138892</td>
+</tr>
+<tr>
+  <td>582</td>
+  <td>Understand</td>
+  <td></td>
+  <td>StatusDate: 2026-05-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1299400/Understand/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>abstract, deduction, indie, logic, minimalist</td>
+  <td>Artless Games</td>
+  <td>Artless Games</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-05-28T00:00:00.000Z</td>
+  <td>2026-05-28T00:00:00.000Z</td>
+  <td>154873</td>
+</tr>
+<tr>
+  <td>615</td>
+  <td>Undertale</td>
+  <td>1.08</td>
+  <td>StatusDate: 2026-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/undertale, https://store.steampowered.com/app/391540/Undertale/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>bullet hell, choices matter, cult classic, humour, indie, story-rich</td>
+  <td>tobyfox</td>
+  <td>tobyfox</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>12517</td>
+</tr>
+<tr>
+  <td>399</td>
+  <td>Unexplored</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/506870/Unexplored/</td>
+  <td>mojoshader >= 1214</td>
+  <td>Action</td>
+  <td>roguelite</td>
+  <td>Ludomotion</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>27373</td>
+</tr>
+<tr>
+  <td>400</td>
+  <td>Unholy Heights</td>
+  <td></td>
+  <td>StatusDate: 2021-09-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/unholy_heights, https://playism.com/product/unholy-heights, https://www.humblebundle.com/store/unholy-heights, https://store.steampowered.com/app/249330/Unholy_Heights/</td>
+  <td>audio supported since FNA 21.04 (XMA2)</td>
+  <td></td>
+  <td></td>
+  <td>Petit Depotto</td>
+  <td>AGM PLAYISM</td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>16648</td>
+</tr>
+<tr>
+  <td>569</td>
+  <td>Upload Labs</td>
+  <td>2.2.8</td>
+  <td>StatusDate: 2026-05-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3606890/Upload_Labs/</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>automation, free, idler</td>
+  <td>EnigmaDev Studios</td>
+  <td>EnigmaDev Studios</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-05-02T00:00:00.000Z</td>
+  <td>2026-05-02T00:00:00.000Z</td>
+  <td>366875</td>
+</tr>
+<tr>
+  <td>401</td>
+  <td>Urtuk: The Desolation</td>
+  <td>1.0.0+91b</td>
+  <td>StatusDate: 2022-11-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/urtuk_the_desolation, https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/</td>
+  <td>needs steamworks4j port, at least for the Steam version</td>
+  <td>Turn-Based Tactics</td>
+  <td>dark, fantasy, gore, indie</td>
+  <td>David Kaleta</td>
+  <td>David Kaleta</td>
+  <td>LibGDX</td>
+  <td></td>
+  <td>IndieRunner</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-25T00:00:00.000Z</td>
+  <td>98073</td>
+</tr>
+<tr>
+  <td>552</td>
+  <td>Utter a Name</td>
+  <td></td>
+  <td>StatusDate: 2026-01-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3213430/Utter_a_Name/</td>
+  <td></td>
+  <td>Detective Mystery</td>
+  <td>difficult, indie, investigation, mystery, puzzle</td>
+  <td>evilalbert</td>
+  <td>evilalbert</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-17T00:00:00.000Z</td>
+  <td>2026-01-17T00:00:00.000Z</td>
+  <td>326216</td>
+</tr>

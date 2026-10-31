@@ -1,0 +1,209 @@
+<tr>
+  <td>537</td>
+  <td>Nelly Cootalot: Spoonbeaks Ahoy! HD</td>
+  <td>1.01</td>
+  <td>StatusDate: 2025-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/nelly_cootalot_spoonbeaks_ahoy_hd, https://store.steampowered.com/app/763030/Nelly_Cootalot_Spoonbeaks_Ahoy_HD/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>cute, female protagonist, indie</td>
+  <td>Alasdair Beckett-King, Application Systems Heidelberg</td>
+  <td>Application Systems Heidelberg</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>90001</td>
+</tr>
+<tr>
+  <td>250</td>
+  <td>Neofeud</td>
+  <td></td>
+  <td>StatusDate: 2021-10-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://silverspook.itch.io/neofeud, https://store.steampowered.com/app/673850/Neofeud/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>cyberpunk</td>
+  <td>Silver Spook Games</td>
+  <td>Silver Spook Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>55688</td>
+</tr>
+<tr>
+  <td>601</td>
+  <td>Neofeud 2</td>
+  <td></td>
+  <td>StatusDate: 2026-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://silverspook.itch.io/neofeud2, https://store.steampowered.com/app/4611140/Neofeud_2/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>cyberpunk</td>
+  <td>Silver Spook Games</td>
+  <td>Silver Spook Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>397714</td>
+</tr>
+<tr>
+  <td>251</td>
+  <td>Neoteria</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/neoteria</td>
+  <td></td>
+  <td>Side-Scrolling Shooter</td>
+  <td>indie</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>61111</td>
+</tr>
+<tr>
+  <td>607</td>
+  <td>Nested</td>
+  <td></td>
+  <td>StatusDate: 2026-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3752780/Nested/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>brain teaser, indie, logic</td>
+  <td>Nathan Sioui</td>
+  <td>Nathan Sioui</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>350086</td>
+</tr>
+<tr>
+  <td>252</td>
+  <td>NeuroVoider</td>
+  <td></td>
+  <td></td>
+  <td>https://flyingoakgames.itch.io/neurovoider, https://www.gog.com/game/neurovoider, https://www.humblebundle.com/store/neurovoider, https://store.steampowered.com/app/400450/NeuroVoider/</td>
+  <td>fnaify >= 3.0</td>
+  <td>Twin-Stick Shooter</td>
+  <td>indie, roguelite</td>
+  <td>Flying Oak Games</td>
+  <td>Plug In Digital</td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>23581</td>
+</tr>
+<tr>
+  <td>253</td>
+  <td>Nightfall Hacker</td>
+  <td></td>
+  <td>StatusDate: 2021-09-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1204080/Nightfall_Hacker/</td>
+  <td></td>
+  <td>Hacking, Puzzle</td>
+  <td>2D, hacking, indie</td>
+  <td>Teradile</td>
+  <td>Teradile</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>127578</td>
+</tr>
+<tr>
+  <td>439</td>
+  <td>Nightmare Frames</td>
+  <td></td>
+  <td>StatusDate: 2024-06-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://postmodernadventures.itch.io/nightmare-frames, https://store.steampowered.com/app/1650590/Nightmare_Frames/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>80s, horror, indie, investigation, pixelart</td>
+  <td>Postmodern Adventures</td>
+  <td>Postmodern Adventures</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>152450</td>
+</tr>
+<tr>
+  <td>254</td>
+  <td>Northgard</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/northgard, https://www.humblebundle.com/store/northgard, https://store.steampowered.com/app/466560/Northgard/</td>
+  <td>DLC needs hlvideo</td>
+  <td>RTS</td>
+  <td></td>
+  <td>Shiro Games</td>
+  <td></td>
+  <td>HashLink</td>
+  <td>IndieRunner (unless using rigg)</td>
+  <td>hashlink</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-03-13T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>18918</td>
+</tr>
+<tr>
+  <td>255</td>
+  <td>Nuclear Blaze</td>
+  <td>1.5</td>
+  <td>StatusDate: 2023-05-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1662480/Nuclear_Blaze/</td>
+  <td>needs hlsteam to run; in dir `sdl64` rm *.{,h}dll and run `hl`</td>
+  <td>Platformer</td>
+  <td>indie, pixel art</td>
+  <td>Deepnight Games</td>
+  <td>Deepnight Games</td>
+  <td>HashLink</td>
+  <td>IndieRunner (unless using rigg)</td>
+  <td>hashlink</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>153876</td>
+</tr>
+<tr>
+  <td>589</td>
+  <td>no signal</td>
+  <td></td>
+  <td>StatusDate: 2026-06-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://exodrifter.itch.io/no-signal, https://store.steampowered.com/app/2840590/no_signal/</td>
+  <td></td>
+  <td>puzzle</td>
+  <td>exploration, indie, mystery, scifi</td>
+  <td>exodrifter</td>
+  <td>exodrifter</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-06-24T00:00:00.000Z</td>
+  <td>2026-06-24T00:00:00.000Z</td>
+  <td>290895</td>
+</tr>

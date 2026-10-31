@@ -1,0 +1,19 @@
+<tr>
+  <td>592</td>
+  <td>[Redacted] The Safehouse</td>
+  <td></td>
+  <td>StatusDate: 2026-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://uheartbeast.itch.io/redacted-the-safehouse, https://store.steampowered.com/app/403620/Redacted_The_Safehouse/</td>
+  <td></td>
+  <td>Detective Game</td>
+  <td>3d, indie, investigation, murder mystery, story-rich</td>
+  <td>Heartbeast</td>
+  <td>Heartbeast</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-07-22T00:00:00.000Z</td>
+  <td>2026-07-22T00:00:00.000Z</td>
+  <td>398337</td>
+</tr>

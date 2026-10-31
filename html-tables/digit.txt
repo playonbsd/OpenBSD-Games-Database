@@ -1,0 +1,76 @@
+<tr>
+  <td>431</td>
+  <td>100 Steps</td>
+  <td></td>
+  <td>StatusDate: 2024-05-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2374420/100_Steps/</td>
+  <td></td>
+  <td>Roguelike</td>
+  <td>dungeoncrawler, indie, turn-based</td>
+  <td>Endorth Studio</td>
+  <td>ByteSize, Kinda Brave</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-05-14T00:00:00.000Z</td>
+  <td>2024-05-14T00:00:00.000Z</td>
+  <td>265505</td>
+</tr>
+<tr>
+  <td>613</td>
+  <td>20 More, Somehow Even Smaller, Mazes</td>
+  <td></td>
+  <td>StatusDate: 2026-09-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/4428890/20_More_Somehow_Even_Smaller_Mazes/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>abstract, colorful, free, indie, surreal</td>
+  <td>FLEB</td>
+  <td>FLEB</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-09-18T00:00:00.000Z</td>
+  <td>2026-09-18T00:00:00.000Z</td>
+  <td>393460</td>
+</tr>
+<tr>
+  <td>462</td>
+  <td>20 Small Mazes</td>
+  <td></td>
+  <td>StatusDate: 2024-08-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://fleb.itch.io/20-small-mazes, https://store.steampowered.com/app/2570630/20_Small_Mazes/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>casual, free, indie</td>
+  <td>FLEB</td>
+  <td>FLEB</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-07T00:00:00.000Z</td>
+  <td>2024-08-07T00:00:00.000Z</td>
+  <td>272249</td>
+</tr>
+<tr>
+  <td>494</td>
+  <td>8 Colors Star Guardians+</td>
+  <td></td>
+  <td>StatusDate: 2024-09-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://dermondhase.itch.io/8-colors-sentai, https://store.steampowered.com/app/2483150/8Colors_Star_Guardians/</td>
+  <td>Steam version needs Godot 4 built with GodotSteam support</td>
+  <td>RPG</td>
+  <td>LGBTQ, female protagonist, indie, retro, turn-based</td>
+  <td>Andrea Demetrio</td>
+  <td>Andrea Demetrio</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-10-02T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>258599</td>
+</tr>

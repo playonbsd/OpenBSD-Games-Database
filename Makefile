@@ -1,6 +1,8 @@
-all: csv json stats
+HTML_SPLIT =	[:punct:] [:digit:] Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 
-.PHONY: check csv print-csv json stats print-json print-stats diff
+all: csv html json stats
+
+.PHONY: check csv diff html json print-csv print-html print-json print-stats stats
 
 check:
 	@echo "Checking if all Id's are unique (compare that count is same)..."
@@ -22,6 +24,17 @@ csv:
 
 print-csv:
 	tools/gen_csv.pl openbsd-games.db
+
+html:
+	#skip full table for size reasons; consumers can put it together from the rest
+	#tools/gen_html_table.pl openbsd-games.db > html-tables/full.txt
+	tools/gen_html_table.pl -h openbsd-games.db > html-tables/header.txt
+.for split in ${HTML_SPLIT}
+	tools/gen_html_table.pl -s '^[${split}]' openbsd-games.db > html-tables/${split:C/[[:punct:]]//g}.txt
+.endfor
+
+print-html:
+	tools/gen_html_table.pl openbsd-games.db
 
 json:
 	#single-line openbsd-games.json updates blow up repo size

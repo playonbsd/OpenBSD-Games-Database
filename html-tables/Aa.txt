@@ -1,0 +1,703 @@
+<tr>
+  <td>551</td>
+  <td>A Case of Fraud</td>
+  <td></td>
+  <td>StatusDate: 2026-01-11T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://store.steampowered.com/app/3036350/A_Case_of_Fraud/</td>
+  <td>needs a binary for Godot 4.5+; which is being planned to be added</td>
+  <td>Detective Mystery</td>
+  <td>deduction, indie, mystery, puzzle</td>
+  <td>Hesperus Games</td>
+  <td>Hesperus Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4??</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-11T00:00:00.000Z</td>
+  <td>2026-01-09T00:00:00.000Z</td>
+  <td>325352</td>
+</tr>
+<tr>
+  <td>447</td>
+  <td>A Castle Full of Cats</td>
+  <td>1.08</td>
+  <td>StatusDate: 2024-07-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/a_castle_full_of_cats, https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/</td>
+  <td></td>
+  <td>Hidden Object Puzzle</td>
+  <td>cats, cute, indie, wholesome</td>
+  <td>Devcats</td>
+  <td>Devcats</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-07-13T00:00:00.000Z</td>
+  <td>2024-07-13T00:00:00.000Z</td>
+  <td>210901</td>
+</tr>
+<tr>
+  <td>153</td>
+  <td>A Golden Wake</td>
+  <td></td>
+  <td>StatusDate: 2021-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/a_golden_wake, https://store.steampowered.com/app/307570</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Grundislav Games</td>
+  <td>Grundislav Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8819</td>
+</tr>
+<tr>
+  <td>487</td>
+  <td>A Solitaire Mystery</td>
+  <td>1.1</td>
+  <td>StatusDate: 2024-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://hempuli.itch.io/a-solitaire-mystery</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>indie, puzzle</td>
+  <td>Hempuli</td>
+  <td></td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td></td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>297992</td>
+</tr>
+<tr>
+  <td>405</td>
+  <td>A Virus Named Tom</td>
+  <td></td>
+  <td>StatusComment: - saving not working; unplayable , StatusDate: 2021-11-28T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.humblebundle.com/store/a-virus-named-tom, https://www.humblebundle.com/store/a-virus-named-tom-with-soundtrack, https://store.steampowered.com/app/207650</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3040</td>
+</tr>
+<tr>
+  <td>457</td>
+  <td>ALL IN THE GAME: Crime Strategy</td>
+  <td></td>
+  <td>StatusDate: 2024-08-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2346780/ALL_IN_THE_GAME_Crime_Strategy/</td>
+  <td>needs luasteam 3.2.1</td>
+  <td>TBS</td>
+  <td>4X, crime, multiplayer</td>
+  <td>Strangelet Games</td>
+  <td>Strangelet Games</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td></td>
+  <td>2024-08-05T00:00:00.000Z</td>
+  <td>2024-08-05T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome</td>
+  <td>Demo on HumbleBundle store page</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3240</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>Abscission</td>
+  <td></td>
+  <td>StatusDate: 2024-05-04T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://store.steampowered.com/app/2392160/Abscission/</td>
+  <td>music cuts out intermittently</td>
+  <td>Adventure</td>
+  <td>Lovecraftian, body horror, detective, horror, noir, point & click</td>
+  <td>Beyond Booleans</td>
+  <td>Beyond Booleans</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-05-04T00:00:00.000Z</td>
+  <td>2023-10-26T00:00:00.000Z</td>
+  <td>247159</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Aedemphia</td>
+  <td></td>
+  <td></td>
+  <td>https://www.aedemphia-rpg.net/</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/g8o27l/aedemphia_works_in_openbsd_with_easyrpg_engine/ Reddit post</td>
+  <td>RPG</td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td>RPG Maker</td>
+  <td></td>
+  <td>easyrpg</td>
+  <td></td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>125943</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>Aeternum</td>
+  <td></td>
+  <td>StatusDate: 2021-11-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/454750/Aeternum/, http://wastedbrilliance.com/games/aeternum/, https://brooksbishop.itch.io/aeternum</td>
+  <td>needs libCSteamworks library</td>
+  <td>Shoot'em Up</td>
+  <td>anime, bullet hell, indie, manga</td>
+  <td>Creaky Lantern Games</td>
+  <td>Creaky Lantern Games</td>
+  <td>FNA</td>
+  <td></td>
+  <td>fnaify</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2021-11-27T00:00:00.000Z</td>
+  <td>50223</td>
+</tr>
+<tr>
+  <td>430</td>
+  <td>Aether</td>
+  <td>0.3.2</td>
+  <td>StatusDate: 2024-05-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2462790/Aether/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>early access, indie</td>
+  <td>ORYgames</td>
+  <td>ORYgames</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2024-05-14T00:00:00.000Z</td>
+  <td>2024-05-14T00:00:00.000Z</td>
+  <td>254916</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>Airships: Conquer the Skies</td>
+  <td>1.2.2</td>
+  <td>StatusDate: 2023-09-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/airships_conquer_the_skies, https://zarkonnen.itch.io/airships, https://store.steampowered.com/app/342560</td>
+  <td>has had instability, not observed by me with setting System Cursor, if OpenGL errors, set MESA_NO_ERROR=1; for DLC Heroes & Villains copy directory `heroes` into the game's directory</td>
+  <td>RTS</td>
+  <td>indie, steampunk</td>
+  <td>David Stark</td>
+  <td></td>
+  <td>LWJGL2</td>
+  <td>IndieRunner</td>
+  <td>java-1.8.0</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-09-26T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35934</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>Akane the Kunoichi</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/291130/Akane_the_Kunoichi</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Haruneko Entertainment</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8376</td>
+</tr>
+<tr>
+  <td>672</td>
+  <td>Alan Wake Remastered</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/alan-wake-remastered</td>
+  <td>may need Epic games services, e.g. via rare launcher</td>
+  <td>Action Adventure</td>
+  <td>action, atmospheric, cerebral, dark, horror, mystery</td>
+  <td>Remedy Entertainment</td>
+  <td>Epic Games Publishing</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>167611</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>Alien Shepherd</td>
+  <td>1.0.1</td>
+  <td>StatusDate: 2023-01-04T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/1808820/Alien_Shepherd/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Florent Espanet, Lea Espanet</td>
+  <td>Florent Espanet</td>
+  <td>HashLink</td>
+  <td></td>
+  <td>HashLink</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-06-11T00:00:00.000Z</td>
+  <td>190200</td>
+</tr>
+<tr>
+  <td>590</td>
+  <td>Alphaman</td>
+  <td>1.0.9</td>
+  <td>StatusDate: 2026-06-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://yomic.itch.io/alphaman, https://store.steampowered.com/app/1068800/Alphaman/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>indie, megaman-like, retro</td>
+  <td>Heartfelt Games LLC</td>
+  <td>Heartfelt Games LLC</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-06-25T00:00:00.000Z</td>
+  <td>2026-06-25T00:00:00.000Z</td>
+  <td>100109</td>
+</tr>
+<tr>
+  <td>538</td>
+  <td>Alum</td>
+  <td></td>
+  <td>StatusDate: 2025-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/338420/Alum/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>JRPG, RPG, detective, indie</td>
+  <td>Crashable Studios</td>
+  <td>Crashable Studios</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>26873</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>Always Sometimes Monsters</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/always_sometimes_monsters, https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/</td>
+  <td>open index.html in www subdirectory (Linux version)</td>
+  <td>RPG</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>NW.js</td>
+  <td></td>
+  <td>HTML5</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>7289</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>Amazing Princess Sarah</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/315850/Amazing_Princess_Sarah/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Haruneko Entertainment</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>20968</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>Amnesia: The Dark Descent</td>
+  <td></td>
+  <td>StatusDate: 2023-05-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/, https://www.gog.com/game/amnesia_the_dark_descent</td>
+  <td>see README for installation</td>
+  <td>Horror</td>
+  <td>adventure, classic, first-person, puzzle</td>
+  <td>Frictional Games</td>
+  <td>Frictional Games</td>
+  <td>amnesia-tdd</td>
+  <td></td>
+  <td>amnesia-tdd</td>
+  <td>2010-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>111</td>
+</tr>
+<tr>
+  <td>434</td>
+  <td>An English Haunting</td>
+  <td></td>
+  <td>StatusDate: 2024-05-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://postmodernadventures.itch.io/an-english-haunting, https://store.steampowered.com/app/2474030/An_English_Haunting/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>horror, indie, pixelart</td>
+  <td>Postmodern Adventures</td>
+  <td>Postmodern Adventures, enComplot</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-05-22T00:00:00.000Z</td>
+  <td>2024-05-22T00:00:00.000Z</td>
+  <td>258723</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>Anagrams</td>
+  <td>1.1.13</td>
+  <td>StatusDate: 2023-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://herogameco.itch.io/anagrams</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>casual, relaxing, word game</td>
+  <td>Hero Game Co LLC</td>
+  <td>Hero Game Co LLC</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>169360</td>
+</tr>
+<tr>
+  <td>628</td>
+  <td>Ancient: Legacy of Azul</td>
+  <td></td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://cosmic-spud.itch.io/ancient, https://store.steampowered.com/app/1661920/Ancient_Legacy_of_Azul/</td>
+  <td></td>
+  <td>Action Roguelite</td>
+  <td>indie, pixel graphics, sidescroller</td>
+  <td>Cosmic Spud</td>
+  <td>Cosmic Spud</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>153150</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>Anodyne</td>
+  <td>2.0</td>
+  <td>StatusDate: 2023-10-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://han-tani.itch.io/anodyne, https://store.steampowered.com/app/234900/Anodyne/</td>
+  <td>rigg needs -upermissive at this point</td>
+  <td>Action Adventure</td>
+  <td>pixel art, retro, zelda-like</td>
+  <td>Melos Han-Tani, Marina Kittaka</td>
+  <td>Analgesic Productions</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-10-23T00:00:00.000Z</td>
+  <td>2023-10-23T00:00:00.000Z</td>
+  <td>11092</td>
+</tr>
+<tr>
+  <td>638</td>
+  <td>Ape Out</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/ape_out</td>
+  <td></td>
+  <td>Action</td>
+  <td>arcade, indie, violent</td>
+  <td>Gabe Cuzzillo</td>
+  <td>Devolver Digital</td>
+  <td>Unity</td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>27719</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>Apocalyptic Vibes</td>
+  <td></td>
+  <td>StatusDate: 2023-03-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1840610/Apocalyptic_Vibes/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>post-apocalypse</td>
+  <td>Amanito Computing</td>
+  <td>Frictional Games</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2023-03-05T00:00:00.000Z</td>
+  <td>189189</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>Apotheon</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/apotheon, https://www.gog.com/game/apotheon, https://store.steampowered.com/app/208750</td>
+  <td></td>
+  <td>Brawler, Platformer</td>
+  <td>mythology</td>
+  <td>Alientrap Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9016</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>Apple Jack 1&2</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/351690/Apple_Jack_12/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>My Owl Software</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35716</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>Aquaria</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/aquaria, https://store.steampowered.com/app/24420/Aquaria/</td>
+  <td></td>
+  <td>Action</td>
+  <td>indie</td>
+  <td>Bit Blot LLC</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>AquariaOSE</td>
+  <td>2007-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>7406</td>
+</tr>
+<tr>
+  <td>465</td>
+  <td>Arco</td>
+  <td></td>
+  <td>StatusDate: 2024-08-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2366970/Arco/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>adventure, indie, turn-based</td>
+  <td>Franek, Max Cahill, Bibiki, Fayer</td>
+  <td>Panic</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-15T00:00:00.000Z</td>
+  <td>2024-08-15T00:00:00.000Z</td>
+  <td>263903</td>
+</tr>
+<tr>
+  <td>486</td>
+  <td>Arctic Eggs</td>
+  <td></td>
+  <td>StatusComment: after tutorial endless fall through floor, StatusDate: 2024-09-24T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://the-water-museum.itch.io/arctic-eggs, https://store.steampowered.com/app/2763670/Arctic_Eggs/</td>
+  <td></td>
+  <td>Cooking</td>
+  <td>3d, dystopia, first person, indie, physics, surreal</td>
+  <td>The Water Museum</td>
+  <td>CRITICAL REFLEX</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-28T00:00:00.000Z</td>
+  <td>2024-09-24T00:00:00.000Z</td>
+  <td>280931</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>Arx Fatalis</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/arx_fatalis, https://store.steampowered.com/app/1700/Arx_Fatalis/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>first-person</td>
+  <td>Arkane Studios</td>
+  <td>JoWood Productions</td>
+  <td></td>
+  <td></td>
+  <td>arx-libertatis</td>
+  <td>2002-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>602</td>
+</tr>
+<tr>
+  <td>544</td>
+  <td>Ascent DX</td>
+  <td></td>
+  <td>StatusDate: 2025-12-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3384890/Ascent_DX/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>atmospheric, exploration, free, indie, scifi</td>
+  <td>Johan Peitz, Vav</td>
+  <td>Apskeppet</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2025-12-27T00:00:00.000Z</td>
+  <td>2025-12-27T00:00:00.000Z</td>
+  <td>336896</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>Ashworld</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/ashworld, https://store.steampowered.com/app/580320/Ashworld/</td>
+  <td></td>
+  <td>Action</td>
+  <td>indie, pixels, post-apocalypse, survival</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>43120</td>
+</tr>
+<tr>
+  <td>581</td>
+  <td>Astro Protocol</td>
+  <td>1.1.16</td>
+  <td>StatusDate: 2026-05-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3727420/Astro_Protocol/</td>
+  <td></td>
+  <td>Turn-based Strategy</td>
+  <td>4X, indie, space</td>
+  <td>Null Vector Studios</td>
+  <td>Null Vector Studios</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-28T00:00:00.000Z</td>
+  <td>2026-05-28T00:00:00.000Z</td>
+  <td>350085</td>
+</tr>
+<tr>
+  <td>21</td>
+  <td>Atom Zombie Smasher</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/55040/Atom_Zombie_Smasher/</td>
+  <td>fnaify >= 3.0, fnaify-extralibs</td>
+  <td>RTS</td>
+  <td>zombies</td>
+  <td>Blendo Games</td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8388</td>
+</tr>
+<tr>
+  <td>23</td>
+  <td>Axiom Verge</td>
+  <td>1.53</td>
+  <td>StatusDate: 2021-11-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.epicgames.com/store/en-US/product/axiom-verge/home, https://www.amazon.com/Axiom-Verge-Collectors-w-Steelbook-Pc/dp/B06ZYXYMFT, https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=axiom+verge+collector&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=axiom+verge+gametrust, https://store.steampowered.com/app/332200</td>
+  <td>saving not possible with Steam version</td>
+  <td>Metroidvania</td>
+  <td></td>
+  <td>Thomas Happ Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8652</td>
+</tr>

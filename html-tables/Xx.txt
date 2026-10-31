@@ -1,0 +1,19 @@
+<tr>
+  <td>419</td>
+  <td>X-Com: UFO Defense (aka UFO: Enemy Unknown)</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/xcom_ufo_defense, https://www.humblebundle.com/store/xcom-ufo-defense, https://store.steampowered.com/app/7760/XCOM_UFO_Defense/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>aliens</td>
+  <td>Mythos Games</td>
+  <td>MicroProse</td>
+  <td></td>
+  <td></td>
+  <td>openxcom</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>24</td>
+</tr>

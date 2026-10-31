@@ -1,0 +1,1406 @@
+<tr>
+  <td>378</td>
+  <td>TD Worlds</td>
+  <td></td>
+  <td>StatusDate: 2022-01-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1659180/TD_Worlds/</td>
+  <td></td>
+  <td>Tower Defense</td>
+  <td>indie</td>
+  <td>MAKSIM VOLKAU</td>
+  <td>MAKSIM VOLKAU</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-01-10T00:00:00.000Z</td>
+  <td>168619</td>
+</tr>
+<tr>
+  <td>553</td>
+  <td>Tabulo</td>
+  <td></td>
+  <td>StatusDate: 2026-01-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3538860/Tabulo/</td>
+  <td>needs Godot 4.5+ runtime</td>
+  <td>Roguelike Deckbuilder</td>
+  <td>indie</td>
+  <td>Noah Games</td>
+  <td>Noah Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot4?!?!</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-01-18T00:00:00.000Z</td>
+  <td>2026-01-18T00:00:00.000Z</td>
+  <td>337994</td>
+</tr>
+<tr>
+  <td>594</td>
+  <td>TactiCats</td>
+  <td></td>
+  <td>StatusDate: 2026-07-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1918320/TactiCats/</td>
+  <td></td>
+  <td>Arena Fighting</td>
+  <td>action, arcade, cats, indie, local multiplayer, pixelart</td>
+  <td>HungryDingo</td>
+  <td>Pineapple Works</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-07-26T00:00:00.000Z</td>
+  <td>2026-07-26T00:00:00.000Z</td>
+  <td>197511</td>
+</tr>
+<tr>
+  <td>375</td>
+  <td>Takara Cards</td>
+  <td>Early Access b085</td>
+  <td>StatusDate: 2023-04-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1932210/Takara_Cards/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>deckbuilder, indie, roguelite, space</td>
+  <td>Post Mortem Pixels</td>
+  <td>Post Mortem Pixels</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-04-28T00:00:00.000Z</td>
+  <td>194401</td>
+</tr>
+<tr>
+  <td>376</td>
+  <td>Tales of Maj'Eyal</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/tales_of_majeyal, https://darkgod.itch.io/tales-of-majeyal, https://www.humblebundle.com/store/tales-of-majeyal, https://store.steampowered.com/app/259680/Tales_of_MajEyal/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>open-source, roguelike</td>
+  <td>DarkGod</td>
+  <td>Netcore</td>
+  <td>T-Engine 4</td>
+  <td></td>
+  <td>tome4</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8796</td>
+</tr>
+<tr>
+  <td>377</td>
+  <td>Tanglewood</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/tanglewoodr, https://bigevilcorporation.itch.io/tanglewood, https://store.steampowered.com/app/837190/TANGLEWOOD/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>ROM</td>
+  <td>Big Evil Corporation</td>
+  <td></td>
+  <td>megaEx</td>
+  <td></td>
+  <td>mednafen</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>104602</td>
+</tr>
+<tr>
+  <td>511</td>
+  <td>Tanks of Freedom II</td>
+  <td></td>
+  <td>StatusDate: 2024-11-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3071660/Tanks_of_Freedom_II/</td>
+  <td></td>
+  <td>Turn-Based Strategy</td>
+  <td>indie, retro, strategy, tactics</td>
+  <td>P1X</td>
+  <td>P1X</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-11-01T00:00:00.000Z</td>
+  <td>2024-11-01T00:00:00.000Z</td>
+  <td>309548</td>
+</tr>
+<tr>
+  <td>379</td>
+  <td>Technobabylon</td>
+  <td></td>
+  <td>StatusDate: 2021-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/technobabylon, https://store.steampowered.com/app/307580</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>cyberpunk</td>
+  <td>Technocrat</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>13232</td>
+</tr>
+<tr>
+  <td>428</td>
+  <td>Tempus Bound</td>
+  <td></td>
+  <td>StatusComment: - severe shader corruption/glitching, StatusDate: 2024-05-04T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/1466580/Tempus_Bound/</td>
+  <td></td>
+  <td>puzzle platformer</td>
+  <td>2d, exploration, indie</td>
+  <td>Jasonsumm Games</td>
+  <td>Jasonsumm Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-05-04T00:00:00.000Z</td>
+  <td>2024-05-03T00:00:00.000Z</td>
+  <td>156997</td>
+</tr>
+<tr>
+  <td>426</td>
+  <td>Tendryll</td>
+  <td></td>
+  <td>StatusDate: 2024-05-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1915780/Tendryll/</td>
+  <td>needs libgodotsteam.so in addons/godotsteam/x11/</td>
+  <td>roguelike deckbuilder</td>
+  <td>early access, indie</td>
+  <td>Brute Farce</td>
+  <td>Brute Farce</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2024-05-01T00:00:00.000Z</td>
+  <td>2024-05-01T00:00:00.000Z</td>
+  <td>211232</td>
+</tr>
+<tr>
+  <td>380</td>
+  <td>Terraforming Earth</td>
+  <td>1.4.12</td>
+  <td>StatusDate: 2023-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1029220/Terraforming_Earth/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie, robots</td>
+  <td>Lost Robots</td>
+  <td>Lost Robots</td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-11</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>115499</td>
+</tr>
+<tr>
+  <td>381</td>
+  <td>Terraria</td>
+  <td>1.4.3.6v2</td>
+  <td>StatusDate: 2022-04-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/terraria, https://www.humblebundle.com/store/terraria, https://store.steampowered.com/app/105600/Terraria/</td>
+  <td>fnaify 3.0p0 and steamworks-nosteam 0.4.1p0 install Steamworks.NET.dll stub which interferes</td>
+  <td>Sandbox</td>
+  <td>award-winning</td>
+  <td>Re-Logic</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1879</td>
+</tr>
+<tr>
+  <td>524</td>
+  <td>Tetromino</td>
+  <td></td>
+  <td>StatusDate: 2025-08-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://offekt.itch.io/tetromino</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>indie</td>
+  <td>OFFEKT</td>
+  <td>OFFEKT</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2025-08-15T00:00:00.000Z</td>
+  <td>2025-08-15T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>463</td>
+  <td>That's not my Neighbor</td>
+  <td>1.1.0.2</td>
+  <td>StatusDate: 2024-08-08T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://nachogames.itch.io/thats-not-my-neighbor</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>horror, indie, spooky, working simulator</td>
+  <td>Nacho Sama</td>
+  <td>Nacho Sama</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-08-08T00:00:00.000Z</td>
+  <td>288935</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>The Adventures of Mr. Hat</td>
+  <td>Early Access</td>
+  <td>StatusDate: 2022-05-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1869200/The_Adventures_of_Mr_Hat/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>AX-GAME</td>
+  <td>Fun Quarter</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-05-13T00:00:00.000Z</td>
+  <td>191822</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>The Adventures of Shuggy</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/211440/Adventures_of_Shuggy/, https://www.gog.com/game/the_adventures_of_shuggy</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Smudged Cat Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11084</td>
+</tr>
+<tr>
+  <td>22</td>
+  <td>The Average Everyday Adventures of Samantha Browne</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/445130/The_Average_Everyday_Adventures_of_Samantha_Browne/</td>
+  <td>https://videos.pair2jeux.tube/videos/watch/f8a323da-29b0-4997-b2ea-af30d95cf058 Video https://www.reddit.com/r/openbsd_gaming/comments/hjctm2/the_average_everyday_adventures_of_samantha/ Reddit post</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Ren'Py</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>16984</td>
+</tr>
+<tr>
+  <td>570</td>
+  <td>The Beekeeper's Picnic</td>
+  <td>1.13.2</td>
+  <td>StatusDate: 2026-05-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://jabbage.itch.io/the-beekeepers-picnic-poc, https://store.steampowered.com/app/2248890/The_Beekeepers_Picnic__A_Sherlockian_Adventure/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>detective, point&click, retro, story-rich</td>
+  <td>The Wonder Room</td>
+  <td>The Wonder Room</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-05-05T00:00:00.000Z</td>
+  <td>2026-05-05T00:00:00.000Z</td>
+  <td>235520</td>
+</tr>
+<tr>
+  <td>610</td>
+  <td>The Blackwell Convergence</td>
+  <td></td>
+  <td>StatusDate: 2026-08-23T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/en/game/blackwell_bundle, https://store.steampowered.com/app/80350/Blackwell_Convergence/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>female protagonist, ghosts, indie, pixelart, urban</td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2009-01-01T00:00:00.000Z</td>
+  <td>2026-08-23T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>9039</td>
+</tr>
+<tr>
+  <td>35</td>
+  <td>The Blackwell Epiphany</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/the_blackwell_epiphany, https://store.steampowered.com/app/236930</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Wadjet Eye Games</td>
+  <td></td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8511</td>
+</tr>
+<tr>
+  <td>591</td>
+  <td>The Blackwell Legacy</td>
+  <td>5.0</td>
+  <td>StatusDate: 2026-07-11T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/en/game/blackwell_bundle, https://store.steampowered.com/app/80330/The_Blackwell_Legacy/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>indie, mystery, pixelart, urban fantasy</td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2006-01-01T00:00:00.000Z</td>
+  <td>2026-07-11T00:00:00.000Z</td>
+  <td>2026-07-11T00:00:00.000Z</td>
+  <td>9043</td>
+</tr>
+<tr>
+  <td>58</td>
+  <td>The Case of the Golden Idol</td>
+  <td>2023.08.22</td>
+  <td>StatusDate: 2023-08-05T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/, https://www.gog.com/en/game/the_case_of_the_golden_idol</td>
+  <td>for DLC from GOG, place goggame-*.info in root directory '/' (yes!) for the game to detect and enable the DLC</td>
+  <td>Adventure</td>
+  <td>conspiracy, detective, indie</td>
+  <td>Color Gray Games</td>
+  <td>Playstack</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-05-13T00:00:00.000Z</td>
+  <td>2022-11-17T00:00:00.000Z</td>
+  <td>166722</td>
+</tr>
+<tr>
+  <td>63</td>
+  <td>The Cat Lady</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/253110, https://www.gog.com/game/the_cat_lady</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Harvester Games</td>
+  <td>Screen 7</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11270</td>
+</tr>
+<tr>
+  <td>466</td>
+  <td>The Crimson Diamond</td>
+  <td></td>
+  <td>StatusDate: 2024-08-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1098770/The_Crimson_Diamond/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>mystery, retro</td>
+  <td>Julia Minamata</td>
+  <td>Julia Minamata</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-15T00:00:00.000Z</td>
+  <td>2024-08-15T00:00:00.000Z</td>
+  <td>119214</td>
+</tr>
+<tr>
+  <td>443</td>
+  <td>The Dagger of Amon Ra</td>
+  <td>1.1</td>
+  <td>StatusDate: 2024-06-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/the_dagger_of_amon_ra</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>detective, mystery</td>
+  <td>Sierra</td>
+  <td>Sierra</td>
+  <td>ScummVM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1992-01-01T00:00:00.000Z</td>
+  <td>2024-06-26T00:00:00.000Z</td>
+  <td>2024-06-26T00:00:00.000Z</td>
+  <td>9737</td>
+</tr>
+<tr>
+  <td>555</td>
+  <td>The Dark Rites of Arkham</td>
+  <td>1.0.1</td>
+  <td>StatusDate: 2026-02-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://postmodernadventures.itch.io/the-dark-rites-of-arkham, https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>gore, horror, indie, lovecraftian, pixelart, pulp</td>
+  <td>Postmodern Adventures</td>
+  <td>enComplot</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-02-15T00:00:00.000Z</td>
+  <td>2026-02-15T00:00:00.000Z</td>
+  <td>338552</td>
+</tr>
+<tr>
+  <td>102</td>
+  <td>The Dig</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/the_dig, https://store.steampowered.com/app/6040</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>classic</td>
+  <td>LucasArts</td>
+  <td></td>
+  <td>SCUMM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>207</td>
+</tr>
+<tr>
+  <td>104</td>
+  <td>The Dishwasher: Vampire Smile</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/the-dishwasher-vampire-smile, https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/</td>
+  <td></td>
+  <td>Brawler</td>
+  <td>gore, indie</td>
+  <td>Ska Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>20582</td>
+</tr>
+<tr>
+  <td>121</td>
+  <td>The Elder Scrolls III: Morrowind</td>
+  <td></td>
+  <td>StatusDate: 2023-05-06T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition, https://store.steampowered.com/app/22320</td>
+  <td></td>
+  <td>RPG</td>
+  <td>classic</td>
+  <td>Bethesda Game Studios</td>
+  <td>Bethesda Softworks</td>
+  <td>NetImmerse</td>
+  <td></td>
+  <td>openmw</td>
+  <td>2002-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>56</td>
+</tr>
+<tr>
+  <td>660</td>
+  <td>The Elder Scrolls: Skyrim</td>
+  <td></td>
+  <td>StatusDate: 2026-10-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_special_edition</td>
+  <td></td>
+  <td>RPG</td>
+  <td>adventure, atmospheric, classic, fantasy, story-rich</td>
+  <td>Bethesda Game Studios</td>
+  <td>Bethesda Softworks LLC</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-14T00:00:00.000Z</td>
+  <td>2026-10-14T00:00:00.000Z</td>
+  <td>19457</td>
+</tr>
+<tr>
+  <td>584</td>
+  <td>The Endless Night</td>
+  <td>0.1.4</td>
+  <td>StatusDate: 2026-06-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://theendlessnight.itch.io/the-endless-night</td>
+  <td></td>
+  <td>Roguelite Deckbuilder</td>
+  <td>cardgame, indie, urban fantasy</td>
+  <td>TheEndlessNight</td>
+  <td>TheEndlessNight</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-06-07T00:00:00.000Z</td>
+  <td>2026-06-07T00:00:00.000Z</td>
+  <td>405133</td>
+</tr>
+<tr>
+  <td>130</td>
+  <td>The Excavation of Hob's Barrow</td>
+  <td>1.0</td>
+  <td>StatusDate: 2023-04-15T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.gog.com/en/game/the_excavation_of_hobs_barrow, https://store.steampowered.com/app/1182310/The_Excavation_of_Hobs_Barrow/</td>
+  <td>scummvm >= 2.7.0 display text correctly</td>
+  <td>Adventure</td>
+  <td>pixel art</td>
+  <td>Cloak and Dagger Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-09-28T00:00:00.000Z</td>
+  <td>210665</td>
+</tr>
+<tr>
+  <td>132</td>
+  <td>The Expression Amrilato</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/the_expression_amrilato, https://store.steampowered.com/app/1044490</td>
+  <td>if voices get interrupted, try out Interrupt voices during playback toggle; untested</td>
+  <td>Visual Novel</td>
+  <td></td>
+  <td>SukeraSparo</td>
+  <td>MangaGamer</td>
+  <td>Ren'Py</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>119580</td>
+</tr>
+<tr>
+  <td>145</td>
+  <td>The Forestale</td>
+  <td></td>
+  <td>StatusDate: 2023-01-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/817220/The_Forestale/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie, retro</td>
+  <td>Yorzh Aleksey</td>
+  <td>Yorzh Aleksey</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-25T00:00:00.000Z</td>
+  <td>102875</td>
+</tr>
+<tr>
+  <td>520</td>
+  <td>The Garden Path</td>
+  <td>1.0.0.14</td>
+  <td>StatusDate: 2025-01-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://carrotcakestudio.itch.io/thegardenpath, https://store.steampowered.com/app/1638500/The_Garden_Path/</td>
+  <td></td>
+  <td>Exploration</td>
+  <td>hand-drawn, indie, relaxing</td>
+  <td>carrotcake</td>
+  <td>Mooncat Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>145482</td>
+</tr>
+<tr>
+  <td>158</td>
+  <td>The Great Adventurer</td>
+  <td></td>
+  <td></td>
+  <td>https://ironpowertga.itch.io/the-great-adventurer</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>159</td>
+  <td>The Great Plague Exodus</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1510800/The_Great_Plague_Exodus/</td>
+  <td></td>
+  <td>Simulation</td>
+  <td></td>
+  <td>Priory Games</td>
+  <td>Priory Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>149158</td>
+</tr>
+<tr>
+  <td>573</td>
+  <td>The Idiot's Tale</td>
+  <td></td>
+  <td>StatusDate: 2026-05-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://megalithic-mainframe.itch.io/the-idiots-tale, https://store.steampowered.com/app/810450/The_Idiots_Tale/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>cartoony, comedy, medieval, retro</td>
+  <td>Megalithic Mainframe</td>
+  <td>Megalithic Mainframe</td>
+  <td>Wintermute</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>87956</td>
+</tr>
+<tr>
+  <td>597</td>
+  <td>The Incident at Galley House</td>
+  <td></td>
+  <td>StatusDate: 2026-07-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/</td>
+  <td></td>
+  <td>Detective Mystery</td>
+  <td>detective, indie, mystery, puzzle, story-rich, visual novel</td>
+  <td>William Rous, Evil Trout Inc.</td>
+  <td>Evil Trout Inc.</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-07-31T00:00:00.000Z</td>
+  <td>2026-07-31T00:00:00.000Z</td>
+  <td>350434</td>
+</tr>
+<tr>
+  <td>198</td>
+  <td>The Isolated Town</td>
+  <td>1.0.0</td>
+  <td>StatusDate: 2023-07-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://tossu.itch.io/the-isolated-town, https://store.steampowered.com/app/2417240/The_Isolated_Town/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Tossu</td>
+  <td>Tossu</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-07-14T00:00:00.000Z</td>
+  <td>2023-07-14T00:00:00.000Z</td>
+  <td>253594</td>
+</tr>
+<tr>
+  <td>476</td>
+  <td>The Last Craftsman</td>
+  <td></td>
+  <td>StatusDate: 2024-09-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2238440/The_Last_Craftsman/, https://tummyache.itch.io/the-last-craftsman</td>
+  <td></td>
+  <td>Life Simulator</td>
+  <td>adventure, cozy, early access, indie</td>
+  <td>AuraTummyache</td>
+  <td>AuraTummyache</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>229937</td>
+</tr>
+<tr>
+  <td>521</td>
+  <td>The Legend of Lumina</td>
+  <td>1.2.5</td>
+  <td>StatusDate: 2025-01-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://wizbane.itch.io/the-legend-of-lumina, https://store.steampowered.com/app/2638340/The_Legend_of_Lumina/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>free, indie, sokoban-style</td>
+  <td>Wizbane</td>
+  <td>Wizbane</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2025-01-25T00:00:00.000Z</td>
+  <td>2025-01-25T00:00:00.000Z</td>
+  <td>302360</td>
+</tr>
+<tr>
+  <td>470</td>
+  <td>The Legend of Skye</td>
+  <td>1.3.4</td>
+  <td>StatusDate: 2024-08-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/the_legend_of_skye, https://store.steampowered.com/app/2314850/The_Legend_of_Skye/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>indie, retro</td>
+  <td>Point & Pixel Adventures</td>
+  <td>Point & Pixel Adventures</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-23T00:00:00.000Z</td>
+  <td>2024-08-23T00:00:00.000Z</td>
+  <td>239802</td>
+</tr>
+<tr>
+  <td>220</td>
+  <td>The Longest Journey</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/the_longest_journey, https://store.steampowered.com/app/6310</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Funcom</td>
+  <td></td>
+  <td>Stark</td>
+  <td></td>
+  <td>residualvm</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>895</td>
+</tr>
+<tr>
+  <td>498</td>
+  <td>The Pulse of Evil</td>
+  <td>1.1</td>
+  <td>StatusDate: 2024-09-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2437890/The_Pulse_of_Evil/</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>action, indie, shooter</td>
+  <td>Madnukin, Miroko, Yeramia</td>
+  <td>Mads Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>252261</td>
+</tr>
+<tr>
+  <td>285</td>
+  <td>The Puzzler's Revenge</td>
+  <td></td>
+  <td>StatusDate: 2024-03-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://herogameco.itch.io/the-puzzlers-revenge</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>free, indie, prototype</td>
+  <td>Hero Game Co LLC</td>
+  <td>Hero Game Co LLC</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-03-30T00:00:00.000Z</td>
+  <td>2024-03-30T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>325</td>
+  <td>The Settlers</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>hard to find the game</td>
+  <td>RTS</td>
+  <td></td>
+  <td>Blue Byte</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>freeserf</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>124562</td>
+</tr>
+<tr>
+  <td>324</td>
+  <td>The Settlers II</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/the_settlers_2_gold_edition</td>
+  <td></td>
+  <td>RTS</td>
+  <td></td>
+  <td>Blue Byte</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>returntotheroots</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>2617</td>
+</tr>
+<tr>
+  <td>330</td>
+  <td>The Shivah</td>
+  <td></td>
+  <td>StatusDate: 2021-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/the_shivah, https://store.steampowered.com/app/252370</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>7418</td>
+</tr>
+<tr>
+  <td>402</td>
+  <td>The Useful Dead</td>
+  <td></td>
+  <td></td>
+  <td>http://www.bootdiskrevolution.com/the-useful-dead/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>62830</td>
+</tr>
+<tr>
+  <td>674</td>
+  <td>The Witcher 3: Wild Hunt - Remastered</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition, https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt__Remastered/, https://store.epicgames.com/p/the-witcher-3-wild-hunt, https://www.humblebundle.com/store/the-witcher-3-wild-hunt</td>
+  <td>D3D12 - use VKD3D-proton; cd bin/x64_dx12 && wine witcher3.exe</td>
+  <td>RPG</td>
+  <td>adventure, atmospheric, classic, fantasy, story-rich</td>
+  <td>CD PROJEKT RED</td>
+  <td>CD PROJEKT RED</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>415005</td>
+</tr>
+<tr>
+  <td>678</td>
+  <td>The Witness</td>
+  <td></td>
+  <td>StatusDate: 2026-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/the-witness</td>
+  <td>run the 64-bit executable in wine (witness64_d3d11.exe)</td>
+  <td>Puzzle Game</td>
+  <td>adventure, classic, first-person, indie</td>
+  <td>Thekla, Inc.</td>
+  <td>Thekla, Inc.</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>5601</td>
+</tr>
+<tr>
+  <td>422</td>
+  <td>The Zachtronics Solitaire Collection</td>
+  <td></td>
+  <td>StatusDate: 2022-09-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/, https://www.gog.com/game/the_zachtronics_solitaire_collection</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>zach-like</td>
+  <td>Zachtronics</td>
+  <td>Zachtronics</td>
+  <td>Mono</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-09-07T00:00:00.000Z</td>
+  <td>214973</td>
+</tr>
+<tr>
+  <td>382</td>
+  <td>Theia: The Crimson Eclipse</td>
+  <td></td>
+  <td></td>
+  <td>https://gamejolt.com/games/theia/426665</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/g8ng68/free_40_hour_scifi_jrpg_works_on_openbsd_with/</td>
+  <td>RPG</td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td>RPG Maker</td>
+  <td></td>
+  <td>easyrpg</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>135949</td>
+</tr>
+<tr>
+  <td>383</td>
+  <td>Theme Hospital</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/theme_hospital</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>humor</td>
+  <td>Bullfrog Productions</td>
+  <td>Electronic Arts</td>
+  <td></td>
+  <td></td>
+  <td>corsixth</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1624</td>
+</tr>
+<tr>
+  <td>384</td>
+  <td>They Don't Sleep</td>
+  <td>1.1.2</td>
+  <td>StatusDate: 2023-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2009380/They_Dont_Sleep/</td>
+  <td></td>
+  <td>Action</td>
+  <td>survival, zombies</td>
+  <td>Missing Middle Games</td>
+  <td>Missing Middle Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-10-12T00:00:00.000Z</td>
+  <td>2023-10-12T00:00:00.000Z</td>
+  <td>212094</td>
+</tr>
+<tr>
+  <td>514</td>
+  <td>Thimbleweed Park</td>
+  <td></td>
+  <td>StatusDate: 2024-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/thimbleweed_park, https://store.epicgames.com/en-US/p/thimbleweed-park, https://store.steampowered.com/app/569860/Thimbleweed_Park/</td>
+  <td>ScummVM >= 2.9.0</td>
+  <td>Point & Click Adventure</td>
+  <td>1980s, pixelart, retro, spooky</td>
+  <td>Terrible Toybox</td>
+  <td>Terrible Toybox</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2024-12-25T00:00:00.000Z</td>
+  <td>2024-12-25T00:00:00.000Z</td>
+  <td>10232</td>
+</tr>
+<tr>
+  <td>385</td>
+  <td>Thukothea Defender</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1658490/Thukothea_Defender/</td>
+  <td>https://github.com/rfht/pck-extract</td>
+  <td>Tower Defense</td>
+  <td>indie</td>
+  <td>DjokaGames</td>
+  <td>DjokaGames</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>159855</td>
+</tr>
+<tr>
+  <td>690</td>
+  <td>Timberborn</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/timberborn</td>
+  <td></td>
+  <td>City Building</td>
+  <td>management, sandbox, sci-fi, simulation, survival</td>
+  <td>Mechanistry</td>
+  <td>Mechanistry</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>126381</td>
+</tr>
+<tr>
+  <td>491</td>
+  <td>Time Gentlemen, Please!</td>
+  <td></td>
+  <td>StatusDate: 2024-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/time_gentlemen_please_ben_there_dan_that, https://store.steampowered.com/app/37400/Time_Gentlemen_Please_and_Ben_There_Dan_That_Special_Edition__Double_Pack/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>comedy, indie</td>
+  <td>Size Five Games</td>
+  <td>Size Five Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2009-01-01T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>6253</td>
+</tr>
+<tr>
+  <td>387</td>
+  <td>Time's Up in Tiny Town</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1714430/Times_Up_in_Tiny_Town/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>indie</td>
+  <td>6 Toad Games</td>
+  <td>6 Toad Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>190471</td>
+</tr>
+<tr>
+  <td>386</td>
+  <td>Timespinner</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/timespinner, https://www.humblebundle.com/store/timespinner, https://store.steampowered.com/app/368620/Timespinner/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>indie, pixel art</td>
+  <td>Lunar Ray Games</td>
+  <td>Chucklefish Games</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>28952</td>
+</tr>
+<tr>
+  <td>522</td>
+  <td>Tiny Pasture</td>
+  <td>1.0.3</td>
+  <td>StatusDate: 2025-02-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3167550/Tiny_Pasture/</td>
+  <td></td>
+  <td>Farming Simulator</td>
+  <td>bottom-of-screen, casual, idler, indie</td>
+  <td>CaveLiquid</td>
+  <td>CaveLiquid</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2025-02-19T00:00:00.000Z</td>
+  <td>2025-02-19T00:00:00.000Z</td>
+  <td>322923</td>
+</tr>
+<tr>
+  <td>388</td>
+  <td>Titan Attacks!</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/203210/Titan_Attacks/</td>
+  <td></td>
+  <td>Action</td>
+  <td></td>
+  <td>Puppy Games</td>
+  <td></td>
+  <td>lwjgl</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2006-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11460</td>
+</tr>
+<tr>
+  <td>560</td>
+  <td>Tombwater</td>
+  <td></td>
+  <td>StatusDate: 2026-03-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3308200/Tombwater/</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>Lovecraftian, action, exploration, metroidvania, souls-like</td>
+  <td>Moth Atlas</td>
+  <td>Midwest Games</td>
+  <td>solarus</td>
+  <td></td>
+  <td>solarus-run</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-03-31T00:00:00.000Z</td>
+  <td>2026-03-31T00:00:00.000Z</td>
+  <td>324575</td>
+</tr>
+<tr>
+  <td>389</td>
+  <td>Toonstruck</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/toonstruck, https://store.steampowered.com/app/369830</td>
+  <td>untested</td>
+  <td>Adventure</td>
+  <td>humor</td>
+  <td>Burst Studios</td>
+  <td>Virgin Interactive</td>
+  <td>Toon</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>916</td>
+</tr>
+<tr>
+  <td>390</td>
+  <td>TowerFall: Ascension</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/towerfall_ascension, https://mattmakesgames.itch.io/towerfall, https://www.humblebundle.com/store/towerfall-ascension, https://store.steampowered.com/app/251470/TowerFall_Ascension/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>multiplayer</td>
+  <td>Extremely OK Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9567</td>
+</tr>
+<tr>
+  <td>479</td>
+  <td>Town Keeper</td>
+  <td></td>
+  <td>StatusDate: 2024-09-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3104510/Town_Keeper/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>animals, cute, indie, pixel graphics</td>
+  <td>Napas Torteeka</td>
+  <td>Napas Torteeka</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-21T00:00:00.000Z</td>
+  <td>2024-09-21T00:00:00.000Z</td>
+  <td>316863</td>
+</tr>
+<tr>
+  <td>634</td>
+  <td>Toziuha Night: Dracula's Revenge</td>
+  <td>1.5.1</td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1872040/Toziuha_Night_Draculas_Revenge/</td>
+  <td></td>
+  <td>2D Platformer</td>
+  <td>anime, dark fantasy, gothic, indie, pixelart, platformer</td>
+  <td>Danny Garay</td>
+  <td>Danny Garay</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>192635</td>
+</tr>
+<tr>
+  <td>505</td>
+  <td>Toziuha Night: Order of the Alchemists</td>
+  <td></td>
+  <td>StatusDate: 2024-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>early access, gothic, indie, pixelart, platformer, souls-like</td>
+  <td>Danny Garay</td>
+  <td>Danny Garay</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>177207</td>
+</tr>
+<tr>
+  <td>391</td>
+  <td>Transmogrify</td>
+  <td>1.8.129</td>
+  <td>StatusDate: 2023-07-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/740310/Transmogrify/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie, scifi</td>
+  <td>Odyssey Entertainment</td>
+  <td>Odyssey Entertainment</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-07-15T00:00:00.000Z</td>
+  <td>2023-07-15T00:00:00.000Z</td>
+  <td>103036</td>
+</tr>
+<tr>
+  <td>392</td>
+  <td>Trolley Delayma</td>
+  <td>1.0.1</td>
+  <td>StatusDate: 2023-11-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://albertnez.itch.io/trolley-delayma, https://store.steampowered.com/app/2372500/Trolley_Delayma/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>free, indie, minimalist, philosophical, short</td>
+  <td>albertnez</td>
+  <td>albertnez</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-11-04T00:00:00.000Z</td>
+  <td>2023-11-04T00:00:00.000Z</td>
+  <td>267294</td>
+</tr>
+<tr>
+  <td>460</td>
+  <td>Twilight Town: A Cyberpunk FPS</td>
+  <td></td>
+  <td>StatusDate: 2024-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2477140/Twilight_Town_A_Cyberpunk_FPS/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>action, cyberpunk, gore, shooter</td>
+  <td>Sigyaad Team</td>
+  <td>Sigyaad Team</td>
+  <td>idTech1</td>
+  <td>IndieRunner</td>
+  <td>gzdoom</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-08-06T00:00:00.000Z</td>
+  <td>2024-08-06T00:00:00.000Z</td>
+  <td>260400</td>
+</tr>
+<tr>
+  <td>393</td>
+  <td>Tyrian 2000</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/tyrian_2000</td>
+  <td></td>
+  <td>Shoot'em Up</td>
+  <td>classic, free</td>
+  <td>Eclipse Productions</td>
+  <td>Epic MegaGames</td>
+  <td></td>
+  <td></td>
+  <td>opentyrian</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>14432</td>
+</tr>

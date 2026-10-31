@@ -1,0 +1,874 @@
+<tr>
+  <td>566</td>
+  <td>BAB BE YOU</td>
+  <td></td>
+  <td>StatusDate: 2026-04-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://github.com/lilybeevee/bab-be-u</td>
+  <td>Use git head, and point love-11 to the directory</td>
+  <td>Puzzle</td>
+  <td>casual, clever, logic</td>
+  <td>bab devs</td>
+  <td>bab devs</td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-11</td>
+  <td></td>
+  <td>2026-04-30T00:00:00.000Z</td>
+  <td>2026-04-30T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>41</td>
+  <td>BLUE REVOLVER</td>
+  <td>1.51a</td>
+  <td>StatusDate: 2024-11-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://stellarcircle.itch.io/blue-revolver, https://store.steampowered.com/app/439490/BLUE_REVOLVER/</td>
+  <td>for Steam version: unzip bluerevolver.love (or blue-revolver), edit conf.lua with `STEAM_BUILD = false' and zip it back up.</td>
+  <td>Shoot'em Up</td>
+  <td></td>
+  <td>Stellar Circle</td>
+  <td>Stellar Circle</td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-0.10</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2024-11-18T00:00:00.000Z</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>24928</td>
+</tr>
+<tr>
+  <td>44</td>
+  <td>BRiTEBOT</td>
+  <td></td>
+  <td>StatusDate: 2023-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://alesan99.itch.io/britebot</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>3D, free, indie</td>
+  <td>alesan99</td>
+  <td>alesan99</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-0.10</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>178651</td>
+</tr>
+<tr>
+  <td>535</td>
+  <td>Babushka's Glitch Dungeon</td>
+  <td>3.1.0.1</td>
+  <td>StatusDate: 2025-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://jakeonaut.itch.io/glitch-dungeon-crystal, https://store.steampowered.com/app/1876850/Babushkas_Glitch_Dungeon/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>exploration, female protagonist, indie, nonlinear</td>
+  <td>pets club 2</td>
+  <td>pets club 2</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>202482</td>
+</tr>
+<tr>
+  <td>24</td>
+  <td>Balatro</td>
+  <td>1.0.0j</td>
+  <td>StatusDate: 2024-02-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2379780/Balatro/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>cards, deckbuilder, poker</td>
+  <td>LocalThunk</td>
+  <td>Playstack</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-02-21T00:00:00.000Z</td>
+  <td>2024-02-21T00:00:00.000Z</td>
+  <td>251833</td>
+</tr>
+<tr>
+  <td>25</td>
+  <td>Baldur's Gate</td>
+  <td></td>
+  <td>StatusDate: 2023-05-06T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/baldurs_gate_enhanced_edition</td>
+  <td>widescreen mod via weidu</td>
+  <td>RPG</td>
+  <td></td>
+  <td>BioWare</td>
+  <td>Black Isle Studios</td>
+  <td>Infinity Engine</td>
+  <td></td>
+  <td>gemrb</td>
+  <td>1998-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>26</td>
+  <td>Baldur's Gate 2</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/baldurs_gate_2_enhanced_edition</td>
+  <td>widescreen mod via weidu</td>
+  <td>RPG</td>
+  <td></td>
+  <td>BioWare</td>
+  <td>Black Isle Studios</td>
+  <td>Infinity Engine</td>
+  <td></td>
+  <td>gemrb</td>
+  <td>2000-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>82</td>
+</tr>
+<tr>
+  <td>27</td>
+  <td>Balrum</td>
+  <td>1.7</td>
+  <td>StatusDate: 2023-07-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/balrum, https://store.steampowered.com/app/424250/Balrum/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>adventure, crafting, indie, medieval, turn-based</td>
+  <td>Balcony Softworks</td>
+  <td>Balcony Softworks</td>
+  <td>LWJGL3</td>
+  <td>IndieRunner</td>
+  <td>java-11</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-07-23T00:00:00.000Z</td>
+  <td>2023-07-23T00:00:00.000Z</td>
+  <td>18135</td>
+</tr>
+<tr>
+  <td>28</td>
+  <td>Banana Hell</td>
+  <td></td>
+  <td>StatusDate: 2021-11-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1260130/Banana_Hell/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Petriheart</td>
+  <td>Petriheart</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>140861</td>
+</tr>
+<tr>
+  <td>446</td>
+  <td>Bananaguy 2</td>
+  <td></td>
+  <td>StatusDate: 2024-06-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2346890/Bananaguy/</td>
+  <td></td>
+  <td>Strategy</td>
+  <td>humor, indie, quirky</td>
+  <td>Bananamanhatguy</td>
+  <td>Bananamanhatguy</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>247604</td>
+</tr>
+<tr>
+  <td>595</td>
+  <td>Bare Knuckle Sandwich</td>
+  <td></td>
+  <td>StatusDate: 2026-07-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2486370/Bare_Knuckle_Sandwich/</td>
+  <td></td>
+  <td>Beat'em'up</td>
+  <td>indie, pixelart, side scroller, story-rich</td>
+  <td>Raised By Screens</td>
+  <td>Raised By Screens</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-07-26T00:00:00.000Z</td>
+  <td>2026-07-26T00:00:00.000Z</td>
+  <td>259046</td>
+</tr>
+<tr>
+  <td>29</td>
+  <td>Barony</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/barony_cursed_edition, https://www.humblebundle.com/store/barony, https://store.steampowered.com/app/371970</td>
+  <td></td>
+  <td>Dungeon Crawler</td>
+  <td>first-person, indie, open-source</td>
+  <td>Turning Wheel LLC</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>barony</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35189</td>
+</tr>
+<tr>
+  <td>676</td>
+  <td>Batman - The Telltale Series</td>
+  <td></td>
+  <td>StatusDate: 2026-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/batman_a_telltale_game_series</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>detective mystery, superhero</td>
+  <td>Telltale</td>
+  <td>Telltale</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>2026-10-17T00:00:00.000Z</td>
+  <td>14746</td>
+</tr>
+<tr>
+  <td>658</td>
+  <td>Batman: Arkham Knight</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/batman_arkham_knight</td>
+  <td></td>
+  <td>Action</td>
+  <td>fighting, stealth, superhero</td>
+  <td>Rocksteady Studios</td>
+  <td>Warner Bros.</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-14T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>5503</td>
+</tr>
+<tr>
+  <td>451</td>
+  <td>Battle for Wesnoth</td>
+  <td>1.18.2</td>
+  <td>StatusDate: 2024-07-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td></td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>fantasy, free, open-source engine</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>wesnoth</td>
+  <td></td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>2365</td>
+</tr>
+<tr>
+  <td>612</td>
+  <td>Beatblock</td>
+  <td>1.9.0 (early access)</td>
+  <td>StatusDate: 2026-09-03T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3045200/Beatblock/</td>
+  <td>edit bin/project.lua and set project.useSteamAPI = false</td>
+  <td>Rhythm Game</td>
+  <td>arcade, indie, level editor, music</td>
+  <td>BubbleTabby</td>
+  <td>SKY HOUR WORKS</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-12</td>
+  <td></td>
+  <td>2026-09-03T00:00:00.000Z</td>
+  <td>2026-09-03T00:00:00.000Z</td>
+  <td>306804</td>
+</tr>
+<tr>
+  <td>30</td>
+  <td>Beholder's Lair</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1347880/Beholders_Lair/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Kaan Alpar</td>
+  <td>Alpar Entertainment</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>143525</td>
+</tr>
+<tr>
+  <td>490</td>
+  <td>Ben There, Dan That!</td>
+  <td></td>
+  <td>StatusDate: 2024-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/time_gentlemen_please_ben_there_dan_that, https://store.steampowered.com/app/37400/Time_Gentlemen_Please_and_Ben_There_Dan_That_Special_Edition__Double_Pack/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>comedy, indie</td>
+  <td>Size Five Games</td>
+  <td>Size Five Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2009-01-01T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>9541</td>
+</tr>
+<tr>
+  <td>31</td>
+  <td>Beneath a Steel Sky</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/beneath_a_steel_sky, https://store.steampowered.com/app/1368340/Beneath_a_Steel_Sky</td>
+  <td>alternatively '# pkg_add bass'</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Revolution Software</td>
+  <td>Virgin Interactive</td>
+  <td>ScummVM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>612</td>
+</tr>
+<tr>
+  <td>450</td>
+  <td>Beyond All Reason</td>
+  <td></td>
+  <td>StatusDate: 2024-07-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td></td>
+  <td>script beyond-all-reason in package recoil-rts</td>
+  <td>RTS</td>
+  <td>free, massive, online multiplayer, open-source engine, scifi</td>
+  <td></td>
+  <td></td>
+  <td>Recoil</td>
+  <td></td>
+  <td>spring</td>
+  <td></td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>2024-07-14T00:00:00.000Z</td>
+  <td>133655</td>
+</tr>
+<tr>
+  <td>32</td>
+  <td>Beyond Sunset</td>
+  <td>1.0.2</td>
+  <td>StatusComment: - crashes on saving/autosaving , StatusDate: 2026-07-12T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.gog.com/en/game/beyond_sunset, https://store.steampowered.com/app/1665260/Beyond_Sunset/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>cyberpunk, retro</td>
+  <td>Metacorp</td>
+  <td>Movie Games S.A.</td>
+  <td>idTech1</td>
+  <td>IndieRunner</td>
+  <td>lzdoom</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-07-12T00:00:00.000Z</td>
+  <td>2023-01-23T00:00:00.000Z</td>
+  <td>164206</td>
+</tr>
+<tr>
+  <td>492</td>
+  <td>Beyond the Edge of Owlsgard</td>
+  <td>1.2.1</td>
+  <td>StatusDate: 2024-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/beyond_the_edge_of_owlsgard, https://store.steampowered.com/app/1709730/Beyond_The_Edge_Of_Owlsgard/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>animals, cute, indie, pixelart</td>
+  <td>WatchDaToast</td>
+  <td>Assemble Entertainment</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>173915</td>
+</tr>
+<tr>
+  <td>33</td>
+  <td>Bird Assassin</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/312010/Bird_Assassin/</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Social Loner Studios</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>17596</td>
+</tr>
+<tr>
+  <td>577</td>
+  <td>Bird Society</td>
+  <td></td>
+  <td>StatusDate: 2026-05-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://gtibo.itch.io/bird-society</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>3d, flying, free, indie</td>
+  <td>Tibo, upint, Tim Krief</td>
+  <td>Tibo, upint, Tim Krief</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-05-26T00:00:00.000Z</td>
+  <td>2026-05-26T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>34</td>
+  <td>Blacken Slash</td>
+  <td>1.6</td>
+  <td>StatusDate: 2022-12-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1746560/Blacken_Slash/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>hacking, retro</td>
+  <td>ehmprah</td>
+  <td>ehmprah</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-12-10T00:00:00.000Z</td>
+  <td>188723</td>
+</tr>
+<tr>
+  <td>593</td>
+  <td>Blackwell Unbound</td>
+  <td>5.2</td>
+  <td>StatusDate: 2026-07-23T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/en/game/blackwell_bundle, https://store.steampowered.com/app/80340/Blackwell_Unbound/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>indie, mystery, pixelart, urban fantasy</td>
+  <td>Wadjet Eye Games</td>
+  <td>Wadjet Eye Games</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2007-01-01T00:00:00.000Z</td>
+  <td>2026-07-23T00:00:00.000Z</td>
+  <td>2026-07-23T00:00:00.000Z</td>
+  <td>9041</td>
+</tr>
+<tr>
+  <td>500</td>
+  <td>Blade Runner</td>
+  <td></td>
+  <td>StatusDate: 2024-10-08T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/blade_runner_enhanced_edition</td>
+  <td>likely only works with original version which is included with GOG Enhanced Edition</td>
+  <td>Adventure</td>
+  <td>classic, cyberpunk, indie, scifi</td>
+  <td>Westwood</td>
+  <td></td>
+  <td></td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2024-10-08T00:00:00.000Z</td>
+  <td>2024-10-08T00:00:00.000Z</td>
+  <td>322</td>
+</tr>
+<tr>
+  <td>36</td>
+  <td>Blastronaut</td>
+  <td>demo (downloaded 2022-04-02)</td>
+  <td>StatusDate: 2022-04-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1392650/BLASTRONAUT/</td>
+  <td>run with `godot --main-pack blastronaut.pck`</td>
+  <td>Action Platformer</td>
+  <td>crafting</td>
+  <td>Perfoon</td>
+  <td>Perfoon</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-04-03T00:00:00.000Z</td>
+  <td>145877</td>
+</tr>
+<tr>
+  <td>37</td>
+  <td>Bleed</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/bleed, https://bootdiskrevolution.itch.io/bleed, https://store.steampowered.com/app/239800</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td></td>
+  <td>Bootdisk Revolution</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9706</td>
+</tr>
+<tr>
+  <td>38</td>
+  <td>Bleed 2</td>
+  <td></td>
+  <td>StatusDate: 2021-11-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/bleed-2, https://bootdiskrevolution.itch.io/bleed-2, https://store.steampowered.com/app/396350</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td></td>
+  <td>Bootdisk Revolution</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>26725</td>
+</tr>
+<tr>
+  <td>39</td>
+  <td>Blood</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>FPS</td>
+  <td></td>
+  <td>Monolith Productions</td>
+  <td></td>
+  <td>NBlood</td>
+  <td></td>
+  <td>nblood</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2023-12-13T00:00:00.000Z</td>
+  <td>2023-12-13T00:00:00.000Z</td>
+  <td>7644</td>
+</tr>
+<tr>
+  <td>40</td>
+  <td>Blossom Tales II: The Minotaur Prince</td>
+  <td></td>
+  <td>StatusDate: 2022-08-18T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://store.steampowered.com/app/1747830/Blossom_Tales_II_The_Minotaur_Prince/</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>Zelda-like</td>
+  <td>Castle Pixel</td>
+  <td>Playtonic Friends</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-08-19T00:00:00.000Z</td>
+  <td>172489</td>
+</tr>
+<tr>
+  <td>667</td>
+  <td>Bo: Path of the Teal Lotus</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/bo_path_of_the_teal_lotus</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>2d, adventure, atmospheric, exploration</td>
+  <td>Squid Shock Studios, Christopher Stair, Trevor Youngquist</td>
+  <td>Humble Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>154161</td>
+</tr>
+<tr>
+  <td>42</td>
+  <td>Bottomless</td>
+  <td></td>
+  <td>StatusDate: 2021-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://picster.itch.io/bottomless</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Raffaele Picca</td>
+  <td></td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>183596</td>
+</tr>
+<tr>
+  <td>482</td>
+  <td>Brawn, Scorn and Ammo</td>
+  <td>1.0.2</td>
+  <td>StatusDate: 2024-09-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://critcorsac.itch.io/brawn-scorn-and-ammo</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>furry, indie, retro, scifi</td>
+  <td>CritCorsac</td>
+  <td>CritCorsac</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>43</td>
+  <td>Breath of Death VII</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/107300/Breath_of_Death_VII/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>indie</td>
+  <td>Zeboyd Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>16259</td>
+</tr>
+<tr>
+  <td>473</td>
+  <td>Bring the Chickens Home</td>
+  <td>1.0.0</td>
+  <td>StatusDate: 2024-08-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2529740/Bring_The_Chickens_Home/</td>
+  <td>needs addons/godotsteam/x11/libgodotsteam.so (manual build needed currently)</td>
+  <td>Action Roguelike</td>
+  <td>action, animals, indie, over-the-top, violence, voxel</td>
+  <td>Clyde Smets</td>
+  <td>Clyde Smets</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-08-28T00:00:00.000Z</td>
+  <td>2024-08-28T00:00:00.000Z</td>
+  <td>260520</td>
+</tr>
+<tr>
+  <td>45</td>
+  <td>Broken Sword II: The Smoking Mirror</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/broken_sword_2__the_smoking_mirror, https://store.steampowered.com/app/580440/Broken_Sword_2_Original_Version</td>
+  <td>GOG.com version includes the original</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Revolution Software</td>
+  <td>Virgin Interactive</td>
+  <td>Virtual Theatre</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1150</td>
+</tr>
+<tr>
+  <td>46</td>
+  <td>Broken Sword: The Shadow of the Templars</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/broken_sword_directors_cut</td>
+  <td>GOG.com version includes the original</td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Revolution Software</td>
+  <td>Virgin Interactive</td>
+  <td>Virtual Theatre</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>206502</td>
+</tr>
+<tr>
+  <td>47</td>
+  <td>Brotato</td>
+  <td>1.1.15.1</td>
+  <td>StatusDate: 2024-10-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1942280/Brotato/, https://www.gog.com/en/game/brotato</td>
+  <td>DLC Abyssal Terrors: current workaround to run it: extract both Brotato.pck and BrotatoAbyssalTerrors.pck into the same directory. Then run `godot3 --path /path/to/extracted/game`.</td>
+  <td>Action Roguelike</td>
+  <td>bullet hell, indie</td>
+  <td>Blobfish</td>
+  <td>Blobfish</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-05-13T00:00:00.000Z</td>
+  <td>2022-06-07T00:00:00.000Z</td>
+  <td>199116</td>
+</tr>
+<tr>
+  <td>48</td>
+  <td>Brushwood Buddies</td>
+  <td></td>
+  <td></td>
+  <td>https://stevencolling.itch.io/brushwood-buddies, https://store.steampowered.com/app/434820/Brushwood_Buddies/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>Steven Colling</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>33692</td>
+</tr>
+<tr>
+  <td>425</td>
+  <td>Buckshot Roulette</td>
+  <td></td>
+  <td>StatusDate: 2024-04-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://mikeklubnika.itch.io/buckshot-roulette</td>
+  <td></td>
+  <td>Horror</td>
+  <td>3D, first-person, gambling</td>
+  <td>Mike Klubnika</td>
+  <td>CRITICAL REFLEX</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-04-25T00:00:00.000Z</td>
+  <td>281275</td>
+</tr>
+<tr>
+  <td>574</td>
+  <td>Bufo Jump</td>
+  <td></td>
+  <td>StatusDate: 2026-05-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/4175980/Bufo_Jump/</td>
+  <td></td>
+  <td>3D Platformer</td>
+  <td>adventure, casual, colourful</td>
+  <td>Neutronized</td>
+  <td>Neutronized</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>388315</td>
+</tr>
+<tr>
+  <td>49</td>
+  <td>Bugscraper</td>
+  <td>3</td>
+  <td>StatusDate: 2023-10-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://yolwoocle.itch.io/bugscraper</td>
+  <td>extract AppImage with 7z, game file is in usr/bin directory</td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>Yolwoocle</td>
+  <td>Yolwoocle</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-10-20T00:00:00.000Z</td>
+  <td>2023-10-20T00:00:00.000Z</td>
+  <td>230797</td>
+</tr>
+<tr>
+  <td>50</td>
+  <td>Burning Knight</td>
+  <td></td>
+  <td>StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://egordorichev.itch.io/bk, https://store.steampowered.com/app/851150/Burning_Knight/</td>
+  <td>runtime is buggy, frequent crashes</td>
+  <td></td>
+  <td>indie, open-source</td>
+  <td>Rexcellent Games</td>
+  <td></td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>117702</td>
+</tr>
+<tr>
+  <td>51</td>
+  <td>Burrito Bear</td>
+  <td></td>
+  <td>StatusDate: 2024-02-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1941420/Burrito_Bear/</td>
+  <td></td>
+  <td>Action</td>
+  <td>arcade, bears, comedy, crazy, indie</td>
+  <td>SpaceOrca</td>
+  <td>SpaceOrca</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-02-05T00:00:00.000Z</td>
+  <td>2024-02-05T00:00:00.000Z</td>
+  <td>216634</td>
+</tr>

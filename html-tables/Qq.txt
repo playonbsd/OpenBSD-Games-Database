@@ -1,0 +1,114 @@
+<tr>
+  <td>286</td>
+  <td>Quake</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/quake_the_offering, https://www.humblebundle.com/store/quake-offering-pack, https://store.steampowered.com/app/2310/QUAKE/</td>
+  <td></td>
+  <td>FPS</td>
+  <td></td>
+  <td>id Software</td>
+  <td>GT Interactive</td>
+  <td>Quake Engine</td>
+  <td></td>
+  <td>quakespasm | ezquake | vkquake</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>333</td>
+</tr>
+<tr>
+  <td>287</td>
+  <td>Quake II</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/quake_ii_quad_damage, https://www.humblebundle.com/store/quake-ii, https://store.steampowered.com/app/2320/QUAKE_II/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>multiplayer</td>
+  <td>id Software</td>
+  <td>Activision</td>
+  <td>id Tech 2</td>
+  <td></td>
+  <td>yquake2</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>286</td>
+</tr>
+<tr>
+  <td>288</td>
+  <td>Quake III Arena</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/quake_iii_gold, https://www.humblebundle.com/store/quake-iii-arena-team-arena, https://store.steampowered.com/app/2200/Quake_III_Arena/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>multiplayer</td>
+  <td>id Software</td>
+  <td>Activision</td>
+  <td>id Tech 3</td>
+  <td></td>
+  <td>ioquake3</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>355</td>
+</tr>
+<tr>
+  <td>289</td>
+  <td>Quest for Infamy</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/quest_for_infamy, https://www.humblebundle.com/store/quest-for-infamy, https://infamousquests.itch.io/quest-for-infamy, https://store.steampowered.com/app/264560/Quest_for_Infamy/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>humor</td>
+  <td></td>
+  <td></td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8250</td>
+</tr>
+<tr>
+  <td>290</td>
+  <td>Quest of Graal</td>
+  <td></td>
+  <td>StatusDate: 2022-04-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1765700/Quest_Of_Graal/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>multiplayer, racing</td>
+  <td>Pixel-Archipel, Theo Mn</td>
+  <td>Pixel-Archipel</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-04-14T00:00:00.000Z</td>
+  <td>182930</td>
+</tr>
+<tr>
+  <td>539</td>
+  <td>quadrant</td>
+  <td></td>
+  <td>StatusDate: 2025-12-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://undef.itch.io/quadrant, https://store.steampowered.com/app/365500/quadrant/</td>
+  <td></td>
+  <td>Rhythm Game</td>
+  <td>indie, minimalist</td>
+  <td>undef</td>
+  <td>undef</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>2025-12-25T00:00:00.000Z</td>
+  <td>35355</td>
+</tr>

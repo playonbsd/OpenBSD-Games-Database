@@ -1,0 +1,19 @@
+<tr>
+  <th>Id</th>
+  <th>Game</th>
+  <th>Version</th>
+  <th>Status</th>
+  <th>Store</th>
+  <th>Hints</th>
+  <th>Genre</th>
+  <th>Tags</th>
+  <th>Dev</th>
+  <th>Pub</th>
+  <th>Engine</th>
+  <th>Setup</th>
+  <th>Runtime</th>
+  <th>Year</th>
+  <th>Updated</th>
+  <th>Added</th>
+  <th>IgdbId</th>
+</tr>

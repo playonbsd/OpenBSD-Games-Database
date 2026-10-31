@@ -1,0 +1,133 @@
+<tr>
+  <td>199</td>
+  <td>Jagged Alliance 2</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/jagged_alliance_2, https://store.steampowered.com/app/545210/Jagged_Alliance_2_Classic/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>RPG, classic</td>
+  <td>Sir-tech Software Inc.</td>
+  <td>TalonSoft</td>
+  <td></td>
+  <td></td>
+  <td>ja2-stracciatella</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>2024-06-12T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9</td>
+</tr>
+<tr>
+  <td>200</td>
+  <td>Jam and the Mystery of the Mysteriously Spooky Mansion</td>
+  <td></td>
+  <td></td>
+  <td>https://arc-res.itch.io/jam-and-the-mystery-of-the-mysteriously-spooky-mansion</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Ren'Py</td>
+  <td></td>
+  <td>renpy</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>134098</td>
+</tr>
+<tr>
+  <td>201</td>
+  <td>Jazz Jackrabbit</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/jazz_jackrabbit_collection</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td></td>
+  <td>Epic MegaGames</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>openjazz</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3167</td>
+</tr>
+<tr>
+  <td>604</td>
+  <td>Jitter</td>
+  <td></td>
+  <td>StatusDate: 2026-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2877660/Jitter/</td>
+  <td></td>
+  <td>Space Exploration</td>
+  <td>2D, early access, indie, open world, scifi</td>
+  <td>Berko Games</td>
+  <td>Berko Games</td>
+  <td>HashLink</td>
+  <td>IndieRunner</td>
+  <td>hl</td>
+  <td></td>
+  <td>2026-08-19T00:00:00.000Z</td>
+  <td>2026-08-19T00:00:00.000Z</td>
+  <td>298668</td>
+</tr>
+<tr>
+  <td>202</td>
+  <td>Jon Shafer's At the Gates</td>
+  <td></td>
+  <td></td>
+  <td>https://www.atthegatesgame.com/purchase, https://www.humblebundle.com/store/jon-shafers-at-the-gates, https://store.steampowered.com/app/241000/Jon_Shafers_At_the_Gates/</td>
+  <td>buggy (upstream, not port)</td>
+  <td>Turn-Based Strategy</td>
+  <td>4X</td>
+  <td>Conifer Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8423</td>
+</tr>
+<tr>
+  <td>203</td>
+  <td>Joyspring</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1532360/Joyspring/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>free</td>
+  <td>Studio Heart Engine</td>
+  <td>Studio Heart Engine</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>156046</td>
+</tr>
+<tr>
+  <td>531</td>
+  <td>Just Ignore Them</td>
+  <td></td>
+  <td>StatusDate: 2025-12-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://stranga.itch.io/just-ignore-them, https://store.steampowered.com/app/561770/Just_Ignore_Them/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>gore, horror, indie</td>
+  <td>Stranga Games</td>
+  <td>GrabTheGames</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>30359</td>
+</tr>

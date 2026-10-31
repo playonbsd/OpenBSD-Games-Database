@@ -1,0 +1,969 @@
+<tr>
+  <td>52</td>
+  <td>Caesar 3</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/caesar_3, https://store.steampowered.com/app/517790</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Impressions Games</td>
+  <td>Sierra Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>julius</td>
+  <td>1998-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>6332</td>
+</tr>
+<tr>
+  <td>506</td>
+  <td>Calm Skies: The Wingsuit Flying Experience</td>
+  <td></td>
+  <td>StatusDate: 2024-10-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3056110/Calm_Skies_The_Wingsuit_Flying_Experience/</td>
+  <td></td>
+  <td>Action</td>
+  <td>arcade, cellshade, flying, indie, sports</td>
+  <td>Flashblack Games</td>
+  <td>Flashblack Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-10-14T00:00:00.000Z</td>
+  <td>2024-10-14T00:00:00.000Z</td>
+  <td>318295</td>
+</tr>
+<tr>
+  <td>53</td>
+  <td>Cannon Fodder</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/cannon_fodder</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Sensible Software</td>
+  <td>Eidos Interactive</td>
+  <td></td>
+  <td></td>
+  <td>openfodder</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5519</td>
+</tr>
+<tr>
+  <td>54</td>
+  <td>Cannon Fodder 2</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/cannon_fodder_2</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Sensible Software</td>
+  <td>Codemasters</td>
+  <td></td>
+  <td></td>
+  <td>openfodder</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11986</td>
+</tr>
+<tr>
+  <td>55</td>
+  <td>Capsized</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/capsized, https://www.humblebundle.com/store/capsized, https://store.steampowered.com/app/95300</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>indie</td>
+  <td>Alientrap Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3050</td>
+</tr>
+<tr>
+  <td>56</td>
+  <td>Capsule Force</td>
+  <td></td>
+  <td>StatusDate: 2021-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/364060/Capsule_Force/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>indie</td>
+  <td>klobit LLC</td>
+  <td>Iron Galaxy</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11184</td>
+</tr>
+<tr>
+  <td>57</td>
+  <td>Capsule Wars</td>
+  <td></td>
+  <td>StatusDate: 2021-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://busyweasel.itch.io/capsule-wars</td>
+  <td></td>
+  <td>FPS</td>
+  <td>indie</td>
+  <td>Busy Weasel Games</td>
+  <td></td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>59</td>
+  <td>Cards with Personalities</td>
+  <td>1.2.1</td>
+  <td>StatusDate: 2023-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2147020/Cards_with_Personalities/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>indie, pixel art, turn-based</td>
+  <td>Sebastian Lind</td>
+  <td>Sebastian Lind</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-10-12T00:00:00.000Z</td>
+  <td>2023-10-12T00:00:00.000Z</td>
+  <td>182661</td>
+</tr>
+<tr>
+  <td>60</td>
+  <td>Cassette Beasts</td>
+  <td></td>
+  <td>StatusDate: 2023-05-01T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/1321440/Cassette_Beasts/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>JRPG, indie</td>
+  <td>Bytten Studio</td>
+  <td>Raw Fury</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2023-04-26T00:00:00.000Z</td>
+  <td>133866</td>
+</tr>
+<tr>
+  <td>530</td>
+  <td>Castlevania: Simon's Destiny</td>
+  <td>1.4</td>
+  <td>StatusDate: 2025-12-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://batandy.itch.io/simonsdestiny</td>
+  <td></td>
+  <td>FPS</td>
+  <td>fangame, free, retro</td>
+  <td>Batandy</td>
+  <td>Batandy</td>
+  <td>idTech1</td>
+  <td>IndieRunner</td>
+  <td>lzdoom</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>141030</td>
+</tr>
+<tr>
+  <td>61</td>
+  <td>Cat Box Paradox</td>
+  <td></td>
+  <td>StatusDate: 2021-12-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1771200/Cat_Box_Paradox/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>BiscuitLocker</td>
+  <td>BiscuitLocker</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2021-12-10T00:00:00.000Z</td>
+  <td>185679</td>
+</tr>
+<tr>
+  <td>62</td>
+  <td>Cat Cafe Manager</td>
+  <td>1.0.388</td>
+  <td>StatusDate: 2022-04-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/, https://www.gog.com/en/game/cat_cafe_manager</td>
+  <td></td>
+  <td>Management Simulator</td>
+  <td>cats, indie</td>
+  <td>Roost Games</td>
+  <td>Freedom Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-04-15T00:00:00.000Z</td>
+  <td>140827</td>
+</tr>
+<tr>
+  <td>682</td>
+  <td>Cat Quest</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/cat-quest-8373e0</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>RPG, casual, colourful, feline</td>
+  <td>The Gentlebros</td>
+  <td>Kepler Interactive</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>36597</td>
+</tr>
+<tr>
+  <td>435</td>
+  <td>Cat Warrior</td>
+  <td>1.4</td>
+  <td>StatusDate: 2024-05-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2640520/Cat_Warrior/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>action, indie, pixelart, retro</td>
+  <td>Sadi & Ayu</td>
+  <td>sadimakesgames</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-05-23T00:00:00.000Z</td>
+  <td>2024-05-23T00:00:00.000Z</td>
+  <td>281983</td>
+</tr>
+<tr>
+  <td>556</td>
+  <td>Cattle Country</td>
+  <td></td>
+  <td>StatusDate: 2026-02-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2818150/Cattle_Country/</td>
+  <td></td>
+  <td>Farming Simulator</td>
+  <td>cozy, indie, western, wholesome</td>
+  <td>Castle Pixel LLC.</td>
+  <td>Playtonic Friends</td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-02-18T00:00:00.000Z</td>
+  <td>2026-02-18T00:00:00.000Z</td>
+  <td>306909</td>
+</tr>
+<tr>
+  <td>64</td>
+  <td>Cave - Legend of the Forge</td>
+  <td></td>
+  <td>StatusDate: 2021-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://bitbrain.itch.io/cave</td>
+  <td>use pck-extract on the linux binary</td>
+  <td>RPG</td>
+  <td>indie</td>
+  <td>bitbrain</td>
+  <td>bitbrain</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>141816</td>
+</tr>
+<tr>
+  <td>65</td>
+  <td>Celeste</td>
+  <td></td>
+  <td>StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://mattmakesgames.itch.io/celeste, https://www.humblebundle.com/store/celeste, https://store.steampowered.com/app/504230/Celeste/</td>
+  <td>fnaify >= 3.0, fnaify-extralibs, no sound</td>
+  <td>Platformer</td>
+  <td>hard, indie</td>
+  <td>Matt Makes Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>26226</td>
+</tr>
+<tr>
+  <td>504</td>
+  <td>Champy the Useless Vampire</td>
+  <td></td>
+  <td>StatusDate: 2024-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2426350/Champy_the_Useless_Vampire/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>comedy, indie, nostalgia, pixelart, vampires</td>
+  <td>True Ascension</td>
+  <td>True Ascension</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>2024-10-09T00:00:00.000Z</td>
+  <td>291271</td>
+</tr>
+<tr>
+  <td>66</td>
+  <td>Chaos Heart</td>
+  <td></td>
+  <td></td>
+  <td>http://mattmakesgames.com/games/ChaosHeart.zip</td>
+  <td></td>
+  <td></td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td></td>
+  <td></td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>67</td>
+  <td>Charlie Murder</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/charlie-murder, https://store.steampowered.com/app/405290/Charlie_Murder/</td>
+  <td></td>
+  <td>Brawler</td>
+  <td></td>
+  <td>Ska Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>19914</td>
+</tr>
+<tr>
+  <td>68</td>
+  <td>Chasm</td>
+  <td></td>
+  <td>StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/chasm, https://www.humblebundle.com/store/chasm, https://store.steampowered.com/app/312200/Chasm/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>indie</td>
+  <td>Bit Kid Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3222</td>
+</tr>
+<tr>
+  <td>69</td>
+  <td>Chess Survivors</td>
+  <td>Early Access 0.11.1</td>
+  <td>StatusDate: 2023-08-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2065000/Chess_Survivors/</td>
+  <td></td>
+  <td>Roguelite</td>
+  <td>bullet hell, chess, indie</td>
+  <td>Aarimous</td>
+  <td>Aarimous</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-08-10T00:00:00.000Z</td>
+  <td>2022-11-17T00:00:00.000Z</td>
+  <td>211384</td>
+</tr>
+<tr>
+  <td>585</td>
+  <td>Chronicle of Innsmouth</td>
+  <td></td>
+  <td>StatusDate: 2026-06-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/420180/Chronicle_of_Innsmouth/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>indie, lovecraftian, pixelart</td>
+  <td>PsychoDev</td>
+  <td>AtomicHorde</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>28527</td>
+</tr>
+<tr>
+  <td>587</td>
+  <td>Chronicle of Innsmouth: Mountains of Madness</td>
+  <td></td>
+  <td>StatusDate: 2026-06-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/962700/Chronicle_of_Innsmouth_Mountains_of_Madness/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>atmospheric, indie, lovecraftian, pixelart</td>
+  <td>PsychoDev</td>
+  <td>AtomicHorde</td>
+  <td>ScummVM</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>111277</td>
+</tr>
+<tr>
+  <td>485</td>
+  <td>Cloaks and Capes</td>
+  <td></td>
+  <td>StatusDate: 2024-09-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1637950/Cloaks_and_Capes/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>action, fantasy, fast-paced, free, indie, retro, roguelike</td>
+  <td>Destrakz Games</td>
+  <td>Destrakz Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-09-23T00:00:00.000Z</td>
+  <td>2024-09-23T00:00:00.000Z</td>
+  <td>148471</td>
+</tr>
+<tr>
+  <td>464</td>
+  <td>Colored Effects</td>
+  <td>1.0.2.4</td>
+  <td>StatusDate: 2024-08-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1892570/Colored_Effects/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>2D, colors, indie, logic</td>
+  <td>TACSOU</td>
+  <td>TACSOU</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-08-12T00:00:00.000Z</td>
+  <td>2024-08-12T00:00:00.000Z</td>
+  <td>211339</td>
+</tr>
+<tr>
+  <td>71</td>
+  <td>CometStriker</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/701040/CometStriker/</td>
+  <td>updated version CometStriker DX untested so far</td>
+  <td>Action</td>
+  <td>indie</td>
+  <td></td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>55766</td>
+</tr>
+<tr>
+  <td>72</td>
+  <td>Command & Conquer</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>OpenRA can automatically download the freeware version</td>
+  <td>RTS</td>
+  <td>multiplayer</td>
+  <td>Westwood Studios</td>
+  <td>Virgin Interactive</td>
+  <td></td>
+  <td></td>
+  <td>openra</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>647</td>
+</tr>
+<tr>
+  <td>73</td>
+  <td>Command & Conquer: Red Alert</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>OpenRA can automatically download the freeware version</td>
+  <td>RTS</td>
+  <td>multiplayer</td>
+  <td>Westwood Studios</td>
+  <td>Virgin Interactive</td>
+  <td></td>
+  <td></td>
+  <td>openra</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>295</td>
+</tr>
+<tr>
+  <td>602</td>
+  <td>Confidential Killings - A Detective Game</td>
+  <td></td>
+  <td>StatusDate: 2026-08-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2797960/Confidential_Killings__A_Detective_Game/</td>
+  <td></td>
+  <td>Detective Adventure</td>
+  <td>indie, investigation, noir</td>
+  <td>BRANE, Lorenzo Boni</td>
+  <td>Surefire.Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-07T00:00:00.000Z</td>
+  <td>2026-08-07T00:00:00.000Z</td>
+  <td>340987</td>
+</tr>
+<tr>
+  <td>653</td>
+  <td>Control</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/control</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>urban fantasy</td>
+  <td>Remedy Entertainment</td>
+  <td>Remedy Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>103329</td>
+</tr>
+<tr>
+  <td>580</td>
+  <td>Coreward</td>
+  <td></td>
+  <td>StatusDate: 2026-05-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3695440/Coreward/</td>
+  <td></td>
+  <td>Action</td>
+  <td>bullet hell, incremental, indie, minimalist</td>
+  <td>carllacan</td>
+  <td>carllacan</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-05-27T00:00:00.000Z</td>
+  <td>2026-05-27T00:00:00.000Z</td>
+  <td>344764</td>
+</tr>
+<tr>
+  <td>495</td>
+  <td>Cozy Space Survivors</td>
+  <td>1.5.6</td>
+  <td>StatusDate: 2024-09-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2657850/Cozy_Space_Survivors/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>arcade, bullet hell, indie</td>
+  <td>simonschreibt</td>
+  <td>simonschreibt</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>275087</td>
+</tr>
+<tr>
+  <td>74</td>
+  <td>Crawlers and Brawlers</td>
+  <td></td>
+  <td>StatusDate: 2021-08-19T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/462860/Crawlers_and_Brawlers/</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>multiplayer, roguelike</td>
+  <td>Ugly Beard Games LLC</td>
+  <td>Ugly Beard Games LLC</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>32996</td>
+</tr>
+<tr>
+  <td>75</td>
+  <td>Crop Rotation</td>
+  <td>1.0.9</td>
+  <td>StatusDate: 2023-09-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2348090/Crop_Rotation/</td>
+  <td></td>
+  <td>Farming Sim</td>
+  <td>deckbuilder, indie</td>
+  <td>Sprouting Potato</td>
+  <td>Sprouting Potato</td>
+  <td>HashLink</td>
+  <td>IndieRunner</td>
+  <td>hashlink</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-09-24T00:00:00.000Z</td>
+  <td>2023-09-24T00:00:00.000Z</td>
+  <td>241883</td>
+</tr>
+<tr>
+  <td>76</td>
+  <td>CrossCode</td>
+  <td></td>
+  <td>StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.gog.com/game/crosscode, https://radicalfishgames.itch.io/crosscode, https://www.humblebundle.com/store/crosscode, https://store.steampowered.com/app/368340/CrossCode/</td>
+  <td>uses local browser storage; concern that this could break the game (not observed so far)</td>
+  <td>Action RPG</td>
+  <td>indie</td>
+  <td>Radical Fish Games</td>
+  <td>Deck13</td>
+  <td>NW.js</td>
+  <td></td>
+  <td>HTML5</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35282</td>
+</tr>
+<tr>
+  <td>489</td>
+  <td>Crossroad OS</td>
+  <td></td>
+  <td>StatusDate: 2024-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1783800/Crossroad_OS/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>exploration, indie, mystery</td>
+  <td>Guy, Daisy Games</td>
+  <td>Daisy Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>2024-09-25T00:00:00.000Z</td>
+  <td>259007</td>
+</tr>
+<tr>
+  <td>77</td>
+  <td>Cruelty Squad</td>
+  <td></td>
+  <td>StatusComment: latest version known to run is the download from 2021-08-06, StatusDate: 2021-09-06T00:00:00.000Z, StatusText: doesn't launch</td>
+  <td>https://store.steampowered.com/app/1388770/</td>
+  <td></td>
+  <td>FPS, Immersive Sim</td>
+  <td>gore, indie, surreal</td>
+  <td>Consumer Softproducts</td>
+  <td>Consumer Softproducts</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2025-04-30T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>142076</td>
+</tr>
+<tr>
+  <td>673</td>
+  <td>Crypt of the NecroDancer</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/crypt_of_the_necrodancer</td>
+  <td>you need to run NecroDancer64/NecroDancer.exe from within it's directory</td>
+  <td>Rhythm Roguelite</td>
+  <td>fantasy, indie, pixelart, rhythm game, role-playing game</td>
+  <td>Brace Yourself Games</td>
+  <td>Brace Yourself Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>7886</td>
+</tr>
+<tr>
+  <td>78</td>
+  <td>Cryptark</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/cryptark, https://www.humblebundle.com/store/cryptark, https://store.steampowered.com/app/344740/CRYPTARK/</td>
+  <td></td>
+  <td>Twin-Stick Shooter</td>
+  <td>indie, roguelite</td>
+  <td>Alientrap Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>13365</td>
+</tr>
+<tr>
+  <td>79</td>
+  <td>Crystal Project</td>
+  <td>1.0.11</td>
+  <td>StatusDate: 2022-04-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1637730/Crystal_Project/</td>
+  <td></td>
+  <td>JRPG, RPG</td>
+  <td>voxel</td>
+  <td>Andrew Willman</td>
+  <td>Andrew Willman</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>2022-04-16T00:00:00.000Z</td>
+  <td>181444</td>
+</tr>
+<tr>
+  <td>80</td>
+  <td>Cthulhu Saves the World</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/107310/Cthulhu_Saves_the_World/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>humor</td>
+  <td>Zeboyd Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8427</td>
+</tr>
+<tr>
+  <td>691</td>
+  <td>Cult of the Lamb</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/cult_of_the_lamb</td>
+  <td></td>
+  <td>Management</td>
+  <td>action, adventure, fantasy, funny, roguelike</td>
+  <td>Massive Monster</td>
+  <td>Devolver Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>165351</td>
+</tr>
+<tr>
+  <td>81</td>
+  <td>Curse of the Arrow</td>
+  <td>1.8.3</td>
+  <td>StatusDate: 2023-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://egordorichev.itch.io/curse-of-the-arrow</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>egordorichev</td>
+  <td></td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-11</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>184410</td>
+</tr>
+<tr>
+  <td>82</td>
+  <td>Curse of the Crescent Isle DX</td>
+  <td></td>
+  <td></td>
+  <td>https://1amowery.itch.io/curse-of-the-crescent-isle-dx, https://www.humblebundle.com/store/curse-of-the-crescent-isle-dx, https://store.steampowered.com/app/365120/Curse_of_the_Crescent_Isle_DX/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Adam Mowery</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35398</td>
+</tr>
+<tr>
+  <td>83</td>
+  <td>Cursed Gem</td>
+  <td>1.0.5</td>
+  <td>StatusDate: 2021-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1194480/Cursed_Gem/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>free, indie</td>
+  <td>AikonCWD</td>
+  <td>Vega Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-04T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>129411</td>
+</tr>
+<tr>
+  <td>525</td>
+  <td>Cursemark</td>
+  <td></td>
+  <td>StatusDate: 2025-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://clydegames.itch.io/cursemark</td>
+  <td>currently needs --norigg, or hl(1) directly</td>
+  <td>action RPG</td>
+  <td>demo, indie</td>
+  <td>CLYDE games</td>
+  <td>CLYDE games</td>
+  <td>HashLink</td>
+  <td>IndieRunner</td>
+  <td>hl</td>
+  <td></td>
+  <td>2025-08-21T00:00:00.000Z</td>
+  <td>2025-08-21T00:00:00.000Z</td>
+  <td>348494</td>
+</tr>
+<tr>
+  <td>84</td>
+  <td>Cute Cats</td>
+  <td></td>
+  <td>StatusDate: 2021-11-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1667400/Cute_Cats/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>cats</td>
+  <td>KnKo</td>
+  <td>KnKo</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>163399</td>
+</tr>
+<tr>
+  <td>85</td>
+  <td>Cyber-doge 2077: Meme runner</td>
+  <td></td>
+  <td>StatusDate: 2021-11-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1383720/Cyberdoge_2077_Meme_runner/</td>
+  <td>performance not great on integrated Intel GPU</td>
+  <td>Action</td>
+  <td>running</td>
+  <td>Take Toad</td>
+  <td>Take Toad</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>167422</td>
+</tr>
+<tr>
+  <td>636</td>
+  <td>Cyberhunt</td>
+  <td></td>
+  <td>StatusDate: 2026-10-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/636150/Cyberhunt/</td>
+  <td></td>
+  <td>Action</td>
+  <td>arcade, casual, indie, shoot'em'up, space</td>
+  <td>NukGames</td>
+  <td>NukGames</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-02T00:00:00.000Z</td>
+  <td>2026-10-02T00:00:00.000Z</td>
+  <td>36529</td>
+</tr>
+<tr>
+  <td>70</td>
+  <td>cityglitch</td>
+  <td>1.5</td>
+  <td>StatusDate: 2023-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://mindfungus.itch.io/cityglitch</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>mindfungus</td>
+  <td></td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-0.10</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>86747</td>
+</tr>

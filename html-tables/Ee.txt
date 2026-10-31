@@ -1,0 +1,323 @@
+<tr>
+  <td>119</td>
+  <td>EXAPUNKS</td>
+  <td></td>
+  <td>StatusDate: 2023-05-06T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/game/exapunks, https://www.humblebundle.com/store/exapunks, https://zachtronics.itch.io/exapunks, https://store.steampowered.com/app/716490/EXAPUNKS/</td>
+  <td>fnaify >= 3.0</td>
+  <td>Puzzle</td>
+  <td>zach-like</td>
+  <td>Zachtronics</td>
+  <td></td>
+  <td>Mono</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>106122</td>
+</tr>
+<tr>
+  <td>120</td>
+  <td>Eagle Island</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/eagle_island, https://store.steampowered.com/app/681110/Eagle_Island_Twist</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>pixel art</td>
+  <td>Pixelnicks</td>
+  <td>Screenwave Media</td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>150781</td>
+</tr>
+<tr>
+  <td>563</td>
+  <td>Egg</td>
+  <td>1.1</td>
+  <td>StatusDate: 2026-04-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://terrycavanagh.itch.io/egg</td>
+  <td></td>
+  <td>3D Platformer</td>
+  <td>minimalist, retro</td>
+  <td>Terry Cavanagh</td>
+  <td>Terry Cavanagh</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-04-20T00:00:00.000Z</td>
+  <td>2026-04-20T00:00:00.000Z</td>
+  <td>375679</td>
+</tr>
+<tr>
+  <td>689</td>
+  <td>Elite Dangerous</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/359320/Elite_Dangerous/</td>
+  <td>FYI needs user to sign up for Frontier account</td>
+  <td>Space Sim</td>
+  <td>exploration, openworld, scifi, space</td>
+  <td>Frontier Developments</td>
+  <td>Frontier Developments</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2955</td>
+</tr>
+<tr>
+  <td>122</td>
+  <td>Eliza</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/eliza, https://www.humblebundle.com/store/eliza, https://zachtronics.itch.io/eliza, https://store.steampowered.com/app/716500/Eliza/</td>
+  <td>fnaify >= 3.0</td>
+  <td></td>
+  <td></td>
+  <td>Zachtronics</td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>92919</td>
+</tr>
+<tr>
+  <td>123</td>
+  <td>Elliot Quest</td>
+  <td></td>
+  <td>StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>https://www.humblebundle.com/store/elliot-quest, https://ansimuz.itch.io/elliot-quest, https://store.steampowered.com/app/293440/Elliot_Quest/</td>
+  <td>uses NW.js; run by unzipping file 'app', then opening index.html in a browser; no sound though</td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Ansimuz Games</td>
+  <td></td>
+  <td>NW.js</td>
+  <td></td>
+  <td>HTML5</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8596</td>
+</tr>
+<tr>
+  <td>440</td>
+  <td>Endless Dark</td>
+  <td>0.9.26</td>
+  <td>StatusDate: 2024-06-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2290890/Endless_Dark/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>early access, indie, psychological horror, space</td>
+  <td>Little Light Studios, LLC</td>
+  <td>Little Light Studios, LLC</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td></td>
+  <td>2024-06-19T00:00:00.000Z</td>
+  <td>2024-06-19T00:00:00.000Z</td>
+  <td>236912</td>
+</tr>
+<tr>
+  <td>501</td>
+  <td>Endless waves survival</td>
+  <td>0.23.1</td>
+  <td>StatusDate: 2024-10-08T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1989560/Endless_waves_survival/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>autobattler, casual, early access, indie</td>
+  <td>Jeferson Belmiro</td>
+  <td>Jeferson Belmiro</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2024-10-08T00:00:00.000Z</td>
+  <td>2024-10-08T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>124</td>
+  <td>Endoparasitic</td>
+  <td>1.1.1</td>
+  <td>StatusDate: 2023-08-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2124780/Endoparasitic/</td>
+  <td>needs godot with mono support</td>
+  <td>Action</td>
+  <td>body horror, gore, indie, minimalist, survival</td>
+  <td>Deep Root Interactive</td>
+  <td>Deep Root Interactive</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-08-25T00:00:00.000Z</td>
+  <td>2023-08-25T00:00:00.000Z</td>
+  <td>177401</td>
+</tr>
+<tr>
+  <td>515</td>
+  <td>Endoparasitic 2</td>
+  <td>3</td>
+  <td>StatusDate: 2025-01-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://nartier.itch.io/endoparasitic-2, https://store.steampowered.com/app/2990640/Endoparasitic_2/</td>
+  <td></td>
+  <td>Survival Horror</td>
+  <td>diegetic, gore, horror, indie, space</td>
+  <td>Deep Root Interactive</td>
+  <td>Deep Root Interactive</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>2025-01-04T00:00:00.000Z</td>
+  <td>314438</td>
+</tr>
+<tr>
+  <td>642</td>
+  <td>Enter the Gungeon</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/enter_the_gungeon</td>
+  <td></td>
+  <td>Action Roguelite</td>
+  <td>bullet hell, guns, indie, pixelart, sci-fi</td>
+  <td>Dodge Roll</td>
+  <td>Devolver Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>11182</td>
+</tr>
+<tr>
+  <td>125</td>
+  <td>Escape Goat</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/escape_goat, https://www.humblebundle.com/store/escape-goat, https://store.steampowered.com/app/251370/Escape_Goat/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Magical Time Bean</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>7590</td>
+</tr>
+<tr>
+  <td>126</td>
+  <td>Escape Goat 2</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/escape_goat_2, https://www.humblebundle.com/store/escape-goat-2, https://store.steampowered.com/app/255340/Escape_Goat_2/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Magical Time Bean</td>
+  <td>Double Fine Productions</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8252</td>
+</tr>
+<tr>
+  <td>127</td>
+  <td>Escape from Monkey Island</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/escape_from_monkey_island, https://store.steampowered.com/app/730830</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>humor, tank controls</td>
+  <td>LucasArts</td>
+  <td></td>
+  <td>GrimE</td>
+  <td></td>
+  <td>residualvm</td>
+  <td>2000-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>63</td>
+</tr>
+<tr>
+  <td>128</td>
+  <td>Evoland Legendary Edition</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/, https://www.gog.com/game/evoland_legendary_edition</td>
+  <td></td>
+  <td>RPG</td>
+  <td></td>
+  <td>Shiro Games</td>
+  <td></td>
+  <td>HashLink</td>
+  <td>IndieRunner (unless using rigg)</td>
+  <td>hl</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>114910</td>
+</tr>
+<tr>
+  <td>129</td>
+  <td>Ex-Zodiac</td>
+  <td>0.79</td>
+  <td>StatusDate: 2023-11-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1249480/ExZodiac/</td>
+  <td></td>
+  <td>Action</td>
+  <td>early access, retro</td>
+  <td>MNKY</td>
+  <td>Pixeljam</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>133089</td>
+</tr>
+<tr>
+  <td>131</td>
+  <td>Explosionade</td>
+  <td></td>
+  <td>StatusText: doesn't launch</td>
+  <td>https://mommysbestgames.itch.io/explosionade, https://store.steampowered.com/app/373620/Explosionade/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Mommy's Best Games</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>35176</td>
+</tr>

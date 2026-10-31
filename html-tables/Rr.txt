@@ -1,0 +1,532 @@
+<tr>
+  <td>532</td>
+  <td>REKKR: Sunken Land</td>
+  <td>1.12</td>
+  <td>StatusDate: 2025-12-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/rekkr_sunken_land, https://store.steampowered.com/app/1715690/REKKR_Sunken_Land/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>gore, retro, shooter</td>
+  <td>Mockingbird Softworks</td>
+  <td>Mockingbird Softworks</td>
+  <td>idTech1</td>
+  <td>IndieRunner</td>
+  <td>lzdoom</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>2025-12-12T00:00:00.000Z</td>
+  <td>167786</td>
+</tr>
+<tr>
+  <td>305</td>
+  <td>ROTA</td>
+  <td></td>
+  <td>StatusDate: 2022-11-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1993830/ROTA/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>colorful, indie</td>
+  <td>Harmony Honey</td>
+  <td>Harmony Honey</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-29T00:00:00.000Z</td>
+  <td>201487</td>
+</tr>
+<tr>
+  <td>306</td>
+  <td>RUN: The world in-between</td>
+  <td></td>
+  <td>StatusDate: 2022-04-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/, https://www.gog.com/en/game/run_the_world_inbetween</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Team Run</td>
+  <td>Team Run, PID Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-04-14T00:00:00.000Z</td>
+  <td>145400</td>
+</tr>
+<tr>
+  <td>534</td>
+  <td>Randotura</td>
+  <td></td>
+  <td>StatusDate: 2025-12-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3283230/Randotura/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>bullet hell, indie</td>
+  <td>blinyadebil</td>
+  <td>blinyadebil</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2025-12-24T00:00:00.000Z</td>
+  <td>2025-12-24T00:00:00.000Z</td>
+  <td>325694</td>
+</tr>
+<tr>
+  <td>571</td>
+  <td>Ravage Road</td>
+  <td></td>
+  <td>StatusDate: 2026-05-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2102240/Ravage_Road/</td>
+  <td></td>
+  <td>Tower Defense</td>
+  <td>card game, casual</td>
+  <td>Triple Cerberus Studios</td>
+  <td>Triple Cerberus Studios</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-05-06T00:00:00.000Z</td>
+  <td>2026-05-06T00:00:00.000Z</td>
+  <td>228458</td>
+</tr>
+<tr>
+  <td>685</td>
+  <td>Redout: Enhanced Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/redout-enhanced-edition</td>
+  <td></td>
+  <td>Racing</td>
+  <td>fast, futuristic</td>
+  <td>34BigThings SRL</td>
+  <td>34BigThings SRL</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>31598</td>
+</tr>
+<tr>
+  <td>640</td>
+  <td>Reigns</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/reigns</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>fantasy, indie, minimalist, simulation, story-rich</td>
+  <td>Nerial</td>
+  <td>Devolver Digital</td>
+  <td>Unity</td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>22436</td>
+</tr>
+<tr>
+  <td>291</td>
+  <td>Retro City Rampage DX</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/retro_city_rampage_dx, https://www.humblebundle.com/store/retro-city-rampage-dx, https://store.steampowered.com/app/204630/Retro_City_Rampage_DX/</td>
+  <td></td>
+  <td>Action</td>
+  <td>retro</td>
+  <td>Vblank Entertainment</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>dosbox</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8063</td>
+</tr>
+<tr>
+  <td>493</td>
+  <td>Retro Kart Rush</td>
+  <td></td>
+  <td>StatusDate: 2024-09-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1877000/Retro_Kart_Rush/</td>
+  <td></td>
+  <td>Racing</td>
+  <td>arcade, indie, retro, splitscreen</td>
+  <td>kurigamedev</td>
+  <td>kurigamedev</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>192544</td>
+</tr>
+<tr>
+  <td>292</td>
+  <td>Return to Castle Wolfenstein</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/return_to_castle_wolfenstein, https://store.steampowered.com/app/9010</td>
+  <td>https://marc.info/?l=openbsd-ports&m=154076966325692&w=2 iortcw</td>
+  <td>FPS</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>iorctw</td>
+  <td>2001-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>281</td>
+</tr>
+<tr>
+  <td>293</td>
+  <td>Rex</td>
+  <td></td>
+  <td>StatusDate: 2021-10-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://securas.itch.io/rex</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>free, indie</td>
+  <td>securas</td>
+  <td>securas</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>45348</td>
+</tr>
+<tr>
+  <td>294</td>
+  <td>Rex Rocket</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/288020/Rex_Rocket/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>indie</td>
+  <td>Castle Pixel</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>17191</td>
+</tr>
+<tr>
+  <td>295</td>
+  <td>Rise to Ruins</td>
+  <td>Update 1b</td>
+  <td>StatusDate: 2023-01-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/rise_to_ruins, https://rayvolution.itch.io/risetoruins, https://store.steampowered.com/app/328080/Rise_to_Ruins/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>indie</td>
+  <td>Raymond Doerr</td>
+  <td>SixtyGig Games</td>
+  <td>LWJGL2</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>36220</td>
+</tr>
+<tr>
+  <td>296</td>
+  <td>Riven</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/riven_the_sequel_to_myst, https://store.steampowered.com/app/63610</td>
+  <td>untested</td>
+  <td>Adventure</td>
+  <td>puzzle</td>
+  <td>Cyan Worlds</td>
+  <td>Red Orb Entertainment</td>
+  <td>Mohawk Engine</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>238</td>
+</tr>
+<tr>
+  <td>562</td>
+  <td>Road to Vostok</td>
+  <td>0.2.0.0</td>
+  <td>StatusDate: 2026-04-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1963610/Road_to_Vostok/</td>
+  <td></td>
+  <td>Survival FPS</td>
+  <td>early access, post-apocalpyse, realistic, survival</td>
+  <td>Road to Vostok Ltd.</td>
+  <td>Road to Vostok Ltd.</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-04-17T00:00:00.000Z</td>
+  <td>217304</td>
+</tr>
+<tr>
+  <td>297</td>
+  <td>Robotherapy</td>
+  <td></td>
+  <td>StatusDate: 2023-08-07T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1895970/Robotherapy/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>dark humor, indie</td>
+  <td>Lucas Molina</td>
+  <td>Lucas Molina</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-08-07T00:00:00.000Z</td>
+  <td>2023-08-07T00:00:00.000Z</td>
+  <td>212058</td>
+</tr>
+<tr>
+  <td>298</td>
+  <td>Rodent and Plank: Secret Origin</td>
+  <td></td>
+  <td>StatusDate: 2021-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1300650/Rodent_and_Plank_Secret_Origin/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie</td>
+  <td>Lodder Digital Media</td>
+  <td>Lodder Digital Media</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>139588</td>
+</tr>
+<tr>
+  <td>299</td>
+  <td>Rogue Legacy</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/rogue_legacy, https://www.humblebundle.com/store/rogue-legacy, https://store.steampowered.com/app/241600/Rogue_Legacy/</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>classic, indie, quirky, roguelite</td>
+  <td>Cellar Door Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3221</td>
+</tr>
+<tr>
+  <td>300</td>
+  <td>Rogue State Revolution</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1145340/Rogue_State_Revolution/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td></td>
+  <td>LRDGames Inc.</td>
+  <td>Modern Wolf</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>122070</td>
+</tr>
+<tr>
+  <td>301</td>
+  <td>RollerCoaster Tycoon</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/rollercoaster_tycoon_deluxe, https://www.humblebundle.com/store/rollercoaster-tycoon-deluxe, https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/</td>
+  <td></td>
+  <td>Simulation</td>
+  <td></td>
+  <td>Chris Sawyer</td>
+  <td>Hasbro Interactive</td>
+  <td></td>
+  <td></td>
+  <td>openrct2</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>36444</td>
+</tr>
+<tr>
+  <td>302</td>
+  <td>RollerCoaster Tycoon 2</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/rollercoaster_tycoon_2, https://www.humblebundle.com/store/rollercoaster-tycoon-2-triple-thrill-pack, https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/</td>
+  <td></td>
+  <td>Simulation</td>
+  <td></td>
+  <td>Chris Sawyer</td>
+  <td>Infogrames</td>
+  <td></td>
+  <td></td>
+  <td>openrct2</td>
+  <td>2002-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>331</td>
+</tr>
+<tr>
+  <td>303</td>
+  <td>Roma Invicta</td>
+  <td></td>
+  <td>StatusDate: 2022-05-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1878070/Roma_Invicta/</td>
+  <td></td>
+  <td>RTS</td>
+  <td>indie, strategy</td>
+  <td>Puntigames</td>
+  <td>Puntigames</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-05-13T00:00:00.000Z</td>
+  <td>190269</td>
+</tr>
+<tr>
+  <td>654</td>
+  <td>Romancing SaGa 2</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/romancing_saga_2</td>
+  <td></td>
+  <td>JRPG</td>
+  <td>adventure, fantasy, role-playing, story-rich</td>
+  <td>Square Enix, ArtePlaza</td>
+  <td>Square Enix</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>11312</td>
+</tr>
+<tr>
+  <td>651</td>
+  <td>Romancing SaGa 3</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/romancing_saga_3</td>
+  <td></td>
+  <td>JRPG</td>
+  <td>fantasy, story-rich</td>
+  <td>Square Enix, ArtePlaza</td>
+  <td>Square Enix</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>109592</td>
+</tr>
+<tr>
+  <td>588</td>
+  <td>Rootin' Tootin' Lootin' & Shootin'</td>
+  <td>1.6</td>
+  <td>StatusDate: 2026-06-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2372450/Rootin_Tootin_Lootin__Shootin/</td>
+  <td></td>
+  <td>turn-based tactics</td>
+  <td>indie, pixelart, western</td>
+  <td>Raspberry Jam</td>
+  <td>Raspberry Jam</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>246709</td>
+</tr>
+<tr>
+  <td>304</td>
+  <td>Ruggnar</td>
+  <td></td>
+  <td>StatusComment: - recent versions are built with dotnet and don't run anymore - it might never run on OpenBSD anymore, StatusText: doesn't launch</td>
+  <td>https://sirill.itch.io/ruggnar, https://store.steampowered.com/app/1303050, https://www.gog.com/game/ruggnar</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>MonoGame</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>164177</td>
+</tr>
+<tr>
+  <td>307</td>
+  <td>RuneScape</td>
+  <td></td>
+  <td>StatusComment: - poor performance, no audio, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.runescape.com/splash, https://store.steampowered.com/app/1343400/</td>
+  <td></td>
+  <td>MMORPG</td>
+  <td>multiplayer</td>
+  <td>Jagex</td>
+  <td>Jagex</td>
+  <td>Java</td>
+  <td>https://old.reddit.com/r/openbsd_gaming/comments/lh2jts/runescape_on_openbsd/</td>
+  <td>java-11</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5611</td>
+</tr>
+<tr>
+  <td>308</td>
+  <td>Rushberry Mercs</td>
+  <td></td>
+  <td>StatusDate: 2021-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1258990/Rushberry_Mercs/</td>
+  <td></td>
+  <td>Action</td>
+  <td>early access, multiplayer</td>
+  <td>Benjamin Soule</td>
+  <td>Benjamin Soule</td>
+  <td>HashLink</td>
+  <td></td>
+  <td>hashlink</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>132552</td>
+</tr>

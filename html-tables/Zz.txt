@@ -1,0 +1,76 @@
+<tr>
+  <td>664</td>
+  <td>ZERO Sievert</td>
+  <td></td>
+  <td>StatusDate: 2026-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1782120/ZERO_Sievert/</td>
+  <td></td>
+  <td>Extraction Shooter</td>
+  <td>post-apocalyptic, survival, top-down</td>
+  <td>CABO Studio</td>
+  <td>Modern Wolf</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>2026-10-15T00:00:00.000Z</td>
+  <td>182335</td>
+</tr>
+<tr>
+  <td>423</td>
+  <td>Zak McKracken and the Alien Mindbenders</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/zak_mckracken_and_the_alien_mindbenders</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>LucasArts</td>
+  <td></td>
+  <td>SCUMM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1988-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>2280</td>
+</tr>
+<tr>
+  <td>424</td>
+  <td>Zen Bound 2</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/zen-bound-2</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td>Secret Exit</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2010-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>15063</td>
+</tr>
+<tr>
+  <td>697</td>
+  <td>Zoombinis (2015)</td>
+  <td></td>
+  <td>StatusDate: 2026-10-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/397430/</td>
+  <td></td>
+  <td>Educational</td>
+  <td>logic, puzzle, strategy, tactics</td>
+  <td>TERC</td>
+  <td>Viva Media</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-26T00:00:00.000Z</td>
+  <td>2026-10-26T00:00:00.000Z</td>
+  <td>34591</td>
+</tr>

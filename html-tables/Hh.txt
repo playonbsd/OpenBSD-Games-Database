@@ -1,0 +1,570 @@
+<tr>
+  <td>166</td>
+  <td>Hack Grid</td>
+  <td></td>
+  <td>StatusDate: 2021-08-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1543290/Hack_Grid/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>retro</td>
+  <td>Daisy Games</td>
+  <td>Daisy Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>169852</td>
+</tr>
+<tr>
+  <td>167</td>
+  <td>HackNet</td>
+  <td></td>
+  <td>StatusComment: - integrated browser module not working (not needed to complete game), StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>https://www.gog.com/game/hacknet, https://www.humblebundle.com/store/hacknet, https://fellowtraveller.itch.io/hacknet, https://store.steampowered.com/app/365450/Hacknet/</td>
+  <td>multiple editions available (Complete, Ultimate); DLC: HackNet Labyrinths</td>
+  <td>Hacking, Puzzle</td>
+  <td>hacking, indie</td>
+  <td>Team Fractal Alligator</td>
+  <td>Surprise Attack Games</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>11707</td>
+</tr>
+<tr>
+  <td>168</td>
+  <td>Haiki</td>
+  <td></td>
+  <td>StatusComment: - shader errors with Godot 3.5 - https://github.com/godotengine/godot/issues/59316 , StatusDate: 2022-08-20T00:00:00.000Z, StatusText: doesn't launch</td>
+  <td>https://store.steampowered.com/app/1395270/Haiki/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>2D, early access, indie</td>
+  <td>Richard Hornig</td>
+  <td>Application Systems Heidelberg</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>141134</td>
+</tr>
+<tr>
+  <td>169</td>
+  <td>Hallow's Eve</td>
+  <td>1.2.0</td>
+  <td>StatusDate: 2021-11-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://maxatrillionator.itch.io/hallows-eve</td>
+  <td>solarus-run *.solarus</td>
+  <td>Action RPG</td>
+  <td>2D, comedy, halloween, indie</td>
+  <td>Max Mraz</td>
+  <td></td>
+  <td>Solarus</td>
+  <td></td>
+  <td>solarus-run</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>170</td>
+  <td>Hands of Necromancy</td>
+  <td>2.0</td>
+  <td>StatusDate: 2022-11-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1898610/Hands_of_Necromancy/, https://www.gog.com/en/game/hands_of_necromancy</td>
+  <td></td>
+  <td>FPS</td>
+  <td>fantasy, retro</td>
+  <td>HON Team</td>
+  <td>Frechou Games</td>
+  <td>id Tech</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-29T00:00:00.000Z</td>
+  <td>203249</td>
+</tr>
+<tr>
+  <td>171</td>
+  <td>Hashi: Light</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1703650/Hashi_Light/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>indie</td>
+  <td>amiksemo</td>
+  <td>amiksemo</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>168485</td>
+</tr>
+<tr>
+  <td>179</td>
+  <td>HeXen II</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/9060/HeXen_II/, https://www.gog.com/game/hexen_ii</td>
+  <td></td>
+  <td>FPS</td>
+  <td></td>
+  <td>Raven Software</td>
+  <td>id Software</td>
+  <td>Quake Engine</td>
+  <td></td>
+  <td>uhexen2</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>6637</td>
+</tr>
+<tr>
+  <td>178</td>
+  <td>HeXen: Beyond Heretic</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/, https://www.gog.com/game/hexen_beyond_heretic</td>
+  <td></td>
+  <td>FPS</td>
+  <td></td>
+  <td>Raven Software</td>
+  <td>id Software</td>
+  <td>id Tech 1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3512</td>
+</tr>
+<tr>
+  <td>173</td>
+  <td>Hedon</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/hedon, https://store.steampowered.com/app/1072150/Hedon/</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Zan</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>183074</td>
+</tr>
+<tr>
+  <td>547</td>
+  <td>Hell Builder</td>
+  <td></td>
+  <td>StatusDate: 2026-01-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3842300/Hell_Builder/</td>
+  <td></td>
+  <td>Strategy Roguelite</td>
+  <td>city builder, indie</td>
+  <td>Cuddle Code</td>
+  <td>Cuddle Code</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-05T00:00:00.000Z</td>
+  <td>2026-01-05T00:00:00.000Z</td>
+  <td>352221</td>
+</tr>
+<tr>
+  <td>172</td>
+  <td>Her Name Was Fire</td>
+  <td></td>
+  <td>StatusDate: 2023-11-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2083840/Her_Name_Was_Fire/</td>
+  <td></td>
+  <td>Action</td>
+  <td>bullet hell, indie, roguelite, survivors-like</td>
+  <td>Tissue Inu</td>
+  <td>Tissue Inu</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>2023-11-09T00:00:00.000Z</td>
+  <td>209779</td>
+</tr>
+<tr>
+  <td>174</td>
+  <td>Heretic: Shadow of the Serpent Riders</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/, https://www.gog.com/game/heretic_shadow_of_the_serpent_riders</td>
+  <td></td>
+  <td>FPS</td>
+  <td></td>
+  <td>Raven Software</td>
+  <td>id Software</td>
+  <td>id Tech 1</td>
+  <td></td>
+  <td>gzdoom, crispy-doom</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8419</td>
+</tr>
+<tr>
+  <td>175</td>
+  <td>Heroes of Loot</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/heroes-of-loot, https://store.steampowered.com/app/359280/Heroes_of_Loot/</td>
+  <td>no straightforward way to quit the game</td>
+  <td>dungeoncrawler</td>
+  <td>indie</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td></td>
+  <td>java</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>13624</td>
+</tr>
+<tr>
+  <td>176</td>
+  <td>Heroes of Might and Magic 2</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>classic, fantasy</td>
+  <td>New World Computing</td>
+  <td>3DO</td>
+  <td></td>
+  <td></td>
+  <td>fheroes2</td>
+  <td>1996-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>51821</td>
+</tr>
+<tr>
+  <td>177</td>
+  <td>Heroine's Quest: The Herald of Ragnarok</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/g/heroines-quest, https://radiant.itch.io/heroines-quest, https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/</td>
+  <td></td>
+  <td>RPG</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td></td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>36441</td>
+</tr>
+<tr>
+  <td>180</td>
+  <td>Hexes</td>
+  <td></td>
+  <td>StatusDate: 2023-08-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1977770/Hexes/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>casual, indie, match three</td>
+  <td>Elektri Inc.</td>
+  <td>Elektri Inc.</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-08-13T00:00:00.000Z</td>
+  <td>2023-08-13T00:00:00.000Z</td>
+  <td>243780</td>
+</tr>
+<tr>
+  <td>453</td>
+  <td>Hexis</td>
+  <td></td>
+  <td>StatusDate: 2024-07-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2764350/Hexis/</td>
+  <td></td>
+  <td>Arcade</td>
+  <td>Tetris-like, casual</td>
+  <td>Edetanorum Games</td>
+  <td>Edetanorum Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-07-27T00:00:00.000Z</td>
+  <td>2024-07-27T00:00:00.000Z</td>
+  <td>291582</td>
+</tr>
+<tr>
+  <td>448</td>
+  <td>Hexpire</td>
+  <td>1.2</td>
+  <td>StatusDate: 2024-07-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2792760/Hexpire/</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>hex, indie, minimalist</td>
+  <td>DoughnutDev</td>
+  <td>DoughnutDev</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-07-13T00:00:00.000Z</td>
+  <td>292944</td>
+</tr>
+<tr>
+  <td>181</td>
+  <td>Highway Blossoms</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/highway_blossoms, https://vnstudioelan.itch.io/highway-blossoms, https://www.humblebundle.com/store/highway-blossoms, https://store.steampowered.com/app/451760/Highway_Blossoms/</td>
+  <td></td>
+  <td>visual novel</td>
+  <td></td>
+  <td>AlienWorks</td>
+  <td>Sekai Project</td>
+  <td>Ren'Py</td>
+  <td></td>
+  <td>renpy</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>20688</td>
+</tr>
+<tr>
+  <td>182</td>
+  <td>Hive</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/251210/Hive/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td>BlueLine Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>5604</td>
+</tr>
+<tr>
+  <td>183</td>
+  <td>Hiveswap Friendsim</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/833040/Hiveswap_Friendsim/, https://www.gog.com/game/hiveswap_friendsim</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/hhy4h0/hiveswap_friendsim_works_with_renpyrenpyify/ Reddit post</td>
+  <td></td>
+  <td></td>
+  <td>What Pumpkin Games</td>
+  <td>Fellow Traveller</td>
+  <td>Ren'Py</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>97012</td>
+</tr>
+<tr>
+  <td>184</td>
+  <td>Hoarder's Horrible House of Stuff</td>
+  <td></td>
+  <td>StatusDate: 2023-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://alesan99.itch.io/hoarders-horrible-house-of-stuff</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>free, indie</td>
+  <td>alesan99</td>
+  <td>alesan99</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>185059</td>
+</tr>
+<tr>
+  <td>648</td>
+  <td>Hollow Knight</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/hollow_knight</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>action, atmospheric, fantasy, indie, story-rich</td>
+  <td>Team Cherry</td>
+  <td>Team Cherry</td>
+  <td>Unity</td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>14593</td>
+</tr>
+<tr>
+  <td>659</td>
+  <td>Hollow Knight: Silksong</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/hollow_knight_silksong</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>action, adventure, fantasy, indie, story-rich</td>
+  <td>Team Cherry</td>
+  <td>Team Cherry</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>115289</td>
+</tr>
+<tr>
+  <td>619</td>
+  <td>Home</td>
+  <td></td>
+  <td>StatusDate: 2026-09-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://bancyco.itch.io/home, https://store.steampowered.com/app/215670/Home/</td>
+  <td></td>
+  <td>Horror Adventure</td>
+  <td>adventure, atmospheric, indie, mystery, short</td>
+  <td>BancyCo</td>
+  <td>BancyCo</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>2026-09-25T00:00:00.000Z</td>
+  <td>10142</td>
+</tr>
+<tr>
+  <td>548</td>
+  <td>House of Necrosis</td>
+  <td></td>
+  <td>StatusDate: 2026-01-07T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/2005870/House_of_Necrosis/</td>
+  <td>demo on itch.io; crashes to CLI after dying</td>
+  <td>RPG</td>
+  <td>3d, 90s, horror, indie, mystery dungeon, retro</td>
+  <td>Warkus</td>
+  <td>Warkus</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-01-07T00:00:00.000Z</td>
+  <td>2026-01-05T00:00:00.000Z</td>
+  <td>206009</td>
+</tr>
+<tr>
+  <td>185</td>
+  <td>Human Diaspora</td>
+  <td>Early Access</td>
+  <td>StatusDate: 2021-10-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1395420/Human_Diaspora/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>scifi</td>
+  <td>Leocesar3D Productions</td>
+  <td>Leocesar3D Productions</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>142253</td>
+</tr>
+<tr>
+  <td>542</td>
+  <td>Hungry Horrors</td>
+  <td>0.0.103</td>
+  <td>StatusDate: 2025-12-26T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://clumsy-bear-studio.itch.io/hungry-horrors, https://store.steampowered.com/app/3048840/Hungry_Horrors/</td>
+  <td></td>
+  <td>Card Battler</td>
+  <td>early access, funny, indie, pixelart, roguelite</td>
+  <td>Clumsy Bear Studio</td>
+  <td>Clumsy Bear Studio</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td></td>
+  <td>2025-12-26T00:00:00.000Z</td>
+  <td>2025-12-26T00:00:00.000Z</td>
+  <td>315343</td>
+</tr>
+<tr>
+  <td>186</td>
+  <td>Hyphen</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/346510/Hyphen/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td></td>
+  <td>FarSpace Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>24566</td>
+</tr>
+<tr>
+  <td>606</td>
+  <td>how to kill a fly [H2KAF]</td>
+  <td>1.0.0</td>
+  <td>StatusComment: - T pose of all characters., StatusDate: 2026-08-22T00:00:00.000Z, StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>https://store.steampowered.com/app/4566700/how_to_kill_a_fly__H2KAF/</td>
+  <td></td>
+  <td>Adventure RPG</td>
+  <td>cyberpunk, dystopian, indie, lowfi, story-rich</td>
+  <td>Radtel Collective</td>
+  <td>Radtel Collective</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-22T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>397986</td>
+</tr>

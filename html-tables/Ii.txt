@@ -1,0 +1,304 @@
+<tr>
+  <td>188</td>
+  <td>I Have No Mouth And I Must Scream</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/i_have_no_mouth_and_i_must_scream, https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>classic</td>
+  <td>The Dreamers Guild</td>
+  <td>Cyberdreams</td>
+  <td>SAGA</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1995-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>7578</td>
+</tr>
+<tr>
+  <td>189</td>
+  <td>I MAED A GAM3 W1TH Z0MB1ES 1N IT!!!1</td>
+  <td></td>
+  <td>StatusDate: 2021-11-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1800730/I_MAED_A_GAM3_W1TH_Z0MB1ES_1N_IT1/</td>
+  <td></td>
+  <td>Twin-Stick Shooter</td>
+  <td>free, zombies</td>
+  <td>Ska Studios, OMNIVIOLET</td>
+  <td>Ska Studios</td>
+  <td>FNA</td>
+  <td></td>
+  <td>fnaify</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>181112</td>
+</tr>
+<tr>
+  <td>187</td>
+  <td>I am Sakuya: Touhou FPS Game</td>
+  <td></td>
+  <td>StatusDate: 2023-01-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1960590/I_Am_Sakuya_Touhou_FPS_Game/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>touhou</td>
+  <td>Sigyaad Team</td>
+  <td>Sigyaad Team</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-24T00:00:00.000Z</td>
+  <td>199475</td>
+</tr>
+<tr>
+  <td>192</td>
+  <td>INC: The Beginning</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/inc</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>dystopian, indie</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>190</td>
+  <td>Ib</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://vgperson.com/games/ib.htm, https://store.steampowered.com/app/1901370</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/hkq3bs/ib_rpg_maker_2000_playonbsd/ Reddit post https://videos.pair2jeux.tube/videos/watch/bdf3fb76-5c46-4d17-9046-5e9e9fabcdb2 Video</td>
+  <td></td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>easyrpg</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>195732</td>
+</tr>
+<tr>
+  <td>191</td>
+  <td>Icewind Dale</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/icewind_dale_enhanced_edition</td>
+  <td>https://support.gog.com/hc/en-us/articles/9002914056989-Icewind-Dale-Complete-how-to-access-the-classic-version?product=gog</td>
+  <td>RPG</td>
+  <td>fantasy</td>
+  <td>Black Isle Studios</td>
+  <td>Interplay Entertainment</td>
+  <td>Infinity Engine</td>
+  <td></td>
+  <td>gemrb</td>
+  <td>2000-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>753</td>
+</tr>
+<tr>
+  <td>429</td>
+  <td>If On A Winter's Night, Four Travelers</td>
+  <td></td>
+  <td>StatusDate: 2024-05-11T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://laurahunt.itch.io/if-on-a-winters-night-four-travelers, https://store.steampowered.com/app/1603980/If_On_A_Winters_Night_Four_Travelers/</td>
+  <td></td>
+  <td>point & click adventure</td>
+  <td>free, indie, pixelart</td>
+  <td>Dead Idle Games</td>
+  <td>Dead Idle Games</td>
+  <td>Adventure Game Studio</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2024-05-11T00:00:00.000Z</td>
+  <td>2024-05-09T00:00:00.000Z</td>
+  <td>144554</td>
+</tr>
+<tr>
+  <td>437</td>
+  <td>Immortals Must Die</td>
+  <td>1.1.1</td>
+  <td>StatusDate: 2024-06-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2814760/Immortals_Must_Die/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>indie, pixelart, platformer</td>
+  <td>Charles Palva</td>
+  <td>Charles Palva</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>2024-06-18T00:00:00.000Z</td>
+  <td>287880</td>
+</tr>
+<tr>
+  <td>195</td>
+  <td>In the House of Silence</td>
+  <td></td>
+  <td>StatusDate: 2021-11-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1378870/In_the_House_of_Silence/</td>
+  <td></td>
+  <td>Dungeon Crawler</td>
+  <td></td>
+  <td>Kai Ruma Games</td>
+  <td>Kai Ruma Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>139515</td>
+</tr>
+<tr>
+  <td>193</td>
+  <td>Indiana Jones and the Fate of Atlantis</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/indiana_jones_and_the_fate_of_atlantis, https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>classic</td>
+  <td>LucasArts</td>
+  <td>LucasArts</td>
+  <td>SCUMM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1994-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>184</td>
+</tr>
+<tr>
+  <td>194</td>
+  <td>Indirection</td>
+  <td></td>
+  <td>StatusDate: 2022-01-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1744450/Indirection/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td></td>
+  <td>jakes1403</td>
+  <td>jakes1403</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-01-09T00:00:00.000Z</td>
+  <td>186000</td>
+</tr>
+<tr>
+  <td>496</td>
+  <td>Interstellar Plunderer</td>
+  <td></td>
+  <td>StatusDate: 2024-09-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2832630/Interstellar_Plunderer/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>3d, arcade, bullet hell, indie, space</td>
+  <td>Cozy Frog Games</td>
+  <td>Cozy Frog Games</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>287003</td>
+</tr>
+<tr>
+  <td>196</td>
+  <td>Into the Necrovale</td>
+  <td>Demo 49</td>
+  <td>StatusDate: 2024-01-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://clydegames.itch.io/necrovale</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>early access, hack'n'slash</td>
+  <td>Casey Clyde</td>
+  <td>Tribal-Storm</td>
+  <td>HashLink</td>
+  <td>IndieRunner</td>
+  <td>hl</td>
+  <td></td>
+  <td>2024-01-18T00:00:00.000Z</td>
+  <td>2024-01-18T00:00:00.000Z</td>
+  <td>234176</td>
+</tr>
+<tr>
+  <td>197</td>
+  <td>Ion Fury</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://3drealms.com/catalog/ion-maiden_56/, https://3drealms.com/catalog/ion-fury-big-box-2_146/, https://www.gog.com/game/ion_fury, https://store.steampowered.com/app/562860/Ion_Fury/</td>
+  <td>use eduke32 with https://marc.info/?l=openbsd-misc&m=156907261602397&w=2 Ion Fury patch</td>
+  <td>FPS</td>
+  <td>female protagonist, retro</td>
+  <td>Void Point</td>
+  <td>3D Realms</td>
+  <td>Build Engine</td>
+  <td>compile eduke32 from ports tree</td>
+  <td>eduke32</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>54844</td>
+</tr>
+<tr>
+  <td>475</td>
+  <td>Iridion 3D</td>
+  <td></td>
+  <td>StatusDate: 2024-09-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1132220/Iridion_3D/</td>
+  <td>run file res/game (need to rename to game.gba to run with mednafen)</td>
+  <td>Shoot'Em Up</td>
+  <td>ROM, classic, retro, scifi</td>
+  <td>Shin'en Multimedia, Piko Interactive</td>
+  <td>Majesco Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>mgba, mednafen</td>
+  <td>2001-01-01T00:00:00.000Z</td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>6449</td>
+</tr>
+<tr>
+  <td>474</td>
+  <td>Iridion II</td>
+  <td></td>
+  <td>StatusDate: 2024-09-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1132230/Iridion_II/</td>
+  <td>run file res/game (need to rename to game.gba to run with mednafen)</td>
+  <td>Shoot'Em Up</td>
+  <td>ROM, classic, retro, scifi</td>
+  <td>Shin'en Multimedia, Piko Interactive</td>
+  <td>Majesco Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>mgba, mednafen</td>
+  <td>2003-01-01T00:00:00.000Z</td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>2024-09-02T00:00:00.000Z</td>
+  <td>6450</td>
+</tr>

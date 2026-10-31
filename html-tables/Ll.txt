@@ -1,0 +1,399 @@
+<tr>
+  <td>669</td>
+  <td>LEGO Bricktales</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/lego_bricktales</td>
+  <td></td>
+  <td>Puzzle Adventure</td>
+  <td>adventure, casual</td>
+  <td>ClockStone</td>
+  <td>Thunderful Publishing</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>194745</td>
+</tr>
+<tr>
+  <td>209</td>
+  <td>Labyrinth of Legendary Loot</td>
+  <td>1.12</td>
+  <td>StatusDate: 2023-10-09T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://dominaxis-games.itch.io/labyrinth-of-legendary-loot</td>
+  <td></td>
+  <td>Dungeon Crawler</td>
+  <td>free, indie, roguelite, turn-based</td>
+  <td>Dominaxis Games</td>
+  <td>Dominaxis Games</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>2023-10-09T00:00:00.000Z</td>
+  <td>176520</td>
+</tr>
+<tr>
+  <td>432</td>
+  <td>Lair of goblins</td>
+  <td></td>
+  <td>StatusDate: 2024-05-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2282910/Lair_of_goblins/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>action, dungeoncrawler, indie</td>
+  <td>Julian Ochando</td>
+  <td>Julian Ochando</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-05-15T00:00:00.000Z</td>
+  <td>2024-05-15T00:00:00.000Z</td>
+  <td>233029</td>
+</tr>
+<tr>
+  <td>210</td>
+  <td>Lamplight City</td>
+  <td></td>
+  <td>StatusDate: 2021-10-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/lamplight_city, https://store.steampowered.com/app/761460/Lamplight_City/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>indie</td>
+  <td>Grundislav Games</td>
+  <td>Application Systems Heidelberg</td>
+  <td>Adventure Game Studio</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>79999</td>
+</tr>
+<tr>
+  <td>211</td>
+  <td>Landnama</td>
+  <td>1.1.0</td>
+  <td>StatusDate: 2023-08-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2339040/Landnama/</td>
+  <td></td>
+  <td>Strategy</td>
+  <td>boardgame, hex tiles, indie, nordic, viking</td>
+  <td>Sonderland</td>
+  <td>Sonderland</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-08-02T00:00:00.000Z</td>
+  <td>2023-08-02T00:00:00.000Z</td>
+  <td>245366</td>
+</tr>
+<tr>
+  <td>212</td>
+  <td>Lands of Lore - The Throne of Chaos</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/lands_of_lore_1_2</td>
+  <td></td>
+  <td>RPG</td>
+  <td>fantasy</td>
+  <td>Westwood Studios</td>
+  <td>Virgin Interactive</td>
+  <td>Kyra</td>
+  <td>7zip extract GAME.DAT</td>
+  <td>scummvm</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>2528</td>
+</tr>
+<tr>
+  <td>213</td>
+  <td>LaserCat</td>
+  <td></td>
+  <td></td>
+  <td>https://monsterjail.itch.io/lasercat, https://store.steampowered.com/app/496120/LaserCat/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td></td>
+  <td>Daniel McFarline</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>32271</td>
+</tr>
+<tr>
+  <td>214</td>
+  <td>Learn Japanese To Survive! Hiragana Battle</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://sleepy-duck.itch.io/learn-japanese-to-survive-hiragana-battle, https://store.steampowered.com/app/438270/Learn_Japanese_To_Survive_Hiragana_Battle/</td>
+  <td>https://www.reddit.com/r/openbsd_gaming/comments/hhdxp7/learn_japanese_to_survive_hiragana_battle/ Reddit post https://videos.pair2jeux.tube/videos/watch/77efc60a-adb5-45ed-b6c0-d121229739d0 Video</td>
+  <td>RPG</td>
+  <td>educational</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>33622</td>
+</tr>
+<tr>
+  <td>445</td>
+  <td>Legendary Creatures</td>
+  <td></td>
+  <td>StatusDate: 2024-06-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1191840/Legend_Creatures/</td>
+  <td></td>
+  <td>Strategy</td>
+  <td>indie, roguelike</td>
+  <td>HideChara</td>
+  <td>HideChara</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>128256</td>
+</tr>
+<tr>
+  <td>444</td>
+  <td>Lil Baby Poop's NIGHTMARE</td>
+  <td></td>
+  <td>StatusDate: 2024-06-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2195720/Lil_Baby_Poops_NIGHTMARES/</td>
+  <td></td>
+  <td>Action</td>
+  <td>cartoon, hand-drawn, retro</td>
+  <td>Soju and Ink</td>
+  <td>Soju and Ink</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>2024-06-30T00:00:00.000Z</td>
+  <td>231185</td>
+</tr>
+<tr>
+  <td>215</td>
+  <td>Lila's Sky Ark</td>
+  <td></td>
+  <td>StatusDate: 2022-04-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1573390/Lilas_Sky_Ark/, https://www.gog.com/game/lilas_sky_ark</td>
+  <td></td>
+  <td>Metroidvania</td>
+  <td>indie, pixel art</td>
+  <td>Monolith of Minds</td>
+  <td>Graffiti Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-04-22T00:00:00.000Z</td>
+  <td>144552</td>
+</tr>
+<tr>
+  <td>216</td>
+  <td>Lingo</td>
+  <td></td>
+  <td>StatusDate: 2021-12-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1814170/Lingo/</td>
+  <td>slow graphics performance on Intel UHD 630/Tigerlake</td>
+  <td>Puzzle</td>
+  <td>first-person, indie</td>
+  <td>Brenton Wildes</td>
+  <td>Brenton Wildes</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-13T00:00:00.000Z</td>
+  <td>117955</td>
+</tr>
+<tr>
+  <td>561</td>
+  <td>Linovictus</td>
+  <td></td>
+  <td>StatusDate: 2026-04-02T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://transmutrix.itch.io/linovictus</td>
+  <td></td>
+  <td>Twin-Stick Shooter</td>
+  <td>action, arcade, old-school, retro, roguelite</td>
+  <td>transmutrix</td>
+  <td>transmutrix</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-04-02T00:00:00.000Z</td>
+  <td>2026-04-02T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>217</td>
+  <td>Little Racers STREET</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/262690/Little_Racers_STREET/</td>
+  <td>needs a stub for libCommunityExpressSW.so to run</td>
+  <td>Racing</td>
+  <td></td>
+  <td>Milkstone Studios</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>10518</td>
+</tr>
+<tr>
+  <td>218</td>
+  <td>Lode Runner Online: The Mad Monks' Revenge</td>
+  <td>22.09</td>
+  <td>StatusDate: 2022-10-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://mmr.quarkrobot.com/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>free</td>
+  <td>Quark Robot</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-10-30T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>219</td>
+  <td>Long Live the Queen</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/long_live_the_queen, https://store.steampowered.com/app/251990</td>
+  <td>https://raw.githubusercontent.com/reivyr/renpy-games/master/LongLiveTheQueen/script.sh tweaks to apply before running the game</td>
+  <td></td>
+  <td></td>
+  <td>Hanako Games</td>
+  <td>Zone of Games</td>
+  <td>Ren'Py 6</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9722</td>
+</tr>
+<tr>
+  <td>221</td>
+  <td>Loom</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/loom, https://store.steampowered.com/app/32340</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>LucasArts</td>
+  <td>LucasArts</td>
+  <td>SCUMM</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1990-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>191</td>
+</tr>
+<tr>
+  <td>222</td>
+  <td>Lost Cities</td>
+  <td></td>
+  <td>StatusDate: 2021-08-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/520680/Lost_Cities/</td>
+  <td></td>
+  <td>Card Game</td>
+  <td>multiplayer</td>
+  <td>BlueLine Games</td>
+  <td>BlueLine Games</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>37376</td>
+</tr>
+<tr>
+  <td>567</td>
+  <td>Lost Wiki: Kozlovka</td>
+  <td></td>
+  <td>StatusDate: 2026-04-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/4018950/Lost_Wiki_Kozlovka/</td>
+  <td></td>
+  <td>Detective Mystery</td>
+  <td>conspiracy, investigation, retro</td>
+  <td>yattytheman</td>
+  <td>yattytheman</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-04-30T00:00:00.000Z</td>
+  <td>2026-04-30T00:00:00.000Z</td>
+  <td>374721</td>
+</tr>
+<tr>
+  <td>223</td>
+  <td>Luck be a Landlord</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/</td>
+  <td>extract from Linux version with https://github.com/rfht/pck-extract</td>
+  <td>Slotmachine Game</td>
+  <td>early access, indie</td>
+  <td>TrampolineTales</td>
+  <td>TrampolineTales</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>142035</td>
+</tr>
+<tr>
+  <td>224</td>
+  <td>Lycanthorn II</td>
+  <td></td>
+  <td>StatusDate: 2023-01-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1546440/</td>
+  <td>free</td>
+  <td>FPS</td>
+  <td>free, indie, openworld, retro</td>
+  <td>Scumhead</td>
+  <td>Scumhead</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-25T00:00:00.000Z</td>
+  <td>239592</td>
+</tr>

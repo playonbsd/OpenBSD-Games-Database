@@ -1,0 +1,494 @@
+<tr>
+  <td>134</td>
+  <td>FEZ</td>
+  <td></td>
+  <td>StatusComment: - need to use beta version to run, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/fez, https://store.steampowered.com/app/224760/FEZ/</td>
+  <td></td>
+  <td>Puzzle Platformer</td>
+  <td>indie</td>
+  <td>Polytron Corporation</td>
+  <td>Trapdoor</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1991</td>
+</tr>
+<tr>
+  <td>575</td>
+  <td>FOUNTAINS</td>
+  <td>1.4.8</td>
+  <td>StatusDate: 2026-05-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1841240/FOUNTAINS/, https://store.epicgames.com/p/fountains-87e36d</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>RPG, exploration, indie, metroidvania, souls-like</td>
+  <td>John Pywell</td>
+  <td>Crunching Koalas, John Pywell</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>2026-05-25T00:00:00.000Z</td>
+  <td>203752</td>
+</tr>
+<tr>
+  <td>136</td>
+  <td>FRANZ FURY</td>
+  <td>Demo</td>
+  <td>StatusDate: 2022-04-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1513960/FRANZ_FURY/</td>
+  <td></td>
+  <td>Action</td>
+  <td>top-down, vehicle</td>
+  <td>Raffaele Picca</td>
+  <td>Raffaele Picca</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-04-14T00:00:00.000Z</td>
+  <td>157923</td>
+</tr>
+<tr>
+  <td>138</td>
+  <td>FTL</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/ftl-faster-than-light</td>
+  <td>Demo available on humblebundle.com</td>
+  <td>Strategy</td>
+  <td>pixel art, roguelite, space</td>
+  <td>Subset Games</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>HumblePlay</td>
+  <td>2012-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>3075</td>
+</tr>
+<tr>
+  <td>637</td>
+  <td>Factorio</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/factorio, https://store.steampowered.com/app/427520/Factorio/</td>
+  <td></td>
+  <td>Base Building</td>
+  <td>automation, crafting, indie</td>
+  <td>Wube Software LTD.</td>
+  <td>Wube Software LTD.</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>7046</td>
+</tr>
+<tr>
+  <td>579</td>
+  <td>Fading Serenades</td>
+  <td>1.0.7</td>
+  <td>StatusDate: 2026-05-27T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3644970/Fading_Serenades/</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>casual, indie, inventory management, pixelart, retro</td>
+  <td>Bernie Wick</td>
+  <td>Bernie Wick</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-05-27T00:00:00.000Z</td>
+  <td>2026-05-27T00:00:00.000Z</td>
+  <td>348512</td>
+</tr>
+<tr>
+  <td>558</td>
+  <td>Fallout</td>
+  <td>1.2</td>
+  <td>StatusDate: 2026-02-23T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://www.gog.com/en/game/fallout</td>
+  <td></td>
+  <td>rpg</td>
+  <td>post-apocalypse, rpg, strategy, top-down, turn-based</td>
+  <td>Interplay</td>
+  <td>Interplay</td>
+  <td>fallout1-ce</td>
+  <td></td>
+  <td>fallout-ce</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2026-02-23T00:00:00.000Z</td>
+  <td>2026-02-23T00:00:00.000Z</td>
+  <td>13</td>
+</tr>
+<tr>
+  <td>559</td>
+  <td>Fallout 2</td>
+  <td>1.2</td>
+  <td>StatusDate: 2026-03-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/fallout_2</td>
+  <td></td>
+  <td>rpg</td>
+  <td>post-apocalypse, rpg, strategy, top-down, turn-based</td>
+  <td>Interplay</td>
+  <td>Interplay</td>
+  <td>fallout2-ce</td>
+  <td></td>
+  <td>fallout2-ce</td>
+  <td>1998-01-01T00:00:00.000Z</td>
+  <td>2026-03-23T00:00:00.000Z</td>
+  <td>2026-03-23T00:00:00.000Z</td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>608</td>
+  <td>False Alarm</td>
+  <td></td>
+  <td>StatusDate: 2026-08-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3688650/False_Alarm/</td>
+  <td></td>
+  <td>Stealth Game</td>
+  <td>assassins, heist, indie, pixelart, stealth</td>
+  <td>Scattered Discs</td>
+  <td>Scattered Discs</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>2026-08-20T00:00:00.000Z</td>
+  <td>406656</td>
+</tr>
+<tr>
+  <td>139</td>
+  <td>Farm Keeper</td>
+  <td></td>
+  <td>StatusDate: 2023-08-28T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2458940/Farm_Keeper/</td>
+  <td>in-browser demo available at https://jetamp.itch.io/farm-keeper</td>
+  <td>Roguelite</td>
+  <td>farming, indie</td>
+  <td>Napas Torteeka</td>
+  <td>Napas Torteeka</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-08-28T00:00:00.000Z</td>
+  <td>2023-08-28T00:00:00.000Z</td>
+  <td>247034</td>
+</tr>
+<tr>
+  <td>140</td>
+  <td>Fatal Twelve</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/620210/Fatal_Twelve/, https://www.gog.com/game/fatal_twelve</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Ren'Py</td>
+  <td>renpyify</td>
+  <td>renpy</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>28801</td>
+</tr>
+<tr>
+  <td>133</td>
+  <td>Fenimore Fillmore: 3 Skulls of the Toltecs</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/fenimore_fillmore_3_skulls_of_the_toltecs, https://store.steampowered.com/app/977300</td>
+  <td></td>
+  <td>Adventure</td>
+  <td></td>
+  <td>Casual Brothers</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>scummvm</td>
+  <td></td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>111882</td>
+</tr>
+<tr>
+  <td>141</td>
+  <td>Fist Puncher</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/fist_puncher, https://www.humblebundle.com/store/fist-puncher, https://store.steampowered.com/app/238630/Fist_Puncher/</td>
+  <td></td>
+  <td>Brawler</td>
+  <td>humor, indie</td>
+  <td>Team2Bit</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>9088</td>
+</tr>
+<tr>
+  <td>142</td>
+  <td>Flinthook</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/401710/Flinthook/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>indie, quirky, roguelite</td>
+  <td>Tribute Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>20330</td>
+</tr>
+<tr>
+  <td>143</td>
+  <td>Flotilla</td>
+  <td></td>
+  <td></td>
+  <td>https://blendogames.itch.io/flotilla, https://store.steampowered.com/app/55000/Flotilla/</td>
+  <td></td>
+  <td>Strategy</td>
+  <td>3D, space</td>
+  <td>Blendo Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2010-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>8396</td>
+</tr>
+<tr>
+  <td>598</td>
+  <td>Forehead Chip</td>
+  <td></td>
+  <td>StatusDate: 2026-08-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2171910/Forehead_Chip/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>cyberpunk, indie, retro, scifi</td>
+  <td>Naturally Intelligent</td>
+  <td>Naturally Intelligent</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-08-04T00:00:00.000Z</td>
+  <td>2026-08-04T00:00:00.000Z</td>
+  <td>257939</td>
+</tr>
+<tr>
+  <td>144</td>
+  <td>Forest's Secret: Mystery of the Frost</td>
+  <td></td>
+  <td></td>
+  <td>https://bynine.itch.io/forestssecret</td>
+  <td>see launch script: https://brynet.ca/pub/openbsd_forests_secret.sh.txt, or try libgdx-{setup,run} in libgdx port or IndieRunner</td>
+  <td>Adventure</td>
+  <td>free</td>
+  <td></td>
+  <td></td>
+  <td>LibGDX</td>
+  <td></td>
+  <td></td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2024-07-06T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>138716</td>
+</tr>
+<tr>
+  <td>471</td>
+  <td>FoxTail</td>
+  <td>1.2.902</td>
+  <td>StatusDate: 2024-08-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/foxtail, https://store.steampowered.com/app/581360/FoxTail/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>early access, indie, pixelart, retro</td>
+  <td>Gingertips Game Studio</td>
+  <td>Artem Vodoriz</td>
+  <td>Wintermute</td>
+  <td>IndieRunner</td>
+  <td>scummvm</td>
+  <td></td>
+  <td>2024-08-24T00:00:00.000Z</td>
+  <td>2024-08-24T00:00:00.000Z</td>
+  <td>86383</td>
+</tr>
+<tr>
+  <td>135</td>
+  <td>Fracture Hell</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1713770/Fracture_Hell/</td>
+  <td></td>
+  <td>Top-Down Shooter</td>
+  <td>indie</td>
+  <td>Solo Byte Games</td>
+  <td>Solo Byte Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>165088</td>
+</tr>
+<tr>
+  <td>635</td>
+  <td>Fran Bow</td>
+  <td></td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/fran_bow, https://store.steampowered.com/app/362680/Fran_Bow/</td>
+  <td>run butterscotch on assets/game.unx in Fran Bow GameMaker</td>
+  <td>Point & Click Adventure</td>
+  <td>cat, indie, psychological horror, puzzle, story-rich</td>
+  <td>Killmonday Games AB</td>
+  <td>Killmonday Games AB</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>11821</td>
+</tr>
+<tr>
+  <td>137</td>
+  <td>Fraymakers</td>
+  <td>0.4.20 (Early Access)</td>
+  <td>StatusComment: - no Steam multiplayer implementation , StatusDate: 2023-01-19T00:00:00.000Z, StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>https://store.steampowered.com/app/1420350/Fraymakers/</td>
+  <td></td>
+  <td>Fighting Game</td>
+  <td>cartoon, early access, indie, multiplayer</td>
+  <td>Team Fray, McLeodGaming</td>
+  <td>Team Fray, McLeodGaming</td>
+  <td>HashLink</td>
+  <td>IndieRunner</td>
+  <td>hashlink</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-19T00:00:00.000Z</td>
+  <td>141090</td>
+</tr>
+<tr>
+  <td>631</td>
+  <td>Freedom Fighter</td>
+  <td></td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/514360/Freedom_Fighter/</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>RPG, arcade, indie, platformer</td>
+  <td>Volens Nolens Games</td>
+  <td>Volens Nolens Games</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>14078</td>
+</tr>
+<tr>
+  <td>146</td>
+  <td>Freespace 2</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/freespace_2, https://store.steampowered.com/app/273620/Freespace_2/</td>
+  <td>not available as package, build from ports tree</td>
+  <td>FPS, Spacesim</td>
+  <td>classic, space</td>
+  <td>Volition</td>
+  <td>Interplay Entertainment</td>
+  <td></td>
+  <td>need to compile from ports tree</td>
+  <td>fs2open</td>
+  <td>1999-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>722</td>
+</tr>
+<tr>
+  <td>455</td>
+  <td>Frood Robotics</td>
+  <td></td>
+  <td>StatusDate: 2024-08-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2901010/Frood_Robotics/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>Sokoban-style, programming, retro</td>
+  <td>Frood Designs</td>
+  <td>Frood Designs</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-27T00:00:00.000Z</td>
+  <td>2024-08-01T00:00:00.000Z</td>
+  <td>294121</td>
+</tr>
+<tr>
+  <td>692</td>
+  <td>Frostpunk</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/frostpunk</td>
+  <td></td>
+  <td>Colony Survival Simulation</td>
+  <td>atmospheric, dark, indie, simulation, strategy</td>
+  <td>11 bit studios</td>
+  <td>11 bit studios</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>23248</td>
+</tr>
+<tr>
+  <td>147</td>
+  <td>Fury's Sky</td>
+  <td></td>
+  <td>StatusDate: 2023-01-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1118550/Furys_Sky/</td>
+  <td></td>
+  <td>Flightsim</td>
+  <td>early access, retro, simulation</td>
+  <td>Proud Cipher Media Group</td>
+  <td>Proud Cipher Media Group</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2023-01-24T00:00:00.000Z</td>
+  <td>121334</td>
+</tr>

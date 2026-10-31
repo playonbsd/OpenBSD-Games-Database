@@ -1,0 +1,741 @@
+<tr>
+  <td>600</td>
+  <td>MOTHER: Cognitive Dissonance</td>
+  <td>2.0</td>
+  <td>StatusDate: 2026-08-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>http://cogdis.tazmily.com/</td>
+  <td>use msitools to extract game data</td>
+  <td>RPG</td>
+  <td>fangame, freeware, indie, quirky, rpg, scifi</td>
+  <td>Otherhand</td>
+  <td>Otherhand</td>
+  <td>RPG Maker</td>
+  <td></td>
+  <td>easyrpg</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>2026-08-06T00:00:00.000Z</td>
+  <td>138374</td>
+</tr>
+<tr>
+  <td>225</td>
+  <td>Malice & Greed</td>
+  <td></td>
+  <td>StatusDate: 2021-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1566090/Malice__Greed/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>early access, indie, roguelite, turn-based</td>
+  <td>Xendra</td>
+  <td>Xendra</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>143568</td>
+</tr>
+<tr>
+  <td>693</td>
+  <td>Manor Lords</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/manor-lords-ef795f</td>
+  <td></td>
+  <td>RTS</td>
+  <td>city builder</td>
+  <td>Slavic Magic</td>
+  <td>Hooded Horse</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>137206</td>
+</tr>
+<tr>
+  <td>226</td>
+  <td>Marvellous Inc.</td>
+  <td>1.3.3</td>
+  <td>StatusDate: 2023-07-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://marvellous.itch.io/marvellous-inc, https://store.steampowered.com/app/827940/Marvellous_Inc/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>hacking, indie</td>
+  <td>Marvellous Soft</td>
+  <td>Marvellous Soft</td>
+  <td>Love2D</td>
+  <td></td>
+  <td>love-0.10</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>2023-07-22T00:00:00.000Z</td>
+  <td>96638</td>
+</tr>
+<tr>
+  <td>649</td>
+  <td>Master Key</td>
+  <td></td>
+  <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/master_key</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>RPG, indie, minimalist</td>
+  <td>Achromi</td>
+  <td>Achromi</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-10-13T00:00:00.000Z</td>
+  <td>204048</td>
+</tr>
+<tr>
+  <td>227</td>
+  <td>Master of Orion</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/master_of_orion_1_2</td>
+  <td></td>
+  <td>Turn-Based Strategy</td>
+  <td>4X, space</td>
+  <td>Simtex</td>
+  <td>MicroProse</td>
+  <td></td>
+  <td></td>
+  <td>1oom</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>155305</td>
+</tr>
+<tr>
+  <td>586</td>
+  <td>Maze Mice</td>
+  <td>1.0.22</td>
+  <td>StatusDate: 2026-06-10T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://trampolinetales.itch.io/maze-mice, https://store.steampowered.com/app/3385370/Maze_Mice/</td>
+  <td></td>
+  <td>Bullet Heaven</td>
+  <td>2d, action roguelike, indie</td>
+  <td>TrampolineTales</td>
+  <td>TrampolineTales</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot44</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>2026-06-10T00:00:00.000Z</td>
+  <td>327735</td>
+</tr>
+<tr>
+  <td>632</td>
+  <td>Mechanic 8230: Escape from Ilgrot</td>
+  <td></td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://nudiventra.itch.io/mechanic8230, https://store.steampowered.com/app/1432680/Mechanic_8230_Escape_from_Ilgrot/</td>
+  <td></td>
+  <td>Point & Click Adventure</td>
+  <td>casual, cyberpunk, family-friendly, indie, pixelart, robots</td>
+  <td>Nudiventra</td>
+  <td>Nudiventra</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot3</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>151107</td>
+</tr>
+<tr>
+  <td>228</td>
+  <td>Mega Man Legacy Collection</td>
+  <td></td>
+  <td></td>
+  <td>https://www.humblebundle.com/store/mega-man-legacy-collection, https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>classic, collection</td>
+  <td>Capcom</td>
+  <td>Capcom</td>
+  <td></td>
+  <td>https://gitlab.com/rfht/romextract romextract</td>
+  <td>mednafen</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>19874</td>
+</tr>
+<tr>
+  <td>229</td>
+  <td>Meganoid</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/meganoid, https://store.steampowered.com/app/606030/Meganoid/</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>pixel art, retro, roguelite</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td>29184</td>
+</tr>
+<tr>
+  <td>230</td>
+  <td>Meganoid: Grandpa's Chronicles</td>
+  <td></td>
+  <td>StatusDate: 2022-12-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://orangepixel.itch.io/meganoid2</td>
+  <td></td>
+  <td>Platformer</td>
+  <td>pixel art, retro, roguelite</td>
+  <td>Orangepixel</td>
+  <td>Orangepixel</td>
+  <td>LibGDX</td>
+  <td>IndieRunner</td>
+  <td>java</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-12-31T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>509</td>
+  <td>Melt Them All</td>
+  <td></td>
+  <td>StatusDate: 2024-10-17T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3252500/Melt_Them_All/</td>
+  <td></td>
+  <td>Action Roguelike</td>
+  <td>factory building, indie, space, survival</td>
+  <td>coderKillo</td>
+  <td>coderKillo</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot4</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td>2024-10-17T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>231</td>
+  <td>Mercenary Kings: Reloaded Edition</td>
+  <td></td>
+  <td>StatusDate: 2023-10-14T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.humblebundle.com/store/mercenary-kings-reloaded-edition, https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/</td>
+  <td></td>
+  <td>Action</td>
+  <td></td>
+  <td>Tribute Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>IndieRunner</td>
+  <td>mono</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-10-14T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>6147</td>
+</tr>
+<tr>
+  <td>232</td>
+  <td>Metanet Hunter G4</td>
+  <td>1.2</td>
+  <td>StatusDate: 2023-10-20T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://nightkawata.itch.io/metanet-hunter-g4</td>
+  <td></td>
+  <td>Action</td>
+  <td>retro</td>
+  <td>NIGHT KAWATA</td>
+  <td>NIGHT KAWATA</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-10-20T00:00:00.000Z</td>
+  <td>2023-10-20T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>233</td>
+  <td>Mewnbase</td>
+  <td></td>
+  <td>StatusNumber: 1, StatusText: launches</td>
+  <td>https://cairn4.itch.io/mewnbase, https://store.steampowered.com/app/743130/MewnBase/</td>
+  <td></td>
+  <td>Survival</td>
+  <td>early access</td>
+  <td>Cairn4</td>
+  <td>Cairn4</td>
+  <td>LibGDX</td>
+  <td>jar xvf the game's .jar, replace com/badlogic with libgdx 1.9.11 dir built with lwjgl3 backend, replace org/lwjgl with pertinent files from the lwjgl3 port (may need to extract from its .jar files), replace all .so files with files from ports, libgdx, and lwjgl3.</td>
+  <td>java-11</td>
+  <td></td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>54984</td>
+</tr>
+<tr>
+  <td>235</td>
+  <td>Miasma 2: Freedom Uprising</td>
+  <td></td>
+  <td>StatusDate: 2021-12-11T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/1765980/Miasma_2_Freedom_Uprising/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>3d, indie</td>
+  <td>ESP Games</td>
+  <td>David Addis</td>
+  <td>FNA</td>
+  <td></td>
+  <td>fnaify</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2021-12-13T00:00:00.000Z</td>
+  <td>54205</td>
+</tr>
+<tr>
+  <td>234</td>
+  <td>Miasma: Citizens of Free Thought</td>
+  <td></td>
+  <td>StatusDate: 2021-11-03T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://store.steampowered.com/app/1771340/Miasma_Citizens_of_Free_Thought/</td>
+  <td></td>
+  <td>Turn-Based Tactics</td>
+  <td>indie</td>
+  <td>ESP Games</td>
+  <td>David Addis</td>
+  <td>FNA</td>
+  <td></td>
+  <td>fnaify</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>54204</td>
+</tr>
+<tr>
+  <td>236</td>
+  <td>Micro Mages</td>
+  <td></td>
+  <td></td>
+  <td>https://morphcatgames.itch.io/micromages, https://store.steampowered.com/app/1065020</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>NES emulator</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>110882</td>
+</tr>
+<tr>
+  <td>237</td>
+  <td>MidBoss</td>
+  <td></td>
+  <td></td>
+  <td>https://eniko.itch.io/midboss, https://www.humblebundle.com/store/midboss, https://store.steampowered.com/app/561740/MidBoss/</td>
+  <td>fnaify >= 3.0, fnaify-extralibs</td>
+  <td>Dungeon Crawler</td>
+  <td>indie, roguelite</td>
+  <td>Kitsune Games</td>
+  <td></td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>30360</td>
+</tr>
+<tr>
+  <td>675</td>
+  <td>Middle-earth: Shadow of Mordor Game of the Year Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-16T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/middleearth_shadow_of_mordor</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>fantasy, story-rich</td>
+  <td>Monolith Productions</td>
+  <td>Warner Bros. Interactive Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>2026-10-16T00:00:00.000Z</td>
+  <td>25773</td>
+</tr>
+<tr>
+  <td>688</td>
+  <td>Middle-earth: Shadow of War</td>
+  <td></td>
+  <td>StatusDate: 2026-10-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/middleearth_shadow_of_war</td>
+  <td>needs file mfc140u.dll in directory x64/; get it from vc_redist.x64.exe or via winetricks</td>
+  <td>Action Adventure</td>
+  <td>action, fantasy, gore, role-playing, story-rich, violent</td>
+  <td>Monolith Productions</td>
+  <td>WB Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>2026-10-19T00:00:00.000Z</td>
+  <td>27421</td>
+</tr>
+<tr>
+  <td>622</td>
+  <td>Mimi's Delivery Dash</td>
+  <td></td>
+  <td>StatusDate: 2026-09-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://caffinate.itch.io/mimis-delivery-dash</td>
+  <td></td>
+  <td>Action</td>
+  <td>free, indie, retro</td>
+  <td>Caffinate</td>
+  <td>Caffinate</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>96417</td>
+</tr>
+<tr>
+  <td>238</td>
+  <td>Minecraft</td>
+  <td></td>
+  <td></td>
+  <td>https://minecraft.net/en-us/store/</td>
+  <td>https://github.com/octeep/lwjgl3/blob/openbsd-working/README.md Instructions for Minecraft >= 1.13</td>
+  <td>Sandbox</td>
+  <td>classic, genre-defining</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>minecraft</td>
+  <td></td>
+  <td>2011-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>121</td>
+</tr>
+<tr>
+  <td>239</td>
+  <td>Mirrorama</td>
+  <td>1.0.1</td>
+  <td>StatusDate: 2022-11-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1845050/Mirrorama/</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>first-person, indie, mind-bending, physics</td>
+  <td>Berry Berry Niceu</td>
+  <td>Berry Berry Niceu</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-29T00:00:00.000Z</td>
+  <td>186824</td>
+</tr>
+<tr>
+  <td>240</td>
+  <td>Mobius Front 83</td>
+  <td>March 2023 Update (GOG)</td>
+  <td>StatusComment: - game-breaking crashes are common , StatusDate: 2023-05-07T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://www.gog.com/game/mobius_front_83, https://zachtronics.itch.io/mobius-front-83, https://store.steampowered.com/app/971160/Mbius_Front_83/</td>
+  <td>game version >= 03/01/2021</td>
+  <td>Turn-Based Tactics</td>
+  <td>military</td>
+  <td>Zachtronics</td>
+  <td>Zachtronics</td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>140436</td>
+</tr>
+<tr>
+  <td>241</td>
+  <td>Molek-Syntez</td>
+  <td></td>
+  <td>StatusDate: 2021-01-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/game/moleksyntez, https://www.humblebundle.com/store/molek-syntez, https://zachtronics.itch.io/molek-syntez, https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/</td>
+  <td>fnaify >= 3.0</td>
+  <td>Puzzle</td>
+  <td></td>
+  <td>Zachtronics</td>
+  <td></td>
+  <td></td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>125208</td>
+</tr>
+<tr>
+  <td>483</td>
+  <td>Monster Bullets</td>
+  <td></td>
+  <td>StatusDate: 2024-09-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2056090/Monster_Bullets/</td>
+  <td></td>
+  <td>First Person Shooter</td>
+  <td>action, dark fantasy, indie, retro</td>
+  <td>schemesmith</td>
+  <td>schemesmith</td>
+  <td>Godot</td>
+  <td>IndieRunner</td>
+  <td>godot</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>2024-09-22T00:00:00.000Z</td>
+  <td>217093</td>
+</tr>
+<tr>
+  <td>242</td>
+  <td>Monster Outbreak</td>
+  <td>1.0.12</td>
+  <td>StatusDate: 2022-11-29T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1525190/Monster_Outbreak/</td>
+  <td>Only tested in solo player. Multiplayer likely won't work or only via LAN support of goldberg_emulator</td>
+  <td>Survival</td>
+  <td>hack'n'slash, indie, pixel art</td>
+  <td>GameMunchers</td>
+  <td>Freedom Games</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2022-11-29T00:00:00.000Z</td>
+  <td>154046</td>
+</tr>
+<tr>
+  <td>684</td>
+  <td>Monument Valley: Panoramic Ediition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/monument-valley-1d99d3</td>
+  <td></td>
+  <td>Puzzle Game</td>
+  <td>Escher, casual, meditative, minimalist</td>
+  <td>ustwo games</td>
+  <td>ustwo games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>2026-10-18T00:00:00.000Z</td>
+  <td>203331</td>
+</tr>
+<tr>
+  <td>621</td>
+  <td>MoonStriker</td>
+  <td></td>
+  <td>StatusDate: 2026-09-30T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://terarin.itch.io/moonstriker</td>
+  <td></td>
+  <td>Shmup</td>
+  <td>free, indie, retro</td>
+  <td>terarin</td>
+  <td>terarin</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td>2026-09-30T00:00:00.000Z</td>
+  <td></td>
+</tr>
+<tr>
+  <td>243</td>
+  <td>Moonring</td>
+  <td>1.0.12</td>
+  <td>StatusDate: 2023-10-05T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://dene.itch.io/moonring, https://store.steampowered.com/app/2373630/Moonring/</td>
+  <td>free</td>
+  <td>RPG</td>
+  <td>dark fantasy, free, indie, medieval, retro, roguelite</td>
+  <td>Fluttermind LLC</td>
+  <td>Fluttermind LLC</td>
+  <td>Love2D</td>
+  <td>IndieRunner</td>
+  <td>love-11</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2023-10-05T00:00:00.000Z</td>
+  <td>2023-10-05T00:00:00.000Z</td>
+  <td>266774</td>
+</tr>
+<tr>
+  <td>629</td>
+  <td>Moonrise Fall</td>
+  <td></td>
+  <td>StatusDate: 2026-10-01T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1035110/Moonrise_Fall/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>exploration, indie, pixel graphics, puzzle</td>
+  <td>Made From Strings</td>
+  <td>GrabTheGames</td>
+  <td>GameMaker</td>
+  <td></td>
+  <td>butterscotch</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>2026-10-01T00:00:00.000Z</td>
+  <td>116076</td>
+</tr>
+<tr>
+  <td>244</td>
+  <td>Moonshot - The Great Espionage</td>
+  <td></td>
+  <td>StatusDate: 2021-08-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1492610/Moonshot__The_Great_Espionage/</td>
+  <td></td>
+  <td>Stealth Platformer</td>
+  <td>indie, stealth</td>
+  <td>NimbleBeasts</td>
+  <td>NimbleBeasts</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>159516</td>
+</tr>
+<tr>
+  <td>643</td>
+  <td>Mosa Lina</td>
+  <td></td>
+  <td>StatusDate: 2026-10-12T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2477090/Mosa_Lina/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>co-op, indie, platformer</td>
+  <td>Stuffed Wombat</td>
+  <td>Stuffed Wombat</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>2026-10-12T00:00:00.000Z</td>
+  <td>258680</td>
+</tr>
+<tr>
+  <td>245</td>
+  <td>Mount Your Friends</td>
+  <td></td>
+  <td></td>
+  <td>https://store.steampowered.com/app/296470/Mount_Your_Friends/</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>NSFW</td>
+  <td>Stegersaurus Software Inc.</td>
+  <td></td>
+  <td>XNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>15916</td>
+</tr>
+<tr>
+  <td>246</td>
+  <td>Mud River</td>
+  <td></td>
+  <td>StatusDate: 2021-10-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1642600/Mud_River/</td>
+  <td></td>
+  <td>Shoot'em Up</td>
+  <td>indie</td>
+  <td>Felipe Mattar</td>
+  <td>RocpainGames</td>
+  <td>Godot</td>
+  <td></td>
+  <td>godot</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>171869</td>
+</tr>
+<tr>
+  <td>247</td>
+  <td>Murder Miners</td>
+  <td></td>
+  <td>StatusComment: - no online multiplayer , StatusDate: 2021-08-23T00:00:00.000Z, StatusNumber: 2, StatusText: major bugs</td>
+  <td>https://store.steampowered.com/app/274900/Murder_Miners/</td>
+  <td>multiplayer-only game, and only runs via LAN with goldberg emulator; requires goldberg emulator</td>
+  <td>FPS</td>
+  <td>multiplayer, pixels</td>
+  <td>JForce Games</td>
+  <td>JForce Games</td>
+  <td>FNA</td>
+  <td>fnaify</td>
+  <td>fnaify</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>17035</td>
+</tr>
+<tr>
+  <td>248</td>
+  <td>Myst</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/myst_masterpiece_edition, https://store.steampowered.com/app/63660</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>puzzle</td>
+  <td>Cyan Worlds</td>
+  <td>Broderbund</td>
+  <td>Mohawk Engine</td>
+  <td></td>
+  <td>scummvm</td>
+  <td>1993-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>16203</td>
+</tr>
+<tr>
+  <td>249</td>
+  <td>Myst III: Exile</td>
+  <td></td>
+  <td></td>
+  <td>https://www.gog.com/game/myst_3_exile, https://store.steampowered.com/app/925930</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>puzzle</td>
+  <td>Presto Studios</td>
+  <td>Ubisoft</td>
+  <td>Sprint Engine</td>
+  <td></td>
+  <td>residualvm</td>
+  <td>2001-01-01T00:00:00.000Z</td>
+  <td>2023-05-07T00:00:00.000Z</td>
+  <td>1970-01-01T00:00:00.000Z</td>
+  <td>797</td>
+</tr>
