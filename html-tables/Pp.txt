@@ -246,6 +246,25 @@
   <td>36181</td>
 </tr>
 <tr>
+  <td>701</td>
+  <td>Pizza Tower</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2231450/Pizza_Tower/</td>
+  <td></td>
+  <td>2D Platformer</td>
+  <td>colourful, fast-paced, indie</td>
+  <td>Tour De Pizza</td>
+  <td>Tour De Pizza</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>135818</td>
+</tr>
+<tr>
   <td>273</td>
   <td>Planescape: Torment</td>
   <td></td>

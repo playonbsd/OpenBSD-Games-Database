@@ -132,6 +132,25 @@
   <td>309548</td>
 </tr>
 <tr>
+  <td>698</td>
+  <td>Team Fortress 2</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/440/Team_Fortress_2/</td>
+  <td></td>
+  <td>Hero Shooter</td>
+  <td>FPS, freetoplay, multiplayer</td>
+  <td>Valve</td>
+  <td>Valve</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2007-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>891</td>
+</tr>
+<tr>
   <td>379</td>
   <td>Technobabylon</td>
   <td></td>
@@ -1346,6 +1365,25 @@
   <td>2023-07-15T00:00:00.000Z</td>
   <td>2023-07-15T00:00:00.000Z</td>
   <td>103036</td>
+</tr>
+<tr>
+  <td>707</td>
+  <td>Transport Fever 3</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/transport_fever_3</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>casual, management, realistic, sandbox, strategy</td>
+  <td>Urban Games</td>
+  <td>Paradox Interactive</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2026-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>344466</td>
 </tr>
 <tr>
   <td>392</td>

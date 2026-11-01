@@ -761,6 +761,40 @@
     "Year": "2010-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Innersloth",
+    "Engine": "",
+    "Game": "Among Us",
+    "Genre": [
+      "Social Deduction Game"
+    ],
+    "Hints": "",
+    "Id": "699",
+    "IgdbId": "111469",
+    "Pub": "Innersloth",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://innersloth.itch.io/among-us",
+      "https://store.epicgames.com/p/among-us",
+      "https://store.steampowered.com/app/945360/Among_Us/"
+    ],
+    "Tags": [
+      "multiplayer",
+      "online co-op",
+      "space"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-05-22T00:00:00.000Z",
     "Dev": "Postmodern Adventures",
     "Engine": "Adventure Game Studio",
@@ -1742,6 +1776,40 @@
       "superhero"
     ],
     "Updated": "2026-10-14T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Rocksteady Studios",
+    "Engine": "",
+    "Game": "Batman: Arkham Knight",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "so far only got GOG version to run",
+    "Id": "703",
+    "IgdbId": "5503",
+    "Pub": "Warner Bros. Interactive Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/batman_arkham_knight"
+    ],
+    "Tags": [
+      "brawler",
+      "dark",
+      "detective",
+      "open-world",
+      "superhero"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
     "Version": "",
     "Year": "2015-01-01T00:00:00.000Z"
   },
@@ -2765,6 +2833,40 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "1998-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Cyanide Studio",
+    "Engine": "",
+    "Game": "Call of Cthulhu",
+    "Genre": [
+      "Role-Playing Game"
+    ],
+    "Hints": "",
+    "Id": "709",
+    "IgdbId": "9176",
+    "Pub": "Focus Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/call_of_cthulhu"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "first-person",
+      "horror",
+      "story-rich"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-10-14T00:00:00.000Z",
@@ -6158,6 +6260,41 @@
     "Updated": "2026-10-23T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Fenris Creations",
+    "Engine": "",
+    "Game": "EVE Online",
+    "Genre": [
+      "Space Sim"
+    ],
+    "Hints": "",
+    "Id": "700",
+    "IgdbId": "2584",
+    "Pub": "Fenris Creations",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/eve-online",
+      "https://store.steampowered.com/app/8500/EVE_Online/"
+    ],
+    "Tags": [
+      "adventure",
+      "difficult",
+      "freetoplay",
+      "multiplayer",
+      "open-world"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2003-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -9904,6 +10041,39 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Avalanche Studios",
+    "Engine": "",
+    "Game": "Just Cause 3",
+    "Genre": [
+      "Open-World Action"
+    ],
+    "Hints": "",
+    "Id": "705",
+    "IgdbId": "8187",
+    "Pub": "Square Enix",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/225540/Just_Cause_3/"
+    ],
+    "Tags": [
+      "action",
+      "destruction",
+      "open-world",
+      "over-the-top"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2025-12-12T00:00:00.000Z",
     "Dev": "Stranga Games",
     "Engine": "ScummVM",
@@ -10064,6 +10234,40 @@
     "Updated": "2026-08-20T00:00:00.000Z",
     "Version": "1.016",
     "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Warhorse Studios",
+    "Engine": "",
+    "Game": "Kingdom Come: Deliverance",
+    "Genre": [
+      "Role-Playing Game"
+    ],
+    "Hints": "",
+    "Id": "708",
+    "IgdbId": "4843",
+    "Pub": "Deep Silver",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/kingdom_come_deliverance"
+    ],
+    "Tags": [
+      "adventure",
+      "atmospheric",
+      "first-person",
+      "historical",
+      "story-rich"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "2024-08-01T00:00:00.000Z",
@@ -10535,6 +10739,40 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Aspyr, Crystal Dynamics",
+    "Engine": "",
+    "Game": "Legacy of Kain: Soul Reaver 1&2 Remastered",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "704",
+    "IgdbId": "317625",
+    "Pub": "Aspyr",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/legacy_of_kain_soul_reaver_12_remastered"
+    ],
+    "Tags": [
+      "atmospheric",
+      "dark",
+      "fantasy",
+      "puzzles",
+      "vampires"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-06-30T00:00:00.000Z",
     "Dev": "HideChara",
     "Engine": "Godot",
@@ -10968,6 +11206,39 @@
     "Updated": "2026-08-06T00:00:00.000Z",
     "Version": "2.0",
     "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Avalanche Studios",
+    "Engine": "",
+    "Game": "Mad Max",
+    "Genre": [
+      "Action Adventure"
+    ],
+    "Hints": "",
+    "Id": "710",
+    "IgdbId": "2552",
+    "Pub": "Warner Bros. Interactive Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/mad_max"
+    ],
+    "Tags": [
+      "atmospheric",
+      "exploration",
+      "story-rich",
+      "survival"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -13335,6 +13606,38 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Tour De Pizza",
+    "Engine": "",
+    "Game": "Pizza Tower",
+    "Genre": [
+      "2D Platformer"
+    ],
+    "Hints": "",
+    "Id": "701",
+    "IgdbId": "135818",
+    "Pub": "Tour De Pizza",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/2231450/Pizza_Tower/"
+    ],
+    "Tags": [
+      "colourful",
+      "fast-paced",
+      "indie"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -15790,6 +16093,41 @@
     "Year": "2019-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "United Front Games",
+    "Engine": "",
+    "Game": "Sleeping Dogs: Definitive Edition",
+    "Genre": [
+      "Open-World Action"
+    ],
+    "Hints": "",
+    "Id": "706",
+    "IgdbId": "20228",
+    "Pub": "Square Enix",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/sleeping_dogs_definitive_edition"
+    ],
+    "Tags": [
+      "adventure",
+      "classic",
+      "crime",
+      "gangs",
+      "hongkong",
+      "open-world"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-09-03T00:00:00.000Z",
     "Dev": "ellraiser",
     "Engine": "Love2D",
@@ -16955,6 +17293,39 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Matt Dabrowski",
+    "Engine": "",
+    "Game": "Streets of Rogue",
+    "Genre": [
+      "Action Roguelite"
+    ],
+    "Hints": "",
+    "Id": "711",
+    "IgdbId": "23275",
+    "Pub": "tinyBuild",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/streets_of_rogue"
+    ],
+    "Tags": [
+      "humor",
+      "indie",
+      "pixel graphics",
+      "shooter"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Rogue Entertainment",
     "Engine": "id Tech 1",
@@ -17768,6 +18139,38 @@
     "Updated": "2024-11-01T00:00:00.000Z",
     "Version": "",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Valve",
+    "Engine": "",
+    "Game": "Team Fortress 2",
+    "Genre": [
+      "Hero Shooter"
+    ],
+    "Hints": "",
+    "Id": "698",
+    "IgdbId": "891",
+    "Pub": "Valve",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/440/Team_Fortress_2/"
+    ],
+    "Tags": [
+      "FPS",
+      "freetoplay",
+      "multiplayer"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2007-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -19791,6 +20194,40 @@
     "Year": "2023-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "Urban Games",
+    "Engine": "",
+    "Game": "Transport Fever 3",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "707",
+    "IgdbId": "344466",
+    "Pub": "Paradox Interactive",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/transport_fever_3"
+    ],
+    "Tags": [
+      "casual",
+      "management",
+      "realistic",
+      "sandbox",
+      "strategy"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-11-04T00:00:00.000Z",
     "Dev": "albertnez",
     "Engine": "Godot",
@@ -21190,6 +21627,40 @@
     "Updated": "2026-10-17T00:00:00.000Z",
     "Version": "",
     "Year": "2008-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-10-31T00:00:00.000Z",
+    "Dev": "panstasz",
+    "Engine": "",
+    "Game": "World of Horror",
+    "Genre": [
+      "Horror"
+    ],
+    "Hints": "",
+    "Id": "702",
+    "IgdbId": "26869",
+    "Pub": "Ysbryd Games, PLAYISM",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-10-31T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/world_of_horror",
+      "https://panstasz.itch.io/world-of-horror",
+      "https://store.steampowered.com/app/913740/WORLD_OF_HORROR/"
+    ],
+    "Tags": [
+      "lovecraftian",
+      "pixel graphics",
+      "psychological horror"
+    ],
+    "Updated": "2026-10-31T00:00:00.000Z",
+    "Version": "",
+    "Year": "2023-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

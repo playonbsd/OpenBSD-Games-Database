@@ -1,4 +1,23 @@
 <tr>
+  <td>700</td>
+  <td>EVE Online</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/eve-online, https://store.steampowered.com/app/8500/EVE_Online/</td>
+  <td></td>
+  <td>Space Sim</td>
+  <td>adventure, difficult, freetoplay, multiplayer, open-world</td>
+  <td>Fenris Creations</td>
+  <td>Fenris Creations</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2003-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2584</td>
+</tr>
+<tr>
   <td>119</td>
   <td>EXAPUNKS</td>
   <td></td>

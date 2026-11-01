@@ -379,6 +379,25 @@
   <td>111</td>
 </tr>
 <tr>
+  <td>699</td>
+  <td>Among Us</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://innersloth.itch.io/among-us, https://store.epicgames.com/p/among-us, https://store.steampowered.com/app/945360/Among_Us/</td>
+  <td></td>
+  <td>Social Deduction Game</td>
+  <td>multiplayer, online co-op, space</td>
+  <td>Innersloth</td>
+  <td>Innersloth</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>111469</td>
+</tr>
+<tr>
   <td>434</td>
   <td>An English Haunting</td>
   <td></td>

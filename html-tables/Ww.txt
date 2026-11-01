@@ -265,6 +265,25 @@
   <td>942</td>
 </tr>
 <tr>
+  <td>702</td>
+  <td>World of Horror</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/world_of_horror, https://panstasz.itch.io/world-of-horror, https://store.steampowered.com/app/913740/WORLD_OF_HORROR/</td>
+  <td></td>
+  <td>Horror</td>
+  <td>lovecraftian, pixel graphics, psychological horror</td>
+  <td>panstasz</td>
+  <td>Ysbryd Games, PLAYISM</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>26869</td>
+</tr>
+<tr>
   <td>416</td>
   <td>Wrath: Aeon of Ruin</td>
   <td>1.4.2</td>

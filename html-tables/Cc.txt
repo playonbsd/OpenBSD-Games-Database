@@ -18,6 +18,25 @@
   <td>6332</td>
 </tr>
 <tr>
+  <td>709</td>
+  <td>Call of Cthulhu</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/call_of_cthulhu</td>
+  <td></td>
+  <td>Role-Playing Game</td>
+  <td>adventure, atmospheric, first-person, horror, story-rich</td>
+  <td>Cyanide Studio</td>
+  <td>Focus Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>9176</td>
+</tr>
+<tr>
   <td>506</td>
   <td>Calm Skies: The Wingsuit Flying Experience</td>
   <td></td>

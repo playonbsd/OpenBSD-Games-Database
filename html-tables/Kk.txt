@@ -75,6 +75,25 @@
   <td>393931</td>
 </tr>
 <tr>
+  <td>708</td>
+  <td>Kingdom Come: Deliverance</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/kingdom_come_deliverance</td>
+  <td></td>
+  <td>Role-Playing Game</td>
+  <td>adventure, atmospheric, first-person, historical, story-rich</td>
+  <td>Warhorse Studios</td>
+  <td>Deep Silver</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>4843</td>
+</tr>
+<tr>
   <td>454</td>
   <td>Kitsune Tails</td>
   <td></td>

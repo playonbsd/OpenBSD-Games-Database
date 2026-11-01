@@ -265,6 +265,25 @@
   <td>5503</td>
 </tr>
 <tr>
+  <td>703</td>
+  <td>Batman: Arkham Knight</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/batman_arkham_knight</td>
+  <td>so far only got GOG version to run</td>
+  <td>Action Adventure</td>
+  <td>brawler, dark, detective, open-world, superhero</td>
+  <td>Rocksteady Studios</td>
+  <td>Warner Bros. Interactive Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>5503</td>
+</tr>
+<tr>
   <td>451</td>
   <td>Battle for Wesnoth</td>
   <td>1.18.2</td>

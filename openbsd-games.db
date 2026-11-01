@@ -12543,3 +12543,255 @@ Status	1 (2026-10-26)
 Added	2026-10-26
 Updated	2026-10-26
 IgdbId	34591
+
+Game	Team Fortress 2
+Id	698
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/440/Team_Fortress_2/
+Hints
+Genre	Hero Shooter
+Tags	freetoplay, multiplayer, FPS
+Year	2007
+Dev	Valve
+Pub	Valve
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	891
+
+Game	Among Us
+Id	699
+Engine
+Setup
+Runtime	wine
+Store	https://innersloth.itch.io/among-us https://store.epicgames.com/p/among-us https://store.steampowered.com/app/945360/Among_Us/
+Hints
+Genre	Social Deduction Game
+Tags	multiplayer, online co-op, space
+Year	2018
+Dev	Innersloth
+Pub	Innersloth
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	111469
+
+Game	EVE Online
+Id	700
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/eve-online https://store.steampowered.com/app/8500/EVE_Online/
+Hints
+Genre	Space Sim
+Tags	multiplayer, freetoplay, open-world, adventure, difficult
+Year	2003
+Dev	Fenris Creations
+Pub	Fenris Creations
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	2584
+
+Game	Pizza Tower
+Id	701
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/2231450/Pizza_Tower/
+Hints
+Genre	2D Platformer
+Tags	fast-paced, indie, colourful
+Year	2023
+Dev	Tour De Pizza
+Pub	Tour De Pizza
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	135818
+
+Game	World of Horror
+Id	702
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/world_of_horror https://panstasz.itch.io/world-of-horror https://store.steampowered.com/app/913740/WORLD_OF_HORROR/
+Hints
+Genre	Horror
+Tags	pixel graphics, lovecraftian, psychological horror
+Year	2023
+Dev	panstasz
+Pub	Ysbryd Games, PLAYISM
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	26869
+
+Game	Batman: Arkham Knight
+Id	703
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/batman_arkham_knight
+Hints	so far only got GOG version to run
+Genre	Action Adventure
+Tags	brawler, superhero, dark, detective, open-world
+Year	2015
+Dev	Rocksteady Studios
+Pub	Warner Bros. Interactive Entertainment
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	5503
+
+Game	Legacy of Kain: Soul Reaver 1&2 Remastered
+Id	704
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/legacy_of_kain_soul_reaver_12_remastered
+Hints
+Genre	Action Adventure
+Tags	fantasy, vampires, dark, atmospheric, puzzles
+Year	2024
+Dev	Aspyr, Crystal Dynamics
+Pub	Aspyr
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	317625
+
+Game	Just Cause 3
+Id	705
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/225540/Just_Cause_3/
+Hints
+Genre	Open-World Action
+Tags	open-world, action, destruction, over-the-top
+Year	2015
+Dev	Avalanche Studios
+Pub	Square Enix
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	8187
+
+Game	Sleeping Dogs: Definitive Edition
+Id	706
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/sleeping_dogs_definitive_edition
+Hints
+Genre	Open-World Action
+Tags	adventure, open-world, classic, gangs, crime, hongkong
+Year	2014
+Dev	United Front Games
+Pub	Square Enix
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	20228
+
+Game	Transport Fever 3
+Id	707
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/transport_fever_3
+Hints
+Genre	Simulation
+Tags	management, casual, sandbox, strategy, realistic
+Year	2026
+Dev	Urban Games
+Pub	Paradox Interactive
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	344466
+
+Game	Kingdom Come: Deliverance
+Id	708
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/kingdom_come_deliverance
+Hints
+Genre	Role-Playing Game
+Tags	historical, adventure, story-rich, atmospheric, first-person
+Year	2018
+Dev	Warhorse Studios
+Pub	Deep Silver
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	4843
+
+Game	Call of Cthulhu
+Id	709
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/call_of_cthulhu
+Hints
+Genre	Role-Playing Game
+Tags	horror, adventure, story-rich, atmospheric, first-person
+Year	2018
+Dev	Cyanide Studio
+Pub	Focus Entertainment
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	9176
+
+Game	Mad Max
+Id	710
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/mad_max
+Hints
+Genre	Action Adventure
+Tags	survival, story-rich, atmospheric, exploration
+Year	2015
+Dev	Avalanche Studios
+Pub	Warner Bros. Interactive Entertainment
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	2552
+
+Game	Streets of Rogue
+Id	711
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/streets_of_rogue
+Hints
+Genre	Action Roguelite
+Tags	shooter, indie, humor, pixel graphics
+Year	2019
+Dev	Matt Dabrowski
+Pub	tinyBuild
+Version
+Status	1 (2026-10-31)
+Added	2026-10-31
+Updated	2026-10-31
+IgdbId	23275

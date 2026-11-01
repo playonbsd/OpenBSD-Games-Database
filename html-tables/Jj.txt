@@ -113,6 +113,25 @@
   <td>156046</td>
 </tr>
 <tr>
+  <td>705</td>
+  <td>Just Cause 3</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/225540/Just_Cause_3/</td>
+  <td></td>
+  <td>Open-World Action</td>
+  <td>action, destruction, open-world, over-the-top</td>
+  <td>Avalanche Studios</td>
+  <td>Square Enix</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>8187</td>
+</tr>
+<tr>
   <td>531</td>
   <td>Just Ignore Them</td>
   <td></td>

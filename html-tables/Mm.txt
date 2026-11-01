@@ -18,6 +18,25 @@
   <td>138374</td>
 </tr>
 <tr>
+  <td>710</td>
+  <td>Mad Max</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/mad_max</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>atmospheric, exploration, story-rich, survival</td>
+  <td>Avalanche Studios</td>
+  <td>Warner Bros. Interactive Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2552</td>
+</tr>
+<tr>
   <td>225</td>
   <td>Malice & Greed</td>
   <td></td>

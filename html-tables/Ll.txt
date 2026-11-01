@@ -151,6 +151,25 @@
   <td>33622</td>
 </tr>
 <tr>
+  <td>704</td>
+  <td>Legacy of Kain: Soul Reaver 1&2 Remastered</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/legacy_of_kain_soul_reaver_12_remastered</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>atmospheric, dark, fantasy, puzzles, vampires</td>
+  <td>Aspyr, Crystal Dynamics</td>
+  <td>Aspyr</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>317625</td>
+</tr>
+<tr>
   <td>445</td>
   <td>Legendary Creatures</td>
   <td></td>

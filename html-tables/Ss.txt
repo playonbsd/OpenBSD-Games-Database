@@ -569,6 +569,25 @@
   <td>40477</td>
 </tr>
 <tr>
+  <td>706</td>
+  <td>Sleeping Dogs: Definitive Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/sleeping_dogs_definitive_edition</td>
+  <td></td>
+  <td>Open-World Action</td>
+  <td>adventure, classic, crime, gangs, hongkong, open-world</td>
+  <td>United Front Games</td>
+  <td>Square Enix</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2014-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>20228</td>
+</tr>
+<tr>
   <td>611</td>
   <td>Snacktorio</td>
   <td>1.1.0</td>
@@ -1270,6 +1289,25 @@
   <td>2026-07-11T00:00:00.000Z</td>
   <td>1970-01-01T00:00:00.000Z</td>
   <td>103219</td>
+</tr>
+<tr>
+  <td>711</td>
+  <td>Streets of Rogue</td>
+  <td></td>
+  <td>StatusDate: 2026-10-31T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/streets_of_rogue</td>
+  <td></td>
+  <td>Action Roguelite</td>
+  <td>humor, indie, pixel graphics, shooter</td>
+  <td>Matt Dabrowski</td>
+  <td>tinyBuild</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>2026-10-31T00:00:00.000Z</td>
+  <td>23275</td>
 </tr>
 <tr>
   <td>361</td>
