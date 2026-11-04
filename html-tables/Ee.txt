@@ -284,6 +284,25 @@
   <td>63</td>
 </tr>
 <tr>
+  <td>712</td>
+  <td>Everspace</td>
+  <td></td>
+  <td>StatusDate: 2026-11-04T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/everspace</td>
+  <td></td>
+  <td>Roguelite Space Sim</td>
+  <td>action, exploration, first-person, sci-fi, space</td>
+  <td>ROCKFISH Games</td>
+  <td>ROCKFISH Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-11-04T00:00:00.000Z</td>
+  <td>2026-11-04T00:00:00.000Z</td>
+  <td>14172</td>
+</tr>
+<tr>
   <td>128</td>
   <td>Evoland Legendary Edition</td>
   <td></td>

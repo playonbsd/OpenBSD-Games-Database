@@ -12795,3 +12795,21 @@ Status	1 (2026-10-31)
 Added	2026-10-31
 Updated	2026-10-31
 IgdbId	23275
+
+Game	Everspace
+Id	712
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/everspace
+Hints
+Genre	Roguelite Space Sim
+Tags	action, sci-fi, space, first-person, exploration
+Year	2017
+Dev	ROCKFISH Games
+Pub	ROCKFISH Games
+Version
+Status	1 (2026-11-04)
+Added	2026-11-04
+Updated	2026-11-04
+IgdbId	14172
