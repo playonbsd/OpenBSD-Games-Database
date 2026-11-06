@@ -5765,6 +5765,38 @@
     "Year": "2016-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-06T00:00:00.000Z",
+    "Dev": "id Software, Nightdive Studios",
+    "Engine": "",
+    "Game": "Doom 1 Enhanced",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "Id": "713",
+    "IgdbId": "214128",
+    "Pub": "Bethesda Softworks LLC",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/doom_doom_ii"
+    ],
+    "Tags": [
+      "action",
+      "classic",
+      "sci-fi"
+    ],
+    "Updated": "2026-11-06T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "",
     "Engine": "",
@@ -14532,6 +14564,38 @@
     "Updated": "2026-10-12T00:00:00.000Z",
     "Version": "",
     "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-06T00:00:00.000Z",
+    "Dev": "Nerial",
+    "Engine": "",
+    "Game": "Reigns: Game of Thrones",
+    "Genre": [
+      "Simulation"
+    ],
+    "Hints": "",
+    "Id": "714",
+    "IgdbId": "107237",
+    "Pub": "Devolver Digital",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/reigns_game_of_thrones"
+    ],
+    "Tags": [
+      "decisions",
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-11-06T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",

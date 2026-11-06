@@ -132,6 +132,25 @@
   <td>22436</td>
 </tr>
 <tr>
+  <td>714</td>
+  <td>Reigns: Game of Thrones</td>
+  <td></td>
+  <td>StatusDate: 2026-11-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/reigns_game_of_thrones</td>
+  <td></td>
+  <td>Simulation</td>
+  <td>decisions, fantasy, story-rich</td>
+  <td>Nerial</td>
+  <td>Devolver Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>107237</td>
+</tr>
+<tr>
   <td>291</td>
   <td>Retro City Rampage DX</td>
   <td></td>

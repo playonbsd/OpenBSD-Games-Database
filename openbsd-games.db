@@ -12813,3 +12813,39 @@ Status	1 (2026-11-04)
 Added	2026-11-04
 Updated	2026-11-04
 IgdbId	14172
+
+Game	Doom 1 Enhanced
+Id	713
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/doom_doom_ii
+Hints
+Genre	FPS
+Tags	action, sci-fi, classic
+Year	2020
+Dev	id Software, Nightdive Studios
+Pub	Bethesda Softworks LLC
+Version
+Status	1 (2026-11-06)
+Added	2026-11-06
+Updated	2026-11-06
+IgdbId	214128
+
+Game	Reigns: Game of Thrones
+Id	714
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/reigns_game_of_thrones
+Hints
+Genre	Simulation
+Tags	fantasy, story-rich, decisions
+Year	2018
+Dev	Nerial
+Pub	Devolver Digital
+Version
+Status	1 (2026-11-06)
+Added	2026-11-06
+Updated	2026-11-06
+IgdbId	107237

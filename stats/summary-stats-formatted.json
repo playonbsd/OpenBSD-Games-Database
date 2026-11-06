@@ -207,7 +207,8 @@
       "2026-10-23T00:00:00.000Z": 1,
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
-      "2026-11-04T00:00:00.000Z": 1
+      "2026-11-04T00:00:00.000Z": 1,
+      "2026-11-06T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -216,7 +217,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 167
+      "2026-01-01T00:00:00.000Z": 169
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -270,7 +271,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 1
+      "2026-11-01T00:00:00.000Z": 3
     }
   },
   "Engine": {
@@ -1047,7 +1048,9 @@
     "Call of Cthulhu",
     "Mad Max",
     "Streets of Rogue",
-    "Everspace"
+    "Everspace",
+    "Doom 1 Enhanced",
+    "Reigns: Game of Thrones"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1089,7 +1092,7 @@
     "Exploration": 1,
     "Extraction Shooter": 1,
     "FMV": 1,
-    "FPS": 40,
+    "FPS": 41,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 3,
@@ -1149,7 +1152,7 @@
     "Shoot'em Up": 7,
     "Shooter": 1,
     "Side-Scrolling Shooter": 1,
-    "Simulation": 14,
+    "Simulation": 15,
     "Slotmachine Game": 1,
     "Social Deduction Game": 1,
     "Space Exploration": 1,
@@ -1442,19 +1445,20 @@
       "2026-10-23T00:00:00.000Z": 1,
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
-      "2026-11-04T00:00:00.000Z": 1
+      "2026-11-04T00:00:00.000Z": 1,
+      "2026-11-06T00:00:00.000Z": 2
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 520,
+      "launches": 522,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 520,
+      "1": 522,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1482,7 +1486,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 216,
+    "https://www.gog.com/": 218,
     "https://www.humblebundle.com/": 76,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1513,7 +1517,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 32,
+    "action": 33,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 25,
@@ -1556,7 +1560,7 @@
     "chess": 1,
     "choices matter": 2,
     "city builder": 2,
-    "classic": 25,
+    "classic": 26,
     "clever": 1,
     "co-op": 3,
     "collection": 1,
@@ -1576,6 +1580,7 @@
     "dark": 6,
     "dark fantasy": 3,
     "dark humor": 1,
+    "decisions": 1,
     "deck-building": 1,
     "deckbuilder": 3,
     "deduction": 2,
@@ -1598,7 +1603,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 35,
+    "fantasy": 36,
     "farming": 1,
     "fast": 2,
     "fast-paced": 2,
@@ -1735,7 +1740,7 @@
     "rpg": 3,
     "running": 1,
     "sandbox": 4,
-    "sci-fi": 7,
+    "sci-fi": 8,
     "scifi": 21,
     "settlers": 1,
     "shoot'em'up": 1,
@@ -1756,7 +1761,7 @@
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 27,
+    "story-rich": 28,
     "strategy": 11,
     "superhero": 3,
     "surreal": 4,
@@ -1975,7 +1980,8 @@
       "2026-10-23T00:00:00.000Z": 1,
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
-      "2026-11-04T00:00:00.000Z": 1
+      "2026-11-04T00:00:00.000Z": 1,
+      "2026-11-06T00:00:00.000Z": 2
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1983,7 +1989,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 173
+      "2026-01-01T00:00:00.000Z": 175
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2024,7 +2030,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 1
+      "2026-11-01T00:00:00.000Z": 3
     }
   },
   "Year": {
@@ -2056,9 +2062,9 @@
     "2015": 30,
     "2016": 41,
     "2017": 33,
-    "2018": 37,
+    "2018": 38,
     "2019": 37,
-    "2020": 36,
+    "2020": 37,
     "2021": 55,
     "2022": 54,
     "2023": 47,

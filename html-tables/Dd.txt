@@ -816,6 +816,25 @@
   <td>7351</td>
 </tr>
 <tr>
+  <td>713</td>
+  <td>Doom 1 Enhanced</td>
+  <td></td>
+  <td>StatusDate: 2026-11-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/doom_doom_ii</td>
+  <td></td>
+  <td>FPS</td>
+  <td>action, classic, sci-fi</td>
+  <td>id Software, Nightdive Studios</td>
+  <td>Bethesda Softworks LLC</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>214128</td>
+</tr>
+<tr>
   <td>109</td>
   <td>Doppelganger</td>
   <td></td>
