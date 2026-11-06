@@ -170,6 +170,25 @@
   <td>150884</td>
 </tr>
 <tr>
+  <td>715</td>
+  <td>Darkest Dungeon</td>
+  <td></td>
+  <td>StatusDate: 2026-11-06T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/darkest_dungeon</td>
+  <td></td>
+  <td>RPG</td>
+  <td>difficult, fantasy, horror, lovecraftian, role-playing, turn-based</td>
+  <td>Red Hook Studios</td>
+  <td>Red Hook Studios</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>2026-11-06T00:00:00.000Z</td>
+  <td>8965</td>
+</tr>
+<tr>
   <td>652</td>
   <td>Darksiders II Deathinitive Edition</td>
   <td></td>

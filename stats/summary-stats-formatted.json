@@ -208,7 +208,7 @@
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
-      "2026-11-06T00:00:00.000Z": 2
+      "2026-11-06T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -217,7 +217,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 169
+      "2026-01-01T00:00:00.000Z": 170
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -271,7 +271,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 3
+      "2026-11-01T00:00:00.000Z": 4
     }
   },
   "Engine": {
@@ -1050,7 +1050,8 @@
     "Streets of Rogue",
     "Everspace",
     "Doom 1 Enhanced",
-    "Reigns: Game of Thrones"
+    "Reigns: Game of Thrones",
+    "Darkest Dungeon"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1129,7 +1130,7 @@
     "Puzzle Game": 11,
     "Puzzle Platformer": 18,
     "Puzzler": 10,
-    "RPG": 39,
+    "RPG": 40,
     "RTS": 14,
     "Racing": 3,
     "Real-time strategy": 1,
@@ -1446,19 +1447,19 @@
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
-      "2026-11-06T00:00:00.000Z": 2
+      "2026-11-06T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 522,
+      "launches": 523,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 522,
+      "1": 523,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1486,7 +1487,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 218,
+    "https://www.gog.com/": 219,
     "https://www.humblebundle.com/": 76,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1590,7 +1591,7 @@
     "detective mystery": 1,
     "dice": 2,
     "diegetic": 1,
-    "difficult": 4,
+    "difficult": 5,
     "dog": 1,
     "dungeon crawler": 1,
     "dungeoncrawler": 4,
@@ -1603,7 +1604,7 @@
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
-    "fantasy": 36,
+    "fantasy": 37,
     "farming": 1,
     "fast": 2,
     "fast-paced": 2,
@@ -1639,7 +1640,7 @@
     "high-brow": 2,
     "historical": 3,
     "hongkong": 1,
-    "horror": 19,
+    "horror": 20,
     "humor": 14,
     "humour": 1,
     "idler": 3,
@@ -1653,7 +1654,7 @@
     "linear": 1,
     "local multiplayer": 2,
     "logic": 9,
-    "lovecraftian": 6,
+    "lovecraftian": 7,
     "low fidelity": 1,
     "lowfi": 1,
     "magic": 1,
@@ -1735,7 +1736,7 @@
     "robots": 2,
     "roguelike": 6,
     "roguelite": 29,
-    "role-playing": 3,
+    "role-playing": 4,
     "role-playing game": 1,
     "rpg": 3,
     "running": 1,
@@ -1776,7 +1777,7 @@
     "timer": 2,
     "top-down": 4,
     "touhou": 1,
-    "turn-based": 14,
+    "turn-based": 15,
     "turn-based tactics": 1,
     "underwater": 1,
     "urban": 1,
@@ -1981,7 +1982,7 @@
       "2026-10-26T00:00:00.000Z": 1,
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
-      "2026-11-06T00:00:00.000Z": 2
+      "2026-11-06T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1989,7 +1990,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 175
+      "2026-01-01T00:00:00.000Z": 176
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2030,7 +2031,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 3
+      "2026-11-01T00:00:00.000Z": 4
     }
   },
   "Year": {
@@ -2060,7 +2061,7 @@
     "2013": 19,
     "2014": 21,
     "2015": 30,
-    "2016": 41,
+    "2016": 42,
     "2017": 33,
     "2018": 38,
     "2019": 37,

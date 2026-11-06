@@ -12849,3 +12849,21 @@ Status	1 (2026-11-06)
 Added	2026-11-06
 Updated	2026-11-06
 IgdbId	107237
+
+Game	Darkest Dungeon
+Id	715
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/darkest_dungeon
+Hints
+Genre	RPG
+Tags	role-playing, difficult, lovecraftian, horror, fantasy, turn-based
+Year	2016
+Dev	Red Hook Studios
+Pub	Red Hook Studios
+Version
+Status	1 (2026-11-06)
+Added	2026-11-06
+Updated	2026-11-06
+IgdbId	8965

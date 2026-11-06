@@ -4690,6 +4690,41 @@
     "Year": "2021-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-06T00:00:00.000Z",
+    "Dev": "Red Hook Studios",
+    "Engine": "",
+    "Game": "Darkest Dungeon",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "715",
+    "IgdbId": "8965",
+    "Pub": "Red Hook Studios",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-06T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/darkest_dungeon"
+    ],
+    "Tags": [
+      "difficult",
+      "fantasy",
+      "horror",
+      "lovecraftian",
+      "role-playing",
+      "turn-based"
+    ],
+    "Updated": "2026-11-06T00:00:00.000Z",
+    "Version": "",
+    "Year": "2016-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-13T00:00:00.000Z",
     "Dev": "Gunfire Games, Vigil Games, THQ Nordic",
     "Engine": "",
