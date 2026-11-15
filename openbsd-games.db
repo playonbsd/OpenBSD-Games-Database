@@ -12867,3 +12867,21 @@ Status	1 (2026-11-06)
 Added	2026-11-06
 Updated	2026-11-06
 IgdbId	8965
+
+Game	Path of Exile
+Id	716
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/238960/Path_of_Exile/
+Hints
+Genre	Action RPG
+Tags	role-playing, dark fantasy, hack and slash, free-to-play
+Year	2013
+Dev	Grinding Gear Games
+Pub	Grinding Gear Games
+Version
+Status	1 (2026-11-15)
+Added	2026-11-15
+Updated	2026-11-15
+IgdbId	1911

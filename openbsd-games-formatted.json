@@ -13520,6 +13520,39 @@
     "Year": ""
   },
   {
+    "Added": "2026-11-15T00:00:00.000Z",
+    "Dev": "Grinding Gear Games",
+    "Engine": "",
+    "Game": "Path of Exile",
+    "Genre": [
+      "Action RPG"
+    ],
+    "Hints": "",
+    "Id": "716",
+    "IgdbId": "1911",
+    "Pub": "Grinding Gear Games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-15T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.steampowered.com/app/238960/Path_of_Exile/"
+    ],
+    "Tags": [
+      "dark fantasy",
+      "free-to-play",
+      "hack and slash",
+      "role-playing"
+    ],
+    "Updated": "2026-11-15T00:00:00.000Z",
+    "Version": "",
+    "Year": "2013-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2025-12-27T00:00:00.000Z",
     "Dev": "Studio CloudScape",
     "Engine": "Godot",

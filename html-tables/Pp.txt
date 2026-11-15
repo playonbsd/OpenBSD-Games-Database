@@ -132,6 +132,25 @@
   <td>222738</td>
 </tr>
 <tr>
+  <td>716</td>
+  <td>Path of Exile</td>
+  <td></td>
+  <td>StatusDate: 2026-11-15T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/238960/Path_of_Exile/</td>
+  <td></td>
+  <td>Action RPG</td>
+  <td>dark fantasy, free-to-play, hack and slash, role-playing</td>
+  <td>Grinding Gear Games</td>
+  <td>Grinding Gear Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2013-01-01T00:00:00.000Z</td>
+  <td>2026-11-15T00:00:00.000Z</td>
+  <td>2026-11-15T00:00:00.000Z</td>
+  <td>1911</td>
+</tr>
+<tr>
   <td>543</td>
   <td>Pathway</td>
   <td>2.0.1</td>
