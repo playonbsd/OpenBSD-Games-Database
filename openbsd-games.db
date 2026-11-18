@@ -12885,3 +12885,57 @@ Status	1 (2026-11-15)
 Added	2026-11-15
 Updated	2026-11-15
 IgdbId	1911
+
+Game	Carrion
+Id	717
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/carrion
+Hints
+Genre	Action Adenture
+Tags	indie, horror, puzzle
+Year	2020
+Dev	Phobia Game Studio
+Pub	Devolver Digital
+Version
+Status	1 (2026-11-18)
+Added	2026-11-18
+Updated	2026-11-18
+IgdbId	90055
+
+Game	Little Big Adventure 2
+Id	718
+Engine
+Setup
+Runtime	lba2cc
+Store	https://www.gog.com/en/game/little_big_adventure_2
+Hints
+Genre	Action Adenture
+Tags	puzzle, retro, story-rich, atmospheric
+Year	1997
+Dev	Adeline Software
+Pub	Activision / Electronic Arts
+Version
+Status	1 (2026-11-18)
+Added	2026-11-18
+Updated	2026-11-18
+IgdbId	79653
+
+Game	Flotsam
+Id	719
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/flotsam-266287
+Hints
+Genre	City Builder
+Tags	exploration, ocean, survival, simulation, strategy
+Year	2019
+Dev	Pajama Llama Games
+Pub	Stray Fawn Publishing
+Version
+Status	1 (2026-11-18)
+Added	2026-11-18
+Updated	2026-11-18
+IgdbId	74527

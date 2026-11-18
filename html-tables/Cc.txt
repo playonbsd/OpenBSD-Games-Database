@@ -170,6 +170,25 @@
   <td>182661</td>
 </tr>
 <tr>
+  <td>717</td>
+  <td>Carrion</td>
+  <td></td>
+  <td>StatusDate: 2026-11-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/carrion</td>
+  <td></td>
+  <td>Action Adenture</td>
+  <td>horror, indie, puzzle</td>
+  <td>Phobia Game Studio</td>
+  <td>Devolver Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>90055</td>
+</tr>
+<tr>
   <td>60</td>
   <td>Cassette Beasts</td>
   <td></td>

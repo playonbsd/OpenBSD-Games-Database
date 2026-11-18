@@ -284,6 +284,25 @@
   <td>8396</td>
 </tr>
 <tr>
+  <td>719</td>
+  <td>Flotsam</td>
+  <td></td>
+  <td>StatusDate: 2026-11-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/flotsam-266287</td>
+  <td></td>
+  <td>City Builder</td>
+  <td>exploration, ocean, simulation, strategy, survival</td>
+  <td>Pajama Llama Games</td>
+  <td>Stray Fawn Publishing</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>74527</td>
+</tr>
+<tr>
   <td>598</td>
   <td>Forehead Chip</td>
   <td></td>

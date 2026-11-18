@@ -209,7 +209,8 @@
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
       "2026-11-06T00:00:00.000Z": 3,
-      "2026-11-15T00:00:00.000Z": 1
+      "2026-11-15T00:00:00.000Z": 1,
+      "2026-11-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -218,7 +219,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 171
+      "2026-01-01T00:00:00.000Z": 174
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -272,7 +273,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 5
+      "2026-11-01T00:00:00.000Z": 8
     }
   },
   "Engine": {
@@ -1053,7 +1054,10 @@
     "Doom 1 Enhanced",
     "Reigns: Game of Thrones",
     "Darkest Dungeon",
-    "Path of Exile"
+    "Path of Exile",
+    "Carrion",
+    "Little Big Adventure 2",
+    "Flotsam"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1062,6 +1066,7 @@
     "3D Platformer": 3,
     "6DOF Shooter": 1,
     "Action": 49,
+    "Action Adenture": 2,
     "Action Adventure": 21,
     "Action Platformer": 18,
     "Action RPG": 12,
@@ -1081,7 +1086,7 @@
     "Bullet Hell": 1,
     "Card Battler": 1,
     "Card Game": 8,
-    "City Builder": 6,
+    "City Builder": 7,
     "City Building": 1,
     "Colony Sim": 2,
     "Colony Survival Simulation": 1,
@@ -1450,19 +1455,20 @@
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
       "2026-11-06T00:00:00.000Z": 3,
-      "2026-11-15T00:00:00.000Z": 1
+      "2026-11-15T00:00:00.000Z": 1,
+      "2026-11-18T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 7,
-      "launches": 524,
+      "launches": 527,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 524,
+      "1": 527,
       "2": 21,
       "3": 7,
       "4": 2,
@@ -1482,7 +1488,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 23,
+    "https://store.epicgames.com/": 24,
     "https://store.steampowered.com/": 550,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1490,7 +1496,7 @@
     "https://www.atthegatesgame.com/": 1,
     "https://www.ebay.com/": 1,
     "https://www.epicgames.com/": 1,
-    "https://www.gog.com/": 219,
+    "https://www.gog.com/": 221,
     "https://www.humblebundle.com/": 76,
     "https://www.puppygames.net/": 1,
     "https://www.runescape.com/": 1,
@@ -1533,7 +1539,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 1,
-    "atmospheric": 19,
+    "atmospheric": 20,
     "atmostpheric": 1,
     "autobattler": 2,
     "automation": 3,
@@ -1603,7 +1609,7 @@
     "early access": 28,
     "educational": 1,
     "engineering": 1,
-    "exploration": 18,
+    "exploration": 19,
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
@@ -1644,12 +1650,12 @@
     "high-brow": 2,
     "historical": 3,
     "hongkong": 1,
-    "horror": 20,
+    "horror": 21,
     "humor": 14,
     "humour": 1,
     "idler": 3,
     "incremental": 1,
-    "indie": 357,
+    "indie": 358,
     "indie classic": 1,
     "inventory management": 1,
     "investigation": 6,
@@ -1689,6 +1695,7 @@
     "nonlinear": 1,
     "nordic": 1,
     "nostalgia": 1,
+    "ocean": 1,
     "old-school": 2,
     "online co-op": 2,
     "online multiplayer": 1,
@@ -1726,7 +1733,7 @@
     "psychedelic": 1,
     "psychological horror": 3,
     "pulp": 1,
-    "puzzle": 15,
+    "puzzle": 17,
     "puzzles": 1,
     "quicktime": 1,
     "quirky": 4,
@@ -1735,7 +1742,7 @@
     "realistic": 2,
     "relaxing": 7,
     "remake": 1,
-    "retro": 79,
+    "retro": 80,
     "rhythm game": 1,
     "robots": 2,
     "roguelike": 6,
@@ -1753,7 +1760,7 @@
     "short": 3,
     "side scroller": 1,
     "sidescroller": 1,
-    "simulation": 7,
+    "simulation": 8,
     "singleplayer": 2,
     "slot machine": 1,
     "sokoban-like": 1,
@@ -1766,11 +1773,11 @@
     "sports": 1,
     "stealth": 5,
     "steampunk": 1,
-    "story-rich": 28,
-    "strategy": 11,
+    "story-rich": 29,
+    "strategy": 12,
     "superhero": 3,
     "surreal": 4,
-    "survival": 8,
+    "survival": 9,
     "survivors-like": 1,
     "tactical": 2,
     "tactics": 2,
@@ -1987,7 +1994,8 @@
       "2026-10-31T00:00:00.000Z": 14,
       "2026-11-04T00:00:00.000Z": 1,
       "2026-11-06T00:00:00.000Z": 3,
-      "2026-11-15T00:00:00.000Z": 1
+      "2026-11-15T00:00:00.000Z": 1,
+      "2026-11-18T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -1995,7 +2003,7 @@
       "2023-01-01T00:00:00.000Z": 289,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 177
+      "2026-01-01T00:00:00.000Z": 180
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2036,7 +2044,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 5
+      "2026-11-01T00:00:00.000Z": 8
     }
   },
   "Year": {
@@ -2047,7 +2055,7 @@
     "1994": 10,
     "1995": 6,
     "1996": 9,
-    "1997": 11,
+    "1997": 12,
     "1998": 5,
     "1999": 7,
     "2000": 3,
@@ -2069,8 +2077,8 @@
     "2016": 42,
     "2017": 33,
     "2018": 38,
-    "2019": 37,
-    "2020": 37,
+    "2019": 38,
+    "2020": 38,
     "2021": 55,
     "2022": 54,
     "2023": 47,

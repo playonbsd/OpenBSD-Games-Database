@@ -265,6 +265,25 @@
   <td></td>
 </tr>
 <tr>
+  <td>718</td>
+  <td>Little Big Adventure 2</td>
+  <td></td>
+  <td>StatusDate: 2026-11-18T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/little_big_adventure_2</td>
+  <td></td>
+  <td>Action Adenture</td>
+  <td>atmospheric, puzzle, retro, story-rich</td>
+  <td>Adeline Software</td>
+  <td>Activision / Electronic Arts</td>
+  <td></td>
+  <td></td>
+  <td>lba2cc</td>
+  <td>1997-01-01T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>2026-11-18T00:00:00.000Z</td>
+  <td>79653</td>
+</tr>
+<tr>
   <td>217</td>
   <td>Little Racers STREET</td>
   <td></td>
