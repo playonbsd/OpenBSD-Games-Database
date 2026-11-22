@@ -2449,19 +2449,19 @@ IgdbId	157923
 Game	Fraymakers
 Id	137
 Engine	HashLink
-Setup	IndieRunner
-Runtime	hashlink
+Setup
+Runtime	wine
 Store	https://store.steampowered.com/app/1420350/Fraymakers/
-Hints
+Hints	running natively with hashlink doesn't have working internet play
 Genre	Fighting Game
 Tags	indie, cartoon, early access, multiplayer
 Year
 Dev	Team Fray, McLeodGaming
 Pub	Team Fray, McLeodGaming
-Version	0.4.20 (Early Access)
-Status	3 - no Steam multiplayer implementation (2023-01-19)
+Version	0.10.3
+Status	1 (2026-11-21)
 Added	2023-01-19
-Updated	2023-05-07
+Updated	2026-11-21
 IgdbId	141090
 
 Game	FTL
@@ -6355,19 +6355,19 @@ IgdbId	147628
 Game	Stardew Valley
 Id	354
 Engine	MonoGame
-Setup	IndieRunner (unless using rigg)
-Runtime	mono
+Setup
+Runtime	wine
 Store	https://www.gog.com/game/stardew_valley https://www.humblebundle.com/store/stardew-valley https://store.steampowered.com/app/413150/Stardew_Valley/
-Hints	starting with version 1.5.5, use MAC 32bit build which uses mono
+Hints	running native MonoGame version has issues: 1) newer versions need dotnet; and 2) no audio with recent OpenAL versions (as of 2026)
 Genre	Farming Simulation
 Tags	indie classic
 Year	2016
 Dev	ConcernedApe
 Pub	ConcernedApe
-Version	1.5.6
-Status	1 (2023-01-19)
+Version	1.6.15
+Status	1 (2026-11-21)
 Added	1970-01-01
-Updated	2023-05-07
+Updated	2026-11-21
 IgdbId	17000
 
 Game	StarPrey
@@ -11722,7 +11722,7 @@ Engine
 Setup
 Runtime	wine
 Store	https://store.epicgames.com/p/darksiders2
-Hints
+Hints	poor performance observed
 Genre	Action Adventure
 Tags	fantasy, action
 Year	2015
@@ -11731,7 +11731,7 @@ Pub	THQ Nordic
 Version
 Status	1 (2026-10-13)
 Added	2026-10-13
-Updated	2026-10-13
+Updated	2026-11-21
 IgdbId	20048
 
 Game	Control
@@ -12939,3 +12939,471 @@ Status	1 (2026-11-18)
 Added	2026-11-18
 Updated	2026-11-18
 IgdbId	74527
+
+Game	Aragami
+Id	720
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/aragami
+Hints
+Genre	Stealth
+Tags	action, adventure, indie
+Year	2016
+Dev	Lince Works
+Pub	Lince Works
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	18853
+
+Game	Broforce
+Id	721
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/broforce
+Hints
+Genre	Action
+Tags	indie, humor
+Year	2015
+Dev	Free Lives
+Pub	Devolver Digital
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	5973
+
+Game	Lego City Undercover
+Id	722
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/lego_city_undercover
+Hints
+Genre	Action Adventure
+Tags	indie, lego, open-world, comedy, exploration, funny
+Year	2017
+Dev	Traveller's Tales
+Pub	TT Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	343450
+
+Game	RimWorld
+Id	723
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/rimworld
+Hints	needs some custom fonts; see package wine-extras -> winetricks
+Genre	Colony Simulation
+Tags	indie, strategy, 2d, scifi
+Year	2018
+Dev	Ludeon Studios
+Pub	Ludeon Studios
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	9789
+
+Game	Spirited Thief
+Id	724
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/spirited_thief
+Hints
+Genre	Turn-based Tactics
+Tags	indie, fantasy, pixel graphics
+Year	2023
+Dev	Koi Snowman Games
+Pub	Ishtar Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	169882
+
+Game	Wonder Boy: The Dragon's Trap
+Id	725
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/wonder_boy_the_dragons_trap
+Hints
+Genre	Action Platformer
+Tags	indie, retro, fantasy, 2d
+Year	2017
+Dev	Lizardcube
+Pub	DotEmu
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	19452
+
+Game	XCOM 2
+Id	726
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/xcom_2
+Hints	appears to default to French language in wine as of 2026
+Genre	Turn-based Strategy
+Tags	strategy, turn-based, sci-fi, science
+Year	2016
+Dev	Firaxis Games
+Pub	2K Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	10919
+
+Game	American Truck Simulator
+Id	727
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/270880/American_Truck_Simulator/
+Hints
+Genre	Driving Simulator
+Tags	open-world, simulation, casual
+Year	2016
+Dev	SCS Software
+Pub	SCS Software
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	9667
+
+Game	Aquanox Deep Descent
+Id	728
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/254370/Aquanox_Deep_Descent/
+Hints
+Genre	Action Simulation
+Tags	underwater, FPS, exploration, scifi
+Year	2020
+Dev	Digital Arrow
+Pub	THQ Nordic
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	16708
+
+Game	Bearly Brave
+Id	729
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/3490280/Bearly_Brave/
+Hints
+Genre	Roguelite Deckbuilder
+Tags	card game, indie
+Year	2025
+Dev	Barbaric Games
+Pub	Barbaric Games, Mecrew Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	355406
+
+Game	Getting Over It with Bennett Foddy
+Id	730
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
+Hints
+Genre	Physics Platformer
+Tags	indie, psychological horror, difficult, singleplayer
+Year	2022
+Dev	Bennett Foddy
+Pub	Bennett Foddy
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	72373
+
+Game	Intravenous
+Id	731
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/1486630/Intravenous/
+Hints
+Genre	Top-Down Shooter
+Tags	indie, stealth, tactical, assassins, difficult
+Year	2021
+Dev	Explosive Squat Games
+Pub	HypeTrain Digital
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	144379
+
+Game	Intravenous 2
+Id	732
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/2608270/Intravenous_2/
+Hints
+Genre	Top-Down Shooter
+Tags	indie, stealth, tactical, assassins, difficult
+Year	2024
+Dev	Explosive Squat Games
+Pub	HypeTrain Digital
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	270053
+
+Game	Katanaut
+Id	733
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/3032830/Katanaut/
+Hints
+Genre	Action Roguelite
+Tags	indie, hack'n'slash, pixelart
+Year	2025
+Dev	Voidmaw
+Pub	Acclaim, Inc.
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	323461
+
+Game	Lara Croft GO
+Id	734
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/540840/Lara_Croft_GO/
+Hints
+Genre	Puzzler
+Tags	adventure, female protagonist
+Year	2016
+Dev	Square Enix Montreal
+Pub	Crystal Dynamics
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	11592
+
+Game	OneShot
+Id	735
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/420530/OneShot/
+Hints
+Genre	Adventure
+Tags	story-rich, pixel graphics, indie, cute
+Year	2016
+Dev	Future Cat LLC
+Pub	KOMODO
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	23181
+
+Game	S.T.A.L.K.E.R.: Call of Pripyat - Enhanced Edition
+Id	736
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat_Enhanced_Edition/
+Hints
+Genre	FPS
+Tags	atmospheric, remaster, shooter
+Year	2025
+Dev	GSC Game World
+Pub	GSC Game World
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	343444
+
+Game	S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
+Id	737
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl_Enhanced_Edition/
+Hints
+Genre	FPS
+Tags	atmospheric, remaster, shooter
+Year	2025
+Dev	GSC Game World
+Pub	GSC Game World
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	343442
+
+Game	UFO 50
+Id	738
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/1147860/UFO_50/
+Hints
+Genre	Arcade
+Tags	indie, collection, multiple genres
+Year	2024
+Dev	Mossmouth
+Pub	Mossmouth
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	54555
+
+Game	Underworld Ascendant
+Id	739
+Engine
+Setup
+Runtime	wine
+Store	https://store.steampowered.com/app/692840/Underworld_Ascendant/
+Hints
+Genre	RPG
+Tags	immersive sim, fantasy, indie
+Year	2018
+Dev	OtherSide Entertainment
+Pub	505 Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	19466
+
+Game	Alba - A Wildlife Adventure
+Id	740
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/alba-a-wildlife-adventure-93736a
+Hints
+Genre	Exploration
+Tags	adventure, casual
+Year	2021
+Dev	ustwo games
+Pub	ustwo games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	135919
+
+Game	Amnesia: Rebirth
+Id	741
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/amnesia-rebirth
+Hints
+Genre	Horror Adventure
+Tags	horror, stealth
+Year	2020
+Dev	Frictional Games
+Pub	Frictional Games
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	131785
+
+Game	Knightica
+Id	742
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/knightica-3be45c
+Hints
+Genre	Turn-based Strategy
+Tags	indie, cartoony
+Year	2025
+Dev	Mad Mango Games
+Pub	Goblinz Publishing
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	331608
+
+Game	Never Alone (Kisima Ingitchuna)
+Id	743
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/never-alone-kisima-ingitchuna
+Hints
+Genre	Puzzle Platformer
+Tags	indie, co-op, alaska, inuit, culture
+Year	2014
+Dev	Upper One Games, E-Line Media
+Pub	E-Line Media
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	7618
+
+Game	Pikuniku
+Id	744
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/pikuniku
+Hints
+Genre	Adventure Platformer
+Tags	indie, casual, humour, physics
+Year	2020
+Dev	Sectordub
+Pub	Devolver Digital
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	55190
+
+Game	Sid Meier's Civilization VI
+Id	745
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/sid-meiers-civilization-vi
+Hints
+Genre	4x Strategy
+Tags	turn-based, 4X, competitive
+Year	2020
+Dev	Firaxis Games
+Pub	2K
+Version
+Status	1 (2026-11-21)
+Added	2026-11-21
+Updated	2026-11-21
+IgdbId	19130

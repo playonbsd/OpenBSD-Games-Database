@@ -1,4 +1,42 @@
 <tr>
+  <td>736</td>
+  <td>S.T.A.L.K.E.R.: Call of Pripyat - Enhanced Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat_Enhanced_Edition/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>atmospheric, remaster, shooter</td>
+  <td>GSC Game World</td>
+  <td>GSC Game World</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>343444</td>
+</tr>
+<tr>
+  <td>737</td>
+  <td>S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl_Enhanced_Edition/</td>
+  <td></td>
+  <td>FPS</td>
+  <td>atmospheric, remaster, shooter</td>
+  <td>GSC Game World</td>
+  <td>GSC Game World</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>343442</td>
+</tr>
+<tr>
   <td>309</td>
   <td>SEGA Mega Drive and Genesis Classics</td>
   <td></td>
@@ -434,6 +472,25 @@
   <td>2026-09-30T00:00:00.000Z</td>
   <td>2026-09-30T00:00:00.000Z</td>
   <td>179774</td>
+</tr>
+<tr>
+  <td>745</td>
+  <td>Sid Meier's Civilization VI</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/sid-meiers-civilization-vi</td>
+  <td></td>
+  <td>4x Strategy</td>
+  <td>4X, competitive, turn-based</td>
+  <td>Firaxis Games</td>
+  <td>2K</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>19130</td>
 </tr>
 <tr>
   <td>333</td>
@@ -1044,6 +1101,25 @@
   <td>298130</td>
 </tr>
 <tr>
+  <td>724</td>
+  <td>Spirited Thief</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/spirited_thief</td>
+  <td></td>
+  <td>Turn-based Tactics</td>
+  <td>fantasy, indie, pixel graphics</td>
+  <td>Koi Snowman Games</td>
+  <td>Ishtar Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>169882</td>
+</tr>
+<tr>
   <td>488</td>
   <td>Spring Dash</td>
   <td>1.0.2</td>
@@ -1160,19 +1236,19 @@
 <tr>
   <td>354</td>
   <td>Stardew Valley</td>
-  <td>1.5.6</td>
-  <td>StatusDate: 2023-01-19T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>1.6.15</td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
   <td>https://www.gog.com/game/stardew_valley, https://www.humblebundle.com/store/stardew-valley, https://store.steampowered.com/app/413150/Stardew_Valley/</td>
-  <td>starting with version 1.5.5, use MAC 32bit build which uses mono</td>
+  <td>running native MonoGame version has issues: 1) newer versions need dotnet; and 2) no audio with recent OpenAL versions (as of 2026)</td>
   <td>Farming Simulation</td>
   <td>indie classic</td>
   <td>ConcernedApe</td>
   <td>ConcernedApe</td>
   <td>MonoGame</td>
-  <td>IndieRunner (unless using rigg)</td>
-  <td>mono</td>
+  <td></td>
+  <td>wine</td>
   <td>2016-01-01T00:00:00.000Z</td>
-  <td>2023-05-07T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
   <td>1970-01-01T00:00:00.000Z</td>
   <td>17000</td>
 </tr>

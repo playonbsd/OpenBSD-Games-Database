@@ -113,6 +113,25 @@
   <td>2528</td>
 </tr>
 <tr>
+  <td>734</td>
+  <td>Lara Croft GO</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/540840/Lara_Croft_GO/</td>
+  <td></td>
+  <td>Puzzler</td>
+  <td>adventure, female protagonist</td>
+  <td>Square Enix Montreal</td>
+  <td>Crystal Dynamics</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>11592</td>
+</tr>
+<tr>
   <td>213</td>
   <td>LaserCat</td>
   <td></td>
@@ -187,6 +206,25 @@
   <td>2024-06-30T00:00:00.000Z</td>
   <td>2024-06-30T00:00:00.000Z</td>
   <td>128256</td>
+</tr>
+<tr>
+  <td>722</td>
+  <td>Lego City Undercover</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/lego_city_undercover</td>
+  <td></td>
+  <td>Action Adventure</td>
+  <td>comedy, exploration, funny, indie, lego, open-world</td>
+  <td>Traveller's Tales</td>
+  <td>TT Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>343450</td>
 </tr>
 <tr>
   <td>444</td>

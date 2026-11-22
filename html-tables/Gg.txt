@@ -94,6 +94,25 @@
   <td>6325</td>
 </tr>
 <tr>
+  <td>730</td>
+  <td>Getting Over It with Bennett Foddy</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/</td>
+  <td></td>
+  <td>Physics Platformer</td>
+  <td>difficult, indie, psychological horror, singleplayer</td>
+  <td>Bennett Foddy</td>
+  <td>Bennett Foddy</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>72373</td>
+</tr>
+<tr>
   <td>152</td>
   <td>Glitchangels</td>
   <td>1.2.2</td>

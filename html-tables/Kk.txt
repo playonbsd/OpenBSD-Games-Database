@@ -18,6 +18,25 @@
   <td>333883</td>
 </tr>
 <tr>
+  <td>733</td>
+  <td>Katanaut</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3032830/Katanaut/</td>
+  <td></td>
+  <td>Action Roguelite</td>
+  <td>hack'n'slash, indie, pixelart</td>
+  <td>Voidmaw</td>
+  <td>Acclaim, Inc.</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>323461</td>
+</tr>
+<tr>
   <td>204</td>
   <td>Kathy Rain</td>
   <td></td>
@@ -168,6 +187,25 @@
   <td>2024-09-28T00:00:00.000Z</td>
   <td>2024-08-06T00:00:00.000Z</td>
   <td>301888</td>
+</tr>
+<tr>
+  <td>742</td>
+  <td>Knightica</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/knightica-3be45c</td>
+  <td></td>
+  <td>Turn-based Strategy</td>
+  <td>cartoony, indie</td>
+  <td>Mad Mango Games</td>
+  <td>Goblinz Publishing</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>331608</td>
 </tr>
 <tr>
   <td>468</td>

@@ -17,3 +17,22 @@
   <td>1970-01-01T00:00:00.000Z</td>
   <td>24</td>
 </tr>
+<tr>
+  <td>726</td>
+  <td>XCOM 2</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/xcom_2</td>
+  <td>appears to default to French language in wine as of 2026</td>
+  <td>Turn-based Strategy</td>
+  <td>sci-fi, science, strategy, turn-based</td>
+  <td>Firaxis Games</td>
+  <td>2K Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>10919</td>
+</tr>

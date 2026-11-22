@@ -189,6 +189,25 @@
   <td>1364</td>
 </tr>
 <tr>
+  <td>725</td>
+  <td>Wonder Boy: The Dragon's Trap</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/wonder_boy_the_dragons_trap</td>
+  <td></td>
+  <td>Action Platformer</td>
+  <td>2d, fantasy, indie, retro</td>
+  <td>Lizardcube</td>
+  <td>DotEmu</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>19452</td>
+</tr>
+<tr>
   <td>414</td>
   <td>Woodland Empire</td>
   <td></td>

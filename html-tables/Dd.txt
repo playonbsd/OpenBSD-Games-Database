@@ -194,7 +194,7 @@
   <td></td>
   <td>StatusDate: 2026-10-13T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
   <td>https://store.epicgames.com/p/darksiders2</td>
-  <td></td>
+  <td>poor performance observed</td>
   <td>Action Adventure</td>
   <td>action, fantasy</td>
   <td>Gunfire Games, Vigil Games, THQ Nordic</td>
@@ -203,7 +203,7 @@
   <td></td>
   <td>wine</td>
   <td>2015-01-01T00:00:00.000Z</td>
-  <td>2026-10-13T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
   <td>2026-10-13T00:00:00.000Z</td>
   <td>20048</td>
 </tr>

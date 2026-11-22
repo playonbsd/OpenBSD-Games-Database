@@ -400,19 +400,19 @@
 <tr>
   <td>137</td>
   <td>Fraymakers</td>
-  <td>0.4.20 (Early Access)</td>
-  <td>StatusComment: - no Steam multiplayer implementation , StatusDate: 2023-01-19T00:00:00.000Z, StatusNumber: 3, StatusText: intermediate bugs</td>
+  <td>0.10.3</td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
   <td>https://store.steampowered.com/app/1420350/Fraymakers/</td>
-  <td></td>
+  <td>running natively with hashlink doesn't have working internet play</td>
   <td>Fighting Game</td>
   <td>cartoon, early access, indie, multiplayer</td>
   <td>Team Fray, McLeodGaming</td>
   <td>Team Fray, McLeodGaming</td>
   <td>HashLink</td>
-  <td>IndieRunner</td>
-  <td>hashlink</td>
   <td></td>
-  <td>2023-05-07T00:00:00.000Z</td>
+  <td>wine</td>
+  <td></td>
+  <td>2026-11-21T00:00:00.000Z</td>
   <td>2023-01-19T00:00:00.000Z</td>
   <td>141090</td>
 </tr>

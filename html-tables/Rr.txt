@@ -246,6 +246,25 @@
   <td>17191</td>
 </tr>
 <tr>
+  <td>723</td>
+  <td>RimWorld</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/rimworld</td>
+  <td>needs some custom fonts; see package wine-extras -> winetricks</td>
+  <td>Colony Simulation</td>
+  <td>2d, indie, scifi, strategy</td>
+  <td>Ludeon Studios</td>
+  <td>Ludeon Studios</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>9789</td>
+</tr>
+<tr>
   <td>295</td>
   <td>Rise to Ruins</td>
   <td>Update 1b</td>

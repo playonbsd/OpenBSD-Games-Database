@@ -18,6 +18,25 @@
   <td>400475</td>
 </tr>
 <tr>
+  <td>738</td>
+  <td>UFO 50</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1147860/UFO_50/</td>
+  <td></td>
+  <td>Arcade</td>
+  <td>collection, indie, multiple genres</td>
+  <td>Mossmouth</td>
+  <td>Mossmouth</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>54555</td>
+</tr>
+<tr>
   <td>394</td>
   <td>Ukraine Defense Force Tactics</td>
   <td></td>
@@ -187,6 +206,25 @@
   <td>2026-09-25T00:00:00.000Z</td>
   <td>2026-09-25T00:00:00.000Z</td>
   <td>12517</td>
+</tr>
+<tr>
+  <td>739</td>
+  <td>Underworld Ascendant</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/692840/Underworld_Ascendant/</td>
+  <td></td>
+  <td>RPG</td>
+  <td>fantasy, immersive sim, indie</td>
+  <td>OtherSide Entertainment</td>
+  <td>505 Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>19466</td>
 </tr>
 <tr>
   <td>399</td>

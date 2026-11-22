@@ -132,6 +132,25 @@
   <td>8360</td>
 </tr>
 <tr>
+  <td>735</td>
+  <td>OneShot</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/420530/OneShot/</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>cute, indie, pixel graphics, story-rich</td>
+  <td>Future Cat LLC</td>
+  <td>KOMODO</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>23181</td>
+</tr>
+<tr>
   <td>260</td>
   <td>Open Sorcery</td>
   <td></td>

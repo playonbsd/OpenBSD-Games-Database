@@ -246,6 +246,44 @@
   <td>234176</td>
 </tr>
 <tr>
+  <td>731</td>
+  <td>Intravenous</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/1486630/Intravenous/</td>
+  <td></td>
+  <td>Top-Down Shooter</td>
+  <td>assassins, difficult, indie, stealth, tactical</td>
+  <td>Explosive Squat Games</td>
+  <td>HypeTrain Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>144379</td>
+</tr>
+<tr>
+  <td>732</td>
+  <td>Intravenous 2</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/2608270/Intravenous_2/</td>
+  <td></td>
+  <td>Top-Down Shooter</td>
+  <td>assassins, difficult, indie, stealth, tactical</td>
+  <td>Explosive Squat Games</td>
+  <td>HypeTrain Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2024-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>270053</td>
+</tr>
+<tr>
   <td>197</td>
   <td>Ion Fury</td>
   <td></td>

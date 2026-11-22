@@ -265,6 +265,25 @@
   <td>167611</td>
 </tr>
 <tr>
+  <td>740</td>
+  <td>Alba - A Wildlife Adventure</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/alba-a-wildlife-adventure-93736a</td>
+  <td></td>
+  <td>Exploration</td>
+  <td>adventure, casual</td>
+  <td>ustwo games</td>
+  <td>ustwo games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2021-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>135919</td>
+</tr>
+<tr>
   <td>9</td>
   <td>Alien Shepherd</td>
   <td>1.0.1</td>
@@ -358,6 +377,44 @@
   <td>1970-01-01T00:00:00.000Z</td>
   <td>1970-01-01T00:00:00.000Z</td>
   <td>20968</td>
+</tr>
+<tr>
+  <td>727</td>
+  <td>American Truck Simulator</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/270880/American_Truck_Simulator/</td>
+  <td></td>
+  <td>Driving Simulator</td>
+  <td>casual, open-world, simulation</td>
+  <td>SCS Software</td>
+  <td>SCS Software</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>9667</td>
+</tr>
+<tr>
+  <td>741</td>
+  <td>Amnesia: Rebirth</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/amnesia-rebirth</td>
+  <td></td>
+  <td>Horror Adventure</td>
+  <td>horror, stealth</td>
+  <td>Frictional Games</td>
+  <td>Frictional Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>131785</td>
 </tr>
 <tr>
   <td>12</td>
@@ -550,6 +607,25 @@
   <td>35716</td>
 </tr>
 <tr>
+  <td>728</td>
+  <td>Aquanox Deep Descent</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/254370/Aquanox_Deep_Descent/</td>
+  <td></td>
+  <td>Action Simulation</td>
+  <td>FPS, exploration, scifi, underwater</td>
+  <td>Digital Arrow</td>
+  <td>THQ Nordic</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>16708</td>
+</tr>
+<tr>
   <td>18</td>
   <td>Aquaria</td>
   <td></td>
@@ -567,6 +643,25 @@
   <td>2023-05-04T00:00:00.000Z</td>
   <td>1970-01-01T00:00:00.000Z</td>
   <td>7406</td>
+</tr>
+<tr>
+  <td>720</td>
+  <td>Aragami</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/aragami</td>
+  <td></td>
+  <td>Stealth</td>
+  <td>action, adventure, indie</td>
+  <td>Lince Works</td>
+  <td>Lince Works</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2016-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>18853</td>
 </tr>
 <tr>
   <td>465</td>

@@ -303,6 +303,25 @@
   <td>2365</td>
 </tr>
 <tr>
+  <td>729</td>
+  <td>Bearly Brave</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.steampowered.com/app/3490280/Bearly_Brave/</td>
+  <td></td>
+  <td>Roguelite Deckbuilder</td>
+  <td>card game, indie</td>
+  <td>Barbaric Games</td>
+  <td>Barbaric Games, Mecrew Games</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>355406</td>
+</tr>
+<tr>
   <td>612</td>
   <td>Beatblock</td>
   <td>1.9.0 (early access)</td>
@@ -719,6 +738,25 @@
   <td>2024-08-28T00:00:00.000Z</td>
   <td>2024-08-28T00:00:00.000Z</td>
   <td>260520</td>
+</tr>
+<tr>
+  <td>721</td>
+  <td>Broforce</td>
+  <td></td>
+  <td>StatusDate: 2026-11-21T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/broforce</td>
+  <td></td>
+  <td>Action</td>
+  <td>humor, indie</td>
+  <td>Free Lives</td>
+  <td>Devolver Digital</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>2026-11-21T00:00:00.000Z</td>
+  <td>5973</td>
 </tr>
 <tr>
   <td>45</td>
