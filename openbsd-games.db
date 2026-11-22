@@ -13407,3 +13407,21 @@ Status	1 (2026-11-21)
 Added	2026-11-21
 Updated	2026-11-21
 IgdbId	19130
+
+Game	Sifu
+Id	746
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/sifu
+Hints
+Genre	Fighting Game
+Tags	martial arts, indie, action, cinematic, difficult
+Year	2022
+Dev	Sloclap
+Pub	Sloclap
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	144022

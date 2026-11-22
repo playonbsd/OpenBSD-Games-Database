@@ -211,7 +211,8 @@
       "2026-11-06T00:00:00.000Z": 3,
       "2026-11-15T00:00:00.000Z": 1,
       "2026-11-18T00:00:00.000Z": 3,
-      "2026-11-21T00:00:00.000Z": 26
+      "2026-11-21T00:00:00.000Z": 26,
+      "2026-11-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -220,7 +221,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 200
+      "2026-01-01T00:00:00.000Z": 201
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -274,7 +275,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 34
+      "2026-11-01T00:00:00.000Z": 35
     }
   },
   "Engine": {
@@ -1084,7 +1085,8 @@
     "Knightica",
     "Never Alone (Kisima Ingitchuna)",
     "Pikuniku",
-    "Sid Meier's Civilization VI"
+    "Sid Meier's Civilization VI",
+    "Sifu"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1136,7 +1138,7 @@
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 3,
-    "Fighting Game": 1,
+    "Fighting Game": 2,
     "First Person Shooter": 1,
     "Flightsim": 1,
     "God Game": 1,
@@ -1491,19 +1493,20 @@
       "2026-11-06T00:00:00.000Z": 3,
       "2026-11-15T00:00:00.000Z": 1,
       "2026-11-18T00:00:00.000Z": 3,
-      "2026-11-21T00:00:00.000Z": 28
+      "2026-11-21T00:00:00.000Z": 28,
+      "2026-11-22T00:00:00.000Z": 1
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 554,
+      "launches": 555,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 554,
+      "1": 555,
       "2": 21,
       "3": 6,
       "4": 2,
@@ -1523,7 +1526,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 30,
+    "https://store.epicgames.com/": 31,
     "https://store.steampowered.com/": 563,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1562,7 +1565,7 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 34,
+    "action": 35,
     "action RPG": 1,
     "action roguelike": 2,
     "adventure": 28,
@@ -1605,6 +1608,7 @@
     "charity": 1,
     "chess": 1,
     "choices matter": 2,
+    "cinematic": 1,
     "city builder": 2,
     "classic": 26,
     "clever": 1,
@@ -1638,7 +1642,7 @@
     "detective mystery": 1,
     "dice": 2,
     "diegetic": 1,
-    "difficult": 8,
+    "difficult": 9,
     "dog": 1,
     "dungeon crawler": 1,
     "dungeoncrawler": 4,
@@ -1694,7 +1698,7 @@
     "idler": 3,
     "immersive sim": 1,
     "incremental": 1,
-    "indie": 375,
+    "indie": 376,
     "indie classic": 1,
     "inuit": 1,
     "inventory management": 1,
@@ -1711,6 +1715,7 @@
     "magic": 1,
     "management": 3,
     "manga": 1,
+    "martial arts": 1,
     "massive": 1,
     "match three": 1,
     "medieval": 3,
@@ -2040,7 +2045,8 @@
       "2026-11-06T00:00:00.000Z": 3,
       "2026-11-15T00:00:00.000Z": 1,
       "2026-11-18T00:00:00.000Z": 3,
-      "2026-11-21T00:00:00.000Z": 29
+      "2026-11-21T00:00:00.000Z": 29,
+      "2026-11-22T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2048,7 +2054,7 @@
       "2023-01-01T00:00:00.000Z": 287,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 208
+      "2026-01-01T00:00:00.000Z": 209
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2089,7 +2095,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
       "2026-10-01T00:00:00.000Z": 83,
-      "2026-11-01T00:00:00.000Z": 37
+      "2026-11-01T00:00:00.000Z": 38
     }
   },
   "Year": {
@@ -2125,7 +2131,7 @@
     "2019": 38,
     "2020": 42,
     "2021": 57,
-    "2022": 55,
+    "2022": 56,
     "2023": 48,
     "2024": 63,
     "2025": 35,

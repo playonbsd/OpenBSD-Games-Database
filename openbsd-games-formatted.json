@@ -16821,6 +16821,40 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "Sloclap",
+    "Engine": "",
+    "Game": "Sifu",
+    "Genre": [
+      "Fighting Game"
+    ],
+    "Hints": "",
+    "Id": "746",
+    "IgdbId": "144022",
+    "Pub": "Sloclap",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/sifu"
+    ],
+    "Tags": [
+      "action",
+      "cinematic",
+      "difficult",
+      "indie",
+      "martial arts"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2022-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Sweet Dog Studios",
     "Engine": "XNA",

@@ -493,6 +493,25 @@
   <td>19130</td>
 </tr>
 <tr>
+  <td>746</td>
+  <td>Sifu</td>
+  <td></td>
+  <td>StatusDate: 2026-11-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/sifu</td>
+  <td></td>
+  <td>Fighting Game</td>
+  <td>action, cinematic, difficult, indie, martial arts</td>
+  <td>Sloclap</td>
+  <td>Sloclap</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2022-01-01T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>144022</td>
+</tr>
+<tr>
   <td>333</td>
   <td>Signs of Life</td>
   <td></td>
