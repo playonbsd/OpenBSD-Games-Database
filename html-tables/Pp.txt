@@ -284,6 +284,25 @@
   <td>55190</td>
 </tr>
 <tr>
+  <td>753</td>
+  <td>Pillars of Eternity</td>
+  <td></td>
+  <td>StatusDate: 2026-11-23T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/pillars_of_eternity_hero_edition</td>
+  <td></td>
+  <td>RPG</td>
+  <td>atmospheric, fantasy, story-rich</td>
+  <td>Obsidian Entertainment</td>
+  <td>Obsidian Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2015-01-01T00:00:00.000Z</td>
+  <td>2026-11-23T00:00:00.000Z</td>
+  <td>2026-11-23T00:00:00.000Z</td>
+  <td>1593</td>
+</tr>
+<tr>
   <td>701</td>
   <td>Pizza Tower</td>
   <td></td>

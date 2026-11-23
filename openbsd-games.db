@@ -13533,3 +13533,21 @@ Status	1 (2026-11-22)
 Added	2026-11-22
 Updated	2026-11-22
 IgdbId	103341
+
+Game	Pillars of Eternity
+Id	753
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/pillars_of_eternity_hero_edition
+Hints
+Genre	RPG
+Tags	fantasy, story-rich, atmospheric
+Year	2015
+Dev	Obsidian Entertainment
+Pub	Obsidian Entertainment
+Version
+Status	1 (2026-11-23)
+Added	2026-11-23
+Updated	2026-11-23
+IgdbId	1593

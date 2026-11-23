@@ -14524,6 +14524,38 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-23T00:00:00.000Z",
+    "Dev": "Obsidian Entertainment",
+    "Engine": "",
+    "Game": "Pillars of Eternity",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "753",
+    "IgdbId": "1593",
+    "Pub": "Obsidian Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-23T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/pillars_of_eternity_hero_edition"
+    ],
+    "Tags": [
+      "atmospheric",
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-11-23T00:00:00.000Z",
+    "Version": "",
+    "Year": "2015-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-31T00:00:00.000Z",
     "Dev": "Tour De Pizza",
     "Engine": "",
