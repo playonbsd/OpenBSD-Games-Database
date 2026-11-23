@@ -1158,6 +1158,25 @@
   <td>216723</td>
 </tr>
 <tr>
+  <td>748</td>
+  <td>Spring Falls</td>
+  <td></td>
+  <td>StatusDate: 2026-11-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://sparsegamedev.itch.io/spring-falls</td>
+  <td></td>
+  <td>Puzzle</td>
+  <td>beautiful, flower, hexagon, mountains, nature, relaxing, zen</td>
+  <td>SPARSE/GameDev</td>
+  <td>SPARSE/GameDev</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>122845</td>
+</tr>
+<tr>
   <td>351</td>
   <td>Sprout Valley</td>
   <td></td>

@@ -2067,6 +2067,38 @@
     "Year": ""
   },
   {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "The Brotherhood",
+    "Engine": "",
+    "Game": "Beautiful Desolation",
+    "Genre": [
+      "Adventure"
+    ],
+    "Hints": "",
+    "Id": "751",
+    "IgdbId": "56914",
+    "Pub": "The Brotherhood",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/beautiful_desolation"
+    ],
+    "Tags": [
+      "indie",
+      "puzzle",
+      "scifi"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Kaan Alpar",
     "Engine": "Godot",
@@ -11584,6 +11616,41 @@
     "Year": "1997-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "Circus Atos",
+    "Engine": "",
+    "Game": "Little Mouse's Encyclopedia",
+    "Genre": [
+      "Educational"
+    ],
+    "Hints": "",
+    "Id": "747",
+    "IgdbId": "114498",
+    "Pub": "Circus Atos",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://circusatos.itch.io/littlemousesencyclopedia"
+    ],
+    "Tags": [
+      "2d",
+      "animals",
+      "casual",
+      "colourful",
+      "cute",
+      "nature"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Milkstone Studios",
     "Engine": "FNA",
@@ -13583,6 +13650,41 @@
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "Broken Rules",
+    "Engine": "",
+    "Game": "Old Man's Journey",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "750",
+    "IgdbId": "21604",
+    "Pub": "Broken Rules",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://brokenrules.itch.io/old-mans-journey"
+    ],
+    "Tags": [
+      "2d",
+      "atmospheric",
+      "exploration",
+      "hand-drawn",
+      "narrative",
+      "nonviolent"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2024-10-17T00:00:00.000Z",
     "Dev": "Clan Games",
     "Engine": "Godot",
@@ -13860,6 +13962,36 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2009-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "Ghost Town Games, Team17 Digital Ltd",
+    "Engine": "",
+    "Game": "Overcooked! 2",
+    "Genre": [
+      "Cooking Simulation"
+    ],
+    "Hints": "",
+    "Id": "752",
+    "IgdbId": "103341",
+    "Pub": "Team17 Digital Ltd",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/overcooked-2"
+    ],
+    "Tags": [
+      "co-op"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
   },
   {
     "Added": "1970-01-01T00:00:00.000Z",
@@ -17921,6 +18053,42 @@
     "Updated": "2024-09-25T00:00:00.000Z",
     "Version": "1.0.2",
     "Year": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "SPARSE/GameDev",
+    "Engine": "",
+    "Game": "Spring Falls",
+    "Genre": [
+      "Puzzle"
+    ],
+    "Hints": "",
+    "Id": "748",
+    "IgdbId": "122845",
+    "Pub": "SPARSE/GameDev",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://sparsegamedev.itch.io/spring-falls"
+    ],
+    "Tags": [
+      "beautiful",
+      "flower",
+      "hexagon",
+      "mountains",
+      "nature",
+      "relaxing",
+      "zen"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
+    "Year": "2019-01-01T00:00:00.000Z"
   },
   {
     "Added": "2023-09-08T00:00:00.000Z",
@@ -22961,6 +23129,39 @@
     ],
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "1.0.6",
+    "Year": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-22T00:00:00.000Z",
+    "Dev": "Akupara Games",
+    "Engine": "",
+    "Game": "Ynglet",
+    "Genre": [
+      "Platformer"
+    ],
+    "Hints": "",
+    "Id": "749",
+    "IgdbId": "129802",
+    "Pub": "Akupara Games",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-22T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://akuparagames.itch.io/ynglet"
+    ],
+    "Tags": [
+      "2d",
+      "atmospheric",
+      "hand-drawn",
+      "nonviolent"
+    ],
+    "Updated": "2026-11-22T00:00:00.000Z",
+    "Version": "",
     "Year": "2020-01-01T00:00:00.000Z"
   },
   {

@@ -322,6 +322,25 @@
   <td>79653</td>
 </tr>
 <tr>
+  <td>747</td>
+  <td>Little Mouse's Encyclopedia</td>
+  <td></td>
+  <td>StatusDate: 2026-11-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://circusatos.itch.io/littlemousesencyclopedia</td>
+  <td></td>
+  <td>Educational</td>
+  <td>2d, animals, casual, colourful, cute, nature</td>
+  <td>Circus Atos</td>
+  <td>Circus Atos</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2019-01-01T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>114498</td>
+</tr>
+<tr>
   <td>217</td>
   <td>Little Racers STREET</td>
   <td></td>

@@ -341,6 +341,25 @@
   <td>306804</td>
 </tr>
 <tr>
+  <td>751</td>
+  <td>Beautiful Desolation</td>
+  <td></td>
+  <td>StatusDate: 2026-11-22T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/beautiful_desolation</td>
+  <td></td>
+  <td>Adventure</td>
+  <td>indie, puzzle, scifi</td>
+  <td>The Brotherhood</td>
+  <td>The Brotherhood</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2020-01-01T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>2026-11-22T00:00:00.000Z</td>
+  <td>56914</td>
+</tr>
+<tr>
   <td>30</td>
   <td>Beholder's Lair</td>
   <td></td>

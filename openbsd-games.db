@@ -13425,3 +13425,111 @@ Status	1 (2026-11-22)
 Added	2026-11-22
 Updated	2026-11-22
 IgdbId	144022
+
+Game	Little Mouse's Encyclopedia
+Id	747
+Engine
+Setup
+Runtime	wine
+Store	https://circusatos.itch.io/littlemousesencyclopedia
+Hints
+Genre	Educational
+Tags	2d, animals, casual, colourful, cute, nature
+Year	2019
+Dev	Circus Atos
+Pub	Circus Atos
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	114498
+
+Game	Spring Falls
+Id	748
+Engine
+Setup
+Runtime	wine
+Store	https://sparsegamedev.itch.io/spring-falls
+Hints
+Genre	Puzzle
+Tags	beautiful, flower, hexagon, mountains, nature, relaxing, zen
+Year	2019
+Dev	SPARSE/GameDev
+Pub	SPARSE/GameDev
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	122845
+
+Game	Ynglet
+Id	749
+Engine
+Setup
+Runtime	wine
+Store	https://akuparagames.itch.io/ynglet
+Hints
+Genre	Platformer
+Tags	2d, atmospheric, hand-drawn, nonviolent
+Year	2020
+Dev	Akupara Games
+Pub	Akupara Games
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	129802
+
+Game	Old Man's Journey
+Id	750
+Engine
+Setup
+Runtime	wine
+Store	https://brokenrules.itch.io/old-mans-journey
+Hints
+Genre	Puzzle
+Tags	2d, atmospheric, exploration, hand-drawn, nonviolent, narrative
+Year	2017
+Dev	Broken Rules
+Pub	Broken Rules
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	21604
+
+Game	Beautiful Desolation
+Id	751
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/beautiful_desolation
+Hints
+Genre	Adventure
+Tags	scifi, puzzle, indie
+Year	2020
+Dev	The Brotherhood
+Pub	The Brotherhood
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	56914
+
+Game	Overcooked! 2
+Id	752
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/overcooked-2
+Hints
+Genre	Cooking Simulation
+Tags	co-op
+Year	2018
+Dev	Ghost Town Games, Team17 Digital Ltd
+Pub	Team17 Digital Ltd
+Version
+Status	1 (2026-11-22)
+Added	2026-11-22
+Updated	2026-11-22
+IgdbId	103341
