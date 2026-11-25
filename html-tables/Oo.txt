@@ -265,6 +265,25 @@
   <td>14951</td>
 </tr>
 <tr>
+  <td>757</td>
+  <td>Out of Sight</td>
+  <td></td>
+  <td>StatusDate: 2026-11-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/out-of-sight-b96ca8</td>
+  <td></td>
+  <td>Horror Adventure</td>
+  <td>horror, puzzle</td>
+  <td>The Gang</td>
+  <td>The Gang Sweden AB</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2025-01-01T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>312565</td>
+</tr>
+<tr>
   <td>752</td>
   <td>Overcooked! 2</td>
   <td></td>

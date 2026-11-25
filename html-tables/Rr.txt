@@ -246,6 +246,25 @@
   <td>17191</td>
 </tr>
 <tr>
+  <td>756</td>
+  <td>RiME</td>
+  <td></td>
+  <td>StatusDate: 2026-11-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/rime</td>
+  <td></td>
+  <td>Puzzle Adventure</td>
+  <td>colourful, exploration, indie</td>
+  <td>The Bearded Ladies</td>
+  <td>Funcom</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2017-01-01T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>7621</td>
+</tr>
+<tr>
   <td>723</td>
   <td>RimWorld</td>
   <td></td>

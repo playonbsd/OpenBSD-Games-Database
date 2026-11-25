@@ -13105,6 +13105,37 @@
     "Year": "2014-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-25T00:00:00.000Z",
+    "Dev": "The Bearded Ladies",
+    "Engine": "",
+    "Game": "Mutant Year Zero: Road to Eden",
+    "Genre": [
+      "Turn-based Strategy"
+    ],
+    "Hints": "",
+    "Id": "755",
+    "IgdbId": "89560",
+    "Pub": "Funcom",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/mutant-year-zero"
+    ],
+    "Tags": [
+      "RPG",
+      "post-apocalyptic"
+    ],
+    "Updated": "2026-11-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "1970-01-01T00:00:00.000Z",
     "Dev": "Cyan Worlds",
     "Engine": "Mohawk Engine",
@@ -13962,6 +13993,37 @@
     "Updated": "2023-05-07T00:00:00.000Z",
     "Version": "",
     "Year": "2009-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-25T00:00:00.000Z",
+    "Dev": "The Gang",
+    "Engine": "",
+    "Game": "Out of Sight",
+    "Genre": [
+      "Horror Adventure"
+    ],
+    "Hints": "",
+    "Id": "757",
+    "IgdbId": "312565",
+    "Pub": "The Gang Sweden AB",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/out-of-sight-b96ca8"
+    ],
+    "Tags": [
+      "horror",
+      "puzzle"
+    ],
+    "Updated": "2026-11-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2025-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-11-22T00:00:00.000Z",
@@ -15665,6 +15727,38 @@
     "Updated": "1970-01-01T00:00:00.000Z",
     "Version": "",
     "Year": "2014-01-01T00:00:00.000Z"
+  },
+  {
+    "Added": "2026-11-25T00:00:00.000Z",
+    "Dev": "The Bearded Ladies",
+    "Engine": "",
+    "Game": "RiME",
+    "Genre": [
+      "Puzzle Adventure"
+    ],
+    "Hints": "",
+    "Id": "756",
+    "IgdbId": "7621",
+    "Pub": "Funcom",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-25T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://store.epicgames.com/p/rime"
+    ],
+    "Tags": [
+      "colourful",
+      "exploration",
+      "indie"
+    ],
+    "Updated": "2026-11-25T00:00:00.000Z",
+    "Version": "",
+    "Year": "2017-01-01T00:00:00.000Z"
   },
   {
     "Added": "2026-11-21T00:00:00.000Z",

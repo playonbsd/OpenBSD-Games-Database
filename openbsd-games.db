@@ -13569,3 +13569,57 @@ Status	1 (2026-11-24)
 Added	2026-11-24
 Updated	2026-11-24
 IgdbId	26951
+
+Game	Mutant Year Zero: Road to Eden
+Id	755
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/mutant-year-zero
+Hints
+Genre	Turn-based Strategy
+Tags	post-apocalyptic, RPG
+Year	2018
+Dev	The Bearded Ladies
+Pub	Funcom
+Version
+Status	1 (2026-11-25)
+Added	2026-11-25
+Updated	2026-11-25
+IgdbId	89560
+
+Game	RiME
+Id	756
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/rime
+Hints
+Genre	Puzzle Adventure
+Tags	colourful, exploration, indie
+Year	2017
+Dev	The Bearded Ladies
+Pub	Funcom
+Version
+Status	1 (2026-11-25)
+Added	2026-11-25
+Updated	2026-11-25
+IgdbId	7621
+
+Game	Out of Sight
+Id	757
+Engine
+Setup
+Runtime	wine
+Store	https://store.epicgames.com/p/out-of-sight-b96ca8
+Hints
+Genre	Horror Adventure
+Tags	horror, puzzle
+Year	2025
+Dev	The Gang
+Pub	The Gang Sweden AB
+Version
+Status	1 (2026-11-25)
+Added	2026-11-25
+Updated	2026-11-25
+IgdbId	312565

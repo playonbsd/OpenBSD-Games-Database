@@ -721,6 +721,25 @@
   <td>17035</td>
 </tr>
 <tr>
+  <td>755</td>
+  <td>Mutant Year Zero: Road to Eden</td>
+  <td></td>
+  <td>StatusDate: 2026-11-25T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://store.epicgames.com/p/mutant-year-zero</td>
+  <td></td>
+  <td>Turn-based Strategy</td>
+  <td>RPG, post-apocalyptic</td>
+  <td>The Bearded Ladies</td>
+  <td>Funcom</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>2026-11-25T00:00:00.000Z</td>
+  <td>89560</td>
+</tr>
+<tr>
   <td>248</td>
   <td>Myst</td>
   <td></td>

@@ -214,7 +214,8 @@
       "2026-11-21T00:00:00.000Z": 26,
       "2026-11-22T00:00:00.000Z": 7,
       "2026-11-23T00:00:00.000Z": 1,
-      "2026-11-24T00:00:00.000Z": 1
+      "2026-11-24T00:00:00.000Z": 1,
+      "2026-11-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -223,7 +224,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 209
+      "2026-01-01T00:00:00.000Z": 212
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -277,7 +278,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 43
+      "2026-11-01T00:00:00.000Z": 46
     }
   },
   "Engine": {
@@ -1096,7 +1097,10 @@
     "Beautiful Desolation",
     "Overcooked! 2",
     "Pillars of Eternity",
-    "Pillars of Eternity II"
+    "Pillars of Eternity II",
+    "Mutant Year Zero: Road to Eden",
+    "RiME",
+    "Out of Sight"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1157,7 +1161,7 @@
     "Hero Shooter": 1,
     "Hidden Object Puzzle": 1,
     "Horror": 4,
-    "Horror Adventure": 2,
+    "Horror Adventure": 3,
     "Idler": 1,
     "Immersive Sim": 5,
     "Interactive Story": 1,
@@ -1179,7 +1183,7 @@
     "Precision Platformer": 1,
     "Programming Puzzle": 1,
     "Puzzle": 53,
-    "Puzzle Adventure": 1,
+    "Puzzle Adventure": 2,
     "Puzzle Game": 11,
     "Puzzle Platformer": 19,
     "Puzzler": 11,
@@ -1228,7 +1232,7 @@
     "Tower Defense": 4,
     "Turn-Based Strategy": 3,
     "Turn-Based Tactics": 16,
-    "Turn-based Strategy": 5,
+    "Turn-based Strategy": 6,
     "Turn-based Tactics": 1,
     "Twin-Stick Shooter": 6,
     "Typing Game": 1,
@@ -1507,19 +1511,20 @@
       "2026-11-21T00:00:00.000Z": 28,
       "2026-11-22T00:00:00.000Z": 7,
       "2026-11-23T00:00:00.000Z": 1,
-      "2026-11-24T00:00:00.000Z": 1
+      "2026-11-24T00:00:00.000Z": 1,
+      "2026-11-25T00:00:00.000Z": 3
     },
     "Rating": {
       "completable": 21,
       "doesn't launch": 6,
       "intermediate bugs": 6,
-      "launches": 563,
+      "launches": 566,
       "major bugs": 21,
       "minor bugs": 2
     },
     "RatingNum": {
       "0": 6,
-      "1": 563,
+      "1": 566,
       "2": 21,
       "3": 6,
       "4": 2,
@@ -1539,7 +1544,7 @@
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
-    "https://store.epicgames.com/": 32,
+    "https://store.epicgames.com/": 35,
     "https://store.steampowered.com/": 563,
     "https://vgperson.com/": 1,
     "https://www.aedemphia-rpg.net/": 1,
@@ -1572,7 +1577,7 @@
     "Lovecraftian": 6,
     "NSFW": 1,
     "ROM": 4,
-    "RPG": 7,
+    "RPG": 8,
     "Sokoban-style": 1,
     "Tetris-like": 1,
     "WW2": 1,
@@ -1630,7 +1635,7 @@
     "collection": 2,
     "colorful": 6,
     "colors": 1,
-    "colourful": 6,
+    "colourful": 7,
     "comedy": 10,
     "competitive": 1,
     "conspiracy": 2,
@@ -1665,7 +1670,7 @@
     "early access": 28,
     "educational": 1,
     "engineering": 1,
-    "exploration": 22,
+    "exploration": 23,
     "factory building": 1,
     "family-friendly": 2,
     "fangame": 2,
@@ -1708,13 +1713,13 @@
     "high-brow": 2,
     "historical": 3,
     "hongkong": 1,
-    "horror": 22,
+    "horror": 23,
     "humor": 15,
     "humour": 2,
     "idler": 3,
     "immersive sim": 1,
     "incremental": 1,
-    "indie": 377,
+    "indie": 378,
     "indie classic": 1,
     "inuit": 1,
     "inventory management": 1,
@@ -1790,7 +1795,7 @@
     "polygons": 1,
     "post-apocalpyse": 1,
     "post-apocalypse": 5,
-    "post-apocalyptic": 1,
+    "post-apocalyptic": 2,
     "precision": 1,
     "procedural generation": 1,
     "productivity": 1,
@@ -1799,7 +1804,7 @@
     "psychedelic": 1,
     "psychological horror": 4,
     "pulp": 1,
-    "puzzle": 18,
+    "puzzle": 19,
     "puzzles": 1,
     "quicktime": 1,
     "quirky": 4,
@@ -2068,7 +2073,8 @@
       "2026-11-21T00:00:00.000Z": 29,
       "2026-11-22T00:00:00.000Z": 7,
       "2026-11-23T00:00:00.000Z": 1,
-      "2026-11-24T00:00:00.000Z": 1
+      "2026-11-24T00:00:00.000Z": 1,
+      "2026-11-25T00:00:00.000Z": 3
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2076,7 +2082,7 @@
       "2023-01-01T00:00:00.000Z": 287,
       "2024-01-01T00:00:00.000Z": 103,
       "2025-01-01T00:00:00.000Z": 35,
-      "2026-01-01T00:00:00.000Z": 217
+      "2026-01-01T00:00:00.000Z": 220
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 110,
@@ -2117,7 +2123,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 18,
       "2026-10-01T00:00:00.000Z": 83,
-      "2026-11-01T00:00:00.000Z": 46
+      "2026-11-01T00:00:00.000Z": 49
     }
   },
   "Year": {
@@ -2148,15 +2154,15 @@
     "2014": 22,
     "2015": 32,
     "2016": 47,
-    "2017": 36,
-    "2018": 42,
+    "2017": 37,
+    "2018": 43,
     "2019": 40,
     "2020": 44,
     "2021": 57,
     "2022": 56,
     "2023": 48,
     "2024": 63,
-    "2025": 35,
+    "2025": 36,
     "2026": 32
   }
 }
