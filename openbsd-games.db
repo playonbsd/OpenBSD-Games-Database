@@ -13551,3 +13551,21 @@ Status	1 (2026-11-23)
 Added	2026-11-23
 Updated	2026-11-23
 IgdbId	1593
+
+Game	Pillars of Eternity II
+Id	754
+Engine
+Setup
+Runtime	wine
+Store	https://www.gog.com/en/game/pillars_of_eternity_2_game
+Hints
+Genre	RPG
+Tags	fantasy, story-rich, atmospheric
+Year	2018
+Dev	Obsidian Entertainment
+Pub	Obsidian Entertainment
+Version
+Status	1 (2026-11-24)
+Added	2026-11-24
+Updated	2026-11-24
+IgdbId	26951

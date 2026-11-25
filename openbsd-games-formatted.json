@@ -14556,6 +14556,38 @@
     "Year": "2015-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-24T00:00:00.000Z",
+    "Dev": "Obsidian Entertainment",
+    "Engine": "",
+    "Game": "Pillars of Eternity II",
+    "Genre": [
+      "RPG"
+    ],
+    "Hints": "",
+    "Id": "754",
+    "IgdbId": "26951",
+    "Pub": "Obsidian Entertainment",
+    "Runtime": "wine",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-24T00:00:00.000Z",
+      "StatusNumber": "1",
+      "StatusText": "launches"
+    },
+    "Store": [
+      "https://www.gog.com/en/game/pillars_of_eternity_2_game"
+    ],
+    "Tags": [
+      "atmospheric",
+      "fantasy",
+      "story-rich"
+    ],
+    "Updated": "2026-11-24T00:00:00.000Z",
+    "Version": "",
+    "Year": "2018-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2026-10-31T00:00:00.000Z",
     "Dev": "Tour De Pizza",
     "Engine": "",

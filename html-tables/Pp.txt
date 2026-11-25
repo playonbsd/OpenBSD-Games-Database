@@ -303,6 +303,25 @@
   <td>1593</td>
 </tr>
 <tr>
+  <td>754</td>
+  <td>Pillars of Eternity II</td>
+  <td></td>
+  <td>StatusDate: 2026-11-24T00:00:00.000Z, StatusNumber: 1, StatusText: launches</td>
+  <td>https://www.gog.com/en/game/pillars_of_eternity_2_game</td>
+  <td></td>
+  <td>RPG</td>
+  <td>atmospheric, fantasy, story-rich</td>
+  <td>Obsidian Entertainment</td>
+  <td>Obsidian Entertainment</td>
+  <td></td>
+  <td></td>
+  <td>wine</td>
+  <td>2018-01-01T00:00:00.000Z</td>
+  <td>2026-11-24T00:00:00.000Z</td>
+  <td>2026-11-24T00:00:00.000Z</td>
+  <td>26951</td>
+</tr>
+<tr>
   <td>701</td>
   <td>Pizza Tower</td>
   <td></td>
