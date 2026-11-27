@@ -47,6 +47,12 @@ The following is needed to run the make(1) targets:
 * [Perl JSON module](https://metacpan.org/pod/JSON)
 * [jq](https://jqlang.github.io/jq/)
 
+Under OpenBSD, these can be installed by executing:
+
+```
+# pkg_add p5-JSON jq
+```
+
 ## Upcoming Changes
 
 The following parts will soon be changed:
