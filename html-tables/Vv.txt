@@ -94,6 +94,25 @@
   <td>304287</td>
 </tr>
 <tr>
+  <td>758</td>
+  <td>Venturous: In the Footsteps of the Fallen</td>
+  <td>2023-01-01T00:00:00.000Z</td>
+  <td>StatusDate: 2026-11-27T00:00:00.000Z, StatusNumber: 5, StatusText: completable</td>
+  <td>https://pixelsforarms.itch.io/venturous</td>
+  <td></td>
+  <td>FPS</td>
+  <td>action, adventure, atmospheric, free, retro, shooter</td>
+  <td>Pixelsforarms</td>
+  <td>Pixelsforarms</td>
+  <td>idTech1</td>
+  <td></td>
+  <td>gzdoom</td>
+  <td></td>
+  <td>1.7.2</td>
+  <td>2026-11-27T00:00:00.000Z</td>
+  <td>269565</td>
+</tr>
+<tr>
   <td>403</td>
   <td>Verses of Enchantment</td>
   <td>1.0.3</td>
