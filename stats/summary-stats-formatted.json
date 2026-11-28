@@ -215,7 +215,8 @@
       "2026-11-22T00:00:00.000Z": 7,
       "2026-11-23T00:00:00.000Z": 1,
       "2026-11-24T00:00:00.000Z": 1,
-      "2026-11-25T00:00:00.000Z": 3
+      "2026-11-25T00:00:00.000Z": 3,
+      "2026-11-27T00:00:00.000Z": 1
     },
     "Year": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -224,7 +225,7 @@
       "2023-01-01T00:00:00.000Z": 75,
       "2024-01-01T00:00:00.000Z": 96,
       "2025-01-01T00:00:00.000Z": 31,
-      "2026-01-01T00:00:00.000Z": 212
+      "2026-01-01T00:00:00.000Z": 213
     },
     "YearMonth": {
       "1970-01-01T00:00:00.000Z": 284,
@@ -278,7 +279,7 @@
       "2026-08-01T00:00:00.000Z": 13,
       "2026-09-01T00:00:00.000Z": 17,
       "2026-10-01T00:00:00.000Z": 84,
-      "2026-11-01T00:00:00.000Z": 46
+      "2026-11-01T00:00:00.000Z": 47
     }
   },
   "Engine": {
@@ -338,7 +339,7 @@
     "id Tech 1": 4,
     "id Tech 2": 1,
     "id Tech 3": 2,
-    "idTech1": 15,
+    "idTech1": 16,
     "lwjgl": 2,
     "megaEx": 1,
     "solarus": 3
@@ -1100,7 +1101,8 @@
     "Pillars of Eternity II",
     "Mutant Year Zero: Road to Eden",
     "RiME",
-    "Out of Sight"
+    "Out of Sight",
+    "Venturous: In the Footsteps of the Fallen"
   ],
   "Genre": {
     "2.5D Platformer": 1,
@@ -1149,7 +1151,7 @@
     "Exploration": 2,
     "Extraction Shooter": 1,
     "FMV": 1,
-    "FPS": 43,
+    "FPS": 44,
     "Farming Sim": 1,
     "Farming Simulation": 1,
     "Farming Simulator": 3,
@@ -1512,10 +1514,11 @@
       "2026-11-22T00:00:00.000Z": 7,
       "2026-11-23T00:00:00.000Z": 1,
       "2026-11-24T00:00:00.000Z": 1,
-      "2026-11-25T00:00:00.000Z": 3
+      "2026-11-25T00:00:00.000Z": 3,
+      "2026-11-27T00:00:00.000Z": 1
     },
     "Rating": {
-      "completable": 21,
+      "completable": 22,
       "doesn't launch": 6,
       "intermediate bugs": 6,
       "launches": 566,
@@ -1528,7 +1531,7 @@
       "2": 21,
       "3": 6,
       "4": 2,
-      "5": 21
+      "5": 22
     }
   },
   "Store": {
@@ -1540,7 +1543,7 @@
     "https://3drealms.com/": 2,
     "https://gamejolt.com/": 1,
     "https://github.com/": 1,
-    "https://itch.io/": 175,
+    "https://itch.io/": 176,
     "https://minecraft.net/": 1,
     "https://mmr.quarkrobot.com/": 1,
     "https://playism.com/": 2,
@@ -1583,10 +1586,10 @@
     "WW2": 1,
     "Zelda-like": 1,
     "abstract": 3,
-    "action": 35,
+    "action": 36,
     "action RPG": 1,
     "action roguelike": 2,
-    "adventure": 28,
+    "adventure": 29,
     "alaska": 1,
     "aliens": 1,
     "animals": 4,
@@ -1596,7 +1599,7 @@
     "artsy": 1,
     "ascii": 1,
     "assassins": 3,
-    "atmospheric": 26,
+    "atmospheric": 27,
     "atmostpheric": 1,
     "autobattler": 2,
     "automation": 3,
@@ -1685,7 +1688,7 @@
     "first-person": 15,
     "flower": 1,
     "flying": 2,
-    "free": 47,
+    "free": 48,
     "free-to-play": 1,
     "freetoplay": 2,
     "freeware": 2,
@@ -1814,7 +1817,7 @@
     "relaxing": 8,
     "remake": 1,
     "remaster": 2,
-    "retro": 81,
+    "retro": 82,
     "rhythm game": 1,
     "robots": 2,
     "roguelike": 6,
@@ -1829,7 +1832,7 @@
     "scifi": 24,
     "settlers": 1,
     "shoot'em'up": 1,
-    "shooter": 9,
+    "shooter": 10,
     "short": 3,
     "side scroller": 1,
     "sidescroller": 1,
@@ -2160,7 +2163,7 @@
     "2020": 44,
     "2021": 57,
     "2022": 56,
-    "2023": 48,
+    "2023": 49,
     "2024": 63,
     "2025": 36,
     "2026": 32

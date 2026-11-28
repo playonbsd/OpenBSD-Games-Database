@@ -13623,3 +13623,20 @@ Status	1 (2026-11-25)
 Added	2026-11-25
 Updated	2026-11-25
 IgdbId	312565
+
+Game	Venturous: In the Footsteps of the Fallen
+Id	758
+Engine	idTech1
+Setup
+Runtime	gzdoom
+Store	https://pixelsforarms.itch.io/venturous
+Hints
+Genre	FPS
+Tags	shooter, retro, free, action, adventure, atmospheric
+Year	2023
+Dev	Pixelsforarms
+Pub	Pixelsforarms
+Version	1.7.2
+Status	5 (2026-11-27)
+Added	2026-11-27
+IgdbId	269565

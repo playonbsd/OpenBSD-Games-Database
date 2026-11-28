@@ -22363,6 +22363,40 @@
     "Year": "2024-01-01T00:00:00.000Z"
   },
   {
+    "Added": "2026-11-27T00:00:00.000Z",
+    "Dev": "Pixelsforarms",
+    "Engine": "idTech1",
+    "Game": "Venturous: In the Footsteps of the Fallen",
+    "Genre": [
+      "FPS"
+    ],
+    "Hints": "",
+    "Id": "758",
+    "IgdbId": "269565",
+    "Pub": "Pixelsforarms",
+    "Runtime": "gzdoom",
+    "Setup": "",
+    "Status": {
+      "StatusComment": "",
+      "StatusDate": "2026-11-27T00:00:00.000Z",
+      "StatusNumber": "5",
+      "StatusText": "completable"
+    },
+    "Store": [
+      "https://pixelsforarms.itch.io/venturous"
+    ],
+    "Tags": [
+      "action",
+      "adventure",
+      "atmospheric",
+      "free",
+      "retro",
+      "shooter"
+    ],
+    "Version": "1.7.2",
+    "Year": "2023-01-01T00:00:00.000Z"
+  },
+  {
     "Added": "2023-08-01T00:00:00.000Z",
     "Dev": "Nachtvlam",
     "Engine": "Godot",
